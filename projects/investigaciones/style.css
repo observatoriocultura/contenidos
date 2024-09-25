@@ -1,5 +1,11 @@
+.producto {
+    border-radius: 0.3em;
+    padding: 0.3em;
+}
+
 .producto:hover{
     background-color: #442976;
+    cursor: pointer;
 }
 
 .icon-container {
@@ -49,17 +55,17 @@
 
 .ficha {
     border-radius: .5em;
-    max-width: 800px;
+    max-width: 920px;
     margin: 0 auto;
     color: #fff;
     border: 0px
 }
 
-.ficha .ficha-header {
+.ficha .ficha-footer {
     background-color: #fff;
-    color: #50328c;
+    color: #999;
     border: 0px;
-    border-radius: .5em .5em 0 0;
+    border-radius: 0 0 .5em .5em;
     height: 4em
 }
 
@@ -75,7 +81,7 @@
     background-color: #23143c;
     padding: 2em 1em;
     min-height: 480px;
-    border-radius: 0 0 .5em .5em;
+    border-radius: .5em .5em 0 0;
     background: rgb(32, 14, 60);
     background: linear-gradient(180deg, rgba(32, 14, 60, 1) 0%, rgba(70, 43, 121, 1) 100%);
 }

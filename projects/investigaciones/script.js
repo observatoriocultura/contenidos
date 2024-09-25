@@ -11,12 +11,13 @@ var investigacionesApp = createApp({
     data(){
         return{
             nombreElemento: 'investigación',
+            nombreElementos: 'investigaciones',
             loading: false,
             section:'lista',
             elementos: [],
             productos: [],
             currentId: elementoIdInicial,
-            currentElement: {'ID':0,'Título':'Cargando...'},
+            currentElement: {'id':0,'titulo':'Cargando...'},
             q: '',
             filters: {
                 status: '' 
@@ -44,21 +45,35 @@ var investigacionesApp = createApp({
             })
             .catch(function(error) { console.log(error) })
         },
+        clearSearch: function(){
+            this.q = ''
+        },
+        textToClass: function(prefix='', inputText){
+            return prefix + Pcrn.textToClass(inputText)
+        },
         setCurrent: function(investigacionId){
             this.section = 'ficha'
             this.currentId = investigacionId
             this.currentElement = this.elementos.find(elemento => elemento['id'] == investigacionId)
         },
-        showElement: function(element){
-            var showElement = true
-        },
-        clearSearch: function(){
-            this.q = ''
+        textToClass: function(text){
+            return Pcrn.textToClass(text)
         },
         getProductoClass: function(tipoProducto){
-            var productoClass = 'fa-solid fa-arrow-right producto-general'
+            var productoClass = 'fa-solid fa-file producto-general'
             if ( tipoProducto == 'Informe final' ) productoClass = 'fa-solid fa-file-lines producto-pdf'
+            if ( tipoProducto == 'Presentación' ) productoClass = 'fa-solid fa-display producto-presentacion'
+            if ( tipoProducto == 'Visualización/Infografía' ) productoClass = 'fa-solid fa-chart-simple producto-dataviz'
+            if ( tipoProducto == 'Base de datos' ) productoClass = 'fa-solid fa-table producto-db'
+            if ( tipoProducto == 'Informe cuantitativo' ) productoClass = 'fa-solid fa-file-lines producto-cuantitativo'
+            if ( tipoProducto == 'Audiovisual' ) productoClass = 'fa-solid fa-circle-play producto-audiovisual'
             return productoClass
+        },
+        displayProducto: function(producto){
+            var displayProducto = true
+            if ( producto['investigacion_id'] != this.currentElement['id']) { displayProducto = false }
+            if ( producto['incluir_en_ficha'] != 'Sí') { displayProducto = false }
+            return displayProducto
         },
     },
     mounted(){
