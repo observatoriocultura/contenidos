@@ -1,0 +1,307 @@
+
+
+/* Layout */
+/*-----------------------------------------------------------------------------*/
+
+body{
+    font-family: var(--font-main);
+    font-size: 1em;
+    padding-top: 64px;
+    padding-bottom: 40px;
+    background-color: var(--color-bg);
+}
+
+.no_padding{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+/* NAVBAR */
+/*-----------------------------------------------------------------------------*/
+/* Pantallas grandes */
+@media (min-width: 992px) {
+    .navbar { 
+        /*height: 56px;*/
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    
+    .navbar .nav-link{
+        padding: 0.9rem 1rem;
+    }
+}
+
+.navbar-nav .nav-item{
+    border-radius: 0em;
+    margin-right: 0.2em;
+}
+
+#navbar-search{
+    height: 35px;
+    padding-left: 1em;
+    background-color: #FAFAFA;
+    font-size: 0.9em;
+    border: 1px solid #DDD;
+    border-radius: 17px;
+    width: 100%;
+}
+
+.navbar-nav .nav-item .active{
+    /*background-color: var(--color-nav-active);*/
+    color: var(--color-nav-font-active);
+}
+.navbar-nav .nav-item:hover{
+    /*background-color: var(--color-nav-active);*/
+    color: var(--color-nav-font-active);
+}
+
+.navbar-nav .nav-link {
+    color: var(--color-nav-font);
+}
+.navbar-nav .nav-link.active {
+    color: var(--color-nav-font-active);
+    border-bottom: 2px solid var(--color-main-app);
+}
+.navbar-nav .nav-link:hover {
+    color: var(--color-nav-font-active);
+    border-bottom: 2px solid var(--color-main-app);
+}
+
+.navbar-toggler{
+    color: white!important;
+    border-color: rgba(255,255,255,0.5)!important;
+}
+
+.navbar{
+    background-color: var(--color-nav-bg);
+}
+
+/*.navbar-nav .nav-item:hover{
+    background-color: var(--color-dark);
+    color: var(--color-nav-font);
+}
+
+.navbar-nav .nav-item:active{
+    background-color: var(--color-dark);
+    color: var(--color-nav-font-active);
+}*/
+
+/*.text-main {
+    font-weight: bold;
+}*/
+
+/* NAV TABS */
+/*-----------------------------------------------------------------------------*/
+
+.nav-tabs .nav-item .nav-link {
+    font-size: 0.9em;
+    color: var(--color-dark);
+}
+
+.nav-tabs .nav-item .nav-link.active {
+    border: none;
+    border-bottom: 2px solid;
+    border-bottom-color: var(--color-main-app);
+    background-color: #FCFCFC;
+    color: var(--color-main-app);
+}
+
+.nav-tabs .nav-item .nav-link:hover {
+    border: none;
+    border-bottom: 2px solid;
+    border-bottom-color: var(--color-main-app);
+    background-color: #FCFCFC;
+    color: var(--color-main-app);
+}
+
+/* NAV-PILLS */
+/*-----------------------------------------------------------------------------*/
+.nav-pills .nav-link.active{
+    background-color: var(--color-main-app);
+}
+
+/* TEXTO */
+/*-----------------------------------------------------------------------------*/
+
+.badge{
+    font-weight: 400;
+}
+
+a {
+    color: var(--color-text-link);
+    text-decoration: none !important; 
+}
+a:hover{
+    color: var(--color-text-link-hover);
+}
+
+h1,h2,h3,h4,h5,h6{
+    color: #333;
+}
+
+.color-text-1 { color: var(--color-text-1); }
+.color-text-2 { color: var(--color-text-2); }
+.color-text-3 { color: var(--color-text-3); }
+.color-text-4 { color: var(--color-text-4); }
+.color-text-5 { color: var(--color-text-5); }
+.color-text-6 { color: var(--color-text-6); }
+.color-text-7 { color: var(--color-text-7); }
+.color-text-8 { color: var(--color-text-8); }
+
+.title {
+    color: var(--color-main-app);
+}
+
+.text-main {
+    color: var(--color-main-app); 
+}
+
+/* BACKGROUNDS */
+/*-----------------------------------------------------------------------------*/
+.bg-primary {
+    background: var(--color-bg-primary) !important;
+}
+.bg-success {
+    background-color: var(--color-bg-success) !important;
+}
+
+/* BOTONES Y LINKS */
+/*-----------------------------------------------------------------------------*/
+
+.btn-sqr {
+    width: 38px;
+}
+
+.btn-main{
+    color: #FFFFFF;
+    background-color: var(--color-main-app);
+    border-color: --color-main-app;
+}
+
+.btn-main:hover{
+    color: #FFFFFF;
+    background-color: var(--color-dark);
+    border-color: var(--color-dark);
+}
+
+.btn-circle{
+    border: transparent;
+    height: 32px;
+    width: 32px;
+    text-align: center;
+    background-color: #F1f1f1;
+    display: grid;
+    align-items: center;
+    color: #555;
+    border-radius: 50%;
+    cursor: pointer;
+  }
+
+  .btn-circle:hover,
+  .btn-circle:active
+  {
+    color: #444;
+    background-color: #DDD;
+    text-decoration: none;
+  }
+
+  .btn-link{ color: #333; }
+  .btn-link:hover,
+  .btn-link:active
+  {
+    text-decoration: none;
+  }
+
+.user_link {
+    display: inline-block;
+}
+
+.user_link:hover,
+.user_link:active{
+    text-decoration: none;
+}
+
+.user_link .display_name{
+    color: #999;
+}
+
+.user_link .username{
+    font-weight: bold;
+    color: #333;
+}
+
+.list-group-item.active{
+    background-color: var(--color-bg-primary);
+    border-color:  var(--color-bg-primary);
+}
+
+.page-item.active .page-link {
+    z-index: 3;
+    color: #fff;
+    background-color: var(--color-main-app);
+    border-color: var(--color-main-app);
+}
+
+/* FOOTER */
+/*-----------------------------------------------------------------------------*/
+
+.footer{
+    border-top: 1px solid #DDD;
+    background-color: #FFFFFF;
+    padding: 0.4em 0px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer a{
+    color:#262626;
+    font-size: 1.2em;
+    width: 100%;
+    text-align: center;
+}
+
+.footer a.active{
+    color: var(--color-main-app);
+}
+
+.footer a:hover{
+    color: var(--color-main-app);
+}
+
+/* ALERTAS Y AVISOS */
+/*-----------------------------------------------------------------------------*/
+.alert{
+    border-radius: 0px;
+}
+
+.alert-primary {
+    border: 0px;
+}
+
+/* FORMULARIOS */
+/*-----------------------------------------------------------------------------*/
+
+.form-control{
+    border-radius: 3px;
+}
+
+
+/* PERFIL */
+/*-----------------------------------------------------------------------------*/
+
+.profile {
+    font-size: 0.9em;
+}
+
+.profile .profile_image{
+    border: 2px solid #CCC;
+    max-width: 100px;
+}
+
+.profile .profile_name{
+    font-size: 1.5em;
+}
+
+.profile .buttons_set {
+    display: grid;
+}

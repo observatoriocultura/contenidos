@@ -1,0 +1,125 @@
+
+
+/* Fuentes */
+/*-----------------------------------------------------------------------------*/
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans:wght@400;700&display=swap');
+
+
+:root{
+    --color-main-app: #C53C99;
+    --color-dark: #452a3c;
+    --color-bg: #F4F8FB;
+    --color-secondary: #452a3c;
+
+    --color-nav-bg: #FFF;
+    --color-nav-font: #C53C99;
+    --color-nav-active: #EEE2EA;
+    --color-nav-font-active: #A3327F;
+
+    --font-main: 'Poppins', sans-serif;
+
+    --color-bg-primary: #C53C99;
+    --color-bg-primary-alt: #D43FA5;
+    --color-bg-secondary: #784969;
+    --color-bg-secondary-alt: #885277;
+    --color-bg-success: #58b66d;
+    --color-bg-success-alt: #64c77a;
+    --color-bg-warning: #e6a000;
+    --color-bg-warning-alt: #fbb62d;
+    --color-bg-ligth: #ced4da;
+    --color-bg-ligth-alt: #FCFCFC;
+    --color-bg-danger: #ee3248;
+    --color-bg-danger-alt: #f34a5e;
+
+    --color-text-link: #346fbd;
+    --color-text-link-hover: #0d6efd;
+
+    --color-text-1: #5e4296;
+    --color-text-2: #2D62A9;
+    --color-text-3: #0097a7;
+    --color-text-4: #30a338;
+    --color-text-5: #e6a000;
+    --color-text-6: #ec6c38;
+    --color-text-7: #ee3248;
+    --color-text-8: #ea3471;
+}
+
+/* Botones */
+/*-----------------------------------------------------------------------------*/
+
+.btn-primary {
+    background-color: var(--color-bg-primary);
+    border-color: var(--color-bg-primary);
+}
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary.hover {
+    background-color: var(--color-bg-primary-alt);
+    border-color: var(--color-bg-primary-alt);
+}
+
+.btn-success {
+    background-color: var(--color-bg-success);
+    border-color: var(--color-bg-success);
+}
+.btn-success:hover,
+.btn-success:active,
+.btn-success.hover {
+    background-color: var(--color-bg-success-alt);
+    border-color: var(--color-bg-success-alt);
+}
+
+.btn-warning {
+    background-color: var(--color-bg-warning);
+    border-color: var(--color-bg-warning);
+}
+.btn-warning:hover,
+.btn-warning:active,
+.btn-warning.hover {
+    background-color: var(--color-bg-warning-alt);
+    border-color: var(--color-bg-warning-alt);
+}
+
+.btn-light{
+    border-color: var(--color-bg-ligth)
+}
+
+.btn-light:hover,
+.btn-light:active,
+.btn-light.hover{
+    background-color: var(--color-bg-ligth-alt);
+    border-color: #BBB;
+}
+
+.btn-danger{
+    border-color: var(--color-bg-danger)
+}
+
+.btn-danger:hover,
+.btn-danger:active,
+.btn-danger.hover{
+    background-color: var(--color-bg-danger-alt);
+    border-color: #BBB;
+}
+
+/* Otros elementos */
+/*-----------------------------------------------------------------------------*/
+
+.progress-bar{
+    background-color: var(--color-bg-primary);
+}
+
+.bg-success {background-color: var(--color-bg-success);}
+.bg-danger {background-color: var(--color-bg-danger);}
+
+.card {
+    border: 0px;
+    border-radius: 11px;
+}
+
+.form-control {
+    border-color: #ebedf2;
+    border-radius: 5px;
+}

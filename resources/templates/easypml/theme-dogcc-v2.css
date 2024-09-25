@@ -1,0 +1,108 @@
+
+
+/* Fuentes */
+/*-----------------------------------------------------------------------------*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+
+:root{
+    --color-main-app: #c53c99;
+    --color-dark: #452a3c;
+    --color-bg: #FDFDFD;
+    --color-secondary: #fbb62d;
+
+    --font-main: 'Poppins', sans-serif;
+
+    --color-bg-primary: #108BC3;
+    --color-bg-primary-alt: #179cda;
+    --color-bg-secondary: #c53c99;
+    --color-bg-secondary-alt: #d33ea4;
+    --color-bg-success: #50c62c;
+    --color-bg-success-alt: #5cdf35;
+    --color-bg-warning: #e6a000;
+    --color-bg-warning-alt: #fbb62d;
+    --color-bg-ligth: #ced4da;
+    --color-bg-ligth-alt: #FCFCFC;
+    --color-bg-danger: #ee3248;
+    --color-bg-danger-alt: #f34a5e;
+
+    --color-text-link: #452A3C;
+    --color-text-link-hover: #c53c99;
+
+    --color-text-1: #5e4296;
+    --color-text-2: #2D62A9;
+    --color-text-3: #0097a7;
+    --color-text-4: #30a338;
+    --color-text-5: #e6a000;
+    --color-text-6: #ec6c38;
+    --color-text-7: #ee3248;
+    --color-text-8: #ea3471;
+}
+
+/* Botones */
+/*-----------------------------------------------------------------------------*/
+
+.btn-primary {
+    background-color: var(--color-bg-primary);
+    border-color: var(--color-bg-primary);
+}
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary.hover {
+    background-color: var(--color-bg-primary-alt);
+    border-color: var(--color-bg-primary-alt);
+}
+
+.btn-success {
+    background-color: var(--color-bg-success);
+    border-color: var(--color-bg-success);
+}
+.btn-success:hover,
+.btn-success:active,
+.btn-success.hover {
+    background-color: var(--color-bg-success-alt);
+    border-color: var(--color-bg-success-alt);
+}
+
+.btn-warning {
+    background-color: var(--color-bg-warning);
+    border-color: var(--color-bg-warning);
+}
+.btn-warning:hover,
+.btn-warning:active,
+.btn-warning.hover {
+    background-color: var(--color-bg-warning-alt);
+    border-color: var(--color-bg-warning-alt);
+}
+
+.btn-light{
+    border-color: var(--color-bg-ligth)
+}
+
+.btn-light:hover,
+.btn-light:active,
+.btn-light.hover{
+    background-color: var(--color-bg-ligth-alt);
+    border-color: #BBB;
+}
+
+.btn-danger{
+    border-color: var(--color-bg-danger)
+}
+
+.btn-danger:hover,
+.btn-danger:active,
+.btn-danger.hover{
+    background-color: var(--color-bg-danger-alt);
+    border-color: #BBB;
+}
+
+/* Otros elementos */
+/*-----------------------------------------------------------------------------*/
+
+.progress-bar{
+    background-color: var(--color-bg-primary);
+}
+
+.bg-success {background-color: var(--color-bg-success);}
+.bg-danger {background-color: var(--color-bg-danger);}
