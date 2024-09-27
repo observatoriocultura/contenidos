@@ -88,7 +88,7 @@ var investigacionesApp = createApp({
                 listaFiltrada = listaFiltrada.filter(elemento => elemento['estado'] == this.filters.status)
             }
             if (this.q.length > 0) {
-                var fieldsToSearch = ['titulo','descripcion','palabras_vlave','entidad_soliciante',
+                var fieldsToSearch = ['titulo','descripcion','palabras_clave','entidad_soliciante',
                     'dependencia'
                 ]
                 listaFiltrada = PmlSearcher.getFilteredResults(this.q, listaFiltrada, fieldsToSearch)
