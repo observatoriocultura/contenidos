@@ -1,6 +1,6 @@
 [
  {
-  "id":"1",
+  "id":1,
   "titulo":"Caracterizaci\u00f3n del Sector Circo de Bogot\u00e1",
   "descripcion":"Esta investigaci\u00f3n busca realizar un primer acercamiento de caracterizaci\u00f3n del sector circo en Bogot\u00e1 para reconocer los actores, din\u00e1micas y pr\u00e1cticas relacionadas relevantes actualmente.",
   "entidad_solicitante":"IDARTES",
@@ -14,7 +14,7 @@
   "investigadores":"Marcela Garz\u00f3n Garc\u00eda, Viviana Marcela Rodr\u00edguez, Karen Julieth Higuera\r\nRodr\u00edguez"
  },
  {
-  "id":"2",
+  "id":2,
   "titulo":"Estudio impacto salas concertadas",
   "descripcion":"Estudio cualitativo de percepci\u00f3n con representantes de las Salas de teatro de Bogot\u00e1, respecto al impacto que ha tenido en el sector, el Programa de Salas Concertadas que ha liderado la Gerencia de Arte Dram\u00e1tico de IDARTES",
   "entidad_solicitante":"IDARTES",
@@ -28,7 +28,7 @@
   "investigadores":"Carlos David Suarez Morales, Diego Caicedo, Marcela Garz\u00f3n Garc\u00eda, Karen Higuera Rodr\u00edguez"
  },
  {
-  "id":"3",
+  "id":3,
   "titulo":"Informe caracterizaci\u00f3n p\u00fablicos cinemateca",
   "descripcion":"Estudio que busca caracterizar las audiencias que asisten a los espacios de la Cinemateca de Bogot\u00e1- Centro Cultural de las Artes Audiovisuales.",
   "entidad_solicitante":"IDARTES",
@@ -42,7 +42,7 @@
   "investigadores":null
  },
  {
-  "id":"4a",
+  "id":4,
   "titulo":"Estrategia Bogot\u00e1 sabe a centro: Corredor cultural carrera 7a",
   "descripcion":"Indagaci\u00f3n sobre los factores culturales de la carrera 7a que permiten generar procesos de apropiaci\u00f3n sociocultural a partir de dos instancias: Principales hitos en la evoluci\u00f3n e intervenciones del corredor cultural de la carrera 7a (2001-2023); y la  identificaci\u00f3n de las representaciones y apropiaci\u00f3n cultural de la ciudadan\u00eda con una encuesta sobre percepciones frente a los objetos y pr\u00e1cticas culturales de la zona.",
   "entidad_solicitante":"SCRD",
@@ -56,7 +56,7 @@
   "investigadores":"Karen Vanessa Marriner, Karen Julieth Higuera Rodr\u00edguez, Mabel Ayala y Gisela Gastrill\u00f3n, Rafael Villa, Marcela Garz\u00f3n"
  },
  {
-  "id":"4b",
+  "id":59,
   "titulo":"Estrategia Bogot\u00e1 sabe a centro: Medici\u00f3n restaurante y gastrobares",
   "descripcion":"Analizar la relaci\u00f3n e influencia que tiene la oferta cultural y el turismo en la dinamizaci\u00f3n y la generaci\u00f3n de demanda a trav\u00e9s de la programaci\u00f3n cultural del centro de la ciudad, en los establecimientos gastron\u00f3micos que se ubican en este sector.",
   "entidad_solicitante":"SCRD",
@@ -70,7 +70,7 @@
   "investigadores":null
  },
  {
-  "id":"5",
+  "id":5,
   "titulo":"Informe de percepci\u00f3n de Marca Bronx Distrito Creativo",
   "descripcion":"Este estudio busca realizar el reconocimiento\ndel posicionamiento de la marca Bronx Distrito\nCreativo en las personas que frecuentan las localidades\nque est\u00e1n cerca al Bronx DC.",
   "entidad_solicitante":"FUGA",
@@ -84,7 +84,7 @@
   "investigadores":"Marcela Garz\u00f3n Garc\u00eda, Viviana Marcela Rodr\u00edguez, Karen Julieth Higuera Rodr\u00edguez"
  },
  {
-  "id":"6",
+  "id":6,
   "titulo":"Informe caracterizaci\u00f3n Consejeros Distritales",
   "descripcion":"Caractericaci\u00f3n de la labor y perfil de los consejeros distritales de \u00c1reas Art\u00edsticas del periodo 2019-2023 por medio de un enfoque mixto de investigaci\u00f3n.",
   "entidad_solicitante":"IDARTES",
@@ -98,7 +98,7 @@
   "investigadores":"Marcela Garz\u00f3n Garc\u00eda, Viviana Marcela Rodr\u00edguez\r\nAmaya, Karen Higuera Rodr\u00edguez"
  },
  {
-  "id":"7",
+  "id":7,
   "titulo":"Dise\u00f1o de indicadores Fomento Expandido",
   "descripcion":"Consolidaci\u00f3n de una nueva bater\u00eda de indicadores de fomento que permitan entender el fomento como un fen\u00f3meno amplio que incluye fortalecimientos del ecosistema art\u00edstico, articulaci\u00f3n, recursos incentivos y amplitud de las posibilidades de gesti\u00f3n.",
   "entidad_solicitante":"SCRD",
@@ -112,7 +112,7 @@
   "investigadores":"Marcela Garz\u00f3n Garc\u00eda, Alexandra Moreno Arteaga, Gustavo Romero Cruz, Andr\u00e9s Jos\u00e9 Le\u00f3n Palencia, Juan Diego Jaramillo Morales"
  },
  {
-  "id":"8",
+  "id":8,
   "titulo":"Lecturas en Movimiento",
   "descripcion":"Evaluci\u00f3n de la percepci\u00f3n de la ciudadan\u00eda de la estrategia de acceso a lectura en digital de recursos de la BDB: durante el 2022 se busc\u00f3 incrementar el acceso a recursos digitales y aportar a la meta del plan de lectura que busca hacer de la lectura una pr\u00e1ctica de la vida cotidiana a partir de curadur\u00edas accesibles en el espacio p\u00fablico, a saber: Lecturas en movimiento - Transmilenio",
   "entidad_solicitante":"SCRD",
@@ -126,7 +126,7 @@
   "investigadores":"Marcela Garz\u00f3n Garc\u00eda, Carlos David Su\u00e1rez, Daniela Camacho Bernal, Karen Julieth Higuera Rodr\u00edguez"
  },
  {
-  "id":"9",
+  "id":9,
   "titulo":"Percepci\u00f3n de Audiencias Canal Capital",
   "descripcion":"Percepci\u00f3n de audiencias de Capital Sistema de Comunicaci\u00f3n P\u00fablica. Busca comprender c\u00f3mo una audiencia en particular (Localidad de Suba) percibe y responde a ciertos contenidos medi\u00e1ticos o mensajes espec\u00edficos.",
   "entidad_solicitante":"Canal Capital",
@@ -140,7 +140,7 @@
   "investigadores":"Marcela Garz\u00f3n Garc\u00eda, Alexandra Moreno Arteaga, Karen Higuera Rodr\u00edguez"
  },
  {
-  "id":"10",
+  "id":10,
   "titulo":"Encuesta Lectura, Escritura, Oralidad y Espacios de Cultura - Encuesta Bienal de Culturas",
   "descripcion":"El objetivo de esta encuesta dentro de la Encuesta Bienal de Cultura es obtener informaci\u00f3n que permita a las entidades del sector caracterizar a la poblaci\u00f3n de Bogot\u00e1 respecto a los h\u00e1bitos de lectura y escritura, el reconocimiento de la oralidad y el uso de espacios convencionales y alternativos de lectura, mediante percepciones, conocimientos, pr\u00e1cticas y valoraciones, temas asociados a la actual Pol\u00edtica LEO.",
   "entidad_solicitante":"SCRD",
@@ -154,7 +154,7 @@
   "investigadores":null
  },
  {
-  "id":"11",
+  "id":11,
   "titulo":"Encuesta Bienal de Culturas - Pr\u00e1cticas art\u00edsticas, creativas, culturales y patrimoniales",
   "descripcion":"El objetivo general de esta encuesta dentro la EBC, es obtener informaci\u00f3n sobre conocimientos, creencias, actitudes, valores, emociones, pr\u00e1cticas, comportamientos y percepciones de los y las habitantes de Bogot\u00e1, durante los \u00faltimos 2 a\u00f1os, en relaci\u00f3n con las pr\u00e1cticas art\u00edsticas, creativas, culturales, patrimoniales y el uso de sus equipamientos.",
   "entidad_solicitante":"SCRD",
@@ -168,7 +168,7 @@
   "investigadores":null
  },
  {
-  "id":"12",
+  "id":12,
   "titulo":"Colombia al Parque 2023",
   "descripcion":"Investigaci\u00f3n que tuvo como objetivo conocer las percepciones de los asistentes al Festival Colombia al Parque, sobre la organizaci\u00f3n y log\u00edstica del evento, adem\u00e1s de recolectar informaci\u00f3n sobre cultura ciudadana",
   "entidad_solicitante":"IDARTES",
@@ -178,11 +178,11 @@
   "linea_investigacion":"Investigaci\u00f3n del sector cultura ",
   "objetivo":"Investigaci\u00f3n que tuvo como objetivo conocer las percepciones de los asistentes al Festival Colombia al Parque, sobre la organizaci\u00f3n y log\u00edstica del evento, adem\u00e1s de recolectar informaci\u00f3n sobre cultura ciudadana",
   "carpeta_productos":null,
-  "palabras_clave":"m\u00fasica en vivo, festival al parque, espect\u00e1culos, idartes, eventos, emprendimiento",
+  "palabras_clave":"m\u00fasica en vivo, festival al parque, espect\u00e1culos, idartes, eventos, emprendimiento, festivales",
   "investigadores":"Marcela Garz\u00f3n Garc\u00eda, Carlos David Su\u00e1rez Morales, Karen Julieth Higuera Rodr\u00edguez, Daniela Camacho Bernal, Karen Julieth Higuera Rodr\u00edguez"
  },
  {
-  "id":"13",
+  "id":13,
   "titulo":"Rock al Parque 2023",
   "descripcion":"Identificaci\u00f3n de las percepciones de los asistentes al Festival Rock al Parque, sobre la organizaci\u00f3n y log\u00edstica del evento, y recolecci\u00f3n de informaci\u00f3n sobre cultura ciudadana",
   "entidad_solicitante":"IDARTES",
@@ -192,11 +192,11 @@
   "linea_investigacion":"Investigaci\u00f3n del sector cultura ",
   "objetivo":"Identificaci\u00f3n de las percepciones de los asistentes al Festival Rock al Parque, sobre la organizaci\u00f3n y log\u00edstica del evento, y recolecci\u00f3n de informaci\u00f3n sobre cultura ciudadana",
   "carpeta_productos":null,
-  "palabras_clave":"m\u00fasica en vivo, festival al parque, espect\u00e1culos, idartes, eventos, emprendimiento, rock, econom\u00eda, parque sim\u00f3n bol\u00edvar, consumo cultural",
+  "palabras_clave":"m\u00fasica en vivo, festival al parque, espect\u00e1culos, idartes, eventos, emprendimiento, rock, econom\u00eda, parque sim\u00f3n bol\u00edvar, consumo cultural, festivales",
   "investigadores":null
  },
  {
-  "id":"14",
+  "id":14,
   "titulo":"Salsa al Parque 2023",
   "descripcion":"Investigaci\u00f3n que tuvo como objetivo conocer las percepciones de los asistentes al Festival Salsa al Parque 2023, sobre la organizaci\u00f3n y log\u00edstica del evento, adem\u00e1s de recolectar informaci\u00f3n sobre cultura ciudadana",
   "entidad_solicitante":"IDARTES",
@@ -206,11 +206,11 @@
   "linea_investigacion":"Investigaci\u00f3n del sector cultura ",
   "objetivo":"Investigaci\u00f3n que tuvo como objetivo conocer las percepciones de los asistentes al Festival Salsa al Parque 2023, sobre la organizaci\u00f3n y log\u00edstica del evento, adem\u00e1s de recolectar informaci\u00f3n sobre cultura ciudadana",
   "carpeta_productos":null,
-  "palabras_clave":"m\u00fasica en vivo, festival al parque, espect\u00e1culos, idartes, eventos, emprendimiento, salsa",
+  "palabras_clave":"m\u00fasica en vivo, festival al parque, espect\u00e1culos, idartes, eventos, emprendimiento, salsa, festivales",
   "investigadores":"Marcela Garz\u00f3n Garc\u00eda,Carlos David Su\u00e1rez Morales,Karen Julieth Higuera Rodr\u00edguez,Alexandra Moreno Arteaga"
  },
  {
-  "id":"15",
+  "id":15,
   "titulo":"Hip Hop al parque 2023",
   "descripcion":"Investigaci\u00f3n que tuvo como objetivo conocer las percepciones de los asistentes al Festival Hip Hop al Parque 2023, sobre la organizaci\u00f3n y log\u00edstica del evento, adem\u00e1s de recolectar informaci\u00f3n sobre cultura ciudadana",
   "entidad_solicitante":"IDARTES",
@@ -220,11 +220,11 @@
   "linea_investigacion":"Investigaci\u00f3n del sector cultura ",
   "objetivo":"Investigaci\u00f3n que tuvo como objetivo conocer las percepciones de los asistentes al Festival Hip Hop al Parque 2023, sobre la organizaci\u00f3n y log\u00edstica del evento, adem\u00e1s de recolectar informaci\u00f3n sobre cultura ciudadana",
   "carpeta_productos":"https:\/\/drive.google.com\/drive\/u\/0\/folders\/18KedM7GSsaksniEmXXzEpUYSW9WVi1hm",
-  "palabras_clave":"m\u00fasica en vivo, festival al parque, espect\u00e1culos, idartes, eventos, emprendimiento, hip hop",
+  "palabras_clave":"m\u00fasica en vivo, festival al parque, espect\u00e1culos, idartes, eventos, emprendimiento, hip hop, festivales",
   "investigadores":"Marcela Garz\u00f3n Garc\u00eda, Carlos David Su\u00e1rez M, Alexandra Moreno Arteaga, Karen Julieth Higuera Rodr\u00edguez"
  },
  {
-  "id":"16",
+  "id":16,
   "titulo":"Jazz al parque 2023",
   "descripcion":"Investigaci\u00f3n que tuvo como objetivo conocer las percepciones de los asistentes al Festival Jazz al Parque 2023, sobre la organizaci\u00f3n y log\u00edstica del evento, adem\u00e1s de recolectar informaci\u00f3n sobre cultura ciudadana",
   "entidad_solicitante":"IDARTES",
@@ -234,11 +234,11 @@
   "linea_investigacion":"Investigaci\u00f3n del sector cultura ",
   "objetivo":"Investigaci\u00f3n que tuvo como objetivo conocer las percepciones de los asistentes al Festival Jazz al Parque 2023, sobre la organizaci\u00f3n y log\u00edstica del evento, adem\u00e1s de recolectar informaci\u00f3n sobre cultura ciudadana",
   "carpeta_productos":null,
-  "palabras_clave":null,
+  "palabras_clave":"festivales",
   "investigadores":null
  },
  {
-  "id":"17",
+  "id":17,
   "titulo":"Joropo al parque 2023",
   "descripcion":"Investigaci\u00f3n que tuvo como objetivo conocer las percepciones de los asistentes al Festival Joropo al Parque 2023, sobre la organizaci\u00f3n y log\u00edstica del evento, adem\u00e1s de recolectar informaci\u00f3n sobre cultura ciudadana",
   "entidad_solicitante":"IDARTES",
@@ -248,11 +248,11 @@
   "linea_investigacion":"Investigaci\u00f3n del sector cultura ",
   "objetivo":"Investigaci\u00f3n que tuvo como objetivo conocer las percepciones de los asistentes al Festival Joropo al Parque 2023, sobre la organizaci\u00f3n y log\u00edstica del evento, adem\u00e1s de recolectar informaci\u00f3n sobre cultura ciudadana",
   "carpeta_productos":"https:\/\/drive.google.com\/drive\/u\/0\/folders\/1HmP7dD_QSy_Q2I2ETcfqOfpQI1kRZ59D",
-  "palabras_clave":"m\u00fasica en vivo, festival al parque, espect\u00e1culos, idartes, eventos, emprendimiento, joropo, llanos",
+  "palabras_clave":"m\u00fasica en vivo, festival al parque, espect\u00e1culos, idartes, eventos, emprendimiento, joropo, llanos, festivales, regiones",
   "investigadores":"Marcela Garz\u00f3n Garc\u00eda, Carlos David Su\u00e1rez M, Alexandra Moreno Arteaga, Karen Julieth Higuera Rodr\u00edguez"
  },
  {
-  "id":"18",
+  "id":18,
   "titulo":"Festival GABO 2023",
   "descripcion":"Hallazgos de los ejercicios de medici\u00f3n aplicados por la Direcci\u00f3n Observatorio y Gesti\u00f3n del Conocimiento Cultural, sobre el Festival GABO 2023 para el reconocimiento de la percepci\u00f3n de los asistentes sobre el evento.",
   "entidad_solicitante":"SCRD",
@@ -266,7 +266,7 @@
   "investigadores":"Marcela Garz\u00f3n Garc\u00eda, Viviana Marcela\r\nRodr\u00edguez, Karen Julieth Higuera\r\nRodr\u00edguez"
  },
  {
-  "id":"19",
+  "id":19,
   "titulo":"Danza en la Ciudad 2023",
   "descripcion":"Estudio de percepci\u00f3n de la danza en la ciudad",
   "entidad_solicitante":"IDARTES",
@@ -280,7 +280,7 @@
   "investigadores":null
  },
  {
-  "id":"20",
+  "id":20,
   "titulo":"Mediciones Pabell\u00f3n #LEOBogot\u00e1",
   "descripcion":"Identificaci\u00f3n de las percepciones de los asistentes a la Feria del Libro 2023, sobre el pabell\u00f3n #LEOBogot\u00e1",
   "entidad_solicitante":"SCRD",
@@ -294,7 +294,7 @@
   "investigadores":"Marcela Garz\u00f3n Garc\u00eda, Carlos David Su\u00e1rez Morales, Alexandra Moreno Arteaga,Karen Julieth Higuera Rodr\u00edguez"
  },
  {
-  "id":"21",
+  "id":21,
   "titulo":"Indice Cultura Distritos Creativos 2023",
   "descripcion":"Identificar por medio de un an\u00e1lisis piloto el comportamiento del \u00edndice de cultura ciudadana en los Distritos Creativos de Bogot\u00e1 en contraste con el de las localidades y el del conjunto de la ciudad.",
   "entidad_solicitante":"SCRD",
@@ -308,7 +308,7 @@
   "investigadores":null
  },
  {
-  "id":"22",
+  "id":22,
   "titulo":"Medici\u00f3n Pol\u00edgono Teusaquillo",
   "descripcion":"Caracterizar la actividad residencial y el uso de los Bienes de Inter\u00e9s Cultural y su percepci\u00f3n de quienes los habitan en la Localidad de Teusaquillo. Priorizados para la meta 7 Entornos Patrimoniales que busca alcanzar la definici\u00f3n de estrategias y acciones para la activaci\u00f3n.",
   "entidad_solicitante":"IDPC ",
@@ -322,7 +322,7 @@
   "investigadores":"Marcela Garz\u00f3n Garc\u00eda, Viviana Rodr\u00edguez Amaya, Gisela Castrill\u00f3n Moreno, Karen Higuera Rodr\u00edguez"
  },
  {
-  "id":"23",
+  "id":23,
   "titulo":"Identificaci\u00f3n de Parques para accionar del IDRD con enfoque en Mujeres",
   "descripcion":"Identificaci\u00f3n de los parques de Bogot\u00e1 que requieren un accionar prioritario del IDRD con un enfoque de g\u00e9nero",
   "entidad_solicitante":"IDRD",
@@ -336,7 +336,7 @@
   "investigadores":"Marcela Garz\u00f3n Garc\u00eda, Daniel Galeano Amaya, M\u00e1bel Ayala Meneses, Mauricio Ojeda Pepinosa, Sandra Milena Murcia"
  },
  {
-  "id":"24",
+  "id":24,
   "titulo":"An\u00e1lisis UX\/UI plataforma SICON",
   "descripcion":"Diagn\u00f3stico de la plataforma web SICON en el que se identifican puntos o secciones problem\u00e1ticas para ajuste y mejora de la iterfaz, funcionalidad con el prop\u00f3sito de mejorar la experiencia de usuario.",
   "entidad_solicitante":"SCRD",
@@ -350,7 +350,7 @@
   "investigadores":"Mauricio Ojeda Pepinosa"
  },
  {
-  "id":"25",
+  "id":25,
   "titulo":"Manual de instrumentos - Indicadores de buena gobernanza en el Deporte en Bogot\u00e1 para ligas y Clubes Deportivos",
   "descripcion":"Identificaci\u00f3n de los niveles de implementacion de buenas pr\u00e1cticas de Gobernanza en el deporte en clubes y ligas deportivas del Distrito, por medio de la aplicaci\u00f3n de un formulario y un manual gu\u00eda en el cual se reconocer\u00e1n los indicadores de cada dimensi\u00f3n, con el fin de plantear estrategias, actividades y acciones, en pro de fortalecer los organismos deportivos y la investigaci\u00f3n  en la entidad.",
   "entidad_solicitante":"IDRD",
@@ -364,7 +364,7 @@
   "investigadores":"Marcela Garz\u00f3n Garc\u00eda, Karen Higuera Rodr\u00edguez, Gisela Castrill\u00f3n Moreno, Sandra Milena Murcia"
  },
  {
-  "id":"26",
+  "id":26,
   "titulo":"Cuerpos en Di\u00e1logo: Violencias de g\u00e9nero en espacios de fomento",
   "descripcion":"Una exploraci\u00f3n a las violencias basadas en g\u00e9nero en contextos art\u00edsticos y culturales",
   "entidad_solicitante":"SCRD",
@@ -378,7 +378,7 @@
   "investigadores":"Daniel Galeano Amaya, Paula Gonz\u00e1lez Vergara, Karen Marriner Castro, Rafael Villa Rojas, Isabel Betancourt Arg\u00fcelles, Juan Diego Jaramillo"
  },
  {
-  "id":"27",
+  "id":27,
   "titulo":"Diagn\u00f3stico estrategia SOMOS",
   "descripcion":"Identificaci\u00f3n de datos e informaci\u00f3n sobre las formas de discriminaci\u00f3n y exclusi\u00f3n hacia personas de los sectores sociales LGBTI, pueblos ind\u00edgenas, comunidades negras, afrocolombianas, raizales, palenqueras y poblaci\u00f3n migrante, poblaciones que se identifican en la estrategia de Cambio Cultural SOMOS.",
   "entidad_solicitante":"SCRD",
@@ -392,7 +392,7 @@
   "investigadores":"Sandra Milena Murcia, Juan Pablo Hort\u00faa, Jasson Iv\u00e1n Pinillos Hincapi\u00e9"
  },
  {
-  "id":"28",
+  "id":28,
   "titulo":"Medici\u00f3n acci\u00f3n pita y avisa - Transmilenio ",
   "descripcion":null,
   "entidad_solicitante":"SCRD",
@@ -406,7 +406,7 @@
   "investigadores":null
  },
  {
-  "id":"29",
+  "id":29,
   "titulo":"Medici\u00f3n de acciones del Combo Violeta",
   "descripcion":"Intervenciones del Combo Violeta y los Floorgr\u00e1ficos en las estaciones de Av Jim\u00e9nez, Las Aguas y Museo. Evaluar la percepci\u00f3n de los usuarios sobre esta intervenci\u00f3n y la calidad del servicio de transmilenio. ",
   "entidad_solicitante":"SCRD",
@@ -420,7 +420,7 @@
   "investigadores":"Paula Gonz\u00e1lez Vergara, Mar\u00eda del Pilar Acosta Ni\u00f1o, Gisela Castrill\u00f3n Moreno, Rafael Ricardo Villa Rojas"
  },
  {
-  "id":"30",
+  "id":30,
   "titulo":"Encuesta de indicadores de Cultura Ciudadana y garant\u00eda de derechos",
   "descripcion":null,
   "entidad_solicitante":"SCRD",
@@ -434,7 +434,7 @@
   "investigadores":null
  },
  {
-  "id":"31",
+  "id":31,
   "titulo":"Encuesta violencia intrafamiliar y linea calma",
   "descripcion":null,
   "entidad_solicitante":"SCRD",
@@ -448,7 +448,7 @@
   "investigadores":null
  },
  {
-  "id":"32",
+  "id":32,
   "titulo":"Encuesta de labores del cuidado",
   "descripcion":null,
   "entidad_solicitante":"SCRD",
@@ -462,7 +462,7 @@
   "investigadores":null
  },
  {
-  "id":"33",
+  "id":33,
   "titulo":"\"Parche en la Buena\": Estrategia de convivencia y seguridad ciudadana",
   "descripcion":"An\u00e1lisis la informaci\u00f3n recolectada a trav\u00e9s de la encuesta de Violencia Interpersonal como apoyo al diagn\u00f3stico de la estrategia de Seguridad y Convivencia",
   "entidad_solicitante":"SCRD",
@@ -476,7 +476,7 @@
   "investigadores":"Andrea Katherine Daza, Rafael Hurtado, Carlos David Suarez, Paula Larotta Cedano, Rafael Ricardo Villa Rojas"
  },
  {
-  "id":"34",
+  "id":34,
   "titulo":"Medici\u00f3n de la semana de la cultura ciudadana 2023",
   "descripcion":null,
   "entidad_solicitante":"SCRD",
@@ -490,7 +490,7 @@
   "investigadores":null
  },
  {
-  "id":"35",
+  "id":35,
   "titulo":"SOMOS: An\u00e1lisis sobre discriminaci\u00f3n digital",
   "descripcion":"Discriminaci\u00f3n digital hacia sectores sociales LGBTI, poblaci\u00f3n migrante, pueblos ind\u00edgenas y comunidades negras y afro en Bogot\u00e1",
   "entidad_solicitante":"SCRD",
@@ -504,7 +504,7 @@
   "investigadores":null
  },
  {
-  "id":"36",
+  "id":36,
   "titulo":"Mapeo de Actores de Cultura Ciudadana",
   "descripcion":"Mapeo de las organizaciones sociales y comunitarias que est\u00e9n trabajando temas relacionados con cultura ciudadana, desagregados por localidad y con una caracterizaci\u00f3n b\u00e1sica de localidad, temas, perfiles de los integrantes, tipos de procesos que realizan y datos de contacto. ",
   "entidad_solicitante":"SCRD",
@@ -518,7 +518,7 @@
   "investigadores":null
  },
  {
-  "id":"37",
+  "id":37,
   "titulo":"Balance a la transversalizaci\u00f3n del enfoque de Cultura Ciudadana",
   "descripcion":"Balance sobre la apropiaci\u00f3n de los ejercicios de transferencia sobre el enfoque de cultura ciudadana realizados desde la Direcci\u00f3n de Redes y Acci\u00f3n Colectiva",
   "entidad_solicitante":"SCRD",
@@ -532,7 +532,7 @@
   "investigadores":"Karen Marriner, Francisco Franco, Daniel Galeano Amaya"
  },
  {
-  "id":"38",
+  "id":38,
   "titulo":"Observaci\u00f3n de consumo de pl\u00e1stico en servidores p\u00fablicos - aves cuidadoras",
   "descripcion":null,
   "entidad_solicitante":"SCRD",
@@ -546,7 +546,7 @@
   "investigadores":null
  },
  {
-  "id":"39",
+  "id":39,
   "titulo":"S.I. Direcci\u00f3n de Redes y Acci\u00f3n Colectiva",
   "descripcion":"Asesor\u00eda en el dise\u00f1o de un modelo de datos para la implementaci\u00f3n de un sistema de informaci\u00f3n de los agentes y participantes registrados en la red de contactos de Cultura Ciudadana",
   "entidad_solicitante":"SCRD",
@@ -560,7 +560,7 @@
   "investigadores":"Mauricio Ojeda Pepinosa"
  },
  {
-  "id":"40",
+  "id":40,
   "titulo":"Base de datos atenciones L\u00ednea Calma",
   "descripcion":"Consolidaci\u00f3n de la base de datos de tipificaci\u00f3n de atenciones de la estrategia \"L\u00ednea Calma\"",
   "entidad_solicitante":"SCRD",
@@ -574,7 +574,7 @@
   "investigadores":"Mauricio Ojeda Pepinosa, Maritza T\u00e9llez"
  },
  {
-  "id":"41",
+  "id":41,
   "titulo":"Evaluaci\u00f3n Escuela de Hombres al Cuidado 2022",
   "descripcion":"Recopilaci\u00f3n de ejercicios evaluativos de los pilotos de la estrategia \"Escuela de Hombres al Cuidado\" que busca transformar culturalmente la participaci\u00f3n de los hombres en los trabajos de cuidado indirecto, directo, emocional y medioambiental.",
   "entidad_solicitante":"SCRD",
@@ -588,7 +588,7 @@
   "investigadores":null
  },
  {
-  "id":"42",
+  "id":42,
   "titulo":"Sistema de Informaci\u00f3n Estrategia \"Escuela Hombres al Cuidado\"",
   "descripcion":"Asesor\u00eda en el dise\u00f1o de un modelo de datos, formularios y tablero de control para la implementaci\u00f3n del sistema de informaci\u00f3n de las actividades de la estrategia \"Hombres al Cuidado\"",
   "entidad_solicitante":"SCRD",
@@ -602,7 +602,7 @@
   "investigadores":"Mauricio Ojeda Pepinosa"
  },
  {
-  "id":"43",
+  "id":43,
   "titulo":"Las redes \"andan diciendo\"",
   "descripcion":"Evaluaci\u00f3n y an\u00e1lisis de narrativas en territorios digitales sobre la estrategia Escuela de Hombres al Cuidado",
   "entidad_solicitante":"SCRD",
@@ -616,7 +616,7 @@
   "investigadores":"Daniel Galeano Amaya, Karen Marriner-Castro, Rafael Ricardo Villa Rojas"
  },
  {
-  "id":"44",
+  "id":44,
   "titulo":"Acercamientos cr\u00edticos a las violencias en Bogot\u00e1:\n G\u00e9nero, masculinidad hegem\u00f3nica y poder\n\n",
   "descripcion":"Identificar los discursos, significados culturales y comportamientos que mantienen y posibilitan la violencia basada en g\u00e9nero en Bogot\u00e1 a partir de la identificaci\u00f3n de relatos sobre la masculinidad y las violencias.",
   "entidad_solicitante":"SCRD",
@@ -630,7 +630,7 @@
   "investigadores":"Rafael Villa\nDaniel Galeano"
  },
  {
-  "id":"45",
+  "id":45,
   "titulo":"L\u00ednea Calma: Cap\u00edtulo Celos",
   "descripcion":"Evaluaci\u00f3n de espacios psicoeducativos grupales",
   "entidad_solicitante":"SCRD",
@@ -644,7 +644,7 @@
   "investigadores":"Rafael Villa Rojas, Karen Vanesa Marriner, Daniel Galeano Amaya"
  },
  {
-  "id":"46",
+  "id":46,
   "titulo":"Informe Festival Calma en la Ciudad: Mil razones para ser flexibles",
   "descripcion":"Identificaci\u00f3n de las formas en la que los habitantes de Bogot\u00e1 atienden su bienestar f\u00edsico, mental y emocional y la realizaci\u00f3n de actividad f\u00edsica para mantener la calma, la tranquilidad y la serenidad. \u00bfQu\u00e9 hacen los habitantes de Bogot\u00e1 para mantener la calma?",
   "entidad_solicitante":"SCRD",
@@ -658,7 +658,7 @@
   "investigadores":"Rafael Villa Roja, Karen Vanesa Marriner"
  },
  {
-  "id":"48",
+  "id":48,
   "titulo":"Medici\u00f3n de uso de elemtos reflectivos en ciclistas",
   "descripcion":null,
   "entidad_solicitante":"SCRD",
@@ -672,7 +672,7 @@
   "investigadores":null
  },
  {
-  "id":"49",
+  "id":49,
   "titulo":"Gesti\u00f3n Integral de los residuos s\u00f3lidos en Bogot\u00e1",
   "descripcion":"Un an\u00e1lisis de los resultados de las encuestas de cultura ambiental y cuidado del entorno 2021 y 2022",
   "entidad_solicitante":"SCRD",
@@ -686,7 +686,7 @@
   "investigadores":"Paula Gonz\u00e1lez Vergara, Paula La Rotta Cedano, Rafael Ricardo Villa Rojas"
  },
  {
-  "id":"50",
+  "id":50,
   "titulo":"Medici\u00f3n de las acciones de la estrategia \"Que no se vuelva paisaje\"",
   "descripcion":"Bogot\u00e1 genera 7.700 toneladas de basura diaria, pero solo el 54% de sus habitantes separa residuos, y solo 21% lo hace en el d\u00eda adecuado. La estrategia \"Que la Basura no se vuelva paisaje\" busca cambiar estos h\u00e1bitos mediante experiencias culturales en espacios p\u00fablicos, promoviendo la gesti\u00f3n sostenible.",
   "entidad_solicitante":"SCRD",
@@ -700,7 +700,7 @@
   "investigadores":"Paula Gonz\u00e1lez Vergara, Karen Marriner, Rafael Ricardo Villa"
  },
  {
-  "id":"51",
+  "id":51,
   "titulo":"Transferencia metodol\u00f3gica de la acci\u00f3n \"m\u00e1s rimas, cero ri\u00f1as\"",
   "descripcion":null,
   "entidad_solicitante":"SCRD",
@@ -714,7 +714,7 @@
   "investigadores":null
  },
  {
-  "id":"52",
+  "id":52,
   "titulo":"Impactos de la cultura en el valor del metro cuadrado comercial de terreno en Bogot\u00e1",
   "descripcion":"Impacto de la presencia de servicios culturales en el valor m\u00b2 de terreno comercial en Bogot\u00e1 utilizando los equipamientos culturales y el distrito Creativo San Felipe",
   "entidad_solicitante":"SCRD",
@@ -728,7 +728,7 @@
   "investigadores":"M\u00e1bel Ayala Meneses, Marcela Garz\u00f3n Garc\u00eda, Camilo Tiria Buitrago, Mauricio Ojeda Pepinosa"
  },
  {
-  "id":"53",
+  "id":53,
   "titulo":"Diagnostico de la estrategia de entrenamiento fisico como potenciador de cultura ciudadana ",
   "descripcion":"Exploraci\u00f3n de nuevas formas de investigaci\u00f3n colaborativa con la ciudadan\u00eda, centr\u00e1ndose en el movimiento Hip Hop de Bogot\u00e1 y el pacto PACTARTE. A trav\u00e9s de mesas de di\u00e1logo entre la comunidad Hip Hop y las entidades culturales, se desarrollaron herramientas para fortalecer este movimiento, reconociendo su importancia en la ciudad. El estudio tambi\u00e9n evalu\u00f3 el evento Serenata RAP y resalt\u00f3 c\u00f3mo esta cultura ha sido un canal de expresi\u00f3n para los habitantes de las localidades.",
   "entidad_solicitante":"SCRD",
@@ -742,7 +742,7 @@
   "investigadores":null
  },
  {
-  "id":"54",
+  "id":54,
   "titulo":"Medici\u00f3n Museo Abierto de Bogot\u00e1",
   "descripcion":"Dise\u00f1ar y realizar un estudio de percepci\u00f3n y apropiaci\u00f3n en la ciudadan\u00eda sobre las intervenciones art\u00edsticas en espacio p\u00fablico realizadas en el marco del Museo Abierto de Bogot\u00e1.",
   "entidad_solicitante":"SCRD",
@@ -756,7 +756,7 @@
   "investigadores":"Marcela Garz\u00f3n Garc\u00eda, Viviana Marcela Rodr\u00edguez, Karen Julieth Higuera\nRodr\u00edguez, Gisela Castrill\u00f3n, Gustavo Romero"
  },
  {
-  "id":"55",
+  "id":55,
   "titulo":"Trabajando con PACTARTE, el pacto con la Comunidad Hip Hop",
   "descripcion":"Exploraci\u00f3n de nuevas formas de investigaci\u00f3n colaborativa con la ciudadan\u00eda, centr\u00e1ndose en el movimiento Hip Hop de Bogot\u00e1 y el pacto PACTARTE. A trav\u00e9s de mesas de di\u00e1logo entre la comunidad Hip Hop y las entidades culturales, se desarrollaron herramientas para fortalecer este movimiento, reconociendo su importancia en la ciudad. El estudio tambi\u00e9n evalu\u00f3 el evento Serenata RAP y resalt\u00f3 c\u00f3mo esta cultura ha sido un canal de expresi\u00f3n para los habitantes de las localidades.",
   "entidad_solicitante":"SCRD",
@@ -770,7 +770,7 @@
   "investigadores":"Viviana Marcela Rodr\u00edguez, Amaya, Marcela Garz\u00f3n Garc\u00eda"
  },
  {
-  "id":"56",
+  "id":56,
   "titulo":"Evaluaci\u00f3n pre y post de las acciones que integran los modulos de la escula de hombres al cuidado",
   "descripcion":null,
   "entidad_solicitante":null,
@@ -784,7 +784,7 @@
   "investigadores":null
  },
  {
-  "id":"57",
+  "id":57,
   "titulo":"Actividades de Navidad 2023",
   "descripcion":null,
   "entidad_solicitante":"SCRD",
@@ -798,7 +798,7 @@
   "investigadores":null
  },
  {
-  "id":"58",
+  "id":58,
   "titulo":"Medici\u00f3n sobre las percepciones y pr\u00e1cticas de la formaci\u00f3n art\u00edstica, cultural y deportiva en Bogot\u00e1 2023",
   "descripcion":"En el marco de las funciones del Sistema Distrital de Formaci\u00f3n Art\u00edstica y Cultural (SIDFAC), el Sector Cultura, Recreaci\u00f3n y Deporte de Bogot\u00e1 implement\u00f3 en el a\u00f1o 2023 una medici\u00f3n que busc\u00f3 identificar las percepciones y pr\u00e1cticas de los ni\u00f1os, ni\u00f1as y adolescentes que participan en los procesos de formaci\u00f3n art\u00edstica, cultural y deportiva que son impartidos por las entidades adscritas a la Secretar\u00eda Distrital de Cultura, Recreaci\u00f3n y Deporte (SCRD): el Instituto Distrital de las Artes (Idartes), la Orquesta Filarm\u00f3nica de Bogot\u00e1 (OFB), el Instituto\nDistrital de Patrimonio Cultural (IDPC) y el Instituto Distrital de Recreaci\u00f3n y Deporte (IDRD), en el marco de la Jornada \u00danica y la Jornada Escolar Complementaria de la Secretar\u00eda de Educaci\u00f3n del Distrito (SED).",
   "entidad_solicitante":"SCRD",

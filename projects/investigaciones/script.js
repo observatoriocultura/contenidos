@@ -4,6 +4,7 @@ const url = window.location.href;
 const urlParams = new URLSearchParams(window.location.search);
 // Obtiene el valor del parámetro 'investigacion_id'
 const elementoIdInicial = urlParams.get('investigacion_id');
+const baseUrl = window.location.origin + window.location.pathname;
 
 // VueApp
 //-----------------------------------------------------------------------------
@@ -16,6 +17,7 @@ var investigacionesApp = createApp({
             section:'lista',
             elementos: [],
             productos: [],
+            hallazgos: [],
             currentId: elementoIdInicial,
             currentElement: {'id':0,'titulo':'Cargando...'},
             q: '',
@@ -26,14 +28,14 @@ var investigacionesApp = createApp({
         }
     },
     methods: {
+        setSection: function(newSection){
+            this.section = newSection
+        },
         getList: function(){
             this.loading = true
             axios.get('content/data/investigaciones/investigaciones.json')
             .then(response => {
                 this.elementos = response.data
-                if ( elementoIdInicial > 0) {
-                    this.setCurrent(elementoIdInicial)
-                }
             })
             .catch(function(error) { console.log(error) })
         },
@@ -45,8 +47,23 @@ var investigacionesApp = createApp({
             })
             .catch(function(error) { console.log(error) })
         },
+        getHallazgos: function(){
+            this.loading = true
+            axios.get('content/data/investigaciones/hallazgos.json')
+            .then(response => {
+                this.hallazgos = response.data
+                this.checkCurrent()
+            })
+            .catch(function(error) { console.log(error) })
+        },
+        checkCurrent: function(){
+            if ( elementoIdInicial > 0) {
+                this.setCurrent(elementoIdInicial)
+            }
+        },
         clearSearch: function(){
             this.q = ''
+            this.setSection('lista')
         },
         textToClass: function(prefix='', inputText){
             return prefix + Pcrn.textToClass(inputText)
@@ -55,6 +72,16 @@ var investigacionesApp = createApp({
             this.section = 'ficha'
             this.currentId = investigacionId
             this.currentElement = this.elementos.find(elemento => elemento['id'] == investigacionId)
+            this.scrollToTop()
+            console.log(baseUrl)
+            history.pushState(null, null, baseUrl +'?investigacion_id=' + investigacionId)
+
+        },
+        scrollToTop: function(){
+            window.scrollTo({
+                top: 0,
+                behavior: 'smooth'
+            });
         },
         textToClass: function(text){
             return Pcrn.textToClass(text)
@@ -79,6 +106,7 @@ var investigacionesApp = createApp({
     mounted(){
         this.getList()
         this.getProductos()
+        this.getHallazgos()
     },
     computed: {
         elementosFiltrados: function() {

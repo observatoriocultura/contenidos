@@ -44,7 +44,7 @@
             <div class="center_box_920">
                 <!-- FORMULARIO DE BÚSQUEDA -->
                 <div class="search-container">
-                    <input class="search-input mb-2" type="text" v-model="q" v-bind:placeholder="`Buscar ` + nombreElemento" autofocus>
+                    <input class="search-input mb-2" type="text" v-model="q" v-bind:placeholder="`Buscar ` + nombreElemento" autofocus v-on:change="setSection('lista')">
                     <button class="search-button" v-show="this.q.length > 0" v-on:click="clearSearch()">
                         <i class="fas fa-times"></i>
                     </button>
@@ -92,7 +92,7 @@
                     </div>
                 </div>
 
-                <!-- FICHA PRODUCTOS -->
+                <!-- DETALLE INVESTIGACIÓN -->
                 <div v-show="section == 'ficha'">
                     <div class="mb-2">
                         <button class="btn btn-light btn-sm" v-on:click="section = 'lista'">
@@ -127,7 +127,7 @@
                             </div>
                         </div>
                         <div class="ficha-footer d-flex justify-content-between">
-                            <div class="p-2" style="">
+                            <div class="p-2">
                                 <img class="logo-orfeo me-1" src="resources/images/observatorio/orfeo.png" alt="Logo Orfeo">
                                 <strong>Orfeo: </strong>
                                 <span title="Expediente documental en Orfeo">{{ currentElement['expediente_orfeo'] }}</span>
@@ -137,8 +137,27 @@
                             </div>
                         </div>
                     </div>
+
+                    <!-- HALLAZGOS -->
+                    <div class="mt-3 center_box_750">
+                        <h4 class="subtitulo">Principales hallazgos</h4>
+                        <div v-for="hallazgo in hallazgos" v-show="hallazgo.investigacion_id == currentElement['id']">
+                            <div class="d-flex justify-content-center">
+                                <div class="w64p color-text-5 text-center">
+                                    <i class="fas fa-chevron-right fa-2x"></i>
+                                </div>
+                                <div style="max-width:85%">
+                                    <p>
+                                        {{ hallazgo.texto }}
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- FIN DE HALLAZGOS -->
+
                 </div>
-                <!-- FIN FICHA INVESTIGACIONES -->
+                <!-- FIN DETALLE INVESTIGACIÓN -->
 
             </div>
         </div>

@@ -80,7 +80,7 @@
 .ficha-body {
     background-color: #23143c;
     padding: 2em 1em;
-    min-height: 480px;
+    min-height: 400px;
     border-radius: .5em .5em 0 0;
     background: rgb(32, 14, 60);
     background: linear-gradient(180deg, rgba(32, 14, 60, 1) 0%, rgba(70, 43, 121, 1) 100%);
@@ -98,4 +98,11 @@
     color: #fab937;
     font-size: 2em;
     font-weight: 700
+}
+
+.subtitulo{
+    text-align: center;
+    color: #FAB937;
+    font-weight: bold;
+    margin-top: 2em;
 }
