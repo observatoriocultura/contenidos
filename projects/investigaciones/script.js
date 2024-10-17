@@ -30,6 +30,9 @@ var investigacionesApp = createApp({
     methods: {
         setSection: function(newSection){
             this.section = newSection
+            if ( newSection = 'lista' ) {
+                history.pushState(null, null, baseUrl)
+            }
         },
         getList: function(){
             this.loading = true
@@ -64,6 +67,7 @@ var investigacionesApp = createApp({
         clearSearch: function(){
             this.q = ''
             this.setSection('lista')
+            history.pushState(null, null, baseUrl)
         },
         textToClass: function(prefix='', inputText){
             return prefix + Pcrn.textToClass(inputText)
@@ -100,6 +104,7 @@ var investigacionesApp = createApp({
             var displayProducto = true
             if ( producto['investigacion_id'] != this.currentElement['id']) { displayProducto = false }
             if ( producto['incluir_en_ficha'] != 'Sí') { displayProducto = false }
+            if ( producto['url'] == null) { displayProducto = false }
             return displayProducto
         },
     },
@@ -122,6 +127,10 @@ var investigacionesApp = createApp({
                 listaFiltrada = PmlSearcher.getFilteredResults(this.q, listaFiltrada, fieldsToSearch)
             }
             return listaFiltrada
-        }
+        },
+        hallazgosFiltrados: function(){
+            var hallazgosFiltrados = this.hallazgos.filter(hallazgo => hallazgo.investigacion_id == this.currentElement['id'])
+            return hallazgosFiltrados
+        },
     }
 }).mount('#investigacionesApp')
