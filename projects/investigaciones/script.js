@@ -16,8 +16,6 @@ var investigacionesApp = createApp({
             loading: false,
             section:'lista',
             elementos: [],
-            productos: [],
-            hallazgos: [],
             currentId: elementoIdInicial,
             currentElement: {'id':0,'titulo':'Cargando...'},
             q: '',
@@ -25,6 +23,8 @@ var investigacionesApp = createApp({
                 status: '' 
             },
             filtroEstados: ['Enviada','Finalizada'],
+            productos: [],
+            hallazgos: [],
         }
     },
     methods: {
@@ -39,23 +39,6 @@ var investigacionesApp = createApp({
             axios.get('content/data/investigaciones/investigaciones.json')
             .then(response => {
                 this.elementos = response.data
-            })
-            .catch(function(error) { console.log(error) })
-        },
-        getProductos: function(){
-            this.loading = true
-            axios.get('content/data/investigaciones/productos.json')
-            .then(response => {
-                this.productos = response.data
-            })
-            .catch(function(error) { console.log(error) })
-        },
-        getHallazgos: function(){
-            this.loading = true
-            axios.get('content/data/investigaciones/hallazgos.json')
-            .then(response => {
-                this.hallazgos = response.data
-                this.checkCurrent()
             })
             .catch(function(error) { console.log(error) })
         },
@@ -89,6 +72,23 @@ var investigacionesApp = createApp({
         },
         textToClass: function(text){
             return Pcrn.textToClass(text)
+        },
+        getProductos: function(){
+            this.loading = true
+            axios.get('content/data/investigaciones/productos.json')
+            .then(response => {
+                this.productos = response.data
+            })
+            .catch(function(error) { console.log(error) })
+        },
+        getHallazgos: function(){
+            this.loading = true
+            axios.get('content/data/investigaciones/hallazgos.json')
+            .then(response => {
+                this.hallazgos = response.data
+                this.checkCurrent()
+            })
+            .catch(function(error) { console.log(error) })
         },
         getProductoClass: function(tipoProducto){
             var productoClass = 'fa-solid fa-file producto-general'
