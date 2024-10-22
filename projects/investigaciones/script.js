@@ -13,6 +13,12 @@ var investigacionesApp = createApp({
         return{
             nombreElemento: 'investigación',
             nombreElementos: 'investigaciones',
+            menu:[
+                {name: 'investigaciones.html', title: 'Investigaciones', active: true},
+                {name: 'visualizaciones.html', title: 'Visualizaciones', active: false},
+                {name: 'datos.html', title: 'Datos', active: false},
+                {name: 'mapas.html', title: 'Mapas', active: false},
+            ],
             loading: false,
             section:'lista',
             elementos: [],

@@ -51,6 +51,14 @@
                     </button>
                 </div>
 
+                <ul class="nav justify-content-center nav-tabs mb-3">
+                    <li class="nav-item" v-for="pagina in menu">
+                        <a class="nav-link" v-bind:href="pagina.name" v-bind:class="{'active': pagina.active == true }">
+                            {{ pagina.title }}
+                        </a>
+                    </li>
+                </ul>
+
                 <p class="text-center"><strong class="color-text-1">
                         {{ elementosFiltrados.length }}</strong> resultados &middot;
                     <!-- <strong class="color-text-1">{{ productos.length }}</strong>

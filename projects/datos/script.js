@@ -13,6 +13,12 @@ var datosApp = createApp({
         return{
             nombreElemento: 'dato',
             nombreElementos: 'datos',
+            menu:[
+                {name: 'investigaciones.html', title: 'Investigaciones', active: false},
+                {name: 'visualizaciones.html', title: 'Visualizaciones', active: false},
+                {name: 'datos.html', title: 'Datos', active: true},
+                {name: 'mapas.html', title: 'Mapas', active: false},
+            ],
             loading: false,
             section:'lista',
             elementos: [],

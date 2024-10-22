@@ -51,6 +51,14 @@
                     </button>
                 </div>
 
+                <ul class="nav justify-content-center nav-tabs mb-3">
+                    <li class="nav-item" v-for="pagina in menu">
+                        <a class="nav-link" v-bind:href="pagina.name" v-bind:class="{'active': pagina.active == true }">
+                            {{ pagina.title }}
+                        </a>
+                    </li>
+                </ul>
+
                 <p class="text-center"><strong class="color-text-1">
                         {{ elementosFiltrados.length }}</strong> resultados
                 </p>
@@ -59,7 +67,7 @@
                 <div v-show="section == 'lista'">
                     <div class="row mb-4 border-bottom pb-2" v-for="(elemento, i) in elementosFiltrados">
                         <div class="col-md-4">
-                            <a v-on:click="setCurrent(elemento.id)" class="pointer">
+                            <a v-bind:href="elemento.link" target="_blank">
                                 <img v-bind:src="`projects/visualizaciones/thumbnails/` + elemento.id + `.jpg`"
                                     class="w-100 rounded shadow mb-2" v-bind:alt="elemento.titulo"
                                     v-bind:onerror="`this.src='resources/images/app/nd.jpg'`">
@@ -67,7 +75,7 @@
                         </div>
                         <div class="col-md-8">
                             <h5 class="card-title text-main">
-                                <a href="#" v-on:click="setCurrent(elemento.id)"
+                                <a v-bind:href="elemento.link"
                                     v-bind:title="`[` + elemento.id + `] ` + elemento.nombre">
                                     {{ elemento.nombre }}
                                 </a>

@@ -51,6 +51,14 @@
                     </button>
                 </div>
 
+                <ul class="nav justify-content-center nav-tabs mb-3">
+                    <li class="nav-item" v-for="pagina in menu">
+                        <a class="nav-link" v-bind:href="pagina.name" v-bind:class="{'active': pagina.active == true }">
+                            {{ pagina.title }}
+                        </a>
+                    </li>
+                </ul>
+
                 <p class="text-center"><strong class="color-text-1">
                         {{ elementosFiltrados.length }}</strong> resultados &middot;
                     <!-- <strong class="color-text-1">{{ productos.length }}</strong>
@@ -60,11 +68,8 @@
                 <!-- LISTA DE DATOS -->
                 <div v-show="section == 'lista'">
                     <div class="row mb-4 border-bottom pb-2" v-for="(elemento, i) in elementosFiltrados">
-                        <div class="col-md-1">
-                            <span class="badge bg-primary">{{ elemento.id }}</span>
-                        </div>
-                        <div class="col-md-3 text-end">
-                            <strong class="display-5">
+                        <div class="col-md-4 text-end">
+                            <strong class="display-5 color-text-5">
                                 {{ elemento.valor }}
                             </strong>
                         </div>
@@ -75,7 +80,13 @@
                                     {{ elemento.titulo }}
                                 </a>
                             </h5>
-                            {{ elemento.texto }}
+                            <p class="lead">
+                                {{ elemento.subtitulo }}
+                            </p>
+                            <p>
+                                {{ elemento.texto }}
+                            </p>
+                            <span class="badge bg-secondary">{{ elemento.tema }}</span>
             
                             <br>
                             <small>

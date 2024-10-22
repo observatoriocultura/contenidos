@@ -11,8 +11,14 @@ const baseUrl = window.location.origin + window.location.pathname;
 var visualizacionesApp = createApp({
     data(){
         return{
-            nombreElemento: 'investigación',
+            nombreElemento: 'visualización',
             nombreElementos: 'visualizaciones',
+            menu:[
+                {name: 'investigaciones.html', title: 'Investigaciones', active: false},
+                {name: 'visualizaciones.html', title: 'Visualizaciones', active: true},
+                {name: 'datos.html', title: 'Datos', active: false},
+                {name: 'mapas.html', title: 'Mapas', active: false},
+            ],
             loading: false,
             section:'lista',
             elementos: [],
