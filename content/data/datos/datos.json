@@ -22,7 +22,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":2,
@@ -47,7 +48,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":3,
@@ -72,7 +74,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":4,
@@ -97,7 +100,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":5,
@@ -122,7 +126,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":6,
@@ -147,7 +152,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":6,
@@ -172,7 +178,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":7,
@@ -197,7 +204,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":7,
@@ -222,7 +230,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":8,
@@ -231,7 +240,7 @@
   "estado":"Publicado",
   "tema":"Seguridad",
   "titulo":"V\u00edctimas de delito en Medell\u00edn y Bogot\u00e1",
-  "subtitulo":"Las v\u00edctims de alg\u00fan delito en Medell\u00edn es el 9% y Bogot\u00e1 19%",
+  "subtitulo":"Las v\u00edctimas de alg\u00fan delito en Medell\u00edn es el 9% y Bogot\u00e1 19%",
   "fuente":null,
   "link_fuente":null,
   "grupo":null,
@@ -247,7 +256,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":11,
@@ -256,7 +266,7 @@
   "estado":"Publicado",
   "tema":"Lectura",
   "titulo":"Programas de lectura o escritura del Distrito",
-  "subtitulo":null,
+  "subtitulo":"24% de personas conocen alg\u00fan programa de lectura o escritura",
   "fuente":"Encuesta de Lectura, Escritura y Oralidad 2023",
   "link_fuente":"https:\/\/docs.google.com\/document\/d\/1CV-XFzosSQNeWg8AiZsv4xxAzpwy02vj\/edit?usp=drive_link&ouid=105090632649587320414&rtpof=true&sd=true",
   "grupo":null,
@@ -272,7 +282,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":12,
@@ -280,8 +291,8 @@
   "publicaciones":null,
   "estado":"Publicado",
   "tema":"Deporte",
-  "titulo":null,
-  "subtitulo":null,
+  "titulo":"Gusto por el f\u00fatbol en Bogot\u00e1",
+  "subtitulo":"33% le gusta el f\u00fatbol en Bogot\u00e1",
   "fuente":"Encuesta de pr\u00e1cticas deportivas y calidad de vida 2021",
   "link_fuente":null,
   "grupo":"F\u00fatbol en Bogot\u00e1",
@@ -297,7 +308,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":13,
@@ -305,8 +317,8 @@
   "publicaciones":null,
   "estado":"Publicado",
   "tema":"Deporte",
-  "titulo":null,
-  "subtitulo":null,
+  "titulo":"Gusto por el f\u00fatbol entre hombres y mujeres",
+  "subtitulo":"70% de hombres y 30% de mujeres de Bogot\u00e1 les gusta el f\u00fatbol",
   "fuente":"Encuesta de pr\u00e1cticas deportivas y calidad de vida 2021",
   "link_fuente":null,
   "grupo":"F\u00fatbol en Bogot\u00e1",
@@ -322,7 +334,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":14,
@@ -330,8 +343,8 @@
   "publicaciones":null,
   "estado":"Publicado",
   "tema":"Deporte",
-  "titulo":null,
-  "subtitulo":null,
+  "titulo":"Disfrutan el f\u00fatbol por televisi\u00f3n o en el estadio ",
+  "subtitulo":"Disfrutan el f\u00fatbol en televisi\u00f3n el 75% y el 74 en el estadio ",
   "fuente":"Encuesta de pr\u00e1cticas deportivas y calidad de vida 2021",
   "link_fuente":null,
   "grupo":"F\u00fatbol en Bogot\u00e1",
@@ -347,7 +360,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":15,
@@ -355,8 +369,8 @@
   "publicaciones":null,
   "estado":"Publicado",
   "tema":"Deporte",
-  "titulo":null,
-  "subtitulo":null,
+  "titulo":"Ver f\u00fatbol en compa\u00f1ia de familiares o amigos",
+  "subtitulo":"68% ve el f\u00fatbol en compa\u00f1\u00eda de famliares o amigos",
   "fuente":"Encuesta de pr\u00e1cticas deportivas y calidad de vida 2021",
   "link_fuente":null,
   "grupo":"F\u00fatbol en Bogot\u00e1",
@@ -372,7 +386,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":16,
@@ -380,8 +395,8 @@
   "publicaciones":null,
   "estado":"Publicado",
   "tema":"Deporte",
-  "titulo":null,
-  "subtitulo":null,
+  "titulo":"Importancia del f\u00fatbol ",
+  "subtitulo":"94% consideran importante el f\u00fatbol",
   "fuente":"Plan decenal de f\u00fatbol 2014 - 2024 - Gran Encuesta del F\u00fatbol en Colombia: El poder del F\u00fatbol.",
   "link_fuente":null,
   "grupo":"F\u00fatbol en Bogot\u00e1",
@@ -397,7 +412,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":17,
@@ -405,8 +421,8 @@
   "publicaciones":null,
   "estado":"Publicado",
   "tema":"Deporte",
-  "titulo":null,
-  "subtitulo":null,
+  "titulo":"El f\u00fatbol como distracci\u00f3n importante para los j\u00f3venes y generardor de oportunidades",
+  "subtitulo":"61% importante porque los aleja del vicio y la violencia, y al 26% le da oportunidades",
   "fuente":"Plan decenal de f\u00fatbol 2014 - 2024 - Gran Encuesta del F\u00fatbol en Colombia: El poder del F\u00fatbol.",
   "link_fuente":null,
   "grupo":"F\u00fatbol en Bogot\u00e1",
@@ -422,7 +438,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":18,
@@ -430,8 +447,8 @@
   "publicaciones":null,
   "estado":"Publicado",
   "tema":"Patrimonio",
-  "titulo":null,
-  "subtitulo":null,
+  "titulo":"Recorrido de espacios patrimoniales en la ciudad",
+  "subtitulo":"30% de las personas en Bogot\u00e1 ham recorrido espacios culturales",
   "fuente":"Encuesta de Pr\u00e1cticas Art\u00edsticas, culturales, creativas y patrimoniales 2023.",
   "link_fuente":null,
   "grupo":"Conmemoraci\u00f3n 20 de Julio",
@@ -447,7 +464,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":19,
@@ -455,8 +473,8 @@
   "publicaciones":null,
   "estado":"Publicado",
   "tema":"Patrimonio",
-  "titulo":null,
-  "subtitulo":null,
+  "titulo":"Valor de las tradiciones e historia de la ciudad",
+  "subtitulo":"49% valora las tradiciones e historia de la ciudad ",
   "fuente":"Encuesta de Pr\u00e1cticas Art\u00edsticas, culturales, creativas y patrimoniales 2023.",
   "link_fuente":null,
   "grupo":"Conmemoraci\u00f3n 20 de Julio",
@@ -472,7 +490,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":20,
@@ -480,8 +499,8 @@
   "publicaciones":null,
   "estado":"Publicado",
   "tema":"Patrimonio",
-  "titulo":null,
-  "subtitulo":null,
+  "titulo":"Los monumentos hist\u00f3ricos como patrimonio",
+  "subtitulo":"Para el 17% son considerados como algo patrimonial los monumentos hist\u00f3ricos",
   "fuente":"Encuesta de Pr\u00e1cticas Art\u00edsticas, culturales, creativas y patrimoniales 2023.",
   "link_fuente":null,
   "grupo":"Conmemoraci\u00f3n 20 de Julio",
@@ -497,7 +516,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":21,
@@ -505,8 +525,8 @@
   "publicaciones":null,
   "estado":"Publicado",
   "tema":"Patrimonio",
-  "titulo":null,
-  "subtitulo":null,
+  "titulo":"Importancia del patrimonio cultural",
+  "subtitulo":"58% considera impoante el patrimonio cultural, ya que aport al cuidado de la histpria y memoria de la ciudad",
   "fuente":"Encuesta de Pr\u00e1cticas Art\u00edsticas, culturales, creativas y patrimoniales 2023.",
   "link_fuente":null,
   "grupo":"Conmemoraci\u00f3n 20 de Julio",
@@ -522,7 +542,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":22,
@@ -530,8 +551,8 @@
   "publicaciones":null,
   "estado":"Publicado",
   "tema":"Historia",
-  "titulo":null,
-  "subtitulo":null,
+  "titulo":"Bol\u00edvar Ecuestre",
+  "subtitulo":"Estuvo en el Monumento los H\u00e9roes para ser trasladado al Parque de la Independencia por la construcci\u00f3n del metro de Bogot\u00e1 ",
   "fuente":null,
   "link_fuente":"https:\/\/bogota.gov.co\/mi-ciudad\/movilidad\/la-escultura-bolivar-ecuestre-regresa-al-parque-de-la-independencia",
   "grupo":"Conmemoraci\u00f3n 20 de Julio",
@@ -547,7 +568,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":23,
@@ -555,8 +577,8 @@
   "publicaciones":null,
   "estado":"Borrador",
   "tema":"Historia",
-  "titulo":null,
-  "subtitulo":null,
+  "titulo":"Conmemoraci\u00f3n del 20 de Julio y 7 de Agosto",
+  "subtitulo":"Fechas conmemorativas para los patriotas de la cultura pol\u00edtica republicana",
   "fuente":null,
   "link_fuente":"https:\/\/www.radionacional.co\/cultura\/historia-colombiana\/desfile-militar-del-20-de-julio-cual-es-su-historia",
   "grupo":"Conmemoraci\u00f3n 20 de Julio",
@@ -572,7 +594,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":24,
@@ -580,8 +603,8 @@
   "publicaciones":null,
   "estado":"Publicado",
   "tema":"Diversidad",
-  "titulo":null,
-  "subtitulo":null,
+  "titulo":"Poblaci\u00f3n afrodescendiente",
+  "subtitulo":"53.027 mujeres reside en Bogot\u00e1 que representan el 46,08% de la poblaci\u00f3n de la ciudad en el 2020",
   "fuente":"Secretar\u00eda de la Mujer",
   "link_fuente":null,
   "grupo":"Conmemoraci\u00f3n 20 de Julio",
@@ -597,7 +620,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":25,
@@ -605,8 +629,8 @@
   "publicaciones":null,
   "estado":"Publicado",
   "tema":"Diversidad",
-  "titulo":null,
-  "subtitulo":null,
+  "titulo":"Mujeres afrodescendientes y su idioma",
+  "subtitulo":"12% de las mujeres afrodescendientes encuestadas hablan creole bantu, 28% habla reole palenquero y 9% hablan ubuntu palenquero.",
   "fuente":"Encuestas de Percepci\u00f3n sobre Discriminaci\u00f3n - Estrategia SOMOS. 2022.",
   "link_fuente":null,
   "grupo":"Conmemoraci\u00f3n 20 de Julio",
@@ -622,7 +646,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":26,
@@ -630,8 +655,8 @@
   "publicaciones":null,
   "estado":"Publicado",
   "tema":"Diversidad",
-  "titulo":null,
-  "subtitulo":null,
+  "titulo":"Jefatura femenina en las comunidades afrodescendientes",
+  "subtitulo":"Para el 2021 el 50,9% con respecto a 2017 y supera el porcentaje de la jefatura femenina en Bogot\u00e1.",
   "fuente":"DANE y SDP - Encuesta Multiprop\u00f3sito 2017 y 2021.",
   "link_fuente":null,
   "grupo":"Conmemoraci\u00f3n 20 de Julio",
@@ -647,7 +672,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":27,
@@ -655,8 +681,8 @@
   "publicaciones":null,
   "estado":"Publicado",
   "tema":"Orgullo",
-  "titulo":null,
-  "subtitulo":null,
+  "titulo":"Orgullo de vivir en Bogot\u00e1",
+  "subtitulo":"53% se sienten orgullosas de vivir en Bogot\u00e1",
   "fuente":"Encuesta de Indicadores de cultura ciudadana y garant\u00eda de derechos - 2023",
   "link_fuente":null,
   "grupo":"Orgullo Bogot\u00e1",
@@ -672,7 +698,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":29,
@@ -697,7 +724,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":30,
@@ -722,7 +750,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":31,
@@ -747,57 +776,60 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":32,
-  "texto":null,
-  "publicaciones":null,
-  "estado":null,
-  "tema":null,
-  "titulo":null,
+  "texto":"10% de las personas de Bogot\u00e1 destinan dinero para pagar plataformas de m\u00fasica\u00a0y\u00a0podcast",
+  "publicaciones":0.0,
+  "estado":"Publicado",
+  "tema":"Lectura, Escritura y Oralidad",
+  "titulo":"Pago por plataformas de podcast",
   "subtitulo":null,
-  "fuente":null,
-  "link_fuente":null,
-  "grupo":null,
-  "palabras_clave":null,
+  "fuente":"Encuesta Bienal de Culturas - M\u00f3dulo Pr\u00e1cticas Art\u00edsticas, Culturales, Creativas y Patrimoniales 2023",
+  "link_fuente":"https:\/\/app.powerbi.com\/view?r=eyJrIjoiYWVjOGE2MzQtYzI2ZC00MjdmLThjYmMtYjI1NWQxNWZiYWMxIiwidCI6IjRmNzkzOWM3LWFhNjAtNDliZC05YjdiLTZmODFjMzdkMWIzNyJ9&pageName=69b48348ad3ee2b5bec5",
+  "grupo":"Oralidad",
+  "palabras_clave":"oralidad, podcast, plataformas, consumo cultural, dinero, pagos",
   "texto_complementario":null,
   "notas_dato":null,
   "observaciones":null,
-  "lugar":null,
-  "a\u00f1o_dato":null,
-  "valor":null,
-  "unidad_medida":null,
-  "investigacion_cod":null,
-  "medicion_cod":null,
+  "lugar":"Bogot\u00e1",
+  "a\u00f1o_dato":2023.0,
+  "valor":"10%",
+  "unidad_medida":"Porcentaje",
+  "investigacion_cod":"i010",
+  "medicion_cod":"m162",
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":"javier.ojeda"
  },
  {
   "id":33,
-  "texto":null,
-  "publicaciones":null,
-  "estado":null,
-  "tema":null,
-  "titulo":null,
+  "texto":"Despu\u00e9s de la \"Cuenter\u00eda\" y los \"Programas radiales\" los podcast son la expresi\u00f3n oral que m\u00e1s le gusta a las personas de Bogot\u00e1,\u00a0con\u00a0el\u00a017%",
+  "publicaciones":0.0,
+  "estado":"Publicado",
+  "tema":"Lectura, Escritura y Oralidad",
+  "titulo":"Expresiones orales preferidas",
   "subtitulo":null,
-  "fuente":null,
-  "link_fuente":null,
-  "grupo":null,
-  "palabras_clave":null,
+  "fuente":"Encuesta Bienal de Culturas, Encuesta Lectura, Escritura, Oralidad y Espacios de Cultura 2023",
+  "link_fuente":"https:\/\/docs.google.com\/spreadsheets\/d\/1W46zzI_119YSGsjG9VAcq7khX3w2gdKC\/edit?gid=530645099#gid=530645099",
+  "grupo":"Oralidad",
+  "palabras_clave":"oralidad, podcast, plataformas, consumo cultural, dinero, pagos, conferencias, hablar, oralidad",
   "texto_complementario":null,
   "notas_dato":null,
   "observaciones":null,
-  "lugar":null,
-  "a\u00f1o_dato":null,
-  "valor":null,
-  "unidad_medida":null,
-  "investigacion_cod":null,
+  "lugar":"Bogot\u00e1",
+  "a\u00f1o_dato":2023.0,
+  "valor":"17%",
+  "unidad_medida":"Porcentaje",
+  "investigacion_cod":"i011",
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":"javier.ojeda"
  },
  {
   "id":34,
@@ -822,7 +854,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":35,
@@ -847,7 +880,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":36,
@@ -872,7 +906,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":37,
@@ -897,7 +932,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":38,
@@ -922,7 +958,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":39,
@@ -947,7 +984,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":40,
@@ -972,7 +1010,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":41,
@@ -997,7 +1036,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":42,
@@ -1022,7 +1062,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":43,
@@ -1047,7 +1088,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":44,
@@ -1072,7 +1114,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":45,
@@ -1097,7 +1140,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":46,
@@ -1122,7 +1166,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":47,
@@ -1147,7 +1192,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":48,
@@ -1172,7 +1218,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":49,
@@ -1197,7 +1244,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":50,
@@ -1222,7 +1270,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":51,
@@ -1247,7 +1296,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":52,
@@ -1272,7 +1322,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":53,
@@ -1297,7 +1348,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":54,
@@ -1322,7 +1374,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":55,
@@ -1347,7 +1400,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":56,
@@ -1372,7 +1426,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":57,
@@ -1397,7 +1452,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":58,
@@ -1422,7 +1478,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":59,
@@ -1447,7 +1504,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":60,
@@ -1472,7 +1530,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":61,
@@ -1497,7 +1556,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":62,
@@ -1522,7 +1582,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":63,
@@ -1547,7 +1608,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":64,
@@ -1572,7 +1634,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":65,
@@ -1597,7 +1660,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":66,
@@ -1622,7 +1686,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":67,
@@ -1647,7 +1712,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":68,
@@ -1672,7 +1738,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":69,
@@ -1697,7 +1764,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":70,
@@ -1722,7 +1790,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":71,
@@ -1747,7 +1816,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":72,
@@ -1772,7 +1842,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":73,
@@ -1797,7 +1868,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":74,
@@ -1822,7 +1894,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":75,
@@ -1847,7 +1920,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":76,
@@ -1872,7 +1946,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":77,
@@ -1897,7 +1972,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":78,
@@ -1922,7 +1998,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":79,
@@ -1947,7 +2024,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":80,
@@ -1972,7 +2050,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":81,
@@ -1997,7 +2076,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":82,
@@ -2022,7 +2102,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":83,
@@ -2047,7 +2128,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":84,
@@ -2072,7 +2154,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":85,
@@ -2097,7 +2180,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":86,
@@ -2122,7 +2206,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":87,
@@ -2147,7 +2232,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":88,
@@ -2172,7 +2258,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":89,
@@ -2197,7 +2284,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":90,
@@ -2222,7 +2310,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":91,
@@ -2247,7 +2336,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":92,
@@ -2272,7 +2362,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":93,
@@ -2297,7 +2388,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":94,
@@ -2322,7 +2414,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":95,
@@ -2347,7 +2440,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":96,
@@ -2372,7 +2466,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":97,
@@ -2397,7 +2492,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":98,
@@ -2422,7 +2518,8 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  },
  {
   "id":99,
@@ -2447,6 +2544,7 @@
   "medicion_cod":null,
   "fecha_publicacion":null,
   "link_pieza":null,
-  "link_publicacion":null
+  "link_publicacion":null,
+  "registrado_por":null
  }
 ]
