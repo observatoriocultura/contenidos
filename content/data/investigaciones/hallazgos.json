@@ -1,5 +1,45 @@
 [
  {
+  "investigacion_id":60,
+  "orden":1,
+  "titulo":"Toma de decisiones",
+  "texto":"La metodolog\u00eda presentada permite identificar \u00e1reas prioritarias para intervenciones, como la estrategia Barrios Vivos, de manera eficiente y basada en datos.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":60,
+  "orden":2,
+  "titulo":"Combinaci\u00f3n y uso de datos geogr\u00e1ficos",
+  "texto":"La metodolog\u00eda utiliza capas geogr\u00e1ficas de diferentes entidades, lo que permite una comprensi\u00f3n m\u00e1s profunda de las din\u00e1micas territoriales y la identificaci\u00f3n de necesidades espec\u00edficas.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":60,
+  "orden":3,
+  "titulo":"Modelo de datos",
+  "texto":"El uso de un modelo de datos relacional y herramientas tecnol\u00f3gicas facilita el procesamiento y an\u00e1lisis de grandes vol\u00famenes de informaci\u00f3n. Esto garantiza la eficiencia y escalabilidad de la metodolog\u00eda, permitiendo su aplicaci\u00f3n a diferentes contextos y problem\u00e1ticas.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":60,
+  "orden":4,
+  "titulo":"Flexible y escalable",
+  "texto":"La metodolog\u00eda es flexible y adaptable a diferentes criterios y ponderaciones. Los usuarios pueden personalizar la priorizaci\u00f3n seg\u00fan las variables y pesos que consideren m\u00e1s relevantes, lo que permite una adaptaci\u00f3n a las necesidades espec\u00edficas de cada proyecto.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":60,
+  "orden":5,
+  "titulo":"Creciendo con datos m\u00e1s actuales y ajustados",
+  "texto":"La herramienta desarrollada es un punto de partida para un an\u00e1lisis m\u00e1s profundo y la incorporaci\u00f3n de nuevas funcionalidades. Se pueden agregar m\u00e1s variables, filtros y capas de informaci\u00f3n para enriquecer el an\u00e1lisis y mejorar la toma de decisiones. Adem\u00e1s, el uso de inteligencia artificial y modelos de lenguaje natural puede potenciar a\u00fan m\u00e1s la capacidad de an\u00e1lisis y la generaci\u00f3n de conocimiento.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
   "investigacion_id":1,
   "orden":1,
   "titulo":null,
