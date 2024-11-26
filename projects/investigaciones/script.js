@@ -28,7 +28,7 @@ var investigacionesApp = createApp({
             filters: {
                 status: '' 
             },
-            filtroEstados: ['Enviada','Finalizada'],
+            filtroEstados: ['Enviada','Finalizada','4 Finalizada'],
             productos: [],
             hallazgos: [],
         }
