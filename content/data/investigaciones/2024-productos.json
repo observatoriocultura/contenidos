@@ -1312,13 +1312,13 @@
   "investigacion_id":84,
   "tipo_producto":"Otro",
   "titulo":"P\u00e1gina de presentaci\u00f3n",
-  "incluir_en_ficha":"S\u00ed",
+  "incluir_en_ficha":"No",
   "url":"https:\/\/dogcc-icc-2023-5cff1.web.app\/"
  },
  {
   "investigacion_id":84,
   "tipo_producto":"Informe final",
-  "titulo":"Cartillas de resumen",
+  "titulo":"Cartillas Sub\u00edndices",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/drive\/folders\/1Mkmw-ZkX0aVIdos0-nE__FvHMVTe5PYN"
  },
@@ -1339,9 +1339,16 @@
  {
   "investigacion_id":84,
   "tipo_producto":"Base de datos",
+  "titulo":"Datos de encuestas",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1Fhdi_-Ge4gWtt8iX0OXrfoN-snKsu3x6\/edit?usp=drive_link&ouid=114299960211627169695&rtpof=true&sd=true"
+ },
+ {
+  "investigacion_id":84,
+  "tipo_producto":"Base de datos",
   "titulo":"Datos del sub\u00edndice",
   "incluir_en_ficha":"S\u00ed",
-  "url":null
+  "url":"https:\/\/docs.google.com\/spreadsheets\/d\/12ahm0nKSe5yXk-XscEwjtjO4gkLK_XDz\/edit?usp=drive_link&ouid=114299960211627169695&rtpof=true&sd=true"
  },
  {
   "investigacion_id":84,
@@ -1355,13 +1362,6 @@
   "tipo_producto":"Anexo",
   "titulo":"Metodolog\u00eda de interpolaci\u00f3n geogr\u00e1fica",
   "incluir_en_ficha":"No",
-  "url":null
- },
- {
-  "investigacion_id":84,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
   "url":null
  },
  {

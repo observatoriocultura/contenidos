@@ -28,7 +28,7 @@ var investigacionesApp = createApp({
             filters: {
                 status: '' 
             },
-            filtroEstados: ['Enviada','Finalizada','4 Finalizada'],
+            filtroEstados: ['Enviada','Finalizada','4 Entregada', '5 Finalizada'],
             productos: [],
             hallazgos: [],
         }
@@ -101,6 +101,8 @@ var investigacionesApp = createApp({
             if ( tipoProducto == 'Informe final' ) productoClass = 'fa-solid fa-file-lines producto-pdf'
             if ( tipoProducto == 'Presentación' ) productoClass = 'fa-solid fa-display producto-presentacion'
             if ( tipoProducto == 'Visualización/Infografía' ) productoClass = 'fa-solid fa-chart-simple producto-dataviz'
+            if ( tipoProducto == 'Visualización' ) productoClass = 'fa-solid fa-chart-simple producto-dataviz'
+            if ( tipoProducto == 'Geovisor' ) productoClass = 'fa-solid fa-chart-simple producto-dataviz'
             if ( tipoProducto == 'Base de datos' ) productoClass = 'fa-solid fa-table producto-db'
             if ( tipoProducto == 'Informe cuantitativo' ) productoClass = 'fa-solid fa-file-lines producto-cuantitativo'
             if ( tipoProducto == 'Audiovisual' ) productoClass = 'fa-solid fa-circle-play producto-audiovisual'
