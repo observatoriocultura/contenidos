@@ -106,6 +106,13 @@
  },
  {
   "investigacion_id":61,
+  "tipo_producto":"Base de datos",
+  "titulo":"Datos detallados de caracterizaci\u00f3n",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/docs.google.com\/spreadsheets\/d\/11OMiatYCXNX8x6CzQqTdNDX9kN_bLQhZH4clxwrtVrM\/edit?usp=drive_link"
+ },
+ {
+  "investigacion_id":61,
   "tipo_producto":"Informe final",
   "titulo":"Documentaci\u00f3n",
   "incluir_en_ficha":"S\u00ed",
@@ -116,13 +123,6 @@
   "tipo_producto":"Plan de trabajo",
   "titulo":"Plan de trabajo",
   "incluir_en_ficha":"No",
-  "url":null
- },
- {
-  "investigacion_id":61,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
   "url":null
  },
  {
