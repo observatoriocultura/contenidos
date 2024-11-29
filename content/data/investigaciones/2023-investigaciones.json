@@ -722,7 +722,7 @@
  {
   "id":36,
   "titulo":"Mapeo de Actores de Cultura Ciudadana",
-  "descripcion":"Mapeo de las organizaciones sociales y comunitarias que est\u00e9n trabajando temas relacionados con cultura ciudadana, desagregados por localidad y con una caracterizaci\u00f3n b\u00e1sica de localidad, temas, perfiles de los integrantes, tipos de procesos que realizan y datos de contacto. ",
+  "descripcion":"Mapeo de las organizaciones sociales y comunitarias que est\u00e1n trabajando temas relacionados con cultura ciudadana, desagregados por localidad y con una caracterizaci\u00f3n b\u00e1sica de localidad, temas, perfiles de los integrantes, tipos de procesos que realizan y datos de contacto. ",
   "entidad_solicitante":"SCRD",
   "expediente_orfeo":"202391004200100053E",
   "dependencia":"Direcci\u00f3n de Pol\u00edtica y Redes de Articulaci\u00f3n",
@@ -730,9 +730,9 @@
   "estado":"Finalizada",
   "linea_investigacion":"Investigaci\u00f3n cultura ciudadana ",
   "objetivo":"La solicitud consiste en un mapeo de las organizaciones sociales y comunitarias que est\u00e9n trabajando temas relacionados con cultura ciudadana, desagregados por localidad y con una caracterizaci\u00f3n b\u00e1sica de localidad, temas, perfiles de los integrantes, tipos de procesos que realizan y datos de contacto. ",
-  "carpeta_productos":null,
+  "carpeta_productos":"https:\/\/drive.google.com\/drive\/folders\/1Adihzk-POHrXfG68mc2sRSJzTZE1lG9E",
   "palabras_clave":null,
-  "investigadores":null,
+  "investigadores":"Karen Marriner, Rafael Villa",
   "anio":2023
  },
  {

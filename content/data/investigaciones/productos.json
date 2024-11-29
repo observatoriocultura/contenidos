@@ -78,13 +78,6 @@
  },
  {
   "investigacion_id":61,
-  "tipo_producto":"Informe final",
-  "titulo":"Informe final",
-  "incluir_en_ficha":"S\u00ed",
-  "url":null
- },
- {
-  "investigacion_id":61,
   "tipo_producto":"Visualizaci\u00f3n",
   "titulo":"Informe interactivo - Visualizaci\u00f3n",
   "incluir_en_ficha":"S\u00ed",
@@ -95,7 +88,14 @@
   "tipo_producto":"Otro",
   "titulo":"Notebook Procesamiento",
   "incluir_en_ficha":"S\u00ed",
-  "url":null
+  "url":"https:\/\/colab.research.google.com\/drive\/13EsFaAe-6QRTwukeJuvsE7bKMXFWdZXQ#scrollTo=lMW8JvyyWETr"
+ },
+ {
+  "investigacion_id":61,
+  "tipo_producto":"Instrumento recolecci\u00f3n",
+  "titulo":"Formulario de recolecci\u00f3n",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSc0Xbinp1TRsEy6aHLvW5RrN17Ta2IzB0ZNA8SoyptdKOzbUw\/viewform"
  },
  {
   "investigacion_id":61,
@@ -106,10 +106,10 @@
  },
  {
   "investigacion_id":61,
-  "tipo_producto":"Instrumento recolecci\u00f3n",
-  "titulo":"Formulario de recolecci\u00f3n",
+  "tipo_producto":"Informe final",
+  "titulo":"Documentaci\u00f3n",
   "incluir_en_ficha":"S\u00ed",
-  "url":"https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSc0Xbinp1TRsEy6aHLvW5RrN17Ta2IzB0ZNA8SoyptdKOzbUw\/viewform"
+  "url":"https:\/\/docs.google.com\/document\/d\/1ckKOWdnwJEwoufnINhAZMGyjlZkClecuJ8mxz5PW0-g\/edit?tab=t.0"
  },
  {
   "investigacion_id":61,
@@ -3161,7 +3161,7 @@
   "tipo_producto":"Informe final",
   "titulo":"Informe final apoyo Mapeo de Actores de Cultura Ciudadana",
   "incluir_en_ficha":"S\u00ed",
-  "url":null
+  "url":"https:\/\/drive.google.com\/file\/d\/1LIaHZSpaOybvgrvmEv3w97t3RtesYv81\/view?usp=drive_link"
  },
  {
   "investigacion_id":36,
