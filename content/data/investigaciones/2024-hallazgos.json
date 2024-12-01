@@ -38,5 +38,45 @@
   "texto":"La herramienta desarrollada es un punto de partida para un an\u00e1lisis m\u00e1s profundo y la incorporaci\u00f3n de nuevas funcionalidades. Se pueden agregar m\u00e1s variables, filtros y capas de informaci\u00f3n para enriquecer el an\u00e1lisis y mejorar la toma de decisiones. Adem\u00e1s, el uso de inteligencia artificial y modelos de lenguaje natural puede potenciar a\u00fan m\u00e1s la capacidad de an\u00e1lisis y la generaci\u00f3n de conocimiento.",
   "valor":null,
   "unidad_medida":null
+ },
+ {
+  "investigacion_id":61,
+  "orden":1,
+  "titulo":"Mejoras en la calidad de los datos",
+  "texto":"La depuraci\u00f3n detallada de la tabla principal de datos permiti\u00f3 identificar inconsistencias y asegurar que los registros sean confiables y estandarizados. Esto facilita la creaci\u00f3n de productos de datos, como visualizaciones y tableros, y resalta la importancia de la limpieza inicial en proyectos de an\u00e1lisis.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":61,
+  "orden":2,
+  "titulo":"Relevancia del diccionario de datos",
+  "texto":"La creaci\u00f3n de un diccionario de datos bien estructurado garantiza la comprensi\u00f3n uniforme de la informaci\u00f3n por parte de todos los involucrados. Este documento no solo es clave para la consistencia del proyecto actual, sino que tambi\u00e9n ser\u00e1 esencial para futuras expansiones y actualizaciones de los datos.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":61,
+  "orden":3,
+  "titulo":"Automatizaci\u00f3n eficiente de procesos",
+  "texto":"Los procedimientos ETL dise\u00f1ados optimizan el flujo de datos desde la captura hasta la visualizaci\u00f3n. Sin embargo, se recomienda avanzar en la automatizaci\u00f3n total para eliminar la dependencia de la descarga y carga manual de archivos, mejorando la eficiencia del sistema. Se recomienda seguir trabajando art\u00edculadamente con el Observatorio para que esta herramienta conseguida perdure en el tiempo con calidad y utilidad.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":61,
+  "orden":4,
+  "titulo":"Accesibilidad mediante herramientas intuitivas",
+  "texto":"La implementaci\u00f3n del formulario de Google Forms para el registro de nuevos egresados simplifica la recolecci\u00f3n de datos, asegurando precisi\u00f3n y facilidad de uso. Este enfoque debe ser un est\u00e1ndar en proyectos similares para fomentar la participaci\u00f3n de los usuarios, tanto funcionales como desarrolladores. La flexibilidad de esta herramienta permite ajustarse peri\u00f3dicamente a los cambios que tenga el programa en el corto y mediano plazo.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":61,
+  "orden":5,
+  "titulo":"Interacci\u00f3n din\u00e1mica con los datos",
+  "texto":"La interfaz en Looker Studio, que permite a los usuarios aplicar filtros y explorar datos de manera interactiva, demuestra el valor de una visualizaci\u00f3n din\u00e1mica para el an\u00e1lisis. Se recomienda solicitar mantener y mejorar esta herramienta, a\u00f1adiendo nuevas funcionalidades que respondan a las necesidades de los tomadores de decisiones y usuarios finales, formadores y de la OFB.",
+  "valor":null,
+  "unidad_medida":null
  }
 ]

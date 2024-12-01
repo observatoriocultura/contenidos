@@ -113,10 +113,17 @@
  },
  {
   "investigacion_id":61,
+  "tipo_producto":"Anexo",
+  "titulo":"Diccionario de datos",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1aO44q7EjjO5SkHILi13PI_jQ-OMQJULjrciX2MhKCL4\/edit?gid=165311700#gid=165311700"
+ },
+ {
+  "investigacion_id":61,
   "tipo_producto":"Informe final",
   "titulo":"Documentaci\u00f3n",
   "incluir_en_ficha":"S\u00ed",
-  "url":"https:\/\/docs.google.com\/document\/d\/1ckKOWdnwJEwoufnINhAZMGyjlZkClecuJ8mxz5PW0-g\/edit?tab=t.0"
+  "url":"https:\/\/drive.google.com\/file\/d\/1va9Z4IpSP6bjPhY5fA8g08owQDyMhemC\/view?usp=drive_link"
  },
  {
   "investigacion_id":61,
@@ -126,13 +133,6 @@
   "url":null
  },
  {
-  "investigacion_id":61,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
   "investigacion_id":62,
   "tipo_producto":"Base de datos",
   "titulo":null,
@@ -862,29 +862,29 @@
  },
  {
   "investigacion_id":76,
-  "tipo_producto":null,
+  "tipo_producto":"Informe final",
   "titulo":null,
   "incluir_en_ficha":null,
   "url":null
  },
  {
   "investigacion_id":76,
-  "tipo_producto":null,
+  "tipo_producto":"Presentaci\u00f3n",
   "titulo":null,
   "incluir_en_ficha":null,
   "url":null
  },
  {
   "investigacion_id":76,
-  "tipo_producto":null,
+  "tipo_producto":"Base de datos",
   "titulo":null,
   "incluir_en_ficha":null,
   "url":null
  },
  {
   "investigacion_id":76,
-  "tipo_producto":null,
-  "titulo":null,
+  "tipo_producto":"Anexo",
+  "titulo":"Matriz de consistencia",
   "incluir_en_ficha":null,
   "url":null
  },
@@ -918,21 +918,21 @@
  },
  {
   "investigacion_id":77,
-  "tipo_producto":null,
+  "tipo_producto":"Informe final",
   "titulo":null,
   "incluir_en_ficha":null,
   "url":null
  },
  {
   "investigacion_id":77,
-  "tipo_producto":null,
+  "tipo_producto":"Presentaci\u00f3n",
   "titulo":null,
   "incluir_en_ficha":null,
   "url":null
  },
  {
   "investigacion_id":77,
-  "tipo_producto":null,
+  "tipo_producto":"Base de datos",
   "titulo":null,
   "incluir_en_ficha":null,
   "url":null
@@ -974,14 +974,14 @@
  },
  {
   "investigacion_id":78,
-  "tipo_producto":null,
+  "tipo_producto":"Informe final",
   "titulo":null,
   "incluir_en_ficha":null,
   "url":null
  },
  {
   "investigacion_id":78,
-  "tipo_producto":null,
+  "tipo_producto":"Base de datos",
   "titulo":null,
   "incluir_en_ficha":null,
   "url":null
@@ -1030,7 +1030,7 @@
  },
  {
   "investigacion_id":79,
-  "tipo_producto":null,
+  "tipo_producto":"Presentaci\u00f3n",
   "titulo":null,
   "incluir_en_ficha":null,
   "url":null
@@ -1086,21 +1086,21 @@
  },
  {
   "investigacion_id":80,
-  "tipo_producto":null,
+  "tipo_producto":"Informe final",
   "titulo":null,
   "incluir_en_ficha":null,
   "url":null
  },
  {
   "investigacion_id":80,
-  "tipo_producto":null,
+  "tipo_producto":"Presentaci\u00f3n",
   "titulo":null,
   "incluir_en_ficha":null,
   "url":null
  },
  {
   "investigacion_id":80,
-  "tipo_producto":null,
+  "tipo_producto":"Base de datos",
   "titulo":null,
   "incluir_en_ficha":null,
   "url":null
@@ -1114,8 +1114,8 @@
  },
  {
   "investigacion_id":80,
-  "tipo_producto":null,
-  "titulo":null,
+  "tipo_producto":"Anexo",
+  "titulo":"Matriz de consistencia",
   "incluir_en_ficha":null,
   "url":null
  },
@@ -1142,21 +1142,21 @@
  },
  {
   "investigacion_id":81,
-  "tipo_producto":null,
+  "tipo_producto":"Informe final",
   "titulo":null,
   "incluir_en_ficha":null,
   "url":null
  },
  {
   "investigacion_id":81,
-  "tipo_producto":null,
+  "tipo_producto":"Presentaci\u00f3n",
   "titulo":null,
   "incluir_en_ficha":null,
   "url":null
  },
  {
   "investigacion_id":81,
-  "tipo_producto":null,
+  "tipo_producto":"Base de datos",
   "titulo":null,
   "incluir_en_ficha":null,
   "url":null
@@ -1198,21 +1198,21 @@
  },
  {
   "investigacion_id":82,
-  "tipo_producto":null,
+  "tipo_producto":"Informe final",
   "titulo":null,
   "incluir_en_ficha":null,
   "url":null
  },
  {
   "investigacion_id":82,
-  "tipo_producto":null,
+  "tipo_producto":"Presentaci\u00f3n",
   "titulo":null,
   "incluir_en_ficha":null,
   "url":null
  },
  {
   "investigacion_id":82,
-  "tipo_producto":null,
+  "tipo_producto":"Anexo",
   "titulo":null,
   "incluir_en_ficha":null,
   "url":null
@@ -1254,21 +1254,21 @@
  },
  {
   "investigacion_id":83,
-  "tipo_producto":null,
+  "tipo_producto":"Informe final",
   "titulo":null,
   "incluir_en_ficha":null,
   "url":null
  },
  {
   "investigacion_id":83,
-  "tipo_producto":null,
+  "tipo_producto":"Base de datos",
   "titulo":null,
   "incluir_en_ficha":null,
   "url":null
  },
  {
   "investigacion_id":83,
-  "tipo_producto":null,
+  "tipo_producto":"Presentaci\u00f3n",
   "titulo":null,
   "incluir_en_ficha":null,
   "url":null
@@ -1366,21 +1366,21 @@
  },
  {
   "investigacion_id":85,
-  "tipo_producto":null,
+  "tipo_producto":"Informe final",
   "titulo":null,
   "incluir_en_ficha":null,
   "url":null
  },
  {
   "investigacion_id":85,
-  "tipo_producto":null,
+  "tipo_producto":"Presentaci\u00f3n",
   "titulo":null,
   "incluir_en_ficha":null,
   "url":null
  },
  {
   "investigacion_id":85,
-  "tipo_producto":null,
+  "tipo_producto":"Base de datos",
   "titulo":null,
   "incluir_en_ficha":null,
   "url":null
@@ -1422,7 +1422,7 @@
  },
  {
   "investigacion_id":86,
-  "tipo_producto":null,
+  "tipo_producto":"Informe final",
   "titulo":null,
   "incluir_en_ficha":null,
   "url":null
@@ -1485,29 +1485,29 @@
  },
  {
   "investigacion_id":87,
-  "tipo_producto":null,
+  "tipo_producto":"Informe final",
   "titulo":null,
   "incluir_en_ficha":null,
   "url":null
  },
  {
   "investigacion_id":87,
-  "tipo_producto":null,
+  "tipo_producto":"Base de datos",
   "titulo":null,
   "incluir_en_ficha":null,
   "url":null
  },
  {
   "investigacion_id":87,
-  "tipo_producto":null,
+  "tipo_producto":"Presentaci\u00f3n",
   "titulo":null,
   "incluir_en_ficha":null,
   "url":null
  },
  {
   "investigacion_id":87,
-  "tipo_producto":null,
-  "titulo":null,
+  "tipo_producto":"Anexo",
+  "titulo":"Matriz de consistencia",
   "incluir_en_ficha":null,
   "url":null
  },
@@ -1534,29 +1534,29 @@
  },
  {
   "investigacion_id":88,
-  "tipo_producto":null,
+  "tipo_producto":"Informe final",
   "titulo":null,
   "incluir_en_ficha":null,
   "url":null
  },
  {
   "investigacion_id":88,
-  "tipo_producto":null,
+  "tipo_producto":"Base de datos",
   "titulo":null,
   "incluir_en_ficha":null,
   "url":null
  },
  {
   "investigacion_id":88,
-  "tipo_producto":null,
+  "tipo_producto":"Presentaci\u00f3n",
   "titulo":null,
   "incluir_en_ficha":null,
   "url":null
  },
  {
   "investigacion_id":88,
-  "tipo_producto":null,
-  "titulo":null,
+  "tipo_producto":"Anexo",
+  "titulo":"Matriz de consistencia",
   "incluir_en_ficha":null,
   "url":null
  },
@@ -1590,29 +1590,29 @@
  },
  {
   "investigacion_id":89,
-  "tipo_producto":null,
+  "tipo_producto":"Informe final",
   "titulo":null,
   "incluir_en_ficha":null,
   "url":null
  },
  {
   "investigacion_id":89,
-  "tipo_producto":null,
+  "tipo_producto":"Base de datos",
   "titulo":null,
   "incluir_en_ficha":null,
   "url":null
  },
  {
   "investigacion_id":89,
-  "tipo_producto":null,
+  "tipo_producto":"Presentaci\u00f3n",
   "titulo":null,
   "incluir_en_ficha":null,
   "url":null
  },
  {
   "investigacion_id":89,
-  "tipo_producto":null,
-  "titulo":null,
+  "tipo_producto":"Anexo",
+  "titulo":"Matriz de consistencia",
   "incluir_en_ficha":null,
   "url":null
  },
@@ -1646,28 +1646,28 @@
  },
  {
   "investigacion_id":90,
-  "tipo_producto":null,
+  "tipo_producto":"Informe final",
   "titulo":null,
   "incluir_en_ficha":null,
   "url":null
  },
  {
   "investigacion_id":90,
-  "tipo_producto":null,
+  "tipo_producto":"Base de datos",
   "titulo":null,
   "incluir_en_ficha":null,
   "url":null
  },
  {
   "investigacion_id":90,
-  "tipo_producto":null,
+  "tipo_producto":"Presentaci\u00f3n",
   "titulo":null,
   "incluir_en_ficha":null,
   "url":null
  },
  {
   "investigacion_id":90,
-  "tipo_producto":null,
+  "tipo_producto":"Anexo",
   "titulo":null,
   "incluir_en_ficha":null,
   "url":null
