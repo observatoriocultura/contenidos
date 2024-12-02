@@ -59,7 +59,7 @@
   "investigacion_id":61,
   "orden":3,
   "titulo":"Automatizaci\u00f3n eficiente de procesos",
-  "texto":"Los procedimientos ETL dise\u00f1ados optimizan el flujo de datos desde la captura hasta la visualizaci\u00f3n. Sin embargo, se recomienda avanzar en la automatizaci\u00f3n total para eliminar la dependencia de la descarga y carga manual de archivos, mejorando la eficiencia del sistema. Se recomienda seguir trabajando art\u00edculadamente con el Observatorio para que esta herramienta conseguida perdure en el tiempo con calidad y utilidad.",
+  "texto":"Los procedimientos ETL dise\u00f1ados optimizan el flujo de datos desde la captura hasta la visualizaci\u00f3n. Sin embargo, se recomienda avanzar en la automatizaci\u00f3n total para eliminar la dependencia de la descarga y carga manual de archivos, mejorando la eficiencia del sistema. Se recomienda seguir trabajando art\u00edculadamente con el Observatorio para que esta herramienta conseguida perdure en el tiempo con calidad y utilidad, especialmente para conseguir una lectura de datos sin necesidad de descarga de archivos, con todo el procesamiento en la nube.",
   "valor":null,
   "unidad_medida":null
  },
