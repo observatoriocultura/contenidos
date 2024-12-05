@@ -134,23 +134,23 @@
  },
  {
   "investigacion_id":62,
-  "tipo_producto":"Base de datos",
-  "titulo":null,
+  "tipo_producto":"Instrumento recolecci\u00f3n",
+  "titulo":"Impacto del Programa de Formaci\u00f3n musical \"Vamos a la Filarm\u00f3nica\"",
+  "incluir_en_ficha":"S\u00ed",
+  "url":null
+ },
+ {
+  "investigacion_id":62,
+  "tipo_producto":"Carpeta archivos",
+  "titulo":"Insumos de construcci\u00f3n del instrumento de medici\u00f3n de impacto",
   "incluir_en_ficha":"No",
   "url":null
  },
  {
   "investigacion_id":62,
-  "tipo_producto":"Instrumento recolecci\u00f3n",
-  "titulo":null,
-  "incluir_en_ficha":"No",
-  "url":null
- },
- {
-  "investigacion_id":62,
-  "tipo_producto":"Instrumento recolecci\u00f3n",
-  "titulo":null,
-  "incluir_en_ficha":"No",
+  "tipo_producto":"Anexo",
+  "titulo":"Criterios de construcci\u00f3n del instrumento de medici\u00f3n ",
+  "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
@@ -590,9 +590,9 @@
  {
   "investigacion_id":71,
   "tipo_producto":"Visualizaci\u00f3n",
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
+  "titulo":"Encuesta Asistentes Rock al Parque 2024",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/app.powerbi.com\/view?r=eyJrIjoiMzkyOWIzM2QtYjA2OC00ZGZmLWIzOWMtYTY4MjJhZDhhOTlhIiwidCI6IjRmNzkzOWM3LWFhNjAtNDliZC05YjdiLTZmODFjMzdkMWIzNyJ9&pageName=69b48348ad3ee2b5bec5"
  },
  {
   "investigacion_id":71,
@@ -696,7 +696,7 @@
   "investigacion_id":73,
   "tipo_producto":"Informe final",
   "titulo":"Caracterizaci\u00f3n de hacedores de oficios artesanales",
-  "incluir_en_ficha":null,
+  "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
