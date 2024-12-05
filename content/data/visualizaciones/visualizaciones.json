@@ -1,5 +1,27 @@
 [
  {
+  "id":42,
+  "nombre":"Tablero encuesta Rock al Parque 2024",
+  "descripcion":"Tablero de visualizaci\u00f3n de resultados de la encuesta realizada a los asistentes al festival Rock al Parque 2024.",
+  "palabras_clave":"idartes rock al parque festivales al parque consumo cultural m\u00fasica turismo gastos econom\u00eda evaluaci\u00f3n eventos sim\u00f3n bol\u00edvar",
+  "puntaje":4,
+  "link":"https:\/\/app.powerbi.com\/view?r=eyJrIjoiMzkyOWIzM2QtYjA2OC00ZGZmLWIzOWMtYTY4MjJhZDhhOTlhIiwidCI6IjRmNzkzOWM3LWFhNjAtNDliZC05YjdiLTZmODFjMzdkMWIzNyJ9&pageName=69b48348ad3ee2b5bec5",
+  "estado":"en-revision",
+  "publico":1,
+  "herramienta":"power-bi",
+  "year_preparacion":2024,
+  "year_desde":2024.0,
+  "year_hasta":2023,
+  "url_carpeta_anexos":"https:\/\/drive.google.com\/drive\/search?q=m175",
+  "url_publicacion":null,
+  "notas":null,
+  "tema":"Cultura",
+  "categoria":"M\u00fasica",
+  "subcategoria":null,
+  "elaborado_por":"Mauricio Ojeda",
+  "tipo":"Mediciones"
+ },
+ {
   "id":41,
   "nombre":"EBC - Pr\u00e1cticas culturales, art\u00edsticas, creativas y patrimoniales",
   "descripcion":"Tablero de visualizaci\u00f3n de resultados de la encuesta bienal de culturas, m\u00f3dulo Pr\u00e1cticas culturales, art\u00edsticas, creativas y patrimoniales",
