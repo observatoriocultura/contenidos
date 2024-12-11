@@ -23,7 +23,7 @@ var visualizacionesApp = createApp({
             section:'lista',
             elementos: [],
             currentId: elementoIdInicial,
-            currentElement: {'id':0,'titulo':'Cargando...'},
+            currentElement: {'id':0,'nombre':'Cargando...'},
             q: '',
             filters: {
                 status: '' 
