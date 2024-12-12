@@ -590,9 +590,9 @@
  {
   "investigacion_id":71,
   "tipo_producto":"Visualizaci\u00f3n",
-  "titulo":"Encuesta Asistentes Rock al Parque 2024",
+  "titulo":"Resultados encuestas a los asistentes",
   "incluir_en_ficha":"S\u00ed",
-  "url":"https:\/\/app.powerbi.com\/view?r=eyJrIjoiMzkyOWIzM2QtYjA2OC00ZGZmLWIzOWMtYTY4MjJhZDhhOTlhIiwidCI6IjRmNzkzOWM3LWFhNjAtNDliZC05YjdiLTZmODFjMzdkMWIzNyJ9&pageName=69b48348ad3ee2b5bec5"
+  "url":"https:\/\/observatoriocultura.github.io\/proyectos2024\/festivales-al-parque\/festivales-al-parque.html"
  },
  {
   "investigacion_id":71,
@@ -1814,24 +1814,38 @@
  },
  {
   "investigacion_id":95,
-  "tipo_producto":"Informe final",
-  "titulo":"Informe final",
+  "tipo_producto":"Visualizaci\u00f3n",
+  "titulo":"Informe interactivo",
   "incluir_en_ficha":"S\u00ed",
-  "url":null
- },
- {
-  "investigacion_id":95,
-  "tipo_producto":"Base de datos",
-  "titulo":"Base de datos",
-  "incluir_en_ficha":"S\u00ed",
-  "url":null
+  "url":"https:\/\/observatoriocultura.github.io\/proyectos2024\/entrevistas-pdc2038\/horizontes.html"
  },
  {
   "investigacion_id":95,
   "tipo_producto":"Visualizaci\u00f3n",
-  "titulo":"Nube de palabras",
+  "titulo":"Tablero de resultados",
   "incluir_en_ficha":"S\u00ed",
-  "url":null
+  "url":"https:\/\/lookerstudio.google.com\/reporting\/7e71d3f7-ce90-4884-ae81-a615b379a4c5\/page\/p_5e3atphlnd"
+ },
+ {
+  "investigacion_id":95,
+  "tipo_producto":"Base de datos",
+  "titulo":"Datos detallados",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1pHlYlsVhiWiHZs-Syxfg8rMIXU9O8WNFDdOOS-bdjyk\/edit?gid=1327383703#gid=1327383703"
+ },
+ {
+  "investigacion_id":95,
+  "tipo_producto":"Presentaci\u00f3n",
+  "titulo":"Presentaci\u00f3n resumen",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/docs.google.com\/presentation\/d\/1l04FlSC3_crdCmrMLh1m28eeQC8DOl42\/edit#slide=id.p1"
+ },
+ {
+  "investigacion_id":95,
+  "tipo_producto":"Informe final",
+  "titulo":"Documentaci\u00f3n metodol\u00f3gica",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/file\/d\/1VyN0kqUbqfdERhe92gIaw5e6X3w5tsHc\/view?usp=drive_link"
  },
  {
   "investigacion_id":95,
@@ -1845,20 +1859,6 @@
   "tipo_producto":"Carpeta archivos",
   "titulo":"Procesamiento",
   "incluir_en_ficha":"No",
-  "url":null
- },
- {
-  "investigacion_id":95,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":95,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
   "url":null
  },
  {
