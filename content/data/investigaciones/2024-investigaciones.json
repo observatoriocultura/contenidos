@@ -87,7 +87,7 @@
   "expediente_orfeo":null,
   "dependencia":"IDPC",
   "puntaje":1.0,
-  "estado":"2 En ejecuci\u00f3n",
+  "estado":"4 Entregada",
   "linea_investigacion":"Sector Cultura",
   "objetivo":"Suministrar informaci\u00f3n para la formulaci\u00f3n de l\u00edneas de base acerca de la apropiaci\u00f3n del espacio p\u00fablico del PEMP Centro Hist\u00f3rico.",
   "carpeta_productos":null,
@@ -314,7 +314,7 @@
   "estado":"2 En ejecuci\u00f3n",
   "linea_investigacion":"Cultura Ciudadana",
   "objetivo":"Diagn\u00f3stico sobre h\u00e1bitos de consumo y factores culturales asociados al consumo de agua en Bogot\u00e1",
-  "carpeta_productos":null,
+  "carpeta_productos":"80. Diagn\u00f3sticoConsumoAgua",
   "palabras_clave":null,
   "investigadores":null,
   "anio":2024
@@ -346,7 +346,7 @@
   "estado":"1 Sin iniciar",
   "linea_investigacion":"Cultura Ciudadana",
   "objetivo":"Factores socioculturales que impiden que los ciudadanos habiten la ciudad en la noche",
-  "carpeta_productos":null,
+  "carpeta_productos":"81. HorariosNocturnosBogot\u00e124H",
   "palabras_clave":"deep, 24 horas",
   "investigadores":null,
   "anio":2024
@@ -394,7 +394,7 @@
   "estado":"2 En ejecuci\u00f3n",
   "linea_investigacion":"Cultura Ciudadana",
   "objetivo":"Medici\u00f3n del Impacto del redise\u00f1o de la factura en el consumo de agua en Bogot\u00e1 cuyo objetivo es validar el impacto que tiene un mensaje \"nudge\" de la factura de acueducto sobre el consumo de agua de los hogares en Bogot\u00e1. ",
-  "carpeta_productos":null,
+  "carpeta_productos":"79. ExperimentoFacturaEAAB",
   "palabras_clave":null,
   "investigadores":null,
   "anio":2024
