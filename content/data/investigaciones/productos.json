@@ -1849,6 +1849,13 @@
  },
  {
   "investigacion_id":95,
+  "tipo_producto":"Anexo",
+  "titulo":"Propts de procesamiento",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/file\/d\/12I-c4j6fYT4xOUZWunCTZH7_cMLvfg5i\/view"
+ },
+ {
+  "investigacion_id":95,
   "tipo_producto":"Carpeta archivos",
   "titulo":"Compartida Sistemas",
   "incluir_en_ficha":"No",
@@ -1859,13 +1866,6 @@
   "tipo_producto":"Carpeta archivos",
   "titulo":"Procesamiento",
   "incluir_en_ficha":"No",
-  "url":null
- },
- {
-  "investigacion_id":95,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
   "url":null
  },
  {
