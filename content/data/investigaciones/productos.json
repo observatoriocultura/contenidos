@@ -415,63 +415,63 @@
  {
   "investigacion_id":67,
   "tipo_producto":"Informe final",
-  "titulo":null,
-  "incluir_en_ficha":null,
+  "titulo":"nota t\u00e9cnica",
+  "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
   "investigacion_id":67,
   "tipo_producto":"Presentaci\u00f3n",
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
+  "titulo":"Teatro: Creaci\u00f3n Colectiva\r\nImplementaci\u00f3n PES. Avance 2024\r\n",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/file\/d\/1Ft6B1M1k7a0aPDySWUTVrO0ZfhxmVhXT\/view?usp=drive_link"
+ },
+ {
+  "investigacion_id":67,
+  "tipo_producto":"Instrumento recolecci\u00f3n",
+  "titulo":"Formulario para directorio identificaci\u00f3n grupos de Creaci\u00f3n Colectiva",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/file\/d\/1uOxGHzS9B1psiDrxidftWTL8Vp5eA6lr\/view?usp=drive_link"
  },
  {
   "investigacion_id":67,
   "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
+  "titulo":"DISE\u00d1O DE FASES PARA LA CONSTRUCCI\u00d3N DEL DIRECTORIO DE GRUPOS, COLECTIVOS, ORGANIZACIONES, ESPACIOS Y PR\u00c1CTICAS DE LA CREACI\u00d3N COLECTIVA EN BOGOT\u00c1",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/file\/d\/1vzJuRcvjjEPP5x-mI373IJ1XwhOfciZJ\/view?usp=drive_link"
  },
  {
   "investigacion_id":67,
   "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
+  "titulo":"Formulario para grupos y colectivos",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/file\/d\/19x9pbHPL8ubEjrJ-Z7X5Fp8Nsn0JlnTd\/view?usp=drive_link"
  },
  {
   "investigacion_id":67,
   "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
+  "titulo":"Formulario para espacios",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/file\/d\/1NuOXBCS_aALaUdVmy3-lMc9p2dDyjkvv\/view?usp=drive_link"
  },
  {
   "investigacion_id":67,
   "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
+  "titulo":"Preguntas focus group",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/file\/d\/13o6fJMFLs2Ug46ePrl0PkbsIt3_mO4ab\/view?usp=drive_link"
  },
  {
   "investigacion_id":67,
   "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":67,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
+  "titulo":"Sistematizaci\u00f3n Taller de Cocreaci\u00f3n",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/file\/d\/1uEgtwZGr3y_XJ4vA84g82sVYvIcgTTpl\/view?usp=drive_link"
  },
  {
   "investigacion_id":68,
   "tipo_producto":"Informe final",
-  "titulo":null,
+  "titulo":"nota t\u00e9cnica",
   "incluir_en_ficha":null,
   "url":null
  },
@@ -527,14 +527,14 @@
  {
   "investigacion_id":70,
   "tipo_producto":"Informe final",
-  "titulo":"H\u00e1bitos de consumo de principales escenarios culturales de IDARTES",
+  "titulo":"Informe final",
   "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
   "investigacion_id":70,
   "tipo_producto":"Presentaci\u00f3n",
-  "titulo":"H\u00e1bitos de consumo de principales escenarios culturales de IDARTES",
+  "titulo":"Presentaci\u00f3n de hallazgos",
   "incluir_en_ficha":"S\u00ed",
   "url":null
  },
@@ -576,13 +576,6 @@
  {
   "investigacion_id":70,
   "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":71,
-  "tipo_producto":"Informe final",
   "titulo":null,
   "incluir_en_ficha":null,
   "url":null
@@ -596,64 +589,78 @@
  },
  {
   "investigacion_id":71,
-  "tipo_producto":"Informe cuantitativo",
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
+  "tipo_producto":"Carpeta archivos",
+  "titulo":"Productos Rock Al Parque 2024",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/drive\/folders\/16cFwywwDUnaiikhMKdThAXgS6KL1r6ck?usp=drive_link"
  },
  {
   "investigacion_id":71,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
+  "tipo_producto":"Carpeta archivos",
+  "titulo":"Productos Joropo Al Parque 2024",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/drive\/folders\/1C-AJ03zWejFz9FKaKO7eAu59sp6zhaGd?usp=drive_link"
  },
  {
   "investigacion_id":71,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
+  "tipo_producto":"Carpeta archivos",
+  "titulo":"Productos Vallenato al Parque 2024",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/drive\/folders\/1CdR-KS81dvxCmPwi9GE0d9nAJdYikZ3m?usp=drive_link"
  },
  {
   "investigacion_id":71,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
+  "tipo_producto":"Carpeta archivos",
+  "titulo":"Productos Hip Hop al Parque 2024",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/drive\/folders\/1rsjbXsc8KT0G2-rS3sspPE67JWMpedSv?usp=drive_link"
  },
  {
   "investigacion_id":71,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
+  "tipo_producto":"Carpeta archivos",
+  "titulo":"Productos Colombia al Parque 2024",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/drive\/folders\/17uVjmDoLA_tRYnpBPQqCouriPktvqDud?usp=drive_link"
  },
  {
   "investigacion_id":71,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
+  "tipo_producto":"Carpeta archivos",
+  "titulo":"Productos Jazz al Parque 2024",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/drive\/folders\/1rRzkVTDG37EWitRKiN6PTEEsTGO-3tM5?usp=drive_link"
+ },
+ {
+  "investigacion_id":71,
+  "tipo_producto":"Carpeta archivos",
+  "titulo":"Productos Salsa al Parque 2024",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/drive\/folders\/1tCASlY6Ap7jbW1g3aEK2KZgx7WLQalyf?usp=drive_link"
+ },
+ {
+  "investigacion_id":71,
+  "tipo_producto":"Carpeta archivos",
+  "titulo":"Productos Popular al Parque 2024",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/drive\/folders\/1Pypb-EufQjwcoCvVl0uKDKi3OpP6e2g7?usp=drive_link"
  },
  {
   "investigacion_id":72,
   "tipo_producto":"Informe final",
-  "titulo":"Habitos de consumo audiovisual para Canal Capital",
+  "titulo":"Informe final",
   "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
   "investigacion_id":72,
   "tipo_producto":"Presentaci\u00f3n",
-  "titulo":"Habitos de consumo audiovisual para Canal Capital",
+  "titulo":"Presentaci\u00f3n de hallazgos",
   "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
   "investigacion_id":72,
   "tipo_producto":"Visualizaci\u00f3n",
-  "titulo":"Habitos de consumo audiovisual para Canal Capital",
+  "titulo":"Hallazgos obtenidos",
   "incluir_en_ficha":"S\u00ed",
   "url":null
  },
@@ -674,7 +681,7 @@
  {
   "investigacion_id":72,
   "tipo_producto":"Infograf\u00eda",
-  "titulo":"Habitos de consumo audiovisual para Canal Capital",
+  "titulo":"Resumen de hallazgos",
   "incluir_en_ficha":"S\u00ed",
   "url":null
  },
@@ -695,14 +702,14 @@
  {
   "investigacion_id":73,
   "tipo_producto":"Informe final",
-  "titulo":"Caracterizaci\u00f3n de hacedores de oficios artesanales",
+  "titulo":"Bolet\u00edn t\u00e9cnico",
   "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
   "investigacion_id":73,
   "tipo_producto":"Presentaci\u00f3n",
-  "titulo":"Caracterizaci\u00f3n de hacedores de oficios artesanales",
+  "titulo":"Hallazgos",
   "incluir_en_ficha":"S\u00ed",
   "url":null
  },
@@ -716,21 +723,21 @@
  {
   "investigacion_id":73,
   "tipo_producto":"Instrumento recolecci\u00f3n",
-  "titulo":"Caracterizaci\u00f3n de hacedores de oficios artesanales",
+  "titulo":"Formulario",
   "incluir_en_ficha":"No",
   "url":null
  },
  {
   "investigacion_id":73,
   "tipo_producto":"Informe cuantitativo",
-  "titulo":"Caracterizaci\u00f3n de hacedores de oficios artesanales",
+  "titulo":"Base de datos",
   "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
   "investigacion_id":73,
   "tipo_producto":"Infograf\u00eda",
-  "titulo":"Caracterizaci\u00f3n de hacedores de oficios artesanales",
+  "titulo":"Infograf\u00eda",
   "incluir_en_ficha":"S\u00ed",
   "url":null
  },
@@ -1759,7 +1766,7 @@
  {
   "investigacion_id":94,
   "tipo_producto":"Informe final",
-  "titulo":null,
+  "titulo":"Nota t\u00e9cnica",
   "incluir_en_ficha":null,
   "url":null
  },
@@ -1773,14 +1780,14 @@
  {
   "investigacion_id":94,
   "tipo_producto":"Visualizaci\u00f3n",
-  "titulo":null,
+  "titulo":"Tableros de resultados",
   "incluir_en_ficha":null,
   "url":null
  },
  {
   "investigacion_id":94,
   "tipo_producto":"Mapa\/Geovisor",
-  "titulo":null,
+  "titulo":"Puntos medidos",
   "incluir_en_ficha":null,
   "url":null
  },
