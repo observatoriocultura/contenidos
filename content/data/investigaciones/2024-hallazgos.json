@@ -78,5 +78,45 @@
   "texto":"La interfaz en Looker Studio, que permite a los usuarios aplicar filtros y explorar datos de manera interactiva, demuestra el valor de una visualizaci\u00f3n din\u00e1mica para el an\u00e1lisis. Se recomienda solicitar mantener y mejorar esta herramienta, a\u00f1adiendo nuevas funcionalidades que respondan a las necesidades de los tomadores de decisiones y usuarios finales, formadores y de la OFB.",
   "valor":null,
   "unidad_medida":null
+ },
+ {
+  "investigacion_id":65,
+  "orden":1,
+  "titulo":"El espacio p\u00fablico como espacio de interacci\u00f3n",
+  "texto":"Los habitantes y comerciantes de las zonas encuestadas pertenecientes al \u00e1rea afectada del PEMP Centro Hist\u00f3rico, ven el espacio p\u00fablico como un lugar de interacci\u00f3n, encuentro e intercambio, principalmente econ\u00f3mico, ya que lo asocian con un espacio para ir a trabajar, as\u00ed mismo, como un espacio de peligro y de conflictos.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":65,
+  "orden":2,
+  "titulo":"Relaciones con los Vecinos",
+  "texto":"Lo que m\u00e1s valoran los encuestados pertenecientes al \u00e1rea afectada del PEMP Centro Hist\u00f3rico, es que hay buenas relaciones entre los vecinos y de potencial para trabajar con la comunidad en la preservaci\u00f3n del patrimonio, sin embargo, al ser la seguridad uno de los temas con mayor ponderaci\u00f3n negativa, se debe revisar si esta falta de seguridad de corresponde con habitantes externos al sector o poblaci\u00f3n flotante, teniendo en cuenta que contrasta con la buena valoraci\u00f3n que se tuvo de los vecinos y el vecindario; as\u00ed mismo, hay un indicador de necesidad de prestar atenci\u00f3n a los espacios verdes.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":65,
+  "orden":3,
+  "titulo":"Visi\u00f3n del patrimonio",
+  "texto":"Para los encuestados pertenecientes al \u00e1rea afectada del PEMP Centro Hist\u00f3rico, el patrimonio sigue estando asociado con espacios inmuebles y una visi\u00f3n tradicional del patrimonio, teniendo en cuenta que las iglesias, plazas y monumentos son los elementos con mayor porcentaje de consideraci\u00f3n como patrimonio, mientras que elementos y pr\u00e1cticas como oficios tradicionales, expresiones musicales y sonoras, Las fiestas barriales (festivales musicales, conmemoraciones, encuentros culturales, poblacionales) y el entorno natural (p\u00e1ramos, cerros, quebradas, r\u00edos, humedales y huertas) no son considerados como tal.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":65,
+  "orden":4,
+  "titulo":"Espacio p\u00fablico patrimonial",
+  "texto":"El reconocimiento del cuidado y relacionamiento con el espacio p\u00fablico patrimonial asociado con la seguridad, la presencia de instituciones, turistas y poblaci\u00f3n flotante y la conservaci\u00f3n del mismo.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":65,
+  "orden":5,
+  "titulo":"Acciones para mejorar el espacio p\u00fablico patrimonial",
+  "texto":"Los aspectos m\u00e1s relevantes para los encuestados pertenecientes al \u00e1rea afectada del PEMP Centro Hist\u00f3rico son mejorar la preservaci\u00f3n del patrimonio en los espacios p\u00fablicos son programas de mantenimiento f\u00edsico de los monumentos, la educaci\u00f3n y conciencia de la ciudadan\u00eda y cultura ciudadana.",
+  "valor":null,
+  "unidad_medida":null
  }
 ]

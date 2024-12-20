@@ -303,50 +303,50 @@
  {
   "investigacion_id":65,
   "tipo_producto":"Informe final",
-  "titulo":null,
+  "titulo":"Ficha t\u00e9cnica: Informe Estudio de percepci\u00f3n y apropiaci\u00f3n  de los residentes del centro en el marco del PEMP Centro Hist\u00f3rico\n",
   "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
   "investigacion_id":65,
   "tipo_producto":"Base de datos",
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":65,
-  "tipo_producto":"Informe cuantitativo",
-  "titulo":null,
-  "incluir_en_ficha":null,
+  "titulo":"Base la anonimizada",
+  "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
   "investigacion_id":65,
   "tipo_producto":"Instrumento recolecci\u00f3n",
-  "titulo":null,
-  "incluir_en_ficha":null,
+  "titulo":"Instrumento de recolecci\u00f3n",
+  "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
   "investigacion_id":65,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
+  "tipo_producto":"Otro",
+  "titulo":"Ficha t\u00e9cnica medici\u00f3n",
+  "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
   "investigacion_id":65,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
+  "tipo_producto":"Anexo",
+  "titulo":"Resumen de Datos Univariados Patrimonio Hist\u00f3rico Con Nulos plots",
+  "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
   "investigacion_id":65,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
+  "tipo_producto":"Anexo",
+  "titulo":"Otros gr\u00e1ficos de apoyo",
+  "incluir_en_ficha":"S\u00ed",
+  "url":null
+ },
+ {
+  "investigacion_id":65,
+  "tipo_producto":"Carpeta archivos",
+  "titulo":"Carpeta con Investigaci\u00f3n PEMP CH IDPC",
+  "incluir_en_ficha":"No",
   "url":null
  },
  {
@@ -429,16 +429,23 @@
  {
   "investigacion_id":67,
   "tipo_producto":"Instrumento recolecci\u00f3n",
-  "titulo":"Formulario para directorio identificaci\u00f3n grupos de Creaci\u00f3n Colectiva",
+  "titulo":"DISE\u00d1O DE FASES PARA LA CONSTRUCCI\u00d3N DEL DIRECTORIO DE GRUPOS, COLECTIVOS, ORGANIZACIONES, ESPACIOS Y PR\u00c1CTICAS DE LA CREACI\u00d3N COLECTIVA EN BOGOT\u00c1",
   "incluir_en_ficha":"S\u00ed",
-  "url":"https:\/\/drive.google.com\/file\/d\/1uOxGHzS9B1psiDrxidftWTL8Vp5eA6lr\/view?usp=drive_link"
+  "url":"https:\/\/drive.google.com\/file\/d\/1vzJuRcvjjEPP5x-mI373IJ1XwhOfciZJ\/view?usp=drive_link"
  },
  {
   "investigacion_id":67,
   "tipo_producto":null,
-  "titulo":"DISE\u00d1O DE FASES PARA LA CONSTRUCCI\u00d3N DEL DIRECTORIO DE GRUPOS, COLECTIVOS, ORGANIZACIONES, ESPACIOS Y PR\u00c1CTICAS DE LA CREACI\u00d3N COLECTIVA EN BOGOT\u00c1",
+  "titulo":"Sistematizaci\u00f3n Taller de Cocreaci\u00f3n",
   "incluir_en_ficha":"S\u00ed",
-  "url":"https:\/\/drive.google.com\/file\/d\/1vzJuRcvjjEPP5x-mI373IJ1XwhOfciZJ\/view?usp=drive_link"
+  "url":"https:\/\/drive.google.com\/file\/d\/1uEgtwZGr3y_XJ4vA84g82sVYvIcgTTpl\/view?usp=drive_link"
+ },
+ {
+  "investigacion_id":67,
+  "tipo_producto":null,
+  "titulo":"Formulario para directorio identificaci\u00f3n grupos de Creaci\u00f3n Colectiva",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/file\/d\/1uOxGHzS9B1psiDrxidftWTL8Vp5eA6lr\/view?usp=drive_link"
  },
  {
   "investigacion_id":67,
@@ -460,13 +467,6 @@
   "titulo":"Preguntas focus group",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/13o6fJMFLs2Ug46ePrl0PkbsIt3_mO4ab\/view?usp=drive_link"
- },
- {
-  "investigacion_id":67,
-  "tipo_producto":null,
-  "titulo":"Sistematizaci\u00f3n Taller de Cocreaci\u00f3n",
-  "incluir_en_ficha":"S\u00ed",
-  "url":"https:\/\/drive.google.com\/file\/d\/1uEgtwZGr3y_XJ4vA84g82sVYvIcgTTpl\/view?usp=drive_link"
  },
  {
   "investigacion_id":68,
@@ -500,7 +500,7 @@
   "investigacion_id":68,
   "tipo_producto":null,
   "titulo":null,
-  "incluir_en_ficha":null,
+  "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
