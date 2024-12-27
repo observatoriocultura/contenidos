@@ -191,51 +191,51 @@
  {
   "investigacion_id":63,
   "tipo_producto":"Informe final",
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":63,
-  "tipo_producto":"Visualizaci\u00f3n",
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
+  "titulo":"Nota t\u00e9cnica Caracterizaci\u00f3n de ESALES art\u00edsticas y culturales. Plan Piloto",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/file\/d\/1A1NmSk2Ia07QhVv_23EsaKg3p5TTcXBe\/view?usp=drive_link"
  },
  {
   "investigacion_id":63,
   "tipo_producto":"Presentaci\u00f3n",
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
+  "titulo":"Presentaci\u00f3n Caracterizaci\u00f3n de Esales art\u00edsticas y Culturales. Plan Piloto",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/file\/d\/1Pl7t5hDxE5n8xumQOJwY7592ZevMbvva\/view?usp=drive_link"
  },
  {
   "investigacion_id":63,
   "tipo_producto":"Informe cuantitativo",
+  "titulo":"Tablas de salida ESALES art\u00edsticas y culturales. Plan Piloto",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/docs.google.com\/spreadsheets\/d\/19q1KNSlv6eCV6ujfoh47hT_GExS4WLml\/edit?usp=drive_link&ouid=109644844055567214421&rtpof=true&sd=true"
+ },
+ {
+  "investigacion_id":63,
+  "tipo_producto":"Base de datos",
+  "titulo":null,
+  "incluir_en_ficha":"S\u00ed",
+  "url":null
+ },
+ {
+  "investigacion_id":63,
+  "tipo_producto":"Base de datos",
+  "titulo":null,
+  "incluir_en_ficha":"No",
+  "url":null
+ },
+ {
+  "investigacion_id":63,
+  "tipo_producto":"Anexo",
   "titulo":null,
   "incluir_en_ficha":null,
   "url":null
  },
  {
   "investigacion_id":63,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":63,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":63,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
+  "tipo_producto":"Instrumento recolecci\u00f3n",
+  "titulo":"Formulario ESALES art\u00edsticas y culturales. Plan Piloto",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/file\/d\/1sLUN0W3E98dBuBKWiuU_LlyU3q2EVMxt\/view?usp=drive_link"
  },
  {
   "investigacion_id":63,
@@ -415,58 +415,58 @@
  {
   "investigacion_id":67,
   "tipo_producto":"Informe final",
-  "titulo":"nota t\u00e9cnica",
+  "titulo":"Nota t\u00e9cnica",
   "incluir_en_ficha":"S\u00ed",
-  "url":null
+  "url":"https:\/\/docs.google.com\/document\/d\/1xdA5UbFp2x_oizlr1mdDluxemsM4Jw9o\/edit?usp=drive_web&ouid=109644844055567214421&rtpof=true"
  },
  {
   "investigacion_id":67,
   "tipo_producto":"Presentaci\u00f3n",
-  "titulo":"Teatro: Creaci\u00f3n Colectiva\r\nImplementaci\u00f3n PES. Avance 2024\r\n",
+  "titulo":"Implementaci\u00f3n PES. Avance 2024",
   "incluir_en_ficha":"S\u00ed",
-  "url":"https:\/\/drive.google.com\/file\/d\/1Ft6B1M1k7a0aPDySWUTVrO0ZfhxmVhXT\/view?usp=drive_link"
+  "url":"https:\/\/docs.google.com\/presentation\/d\/1r6d5ZmQn5XVkerImclXlNJVku3E4Wkdj\/edit"
  },
  {
   "investigacion_id":67,
-  "tipo_producto":"Instrumento recolecci\u00f3n",
-  "titulo":"DISE\u00d1O DE FASES PARA LA CONSTRUCCI\u00d3N DEL DIRECTORIO DE GRUPOS, COLECTIVOS, ORGANIZACIONES, ESPACIOS Y PR\u00c1CTICAS DE LA CREACI\u00d3N COLECTIVA EN BOGOT\u00c1",
+  "tipo_producto":"Otro",
+  "titulo":"Fases de la investigaci\u00f3n",
   "incluir_en_ficha":"S\u00ed",
-  "url":"https:\/\/drive.google.com\/file\/d\/1vzJuRcvjjEPP5x-mI373IJ1XwhOfciZJ\/view?usp=drive_link"
+  "url":"https:\/\/docs.google.com\/document\/d\/1FaGxbt1p7uPx_zvLzr_NnXpH6ZMhTYOF\/edit?usp=drive_web&ouid=109644844055567214421&rtpof=true"
  },
  {
   "investigacion_id":67,
-  "tipo_producto":null,
+  "tipo_producto":"Anexo",
   "titulo":"Sistematizaci\u00f3n Taller de Cocreaci\u00f3n",
   "incluir_en_ficha":"S\u00ed",
-  "url":"https:\/\/drive.google.com\/file\/d\/1uEgtwZGr3y_XJ4vA84g82sVYvIcgTTpl\/view?usp=drive_link"
+  "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1PksYKUHY6cqwrkntoEKvUaUQC7-6FWmH\/edit?usp=drive_web&ouid=109644844055567214421&rtpof=true"
  },
  {
   "investigacion_id":67,
   "tipo_producto":null,
   "titulo":"Formulario para directorio identificaci\u00f3n grupos de Creaci\u00f3n Colectiva",
   "incluir_en_ficha":"S\u00ed",
-  "url":"https:\/\/drive.google.com\/file\/d\/1uOxGHzS9B1psiDrxidftWTL8Vp5eA6lr\/view?usp=drive_link"
+  "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1ztalIuE0tIYEoBiX65UyPjlJ2vEiec66\/edit?gid=651770934#gid=651770934"
  },
  {
   "investigacion_id":67,
   "tipo_producto":null,
   "titulo":"Formulario para grupos y colectivos",
   "incluir_en_ficha":"S\u00ed",
-  "url":"https:\/\/drive.google.com\/file\/d\/19x9pbHPL8ubEjrJ-Z7X5Fp8Nsn0JlnTd\/view?usp=drive_link"
+  "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1s7Kgwkotz1mKsjpgJarve8oyQ28-_waH\/edit?gid=2107558869#gid=2107558869"
  },
  {
   "investigacion_id":67,
   "tipo_producto":null,
   "titulo":"Formulario para espacios",
   "incluir_en_ficha":"S\u00ed",
-  "url":"https:\/\/drive.google.com\/file\/d\/1NuOXBCS_aALaUdVmy3-lMc9p2dDyjkvv\/view?usp=drive_link"
+  "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1s7Kgwkotz1mKsjpgJarve8oyQ28-_waH\/edit?rtpof=true&gid=2107558869#gid=2107558869"
  },
  {
   "investigacion_id":67,
   "tipo_producto":null,
   "titulo":"Preguntas focus group",
   "incluir_en_ficha":"S\u00ed",
-  "url":"https:\/\/drive.google.com\/file\/d\/13o6fJMFLs2Ug46ePrl0PkbsIt3_mO4ab\/view?usp=drive_link"
+  "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1s7Kgwkotz1mKsjpgJarve8oyQ28-_waH\/edit?rtpof=true&gid=2107558869#gid=2107558869"
  },
  {
   "investigacion_id":68,
@@ -484,14 +484,14 @@
  },
  {
   "investigacion_id":68,
-  "tipo_producto":"Informe cuantitativo",
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
+  "tipo_producto":"Instrumento recolecci\u00f3n",
+  "titulo":"Formularios de recolecci\u00f3n Evento Navidad 2024",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/file\/d\/1dwd1trjBvTCtsoha-9rd6RIRm-zRVdu3\/view?usp=drive_link"
  },
  {
   "investigacion_id":68,
-  "tipo_producto":null,
+  "tipo_producto":"Informe cuantitativo",
   "titulo":null,
   "incluir_en_ficha":null,
   "url":null
@@ -724,7 +724,7 @@
   "investigacion_id":73,
   "tipo_producto":"Instrumento recolecci\u00f3n",
   "titulo":"Formulario",
-  "incluir_en_ficha":"No",
+  "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
@@ -1766,29 +1766,29 @@
  {
   "investigacion_id":94,
   "tipo_producto":"Informe final",
-  "titulo":"Nota t\u00e9cnica",
-  "incluir_en_ficha":null,
-  "url":null
+  "titulo":"Bolet\u00edn t\u00e9cnico Informe de percepci\u00f3n y satisfacci\u00f3n de asistentes del Festival Internacional de Artes Vivas 2024",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/file\/d\/1zOWpVUWLu2jUP0A0LXVJwzRUxxZ1b08T\/view?usp=drive_link"
  },
  {
   "investigacion_id":94,
   "tipo_producto":"Presentaci\u00f3n",
-  "titulo":null,
+  "titulo":"Presentaci\u00f3nresultados percepci\u00f3n y satisfacci\u00f3n de asistentes del Festival Internacional de Artes Vivas 2024",
   "incluir_en_ficha":null,
-  "url":null
+  "url":"https:\/\/drive.google.com\/file\/d\/1Co7ztg3Rgg1UQtF_rpTcjxpgyEla5pq9\/view?usp=drive_link"
  },
  {
   "investigacion_id":94,
   "tipo_producto":"Visualizaci\u00f3n",
   "titulo":"Tableros de resultados",
-  "incluir_en_ficha":null,
+  "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
   "investigacion_id":94,
   "tipo_producto":"Mapa\/Geovisor",
   "titulo":"Puntos medidos",
-  "incluir_en_ficha":null,
+  "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
@@ -1800,14 +1800,14 @@
  },
  {
   "investigacion_id":94,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
+  "tipo_producto":"Instrumento recolecci\u00f3n",
+  "titulo":"Formularios I de percepci\u00f3n y satisfacci\u00f3n de asistentes del Festival Internacional de Artes Vivas 2024",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/file\/d\/1zOWpVUWLu2jUP0A0LXVJwzRUxxZ1b08T\/view?usp=drive_link"
  },
  {
   "investigacion_id":94,
-  "tipo_producto":null,
+  "tipo_producto":"Base de datos",
   "titulo":null,
   "incluir_en_ficha":null,
   "url":null
