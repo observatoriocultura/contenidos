@@ -150,14 +150,14 @@
   "investigacion_id":62,
   "tipo_producto":"Anexo",
   "titulo":"Criterios de construcci\u00f3n del instrumento de medici\u00f3n ",
-  "incluir_en_ficha":"S\u00ed",
+  "incluir_en_ficha":"No",
   "url":null
  },
  {
   "investigacion_id":62,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
+  "tipo_producto":"Informe final",
+  "titulo":"Nota t\u00e9cnica de construcci\u00f3n del instrumento de medici\u00f3n de impacto",
+  "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
@@ -212,22 +212,22 @@
  {
   "investigacion_id":63,
   "tipo_producto":"Base de datos",
-  "titulo":null,
+  "titulo":"Base ESTUDIO_SOBRE_ESTATUS_DE_OFERTA_DE_VALOR_ESTRUCTURA_Y_SOSTENIBILIDAD_DE_LAS_ENTIDADES_SIN_\u00c1NIMO_DE_LUCRO_-_ESALes_Anonimizada",
   "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
   "investigacion_id":63,
   "tipo_producto":"Base de datos",
-  "titulo":null,
+  "titulo":"ESTUDIO_SOBRE_ESTATUS_DE_OFERTA_DE_VALOR_ESTRUCTURA_Y_SOSTENIBILIDAD_DE_LAS_ENTIDADES_SIN_\u00c1NIMO_DE_LUCRO_-_ESAL_QUE_DESARROLLAN_ACTIVIDADES_CULTURALES_Depurada",
   "incluir_en_ficha":"No",
   "url":null
  },
  {
   "investigacion_id":63,
   "tipo_producto":"Anexo",
-  "titulo":null,
-  "incluir_en_ficha":null,
+  "titulo":"Ficha T\u00e9cnica ESALes 2024",
+  "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
@@ -274,14 +274,14 @@
  },
  {
   "investigacion_id":64,
-  "tipo_producto":null,
+  "tipo_producto":"Instrumento recolecci\u00f3n",
   "titulo":null,
   "incluir_en_ficha":null,
   "url":null
  },
  {
   "investigacion_id":64,
-  "tipo_producto":null,
+  "tipo_producto":"Anexo",
   "titulo":null,
   "incluir_en_ficha":null,
   "url":null
@@ -527,30 +527,30 @@
  {
   "investigacion_id":70,
   "tipo_producto":"Informe final",
-  "titulo":"Informe final",
+  "titulo":"Informe final: Plan Piloto de la caracterizaci\u00f3n de hacedores de oficios artesanales en Bogot\u00e1",
   "incluir_en_ficha":"S\u00ed",
-  "url":null
+  "url":"https:\/\/docs.google.com\/document\/d\/1N0i_Ucw3DVPrQUFTCn93W9FX5_Duh0iC\/edit?usp=sharing&ouid=104915651503849072754&rtpof=true&sd=true"
  },
  {
   "investigacion_id":70,
   "tipo_producto":"Presentaci\u00f3n",
   "titulo":"Presentaci\u00f3n de hallazgos",
   "incluir_en_ficha":"S\u00ed",
-  "url":null
+  "url":"https:\/\/docs.google.com\/presentation\/d\/1WZPAusrN2Zzfo3_H070IbtJqjkhqQpdo\/edit?usp=sharing&ouid=104915651503849072754&rtpof=true&sd=true"
  },
  {
   "investigacion_id":70,
   "tipo_producto":"Visualizaci\u00f3n",
   "titulo":"H\u00e1bitos de consumo de principales escenarios culturales de IDARTES",
   "incluir_en_ficha":"S\u00ed",
-  "url":null
+  "url":"https:\/\/drive.google.com\/drive\/folders\/1CQRBh6f0n7dw1BKTRnoWZfDWNM60xPf8?usp=sharing"
  },
  {
   "investigacion_id":70,
   "tipo_producto":"Instrumento recolecci\u00f3n",
   "titulo":"H\u00e1bitos de consumo de principales escenarios culturales de IDARTES",
-  "incluir_en_ficha":"No",
-  "url":null
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1R1E5agC4gZuV6lfusm5_rTM4ozG6IizM\/edit?usp=sharing&ouid=104915651503849072754&rtpof=true&sd=true"
  },
  {
   "investigacion_id":70,
@@ -661,7 +661,7 @@
   "investigacion_id":72,
   "tipo_producto":"Visualizaci\u00f3n",
   "titulo":"Hallazgos obtenidos",
-  "incluir_en_ficha":"S\u00ed",
+  "incluir_en_ficha":"No",
   "url":null
  },
  {
@@ -702,14 +702,14 @@
  {
   "investigacion_id":73,
   "tipo_producto":"Informe final",
-  "titulo":"Bolet\u00edn t\u00e9cnico",
+  "titulo":"Informe de resultados ",
   "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
   "investigacion_id":73,
   "tipo_producto":"Presentaci\u00f3n",
-  "titulo":"Hallazgos",
+  "titulo":"Presentaci\u00f3n de hallazgos ",
   "incluir_en_ficha":"S\u00ed",
   "url":null
  },
@@ -736,9 +736,9 @@
  },
  {
   "investigacion_id":73,
-  "tipo_producto":"Infograf\u00eda",
-  "titulo":"Infograf\u00eda",
-  "incluir_en_ficha":"S\u00ed",
+  "tipo_producto":null,
+  "titulo":null,
+  "incluir_en_ficha":null,
   "url":null
  },
  {
@@ -870,8 +870,8 @@
  {
   "investigacion_id":76,
   "tipo_producto":"Informe final",
-  "titulo":null,
-  "incluir_en_ficha":null,
+  "titulo":"Espacio p\u00fablico: tejido social y apropiaci\u00f3n",
+  "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
@@ -884,43 +884,43 @@
  {
   "investigacion_id":76,
   "tipo_producto":"Base de datos",
-  "titulo":null,
-  "incluir_en_ficha":null,
+  "titulo":"Base Sondeo_apropiaci\u00f3n_del_espacio_p\u00fablico_Anonimizada",
+  "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
   "investigacion_id":76,
   "tipo_producto":"Anexo",
   "titulo":"Matriz de consistencia",
-  "incluir_en_ficha":null,
+  "incluir_en_ficha":"No",
   "url":null
  },
  {
   "investigacion_id":76,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
+  "tipo_producto":"Instrumento recolecci\u00f3n",
+  "titulo":"Actividad espacios e identidad",
+  "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
   "investigacion_id":76,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
+  "tipo_producto":"Instrumento recolecci\u00f3n",
+  "titulo":"Sondeo Apropiaci\u00f3n",
+  "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
   "investigacion_id":76,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
+  "tipo_producto":"Anexo",
+  "titulo":"Estado del Arte",
+  "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
   "investigacion_id":76,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
+  "tipo_producto":"Informe cuantitativo",
+  "titulo":"Resumen de Datos Univariados Espacios P\u00fablicos 2024 GRaficos",
+  "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
@@ -946,7 +946,7 @@
  },
  {
   "investigacion_id":77,
-  "tipo_producto":null,
+  "tipo_producto":"Instrumento recolecci\u00f3n",
   "titulo":null,
   "incluir_en_ficha":null,
   "url":null
@@ -1038,7 +1038,7 @@
  {
   "investigacion_id":79,
   "tipo_producto":"Presentaci\u00f3n",
-  "titulo":null,
+  "titulo":"Presentacion Dise\u00f1o de Evaluaci\u00f3n de factura ",
   "incluir_en_ficha":null,
   "url":null
  },
@@ -1094,14 +1094,14 @@
  {
   "investigacion_id":80,
   "tipo_producto":"Informe final",
-  "titulo":null,
+  "titulo":"Estado del arte y diagn\u00f3stico de h\u00e1bitos de consumo de agua",
   "incluir_en_ficha":null,
   "url":null
  },
  {
   "investigacion_id":80,
   "tipo_producto":"Presentaci\u00f3n",
-  "titulo":null,
+  "titulo":"Presentaci\u00f3n resultados investigaci\u00f3n agua",
   "incluir_en_ficha":null,
   "url":null
  },
@@ -1150,14 +1150,14 @@
  {
   "investigacion_id":81,
   "tipo_producto":"Informe final",
-  "titulo":null,
+  "titulo":"Informe de an\u00e1lisis encuesta Bogot\u00e1 24 horas",
   "incluir_en_ficha":null,
   "url":null
  },
  {
   "investigacion_id":81,
   "tipo_producto":"Presentaci\u00f3n",
-  "titulo":null,
+  "titulo":"Presentac\u00f3n resultados de la encuesta Bogot\u00e1 24 horas",
   "incluir_en_ficha":null,
   "url":null
  },
@@ -1429,16 +1429,16 @@
  },
  {
   "investigacion_id":86,
-  "tipo_producto":"Informe final",
-  "titulo":null,
-  "incluir_en_ficha":null,
+  "tipo_producto":"Instrumento recolecci\u00f3n",
+  "titulo":"Formulario Metro 2024",
+  "incluir_en_ficha":"No",
   "url":null
  },
  {
   "investigacion_id":86,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
+  "tipo_producto":"Informe final",
+  "titulo":"Informe solicitud revisi\u00f3n metodol\u00f3gica Metro",
+  "incluir_en_ficha":"No",
   "url":null
  },
  {
@@ -1598,8 +1598,8 @@
  {
   "investigacion_id":89,
   "tipo_producto":"Informe final",
-  "titulo":null,
-  "incluir_en_ficha":null,
+  "titulo":"Estacionamiento en espacios prohibidos en Bogot\u00e1 ",
+  "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
@@ -1620,21 +1620,21 @@
   "investigacion_id":89,
   "tipo_producto":"Anexo",
   "titulo":"Matriz de consistencia",
-  "incluir_en_ficha":null,
+  "incluir_en_ficha":"No",
   "url":null
  },
  {
   "investigacion_id":89,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
+  "tipo_producto":"Instrumento recolecci\u00f3n",
+  "titulo":"Sondeo estacionamiento prohibido",
+  "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
   "investigacion_id":89,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
+  "tipo_producto":"Anexo",
+  "titulo":"Estado de arte ",
+  "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {

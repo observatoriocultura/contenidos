@@ -150,5 +150,181 @@
   "texto":"Los aspectos m\u00e1s relevantes para los encuestados pertenecientes al \u00e1rea afectada del PEMP Centro Hist\u00f3rico son mejorar la preservaci\u00f3n del patrimonio en los espacios p\u00fablicos son programas de mantenimiento f\u00edsico de los monumentos, la educaci\u00f3n y conciencia de la ciudadan\u00eda y cultura ciudadana.",
   "valor":null,
   "unidad_medida":null
+ },
+ {
+  "investigacion_id":76,
+  "orden":1,
+  "titulo":"El Espacio P\u00fablico como Corredor de Movilidad",
+  "texto":"La principal funci\u00f3n percibida del espacio p\u00fablico es la movilidad. Por ejemplo, localidades como Barrios Unidos (65.8%), Chapinero (61.3%) y Ciudad Bol\u00edvar (63.4%) lideran en esta percepci\u00f3n. Esto indica una dependencia alta de los espacios p\u00fablicos para desplazamientos diarios, dejando menos espacio para funciones sociales o culturales.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":76,
+  "orden":2,
+  "titulo":"El mayor desafio, la inseguridad",
+  "texto":"La percepci\u00f3n de inseguridad es predominante en varias localidades, afectando su uso y disfrute. En localidades como Kennedy (67% percibe inseguridad) y Rafael Uribe Uribe (74.4%), las cifras indican que m\u00e1s de dos tercios de los encuestados consideran los espacios p\u00fablicos como inseguros. Elementos como iluminaci\u00f3n adecuada y presencia de personal de seguridad son clave para mejorar esta percepci\u00f3n.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":76,
+  "orden":3,
+  "titulo":"Baja participaci\u00f3n en actividades comunitarias",
+  "texto":"Un porcentaje significativo de encuestados nunca participa en actividades recreativas o sociales en el espacio p\u00fablico. En Bosa, el 50.3% de los encuestados report\u00f3 no participar nunca en estas actividades, seguido de Suba (70.8%). Este hallazgo sugiere una oportunidad para fomentar mayor integraci\u00f3n social a trav\u00e9s de eventos organizados.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":76,
+  "orden":4,
+  "titulo":"Eventos culturales y artisticos como potencial para la apropiaci\u00f3n del Espacio P\u00fablico ",
+  "texto":"Los ciudadanos valoran actividades como festivales tradicionales y eventos art\u00edsticos para revitalizar los espacios p\u00fablicos. Por ejemplo, en Santa Fe, el 39.3% de los encuestados prefiere exposiciones de arte local, mientras que en Usme, el 49.3% destaca los festivales tradicionales. Estas actividades tienen el potencial de conectar a las comunidades con su cultura e identidad.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":76,
+  "orden":5,
+  "titulo":"Resultados por localidades",
+  "texto":"Localidades como Teusaquillo, Usaqu\u00e9n, y Santa Fe destacan por una percepci\u00f3n m\u00e1s positiva, mejor estado de sus espacios p\u00fablicos y mayor conexi\u00f3n con la identidad cultural. En contraste, Ciudad Bol\u00edvar, Los M\u00e1rtires, y Rafael Uribe Uribe presentan resultados cr\u00edticos en t\u00e9rminos de inseguridad, deterioro de infraestructura y falta de uso comunitario, lo que refuerza la necesidad de intervenciones focalizadas.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":79,
+  "orden":1,
+  "titulo":"Medici\u00f3n del nuevo dise\u00f1o de la factura",
+  "texto":"Le evaluaci\u00f3n se enfocar\u00e1 en medir los resultados del nuevo dise\u00f1o de la factura en el consumo de agua de los bogotanos",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":79,
+  "orden":2,
+  "titulo":"Metodolog\u00eda de medici\u00f3n",
+  "texto":"La evaluaci\u00f3n de resultados se har\u00e1 por medio de una metodolog\u00eda de diferencia de medias.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":80,
+  "orden":1,
+  "titulo":"Equivalencia de un metro cubico en litros",
+  "texto":"El 46% de bogotanos no sabe la equivalencia de un metro c\u00fabico en litros.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":80,
+  "orden":2,
+  "titulo":"Acciones de ahorro de agua tras el racionamiento",
+  "texto":"Despu\u00e9s de las medidas de racionamiento, el 17% de los bogotanos empezaron a recoger agua en un balde durante el ba\u00f1o. El 55% ya lo hac\u00eda antes del racionamiento. \r",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":80,
+  "orden":3,
+  "titulo":"Creencias sobre el lugar de la casa donde m\u00e1s se gasta agua",
+  "texto":"En promedio, el 42% de los bogotanos cree que la zona de lavado de ropas es donde m\u00e1s se gasta agua en el hogar.\r",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":80,
+  "orden":4,
+  "titulo":"Tiempo en la ducha",
+  "texto":"Aproximadamente 3 de cada 10 bogotanos se ba\u00f1an en m\u00e1s de 5 minutos. \r",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":80,
+  "orden":5,
+  "titulo":"Asociaci\u00f3n de la ducha",
+  "texto":"47% asocia la ducha como un espacio de aseo, el 38% como un espacio para activarse, y el 15% como uno de reflexi\u00f3n, relajaci\u00f3n y bienestar.\r",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":81,
+  "orden":1,
+  "titulo":null,
+  "texto":"Los resultados reflejan una alta participaci\u00f3n reciente en eventos culturales y recreativos, y alta acogida de la estrategia, con un 38% de los encuestados que han asistido a un evento en la \u00faltima semana y un 94% que califica positivamente la iniciativa de extender la oferta cultural a horarios nocturnos.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":81,
+  "orden":2,
+  "titulo":null,
+  "texto":"El inter\u00e9s en actividades nocturnas se concentra en eventos culturales y recreativos, como teatro, visitas guiadas, cine y m\u00fasica en vivo, mientras que actividades como el circo y servicios financieros tienen menor aceptaci\u00f3n.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":81,
+  "orden":3,
+  "titulo":null,
+  "texto":"Los principales obst\u00e1culos se\u00f1alados para extender la oferta cultural y recreativa a horarios nocturnos en Bogot\u00e1 son la inseguridad (82%) y la falta de transporte p\u00fablico en horarios nocturnos (71%). Los encuestados sugieren mejorar la seguridad, ampliar la cobertura de transporte y fortalecer la difusi\u00f3n de actividades como acciones prioritarias para superar estas barreras.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":81,
+  "orden":4,
+  "titulo":null,
+  "texto":"\u2022Los encuestados valoran la oferta cultural nocturna por los beneficios que genera tanto a nivel personal como social. Un 95% considera que la estrategia Bogot\u00e1 24 horas tendr\u00eda un impacto positivo en sus vidas. Los principales beneficios para la ciudad mencionados por los encuestados incluyen la reactivaci\u00f3n econ\u00f3mica, mayor inclusi\u00f3n social y aumento del empleo.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":81,
+  "orden":5,
+  "titulo":null,
+  "texto":"El 33% de los encuestados indica que conf\u00eda en otros bogotanos.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":89,
+  "orden":1,
+  "titulo":"Predominio de la Falta de Planificaci\u00f3n al Estacionar",
+  "texto":"La mayor\u00eda de los encuestados indic\u00f3 que no planifica completamente d\u00f3nde estacionar antes de llegar a su destino. Solo un promedio del 39% se\u00f1al\u00f3 que siempre lo hace, siendo Fontib\u00f3n la mejor localidad con un 61.2% y Kennedy la peor con apenas un 16.7%. Este hallazgo revela una brecha significativa en la planificaci\u00f3n previa de los viajes, lo que contribuye al mal parqueo.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":89,
+  "orden":2,
+  "titulo":"Aceptaci\u00f3n del Uso del Espacio P\u00fablico para Estacionamiento",
+  "texto":"El 49.6% de los encuestados considera que el espacio p\u00fablico deber\u00eda usarse para veh\u00edculos particulares si no hay otras opciones de estacionamiento. Kennedy tuvo los mejores resultados, con un 73% de ciudadanos rechazando esta afirmaci\u00f3n, mientras que Engativ\u00e1 mostr\u00f3 el nivel m\u00e1s alto de aceptaci\u00f3n con un 77.4%. Esto resalta una tensi\u00f3n entre las necesidades de movilidad privada y la preservaci\u00f3n del espacio p\u00fablico.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":89,
+  "orden":3,
+  "titulo":"Percepci\u00f3n del Mal Parqueo como un Problema Social",
+  "texto":"El 84.2% de los encuestados considera que el mal parqueo afecta negativamente la calidad de vida en la ciudad. San Crist\u00f3bal, Santa Fe - La Candelaria y Kennedy presentaron los niveles m\u00e1s altos de concienciaci\u00f3n con el 100%, mientras que Antonio Nari\u00f1o fue la m\u00e1s rezagada, con solo un 63.2%. Este dato indica una comprensi\u00f3n generalizada del impacto social del mal parqueo",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":89,
+  "orden":4,
+  "titulo":"Eficacia Percibida de las Sanciones por Mal Parqueo",
+  "texto":"El 51.7% de los encuestados percibe que las sanciones actuales no son efectivas para prevenir el mal parqueo. Chapinero mostr\u00f3 la mayor satisfacci\u00f3n con las sanciones (79.2%), mientras que Kennedy y Los M\u00e1rtires destacaron como las peores con niveles de aceptaci\u00f3n del 16.7%. ",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":89,
+  "orden":5,
+  "titulo":"Indiferencia Frente a los Veh\u00edculos Mal Estacionados",
+  "texto":"Un 19.1% de los encuestados admiti\u00f3 sentirse indiferente al ver veh\u00edculos mal estacionados, siendo Antonio Nari\u00f1o la localidad con el porcentaje m\u00e1s alto de indiferencia (29.9%), y Teusaquillo la m\u00e1s cr\u00edtica, con un 50% expresando inconformidad. Este hallazgo sugiere que, aunque el mal parqueo es reconocido como un problema, un segmento de la poblaci\u00f3n no lo considera prioritario.",
+  "valor":null,
+  "unidad_medida":null
  }
 ]
