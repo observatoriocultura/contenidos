@@ -151,7 +151,6 @@
   "tipo_producto":"Anexo",
   "titulo":"Criterios de construcci\u00f3n del instrumento de medici\u00f3n ",
   "incluir_en_ficha":"No",
-  "incluir_en_ficha":"No",
   "url":null
  },
  {
@@ -192,51 +191,51 @@
  {
   "investigacion_id":63,
   "tipo_producto":"Informe final",
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":63,
-  "tipo_producto":"Visualizaci\u00f3n",
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
+  "titulo":"Nota t\u00e9cnica Caracterizaci\u00f3n de ESALES art\u00edsticas y culturales. Plan Piloto",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/file\/d\/1A1NmSk2Ia07QhVv_23EsaKg3p5TTcXBe\/view?usp=drive_link"
  },
  {
   "investigacion_id":63,
   "tipo_producto":"Presentaci\u00f3n",
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
+  "titulo":"Presentaci\u00f3n Caracterizaci\u00f3n de Esales art\u00edsticas y Culturales. Plan Piloto",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/file\/d\/1QpKT91_xYT5gPtg-jAewsMt1BSOInptT\/view?usp=drive_link"
  },
  {
   "investigacion_id":63,
   "tipo_producto":"Informe cuantitativo",
-  "titulo":null,
-  "incluir_en_ficha":null,
+  "titulo":"Tablas de salida ESALES art\u00edsticas y culturales. Plan Piloto",
+  "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
   "investigacion_id":63,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
+  "tipo_producto":"Base de datos",
+  "titulo":"Base de datos anonimizada",
+  "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
   "investigacion_id":63,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
+  "tipo_producto":"Base de datos",
+  "titulo":"ESTUDIO_SOBRE_ESTATUS_DE_OFERTA_DE_VALOR_ESTRUCTURA_Y_SOSTENIBILIDAD_DE_LAS_ENTIDADES_SIN_\u00c1NIMO_DE_LUCRO_-_ESAL_QUE_DESARROLLAN_ACTIVIDADES_CULTURALES_Depurada",
+  "incluir_en_ficha":"No",
   "url":null
  },
  {
   "investigacion_id":63,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
+  "tipo_producto":"Anexo",
+  "titulo":"Ficha T\u00e9cnica ESALes 2024",
+  "incluir_en_ficha":"S\u00ed",
   "url":null
+ },
+ {
+  "investigacion_id":63,
+  "tipo_producto":"Instrumento recolecci\u00f3n",
+  "titulo":"Formulario ESALES art\u00edsticas y culturales. Plan Piloto",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/file\/d\/1sLUN0W3E98dBuBKWiuU_LlyU3q2EVMxt\/view?usp=drive_link"
  },
  {
   "investigacion_id":63,
@@ -275,14 +274,14 @@
  },
  {
   "investigacion_id":64,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
+  "tipo_producto":"Instrumento recolecci\u00f3n",
+  "titulo":"FORMULARIO PRACTICAS DEPORTIVAS Y CALIDAD DE VIDA 2024 _ KoboToolbox",
+  "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
   "investigacion_id":64,
-  "tipo_producto":null,
+  "tipo_producto":"Anexo",
   "titulo":null,
   "incluir_en_ficha":null,
   "url":null
@@ -416,14 +415,14 @@
  {
   "investigacion_id":67,
   "tipo_producto":"Informe final",
-  "titulo":"nota t\u00e9cnica",
+  "titulo":"Nota t\u00e9cnica",
   "incluir_en_ficha":"S\u00ed",
-  "url":null
+  "url":"https:\/\/docs.google.com\/document\/d\/1xdA5UbFp2x_oizlr1mdDluxemsM4Jw9o\/edit?usp=drive_web&ouid=109644844055567214421&rtpof=true"
  },
  {
   "investigacion_id":67,
   "tipo_producto":"Presentaci\u00f3n",
-  "titulo":"Teatro: Creaci\u00f3n Colectiva\r\nImplementaci\u00f3n PES. Avance 2024\r\n",
+  "titulo":"Implementaci\u00f3n PES. Avance 2024",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/presentation\/d\/1r6d5ZmQn5XVkerImclXlNJVku3E4Wkdj\/edit"
  },
