@@ -112,6 +112,38 @@
   "unidad_medida":null
  },
  {
+  "investigacion_id":62,
+  "orden":1,
+  "titulo":null,
+  "texto":"La construcci\u00f3n del dise\u00f1o del instrumento para la medici\u00f3n del impacto del Programa de Formaci\u00f3n Musical \"Vamos a la Filarm\u00f3nica\" de la OFB se fundament\u00f3 en el marco de Habilidades para la Vida de la OMS a partir del cual la entidad realiza un formulario que fue diligenciado por 340 Artistas Formadores con el objetivo de identificar las categor\u00edas m\u00e1s relevantes para el estudio. Los resultados muestran que las habilidades emocionales y las habilidades sociales son las m\u00e1s relevantes para los Artistas Formadores, las cuales est\u00e1n relacionadas con la gesti\u00f3n emocional y la comunicaci\u00f3n efectiva, elementos clave en el desarrollo integral de los ni\u00f1os, ni\u00f1as, adolescentes y j\u00f3venes. ",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":62,
+  "orden":2,
+  "titulo":null,
+  "texto":"En las habilidades emocionales, el manejo de emociones y sentimientos fue la habilidad m\u00e1s priorizada por los Artistas Formadores (53,2%), seguida de la empat\u00eda (59,37%) y la autoestima y sentido de prop\u00f3sito (49,75%). Habilidades como la resiliencia y el manejo del estr\u00e9s recibieron menor puntaje en tanto habilidades a medir, con un 50,26% y 20,4% respectivamente. Esto sugiere que, aunque estas \u00faltimas integran el marco de habilidades para la vida que se quiere evaluar, su impacto puede ser menos visible en la interacci\u00f3n diaria del programa. \n",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":62,
+  "orden":3,
+  "titulo":null,
+  "texto":"En cuanto a las habilidades sociales, la comunicaci\u00f3n asertiva y la sociabilidad sobresalieron como las habilidades m\u00e1s relevantes para la medici\u00f3n del impacto con un 60,09% de respuestas que combinan los valores \"5\" y \"4\", lo que se expresa en la creaci\u00f3n de din\u00e1micas grupales y ambientes colaborativos. ",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":62,
+  "orden":4,
+  "titulo":null,
+  "texto":"En raz\u00f3n de la valoraci\u00f3n dada por parte de los Artistas Formadores se dise\u00f1\u00f3 el instrumento de medici\u00f3n de impacto con 7 preguntas sociodemogr\u00e1ficas, 3 preguntas relativas a la trayectoria en el Centro Filarm\u00f3nico, 17 preguntas para medir las habilidades emocionales y 11 preguntas para medir las habilidades sociales. En cada campo de las categor\u00edas priorizadas se tuvo en cuenta las subcategor\u00edas emergentes de la pregunta \u201c\u00bfQu\u00e9 habilidad o criterio recomiendas para realizar esta medici\u00f3n, de acuerdo a las realidades propias que observas cada d\u00eda en el trabajo con los ni\u00f1os, ni\u00f1as y adolescentes que tienes a cargo?\u201d, frente a la cual surgen habilidades como la gesti\u00f3n del tiempo, el trabajo en equipo, el autoconocimiento, la sensibilidad art\u00edstica y el pensamiento creativo. Por nivel de frecuencia, se consideran el trabajo en equipo y el autoconocimiento.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
   "investigacion_id":65,
   "orden":1,
   "titulo":"El espacio p\u00fablico como espacio de interacci\u00f3n",
