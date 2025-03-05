@@ -152,6 +152,46 @@
   "unidad_medida":null
  },
  {
+  "investigacion_id":75,
+  "orden":1,
+  "titulo":"El Festival Petronio \u00c1lvarez se consolida como un escenario de y para la diversidad cultural",
+  "texto":"En su cuarta versi\u00f3n en Bogot\u00e1, el Festival Petronio \u00c1lvarez convoc\u00f3 un conjunto de asistentes que manifest\u00f3 identificarse con grupos \u00e9tnicos y poblacionales, superando los porcentajes registrados en otros eventos como los Festivales al Parque. Adem\u00e1s, las motivaciones relacionadas con la marca del festival, el disfrute de su experiencia y las pr\u00e1cticas culturales afrocolombianas representaron una raz\u00f3n predominante para asistir, incluso por encima de la oferta musical puntual. Esto reafirma el papel del Petronio como un espacio de celebraci\u00f3n de las ra\u00edces culturales del Pac\u00edfico colombiano.\n",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":75,
+  "orden":2,
+  "titulo":"Las redes sociales oficiales fueron eficaces para la convocatoria",
+  "texto":"Las redes sociales oficiales de la FUGA (34,5%), el Bronx Distrito Creativo (14,1%) y el Festival Petronio \u00c1lvarez (18,6%) fueron los principales canales de convocatoria, con internet como el medio m\u00e1s utilizado (58,7%). Es importante destacar que el boca a boca fue el segundo canal m\u00e1s relevante (25,1%), reflejando el inter\u00e9s generado entre ciudadanos. Sin embargo, la baja incidencia de otros medios como televisi\u00f3n (4,8%), radio (2,7%) y prensa (0,5%)  sugiere la necesidad de diversificar las estrategias de comunicaci\u00f3n. Asimismo, el 47,7% de los asistentes recomend\u00f3 mejorar la difusi\u00f3n de la programaci\u00f3n como un aspecto clave para futuras ediciones.\n",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":75,
+  "orden":3,
+  "titulo":"Los comerciantes informales de benefician sin generar alianzas ni involucrar a m\u00e1s personas en el negocio",
+  "texto":"El 100% de los comerciantes informales manifest\u00f3 obtener mayores ventas el d\u00eda del festival en comparaci\u00f3n con otros s\u00e1bados, y el 73,0% afirm\u00f3 que sus ventas aumentaron m\u00e1s del 50,0%, llegando en algunos casos a duplicarse. No obstante, este incremento en las ventas no viene asociado a la incorporaci\u00f3n de otras personas al negocio ni a la generaci\u00f3n de alianzas con\notros comerciantes, sino, en general, a estrategias asociadas a ampliar las horas de trabajo (72,7%) y aumentar la cantidad de productos disponibles (63,6%).\n",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":75,
+  "orden":4,
+  "titulo":"Desaf\u00edos y oportunidades en el entorno del festival",
+  "texto":"Si bien los comerciantes informales destacaron mejoras en aspectos como la movilidad (54,5%) y la reducci\u00f3n del parqueo en zonas prohibidas (45,5%), tambi\u00e9n se\u00f1alaron aumentos en el consumo de SPA (72,7%) y la presencia de habitantes de calle (63,3%). En cuanto a la seguridad, aunque inicialmente el 54,5% consider\u00f3 que no hab\u00eda cambios, posteriormente el 100% afirm\u00f3 que la inseguridad hab\u00eda aumentado. A pesar de estos desaf\u00edos, el 72,7% coincidi\u00f3 en que el festival hizo m\u00e1s agradable el espacio p\u00fablico y les permiti\u00f3 conocer nuevas pr\u00e1cticas culturales. \n",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":75,
+  "orden":5,
+  "titulo":"Un espacio de transformaci\u00f3n cultural: La Plaza Cultural La Santamar\u00eda",
+  "texto":"\nLa Plaza Cultural La Santamar\u00eda contin\u00faa asoci\u00e1ndose principalmente con los toros, pero el festival permiti\u00f3 que tanto comerciantes como asistentes incorporaran nuevas asociaciones relacionadas con la cultura y la renovaci\u00f3n. Mientras que los comerciantes identificaron la plaza con t\u00e9rminos como mejora, ventas y aumento, los asistentes destacaron conceptos como arte,\nevento, festival y Petronio.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
   "investigacion_id":76,
   "orden":1,
   "titulo":"El Espacio P\u00fablico como Corredor de Movilidad",
