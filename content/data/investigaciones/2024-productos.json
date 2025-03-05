@@ -764,10 +764,10 @@
  },
  {
   "investigacion_id":74,
-  "tipo_producto":"Base de datos",
-  "titulo":"Tablas de resultados ",
-  "incluir_en_ficha":"S\u00ed",
-  "url":"https:\/\/docs.google.com\/spreadsheets\/d\/187lUKZesly5aSbIfGEds6_lbVen8TTfl\/edit?usp=drive_link&ouid=106991968703215696144&rtpof=true&sd=true"
+  "tipo_producto":null,
+  "titulo":null,
+  "incluir_en_ficha":null,
+  "url":null
  },
  {
   "investigacion_id":74,
@@ -778,10 +778,10 @@
  },
  {
   "investigacion_id":74,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
+  "tipo_producto":"Base de datos",
+  "titulo":"Tablas de resultados - Medici\u00f3n 2025",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/docs.google.com\/spreadsheets\/d\/187lUKZesly5aSbIfGEds6_lbVen8TTfl\/edit?usp=drive_link&ouid=106991968703215696144&rtpof=true&sd=true"
  },
  {
   "investigacion_id":74,

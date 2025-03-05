@@ -336,6 +336,62 @@
   "unidad_medida":null
  },
  {
+  "investigacion_id":85.0,
+  "orden":1,
+  "titulo":"Inclusi\u00f3n e Identidades Sociales Diversas",
+  "texto":"En los espacios priorizados, el reconocimiento y respeto por la diversidad presentan importantes desaf\u00edos, con puntajes bajos en el \u00edndice de inclusi\u00f3n (0,35 en Santander, 0,37 en La Concordia y 0,29 en Media Torta-Girardot, frente a 0,67 en Bogot\u00e1). Aunque en temas como el matrimonio igualitario el apoyo es superior al promedio bogotano (76% en Santander y 80% en La Concordia), persisten altos niveles de rechazo a la convivencia con personas de comunidades diversas, especialmente en Media Torta-Girardot. Para contrarrestar estas barreras, se recomienda el dise\u00f1o de estrategias de sensibilizaci\u00f3n cultural y educaci\u00f3n comunitaria que promuevan la inclusi\u00f3n y combatan prejuicios, incorporando enfoques interseccionales que visibilicen las realidades de grupos hist\u00f3ricamente excluidos.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":85.0,
+  "orden":2,
+  "titulo":"Equidad de G\u00e9nero y Eliminaci\u00f3n del Machismo",
+  "texto":"Las creencias y actitudes sobre el g\u00e9nero en estos territorios reflejan una fuerte persistencia de estereotipos y desigualdades. En Media Torta-Girardot, 58% de las personas creen que la violencia de pareja solo es un problema si ocurre en p\u00fablico, y 74% considera que las mujeres son naturalmente mejores en las tareas del hogar, lo que evidencia una normalizaci\u00f3n de roles de g\u00e9nero desiguales. Aunque La Concordia presenta los mejores resultados en este aspecto (0,62 en el \u00edndice, frente a 0,55 en Bogot\u00e1), a\u00fan persisten retos en la equidad de g\u00e9nero. Es crucial implementar programas comunitarios que cuestionen estos imaginarios y promuevan masculinidades no violentas, as\u00ed como fortalecer la pedagog\u00eda sobre derechos de las mujeres y prevenci\u00f3n de violencias basadas en g\u00e9nero.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":null,
+  "orden":3,
+  "titulo":"Cultura Pol\u00edtica y Ciudadan\u00eda",
+  "texto":"Si bien Santander y La Concordia tienen una leve ventaja sobre el promedio de Bogot\u00e1 en este sub\u00edndice (0,37 y 0,36 respectivamente, frente a 0,30 en Bogot\u00e1), en Media Torta-Girardot la participaci\u00f3n pol\u00edtica es limitada (0,31), con bajo conocimiento de mecanismos de participaci\u00f3n y escaso involucramiento en procesos ciudadanos. Solo 16% de los habitantes de La Concordia y Media Torta-Girardot participan en iniciativas ambientales o culturales, en contraste con el 35% en Bogot\u00e1. Para fortalecer la cultura pol\u00edtica, se recomienda fomentar la formaci\u00f3n ciudadana con estrategias accesibles que permitan a la comunidad conocer y usar herramientas de participaci\u00f3n, as\u00ed como promover el liderazgo local a trav\u00e9s de procesos organizativos que incentiven la apropiaci\u00f3n de los espacios de decisi\u00f3n.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":null,
+  "orden":4,
+  "titulo":"Convivencia y Cultura de Paz",
+  "texto":"Los resultados muestran que los habitantes de estos territorios valoran la solidaridad y el apoyo comunitario, con La Concordia destac\u00e1ndose en este aspecto (0,59 en el \u00edndice, por encima del 0,44 en Bogot\u00e1). Sin embargo, la inseguridad sigue siendo una preocupaci\u00f3n central, y en Media Torta-Girardot 45% de las personas justifican el porte de armas como forma de protecci\u00f3n, reflejando una percepci\u00f3n de desprotecci\u00f3n estatal. Para fortalecer la convivencia, es fundamental promover espacios de di\u00e1logo comunitario y estrategias que fortalezcan la confianza entre la ciudadan\u00eda, incluyendo programas de mediaci\u00f3n y resoluci\u00f3n pac\u00edfica de conflictos.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":85.0,
+  "orden":5,
+  "titulo":"Espacio P\u00fablico",
+  "texto":"A pesar de los altos niveles de percepci\u00f3n de inseguridad, los espacios priorizados contin\u00faan siendo ampliamente utilizados. En Santander, 79% de los habitantes reportaron consumo de sustancias psicoactivas en parques cercanos, un porcentaje significativamente superior al 36% en Bogot\u00e1. Sin embargo, tambi\u00e9n se report\u00f3 un alto nivel de aprovechamiento del espacio p\u00fablico, con 71% de los habitantes de La Concordia considerando que la conexi\u00f3n peatonal en su barrio es buena, frente al 49% en Bogot\u00e1. Esto indica que, a pesar de los problemas de seguridad, la comunidad sigue apropi\u00e1ndose del espacio. Para mejorar las condiciones del entorno, se recomienda fortalecer la presencia institucional, recuperar espacios deteriorados y fomentar estrategias de apropiaci\u00f3n comunitaria a trav\u00e9s de actividades culturales y recreativas.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":85.0,
+  "orden":6,
+  "titulo":"Cultura Ambiental",
+  "texto":"El inter\u00e9s por el cuidado del medio ambiente es considerablemente mayor en estos territorios en comparaci\u00f3n con Bogot\u00e1. Mientras que en la ciudad solo 28% de las personas separan sus residuos, en Santander, La Concordia y Media Torta-Girardot este porcentaje es de 70%, 75% y 74% respectivamente, lo que evidencia una fuerte conciencia ambiental. Esta disposici\u00f3n representa una oportunidad clave para integrar el componente ambiental en otras estrategias de transformaci\u00f3n cultural, asegurando su articulaci\u00f3n con procesos educativos, comunitarios y gubernamentales para fomentar el desarrollo sostenible de estos territorios.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":85.0,
+  "orden":7,
+  "titulo":"Movilidad",
+  "texto":"Este sub\u00edndice tuvo los puntajes m\u00e1s bajos, con 0,24 en Santander, 0,27 en La Concordia y 0,29 en Media Torta-Girardot, todos por debajo del 0,38 en Bogot\u00e1. En Santander, 88% de los habitantes reportaron haber visto peatones cruzando sin usar el puente peatonal, evidenciando una falta de cultura vial y condiciones inadecuadas para la movilidad segura. Adem\u00e1s, en Media Torta-Girardot, 42% de la poblaci\u00f3n se desplaza a pie como principal medio de transporte, lo que sugiere posibles barreras econ\u00f3micas o estructurales en el acceso al transporte p\u00fablico. Se recomienda impulsar campa\u00f1as de educaci\u00f3n vial, mejorar la infraestructura peatonal y evaluar la accesibilidad al transporte en estos sectores, asegurando condiciones seguras y equitativas para todos los actores viales.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
   "investigacion_id":89.0,
   "orden":1,
   "titulo":"Predominio de la Falta de Planificaci\u00f3n al Estacionar",
