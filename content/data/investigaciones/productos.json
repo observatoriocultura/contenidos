@@ -764,17 +764,17 @@
  },
  {
   "investigacion_id":74,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
+  "tipo_producto":"Base de datos",
+  "titulo":"Tablas de resultados ",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/docs.google.com\/spreadsheets\/d\/187lUKZesly5aSbIfGEds6_lbVen8TTfl\/edit?usp=drive_link&ouid=106991968703215696144&rtpof=true&sd=true"
  },
  {
   "investigacion_id":74,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
+  "tipo_producto":"Instrumento recolecci\u00f3n",
+  "titulo":"Formulario",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/file\/d\/1jN5iYuvb5ec00hrFfdasSvL9DzypFl4U\/view?usp=drive_link"
  },
  {
   "investigacion_id":74,
@@ -816,12 +816,12 @@
   "tipo_producto":"Informe final",
   "titulo":"Nota T\u00e9cnica Festival Petronio \u00c1lvarez",
   "incluir_en_ficha":"S\u00ed",
-  "url":"https:\/\/drive.google.com\/file\/d\/1QSgForikv_Z45ST-sapReR8vjWQJWUio\/view?usp=drive_link"
+  "url":"https:\/\/drive.google.com\/file\/d\/1i5zR-V9uSGAygI64exwUUtl67b4ZT3kJ\/view?usp=drive_link"
  },
  {
   "investigacion_id":75,
-  "tipo_producto":"Informe cuantitativo",
-  "titulo":"Informe cuantitavivo Tablas y resultados",
+  "tipo_producto":"Carpeta archivos",
+  "titulo":"Informe cuantitavivo: Tablas y resultados",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/drive\/folders\/156J5dKr7ENk22MJWv54cEjVxm3QVfzmP?usp=drive_link"
  },
@@ -1388,9 +1388,9 @@
  {
   "investigacion_id":85,
   "tipo_producto":"Base de datos",
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
+  "titulo":"Tablas de resultados",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/drive\/folders\/1_QWYg8ZL5pqzxX8zehoEWYTpGcSfMhVP?usp=drive_link"
  },
  {
   "investigacion_id":85,
