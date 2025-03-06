@@ -115,7 +115,7 @@
   "investigacion_id":65.0,
   "orden":1,
   "titulo":"El espacio p\u00fablico como espacio de interacci\u00f3n",
-  "texto":"Los habitantes y comerciantes de las zonas encuestadas pertenecientes al \u00e1rea afectada del PEMP Centro Hist\u00f3rico, ven el espacio p\u00fablico como un lugar de interacci\u00f3n, encuentro e intercambio, principalmente econ\u00f3mico, ya que lo asocian con un espacio para ir a trabajar, as\u00ed mismo, como un espacio de peligro y de conflictos.",
+  "texto":"Los habitantes y comerciantes de las zonas encuestadas pertenecientes al \u00e1rea afectada del PEMP Centro Hist\u00f3rico perciben el espacio p\u00fablico con m\u00faltiples significados. Se asocia principalmente con el trabajo (85,95%), pero tambi\u00e9n con la peligrosidad (81,74%) y los conflictos (80,37%). A su vez, el espacio p\u00fablico es valorado como un lugar de encuentro (77,10%), expresi\u00f3n cultural (67,16%), entretenimiento (65,54%), ocio y contemplaci\u00f3n (59,97%) y para la pr\u00e1ctica de deportes (50,23%). Estos resultados indican que el espacio p\u00fablico cumple diversas funciones, siendo un entorno tanto para el trabajo y la interacci\u00f3n social como para la recreaci\u00f3n, pero con una alta percepci\u00f3n de peligrosidad y conflicto que puede afectar su apropiaci\u00f3n.",
   "valor":null,
   "unidad_medida":null
  },
@@ -123,7 +123,7 @@
   "investigacion_id":65.0,
   "orden":2,
   "titulo":"Relaciones con los Vecinos",
-  "texto":"Lo que m\u00e1s valoran los encuestados pertenecientes al \u00e1rea afectada del PEMP Centro Hist\u00f3rico, es que hay buenas relaciones entre los vecinos y de potencial para trabajar con la comunidad en la preservaci\u00f3n del patrimonio, sin embargo, al ser la seguridad uno de los temas con mayor ponderaci\u00f3n negativa, se debe revisar si esta falta de seguridad de corresponde con habitantes externos al sector o poblaci\u00f3n flotante, teniendo en cuenta que contrasta con la buena valoraci\u00f3n que se tuvo de los vecinos y el vecindario; as\u00ed mismo, hay un indicador de necesidad de prestar atenci\u00f3n a los espacios verdes.",
+  "texto":"Los encuestados pertenecientes al \u00e1rea afectada del PEMP Centro Hist\u00f3rico valoran positivamente las relaciones con sus vecinos, con un 85,55% que las califica como buenas o muy buenas. Este resultado sugiere un potencial para fortalecer el trabajo comunitario en la preservaci\u00f3n del patrimonio. Sin embargo, la seguridad es uno de los aspectos con mayor ponderaci\u00f3n negativa, con un 62,43%, lo que plantea la necesidad de evaluar si esta percepci\u00f3n est\u00e1 relacionada con habitantes externos al sector o con la poblaci\u00f3n flotante. Esto contrasta con la buena valoraci\u00f3n del vecindario (75,66% como bueno o muy bueno**), lo que indica una diferencia entre la percepci\u00f3n de la comunidad inmediata y la sensaci\u00f3n de inseguridad en el entorno m\u00e1s amplio. Tambi\u00e9n se destaca la valoraci\u00f3n de los espacios verdes (59,25% como buenos o muy buenos) y el acceso a estas \u00e1reas verdes (57,10% como bueno o muy bueno), lo que sugiere que, aunque son aspectos apreciados por una parte significativa de la poblaci\u00f3n, a\u00fan existen oportunidades de mejora en su disponibilidad y calidad.",
   "valor":null,
   "unidad_medida":null
  },
@@ -131,7 +131,7 @@
   "investigacion_id":65.0,
   "orden":3,
   "titulo":"Visi\u00f3n del patrimonio",
-  "texto":"Para los encuestados pertenecientes al \u00e1rea afectada del PEMP Centro Hist\u00f3rico, el patrimonio sigue estando asociado con espacios inmuebles y una visi\u00f3n tradicional del patrimonio, teniendo en cuenta que las iglesias, plazas y monumentos son los elementos con mayor porcentaje de consideraci\u00f3n como patrimonio, mientras que elementos y pr\u00e1cticas como oficios tradicionales, expresiones musicales y sonoras, Las fiestas barriales (festivales musicales, conmemoraciones, encuentros culturales, poblacionales) y el entorno natural (p\u00e1ramos, cerros, quebradas, r\u00edos, humedales y huertas) no son considerados como tal.",
+  "texto":"Para los encuestados pertenecientes al \u00e1rea afectada del PEMP Centro Hist\u00f3rico, el patrimonio sigue estando asociado principalmente con espacios inmuebles. Los elementos m\u00e1s reconocidos son las iglesias (60,14%), las plazas o plazoletas (42,54%) y los monumentos (36,88%). En contraste, 97,90% de los encuestados NO considera los parques como patrimonio, al igual que los hallazgos arqueol\u00f3gicos (96,80%) y las pr\u00e1cticas y educaci\u00f3n para el cuidado ambiental (95,97%).\nAs\u00ed mismo, elementos y pr\u00e1cticas como oficios tradicionales, expresiones musicales y sonoras, las fiestas barriales (festivales musicales, conmemoraciones, encuentros culturales, poblacionales) y el entorno natural (p\u00e1ramos, cerros, quebradas, r\u00edos, humedales y huertas) no son considerados como patrimonio por la mayor\u00eda de personas. Esto resalta la necesidad de ampliar la concepci\u00f3n del patrimonio para incluir manifestaciones culturales, sociales y ambientales del Centro Hist\u00f3rico.",
   "valor":null,
   "unidad_medida":null
  },
@@ -139,7 +139,7 @@
   "investigacion_id":65.0,
   "orden":4,
   "titulo":"Espacio p\u00fablico patrimonial",
-  "texto":"El reconocimiento del cuidado y relacionamiento con el espacio p\u00fablico patrimonial asociado con la seguridad, la presencia de instituciones, turistas y poblaci\u00f3n flotante y la conservaci\u00f3n del mismo.",
+  "texto":"Para los encuestados, el cuidado del espacio p\u00fablico patrimonial implica contar con seguridad (76,48%), transformaci\u00f3n urbana (75,92%) y presencia constante de instituciones (72,18%). Adem\u00e1s, consideran que habitar en un espacio p\u00fablico patrimonial conlleva el compromiso de su conservaci\u00f3n (87,70%), aceptar la presencia constante de turistas y poblaci\u00f3n flotante (85,71%) y organizarse como comunidad para fortalecer su relaci\u00f3n con el patrimonio (81,11%). Estos resultados muestran que la seguridad, la intervenci\u00f3n urbana y la gesti\u00f3n institucional son aspectos fundamentales para la preservaci\u00f3n y apropiaci\u00f3n del espacio p\u00fablico patrimonial.",
   "valor":null,
   "unidad_medida":null
  },
@@ -147,7 +147,39 @@
   "investigacion_id":65.0,
   "orden":5,
   "titulo":"Acciones para mejorar el espacio p\u00fablico patrimonial",
-  "texto":"Los aspectos m\u00e1s relevantes para los encuestados pertenecientes al \u00e1rea afectada del PEMP Centro Hist\u00f3rico son mejorar la preservaci\u00f3n del patrimonio en los espacios p\u00fablicos son programas de mantenimiento f\u00edsico de los monumentos, la educaci\u00f3n y conciencia de la ciudadan\u00eda y cultura ciudadana.",
+  "texto":"Los aspectos m\u00e1s relevantes para los encuestados en la mejora de la preservaci\u00f3n del patrimonio en los espacios p\u00fablicos son el mantenimiento f\u00edsico de los monumentos (36,60%), la educaci\u00f3n y conciencia de la ciudadan\u00eda (22,14%) y la cultura ciudadana (13,31%). En segunda opci\u00f3n, se prioriza la educaci\u00f3n (27,65%), la cultura ciudadana (17,45%) y la implementaci\u00f3n de pol\u00edticas p\u00fablicas (15,09%). Finalmente, en una tercera opci\u00f3n, destacan la cultura ciudadana (23,32%), el manejo adecuado de basuras y residuos (18,48%) y la inversi\u00f3n econ\u00f3mica en conservaci\u00f3n (14,23%). As\u00ed, el mantenimiento del patrimonio requiere no solo acciones f\u00edsicas, sino tambi\u00e9n estrategias que fomenten el sentido de pertenencia y el compromiso de la ciudadan\u00eda con su entorno.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":67.0,
+  "orden":1,
+  "titulo":"Fases del proyecto para la implementaci\u00f3n del PES",
+  "texto":"El proceso de investigaci\u00f3n para la implementaci\u00f3n del PES: Creaci\u00f3n Colectiva, se estructur\u00f3 en cinco fases semestrales (2024-2026), garantizando un levantamiento, caracterizaci\u00f3n y sistematizaci\u00f3n progresiva de los grupos, colectivos, organizaciones, espacios y pr\u00e1cticas del teatro de creaci\u00f3n colectiva en Bogot\u00e1. La metodolog\u00eda contempla la construcci\u00f3n de instrumentos, la recolecci\u00f3n de datos en difrentes momentos, permitiendo conocerlos en cada localidad y por ende en toda la ciudad. Las fases son:\nFases 1 - 2024: Avance directorio grupos de teatro - creaci\u00f3n colectiva, creaci\u00f3n herramientas focus group\r\nFase 2 y 3 - 2025: Directorio grupos de teatro - creaci\u00f3n colectiva e inicio de caracterizaci\u00f3n\r\nFase 4 y 5 - 2026 Finalizaci\u00f3n caracterizaci\u00f3n y  sistematizaci\u00f3n",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":67.0,
+  "orden":2,
+  "titulo":"Alto autoreconocimiento de los practicantes de la Creaci\u00f3n Colectiva",
+  "texto":"El 96%, de las agrupaciones y colectivos que hasta el momento han respondido la encuesta se autorreconocen como practicantes de la Creaci\u00f3n Colectiva. Dicha frecuencia es un indicador de la pertinencia de este ejercicio de identificaci\u00f3n y caracterizaci\u00f3n de agrupaciones, colectivos, espacios y pr\u00e1cticas de la Creaci\u00f3n Colectiva en Bogot\u00e1. \n",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":67.0,
+  "orden":3,
+  "titulo":"Influencia del ejercicio en la regi\u00f3n",
+  "texto":"Aunque el directorio estaba dirigido a Bogot\u00e1, se recibieron tres respuestas de fuera de la ciudad, lo que refleja el alcance de las redes a trav\u00e9s de las cuales se difundi\u00f3 el formulario. Esto sugiere una interconexi\u00f3n entre los procesos art\u00edsticos de Bogot\u00e1 y los de poblaciones vecinas, destacando la importancia de incluir estas comunidades en futuros ejercicios de identificaci\u00f3n y caracterizaci\u00f3n.\nAsimismo, esta incidencia resalta la necesidad de fortalecer la Creaci\u00f3n Colectiva como patrimonio cultural vivo, extendiendo su protecci\u00f3n y fomento m\u00e1s all\u00e1 de Bogot\u00e1 hacia territorios perif\u00e9ricos y regionales. Esto contribuir\u00eda a consolidar el tejido cultural y creativo en un marco m\u00e1s amplio, garantizando su reconocimiento y preservaci\u00f3n dentro del patrimonio cultural\u00a0nacional.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":67.0,
+  "orden":4,
+  "titulo":"Receptividad a procesos formativos",
+  "texto":"El 94% de las respuestas manifestaron inter\u00e9s en profundizar su conocimiento sobre la Creaci\u00f3n Colectiva, lo que resalta no solo su relevancia cultural, sino tambi\u00e9n la necesidad de fortalecer e implementar componentes estrat\u00e9gicos del Plan Especial de Salvaguardia (PES). Este resultado pone de manifiesto la importancia de ir m\u00e1s all\u00e1 de la mera identificaci\u00f3n, caracterizaci\u00f3n y mapeo de los colectivos, agrupaciones, espacios y pr\u00e1cticas asociadas a la Creaci\u00f3n Colectiva.\nSe hace importante priorizar las l\u00edneas de acci\u00f3n orientadas al componente pedag\u00f3gico, que permitan la formaci\u00f3n, el intercambio de saberes y la apropiaci\u00f3n de estas pr\u00e1cticas como un patrimonio vivo y transformador. Este enfoque pedag\u00f3gico fortalecer\u00eda no solo la sostenibilidad de los procesos creativos, sino tambi\u00e9n su impacto en las comunidades que los desarrollan y disfrutan, consolidando as\u00ed su valor como elemento central de la identidad cultural.\n",
   "valor":null,
   "unidad_medida":null
  },
@@ -352,7 +384,7 @@
   "unidad_medida":null
  },
  {
-  "investigacion_id":85.0,
+  "investigacion_id":null,
   "orden":3,
   "titulo":"Cultura Pol\u00edtica y Ciudadan\u00eda",
   "texto":"Si bien Santander y La Concordia tienen una leve ventaja sobre el promedio de Bogot\u00e1 en este sub\u00edndice (0,37 y 0,36 respectivamente, frente a 0,30 en Bogot\u00e1), en Media Torta-Girardot la participaci\u00f3n pol\u00edtica es limitada (0,31), con bajo conocimiento de mecanismos de participaci\u00f3n y escaso involucramiento en procesos ciudadanos. Solo 16% de los habitantes de La Concordia y Media Torta-Girardot participan en iniciativas ambientales o culturales, en contraste con el 35% en Bogot\u00e1. Para fortalecer la cultura pol\u00edtica, se recomienda fomentar la formaci\u00f3n ciudadana con estrategias accesibles que permitan a la comunidad conocer y usar herramientas de participaci\u00f3n, as\u00ed como promover el liderazgo local a trav\u00e9s de procesos organizativos que incentiven la apropiaci\u00f3n de los espacios de decisi\u00f3n.",
@@ -360,7 +392,7 @@
   "unidad_medida":null
  },
  {
-  "investigacion_id":85.0,
+  "investigacion_id":null,
   "orden":4,
   "titulo":"Convivencia y Cultura de Paz",
   "texto":"Los resultados muestran que los habitantes de estos territorios valoran la solidaridad y el apoyo comunitario, con La Concordia destac\u00e1ndose en este aspecto (0,59 en el \u00edndice, por encima del 0,44 en Bogot\u00e1). Sin embargo, la inseguridad sigue siendo una preocupaci\u00f3n central, y en Media Torta-Girardot 45% de las personas justifican el porte de armas como forma de protecci\u00f3n, reflejando una percepci\u00f3n de desprotecci\u00f3n estatal. Para fortalecer la convivencia, es fundamental promover espacios de di\u00e1logo comunitario y estrategias que fortalezcan la confianza entre la ciudadan\u00eda, incluyendo programas de mediaci\u00f3n y resoluci\u00f3n pac\u00edfica de conflictos.",
