@@ -589,6 +589,13 @@
  },
  {
   "investigacion_id":71,
+  "tipo_producto":"Presentaci\u00f3n",
+  "titulo":"Presentaci\u00f3n Festivales al Parque 2025",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/docs.google.com\/presentation\/d\/1A3BaV1D7SldOciMtSHX9FB6QSFz95qxnfq6GDextIpo\/edit#slide=id.p1"
+ },
+ {
+  "investigacion_id":71,
   "tipo_producto":"Carpeta archivos",
   "titulo":"Productos Rock Al Parque 2024",
   "incluir_en_ficha":"S\u00ed",
