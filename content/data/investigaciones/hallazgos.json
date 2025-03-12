@@ -256,8 +256,8 @@
   "unidad_medida":null
  },
  {
-  "investigacion_id":null,
-  "orden":null,
+  "investigacion_id":71.0,
+  "orden":5.0,
   "titulo":"En los Festivales Al Parque los emprendimientos reportan alta rentabilidad y, en general, se sienten muy satisfechos con su participaci\u00f3n. ",
   "texto":"\nEn promedio el 72,6% de los emprendimientos reportan que las ganancias obtenidas son mayores a la inversi\u00f3n realizada en la participaci\u00f3n, con picos en Joropo (88,9%), Colombia (88%) y Rock (84,6%). Por su parte, el 86,3% de los emprendimientos afirmaron sentirse satisfechos o muy satisfechos con su participaci\u00f3n en el Festival con picos en Joropo (99%), Colombia (96%) y Rock (87%).\n",
   "valor":null,
@@ -265,7 +265,7 @@
  },
  {
   "investigacion_id":71.0,
-  "orden":5.0,
+  "orden":6.0,
   "titulo":"Los Festivales Al Parque impulsan el descubrimiento de los\/as artistas locales y refuerzan la conexi\u00f3n entre estos y el p\u00fablico.",
   "texto":"En t\u00e9rminos generales, los datos muestran que Rock y Hip Hop funcionan como escenarios de encuentro entre las bandas locales y un p\u00fablico ya comprometido. En Hip Hop, el 75.8% de los asistentes encuestados afirm\u00f3 que entre los artistas que se presentan le llama la atenci\u00f3n conocer o seguir a los artistas locales, mientras en Rock, este porcentaje llega al 67.1%. \n\nPor su parte, en festivales como Colombia y Vallenato el p\u00fablico se acerca con menos conocimiento previo de los artistas locales (11.7% en Vallenato y 7.6% en Colombia), pero aun as\u00ed un porcentaje importante llega a reconocer a alguno de los artistas locales (55.9% en Vallenato y 38.3% en Colombia).",
   "valor":null,
