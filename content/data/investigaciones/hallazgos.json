@@ -1,7 +1,7 @@
 [
  {
   "investigacion_id":60.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":"Toma de decisiones",
   "texto":"La metodolog\u00eda presentada permite identificar \u00e1reas prioritarias para intervenciones, como la estrategia Barrios Vivos, de manera eficiente y basada en datos.",
   "valor":null,
@@ -9,7 +9,7 @@
  },
  {
   "investigacion_id":60.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":"Combinaci\u00f3n y uso de datos geogr\u00e1ficos",
   "texto":"La metodolog\u00eda utiliza capas geogr\u00e1ficas de diferentes entidades, lo que permite una comprensi\u00f3n m\u00e1s profunda de las din\u00e1micas territoriales y la identificaci\u00f3n de necesidades espec\u00edficas.",
   "valor":null,
@@ -17,7 +17,7 @@
  },
  {
   "investigacion_id":60.0,
-  "orden":3,
+  "orden":3.0,
   "titulo":"Modelo de datos",
   "texto":"El uso de un modelo de datos relacional y herramientas tecnol\u00f3gicas facilita el procesamiento y an\u00e1lisis de grandes vol\u00famenes de informaci\u00f3n. Esto garantiza la eficiencia y escalabilidad de la metodolog\u00eda, permitiendo su aplicaci\u00f3n a diferentes contextos y problem\u00e1ticas.",
   "valor":null,
@@ -25,7 +25,7 @@
  },
  {
   "investigacion_id":60.0,
-  "orden":4,
+  "orden":4.0,
   "titulo":"Flexible y escalable",
   "texto":"La metodolog\u00eda es flexible y adaptable a diferentes criterios y ponderaciones. Los usuarios pueden personalizar la priorizaci\u00f3n seg\u00fan las variables y pesos que consideren m\u00e1s relevantes, lo que permite una adaptaci\u00f3n a las necesidades espec\u00edficas de cada proyecto.",
   "valor":null,
@@ -33,7 +33,7 @@
  },
  {
   "investigacion_id":60.0,
-  "orden":5,
+  "orden":5.0,
   "titulo":"Creciendo con datos m\u00e1s actuales y ajustados",
   "texto":"La herramienta desarrollada es un punto de partida para un an\u00e1lisis m\u00e1s profundo y la incorporaci\u00f3n de nuevas funcionalidades. Se pueden agregar m\u00e1s variables, filtros y capas de informaci\u00f3n para enriquecer el an\u00e1lisis y mejorar la toma de decisiones. Adem\u00e1s, el uso de inteligencia artificial y modelos de lenguaje natural puede potenciar a\u00fan m\u00e1s la capacidad de an\u00e1lisis y la generaci\u00f3n de conocimiento.",
   "valor":null,
@@ -41,7 +41,7 @@
  },
  {
   "investigacion_id":61.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":"Mejoras en la calidad de los datos",
   "texto":"La depuraci\u00f3n detallada de la tabla principal de datos permiti\u00f3 identificar inconsistencias y asegurar que los registros sean confiables y estandarizados. Esto facilita la creaci\u00f3n de productos de datos, como visualizaciones y tableros, y resalta la importancia de la limpieza inicial en proyectos de an\u00e1lisis.",
   "valor":null,
@@ -49,7 +49,7 @@
  },
  {
   "investigacion_id":61.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":"Relevancia del diccionario de datos",
   "texto":"La creaci\u00f3n de un diccionario de datos bien estructurado garantiza la comprensi\u00f3n uniforme de la informaci\u00f3n por parte de todos los involucrados. Este documento no solo es clave para la consistencia del proyecto actual, sino que tambi\u00e9n ser\u00e1 esencial para futuras expansiones y actualizaciones de los datos.",
   "valor":null,
@@ -57,7 +57,7 @@
  },
  {
   "investigacion_id":61.0,
-  "orden":3,
+  "orden":3.0,
   "titulo":"Automatizaci\u00f3n eficiente de procesos",
   "texto":"Los procedimientos ETL dise\u00f1ados optimizan el flujo de datos desde la captura hasta la visualizaci\u00f3n. Sin embargo, se recomienda avanzar en la automatizaci\u00f3n total para eliminar la dependencia de la descarga y carga manual de archivos, mejorando la eficiencia del sistema. Se recomienda seguir trabajando art\u00edculadamente con el Observatorio para que esta herramienta conseguida perdure en el tiempo con calidad y utilidad, especialmente para conseguir una lectura de datos sin necesidad de descarga de archivos, con todo el procesamiento en la nube.",
   "valor":null,
@@ -65,7 +65,7 @@
  },
  {
   "investigacion_id":61.0,
-  "orden":4,
+  "orden":4.0,
   "titulo":"Accesibilidad mediante herramientas intuitivas",
   "texto":"La implementaci\u00f3n del formulario de Google Forms para el registro de nuevos egresados simplifica la recolecci\u00f3n de datos, asegurando precisi\u00f3n y facilidad de uso. Este enfoque debe ser un est\u00e1ndar en proyectos similares para fomentar la participaci\u00f3n de los usuarios, tanto funcionales como desarrolladores. La flexibilidad de esta herramienta permite ajustarse peri\u00f3dicamente a los cambios que tenga el programa en el corto y mediano plazo.",
   "valor":null,
@@ -73,7 +73,7 @@
  },
  {
   "investigacion_id":61.0,
-  "orden":5,
+  "orden":5.0,
   "titulo":"Interacci\u00f3n din\u00e1mica con los datos",
   "texto":"La interfaz en Looker Studio, que permite a los usuarios aplicar filtros y explorar datos de manera interactiva, demuestra el valor de una visualizaci\u00f3n din\u00e1mica para el an\u00e1lisis. Se recomienda solicitar mantener y mejorar esta herramienta, a\u00f1adiendo nuevas funcionalidades que respondan a las necesidades de los tomadores de decisiones y usuarios finales, formadores y de la OFB.",
   "valor":null,
@@ -81,7 +81,7 @@
  },
  {
   "investigacion_id":62.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":null,
   "texto":"La construcci\u00f3n del dise\u00f1o del instrumento para la medici\u00f3n del impacto del Programa de Formaci\u00f3n Musical \"Vamos a la Filarm\u00f3nica\" de la OFB se fundament\u00f3 en el marco de Habilidades para la Vida de la OMS a partir del cual la entidad realiza un formulario que fue diligenciado por 340 Artistas Formadores con el objetivo de identificar las categor\u00edas m\u00e1s relevantes para el estudio. Los resultados muestran que las habilidades emocionales y las habilidades sociales son las m\u00e1s relevantes para los Artistas Formadores, las cuales est\u00e1n relacionadas con la gesti\u00f3n emocional y la comunicaci\u00f3n efectiva, elementos clave en el desarrollo integral de los ni\u00f1os, ni\u00f1as, adolescentes y j\u00f3venes. ",
   "valor":null,
@@ -89,7 +89,7 @@
  },
  {
   "investigacion_id":62.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":null,
   "texto":"En las habilidades emocionales, el manejo de emociones y sentimientos fue la habilidad m\u00e1s priorizada por los Artistas Formadores (53,2%), seguida de la empat\u00eda (59,37%) y la autoestima y sentido de prop\u00f3sito (49,75%). Habilidades como la resiliencia y el manejo del estr\u00e9s recibieron menor puntaje en tanto habilidades a medir, con un 50,26% y 20,4% respectivamente. Esto sugiere que, aunque estas \u00faltimas integran el marco de habilidades para la vida que se quiere evaluar, su impacto puede ser menos visible en la interacci\u00f3n diaria del programa. \n",
   "valor":null,
@@ -97,7 +97,7 @@
  },
  {
   "investigacion_id":62.0,
-  "orden":3,
+  "orden":3.0,
   "titulo":null,
   "texto":"En cuanto a las habilidades sociales, la comunicaci\u00f3n asertiva y la sociabilidad sobresalieron como las habilidades m\u00e1s relevantes para la medici\u00f3n del impacto con un 60,09% de respuestas que combinan los valores \"5\" y \"4\", lo que se expresa en la creaci\u00f3n de din\u00e1micas grupales y ambientes colaborativos. ",
   "valor":null,
@@ -105,7 +105,7 @@
  },
  {
   "investigacion_id":62.0,
-  "orden":4,
+  "orden":4.0,
   "titulo":null,
   "texto":"En raz\u00f3n de la valoraci\u00f3n dada por parte de los Artistas Formadores se dise\u00f1\u00f3 el instrumento de medici\u00f3n de impacto con 7 preguntas sociodemogr\u00e1ficas, 3 preguntas relativas a la trayectoria en el Centro Filarm\u00f3nico, 17 preguntas para medir las habilidades emocionales y 11 preguntas para medir las habilidades sociales. En cada campo de las categor\u00edas priorizadas se tuvo en cuenta las subcategor\u00edas emergentes de la pregunta \u201c\u00bfQu\u00e9 habilidad o criterio recomiendas para realizar esta medici\u00f3n, de acuerdo a las realidades propias que observas cada d\u00eda en el trabajo con los ni\u00f1os, ni\u00f1as y adolescentes que tienes a cargo?\u201d, frente a la cual surgen habilidades como la gesti\u00f3n del tiempo, el trabajo en equipo, el autoconocimiento, la sensibilidad art\u00edstica y el pensamiento creativo. Por nivel de frecuencia, se consideran el trabajo en equipo y el autoconocimiento.",
   "valor":null,
@@ -113,7 +113,7 @@
  },
  {
   "investigacion_id":65.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":"El espacio p\u00fablico como espacio de interacci\u00f3n",
   "texto":"Los habitantes y comerciantes de las zonas encuestadas pertenecientes al \u00e1rea afectada del PEMP Centro Hist\u00f3rico perciben el espacio p\u00fablico con m\u00faltiples significados. Se asocia principalmente con el trabajo (85,95%), pero tambi\u00e9n con la peligrosidad (81,74%) y los conflictos (80,37%). A su vez, el espacio p\u00fablico es valorado como un lugar de encuentro (77,10%), expresi\u00f3n cultural (67,16%), entretenimiento (65,54%), ocio y contemplaci\u00f3n (59,97%) y para la pr\u00e1ctica de deportes (50,23%). Estos resultados indican que el espacio p\u00fablico cumple diversas funciones, siendo un entorno tanto para el trabajo y la interacci\u00f3n social como para la recreaci\u00f3n, pero con una alta percepci\u00f3n de peligrosidad y conflicto que puede afectar su apropiaci\u00f3n.",
   "valor":null,
@@ -121,7 +121,7 @@
  },
  {
   "investigacion_id":65.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":"Relaciones con los Vecinos",
   "texto":"Los encuestados pertenecientes al \u00e1rea afectada del PEMP Centro Hist\u00f3rico valoran positivamente las relaciones con sus vecinos, con un 85,55% que las califica como buenas o muy buenas. Este resultado sugiere un potencial para fortalecer el trabajo comunitario en la preservaci\u00f3n del patrimonio. Sin embargo, la seguridad es uno de los aspectos con mayor ponderaci\u00f3n negativa, con un 62,43%, lo que plantea la necesidad de evaluar si esta percepci\u00f3n est\u00e1 relacionada con habitantes externos al sector o con la poblaci\u00f3n flotante. Esto contrasta con la buena valoraci\u00f3n del vecindario (75,66% como bueno o muy bueno**), lo que indica una diferencia entre la percepci\u00f3n de la comunidad inmediata y la sensaci\u00f3n de inseguridad en el entorno m\u00e1s amplio. Tambi\u00e9n se destaca la valoraci\u00f3n de los espacios verdes (59,25% como buenos o muy buenos) y el acceso a estas \u00e1reas verdes (57,10% como bueno o muy bueno), lo que sugiere que, aunque son aspectos apreciados por una parte significativa de la poblaci\u00f3n, a\u00fan existen oportunidades de mejora en su disponibilidad y calidad.",
   "valor":null,
@@ -129,7 +129,7 @@
  },
  {
   "investigacion_id":65.0,
-  "orden":3,
+  "orden":3.0,
   "titulo":"Visi\u00f3n del patrimonio",
   "texto":"Para los encuestados pertenecientes al \u00e1rea afectada del PEMP Centro Hist\u00f3rico, el patrimonio sigue estando asociado principalmente con espacios inmuebles. Los elementos m\u00e1s reconocidos son las iglesias (60,14%), las plazas o plazoletas (42,54%) y los monumentos (36,88%). En contraste, 97,90% de los encuestados NO considera los parques como patrimonio, al igual que los hallazgos arqueol\u00f3gicos (96,80%) y las pr\u00e1cticas y educaci\u00f3n para el cuidado ambiental (95,97%).\nAs\u00ed mismo, elementos y pr\u00e1cticas como oficios tradicionales, expresiones musicales y sonoras, las fiestas barriales (festivales musicales, conmemoraciones, encuentros culturales, poblacionales) y el entorno natural (p\u00e1ramos, cerros, quebradas, r\u00edos, humedales y huertas) no son considerados como patrimonio por la mayor\u00eda de personas. Esto resalta la necesidad de ampliar la concepci\u00f3n del patrimonio para incluir manifestaciones culturales, sociales y ambientales del Centro Hist\u00f3rico.",
   "valor":null,
@@ -137,7 +137,7 @@
  },
  {
   "investigacion_id":65.0,
-  "orden":4,
+  "orden":4.0,
   "titulo":"Espacio p\u00fablico patrimonial",
   "texto":"Para los encuestados, el cuidado del espacio p\u00fablico patrimonial implica contar con seguridad (76,48%), transformaci\u00f3n urbana (75,92%) y presencia constante de instituciones (72,18%). Adem\u00e1s, consideran que habitar en un espacio p\u00fablico patrimonial conlleva el compromiso de su conservaci\u00f3n (87,70%), aceptar la presencia constante de turistas y poblaci\u00f3n flotante (85,71%) y organizarse como comunidad para fortalecer su relaci\u00f3n con el patrimonio (81,11%). Estos resultados muestran que la seguridad, la intervenci\u00f3n urbana y la gesti\u00f3n institucional son aspectos fundamentales para la preservaci\u00f3n y apropiaci\u00f3n del espacio p\u00fablico patrimonial.",
   "valor":null,
@@ -145,7 +145,7 @@
  },
  {
   "investigacion_id":65.0,
-  "orden":5,
+  "orden":5.0,
   "titulo":"Acciones para mejorar el espacio p\u00fablico patrimonial",
   "texto":"Los aspectos m\u00e1s relevantes para los encuestados en la mejora de la preservaci\u00f3n del patrimonio en los espacios p\u00fablicos son el mantenimiento f\u00edsico de los monumentos (36,60%), la educaci\u00f3n y conciencia de la ciudadan\u00eda (22,14%) y la cultura ciudadana (13,31%). En segunda opci\u00f3n, se prioriza la educaci\u00f3n (27,65%), la cultura ciudadana (17,45%) y la implementaci\u00f3n de pol\u00edticas p\u00fablicas (15,09%). Finalmente, en una tercera opci\u00f3n, destacan la cultura ciudadana (23,32%), el manejo adecuado de basuras y residuos (18,48%) y la inversi\u00f3n econ\u00f3mica en conservaci\u00f3n (14,23%). As\u00ed, el mantenimiento del patrimonio requiere no solo acciones f\u00edsicas, sino tambi\u00e9n estrategias que fomenten el sentido de pertenencia y el compromiso de la ciudadan\u00eda con su entorno.",
   "valor":null,
@@ -153,7 +153,7 @@
  },
  {
   "investigacion_id":67.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":"Fases del proyecto para la implementaci\u00f3n del PES",
   "texto":"El proceso de investigaci\u00f3n para la implementaci\u00f3n del PES: Creaci\u00f3n Colectiva, se estructur\u00f3 en cinco fases semestrales (2024-2026), garantizando un levantamiento, caracterizaci\u00f3n y sistematizaci\u00f3n progresiva de los grupos, colectivos, organizaciones, espacios y pr\u00e1cticas del teatro de creaci\u00f3n colectiva en Bogot\u00e1. La metodolog\u00eda contempla la construcci\u00f3n de instrumentos, la recolecci\u00f3n de datos en difrentes momentos, permitiendo conocerlos en cada localidad y por ende en toda la ciudad. Las fases son:\nFases 1 - 2024: Avance directorio grupos de teatro - creaci\u00f3n colectiva, creaci\u00f3n herramientas focus group\r\nFase 2 y 3 - 2025: Directorio grupos de teatro - creaci\u00f3n colectiva e inicio de caracterizaci\u00f3n\r\nFase 4 y 5 - 2026 Finalizaci\u00f3n caracterizaci\u00f3n y  sistematizaci\u00f3n",
   "valor":null,
@@ -161,7 +161,7 @@
  },
  {
   "investigacion_id":67.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":"Alto autoreconocimiento de los practicantes de la Creaci\u00f3n Colectiva",
   "texto":"El 96%, de las agrupaciones y colectivos que hasta el momento han respondido la encuesta se autorreconocen como practicantes de la Creaci\u00f3n Colectiva. Dicha frecuencia es un indicador de la pertinencia de este ejercicio de identificaci\u00f3n y caracterizaci\u00f3n de agrupaciones, colectivos, espacios y pr\u00e1cticas de la Creaci\u00f3n Colectiva en Bogot\u00e1. \n",
   "valor":null,
@@ -169,7 +169,7 @@
  },
  {
   "investigacion_id":67.0,
-  "orden":3,
+  "orden":3.0,
   "titulo":"Influencia del ejercicio en la regi\u00f3n",
   "texto":"Aunque el directorio estaba dirigido a Bogot\u00e1, se recibieron tres respuestas de fuera de la ciudad, lo que refleja el alcance de las redes a trav\u00e9s de las cuales se difundi\u00f3 el formulario. Esto sugiere una interconexi\u00f3n entre los procesos art\u00edsticos de Bogot\u00e1 y los de poblaciones vecinas, destacando la importancia de incluir estas comunidades en futuros ejercicios de identificaci\u00f3n y caracterizaci\u00f3n.\nAsimismo, esta incidencia resalta la necesidad de fortalecer la Creaci\u00f3n Colectiva como patrimonio cultural vivo, extendiendo su protecci\u00f3n y fomento m\u00e1s all\u00e1 de Bogot\u00e1 hacia territorios perif\u00e9ricos y regionales. Esto contribuir\u00eda a consolidar el tejido cultural y creativo en un marco m\u00e1s amplio, garantizando su reconocimiento y preservaci\u00f3n dentro del patrimonio cultural\u00a0nacional.",
   "valor":null,
@@ -177,15 +177,103 @@
  },
  {
   "investigacion_id":67.0,
-  "orden":4,
+  "orden":4.0,
   "titulo":"Receptividad a procesos formativos",
   "texto":"El 94% de las respuestas manifestaron inter\u00e9s en profundizar su conocimiento sobre la Creaci\u00f3n Colectiva, lo que resalta no solo su relevancia cultural, sino tambi\u00e9n la necesidad de fortalecer e implementar componentes estrat\u00e9gicos del Plan Especial de Salvaguardia (PES). Este resultado pone de manifiesto la importancia de ir m\u00e1s all\u00e1 de la mera identificaci\u00f3n, caracterizaci\u00f3n y mapeo de los colectivos, agrupaciones, espacios y pr\u00e1cticas asociadas a la Creaci\u00f3n Colectiva.\nSe hace importante priorizar las l\u00edneas de acci\u00f3n orientadas al componente pedag\u00f3gico, que permitan la formaci\u00f3n, el intercambio de saberes y la apropiaci\u00f3n de estas pr\u00e1cticas como un patrimonio vivo y transformador. Este enfoque pedag\u00f3gico fortalecer\u00eda no solo la sostenibilidad de los procesos creativos, sino tambi\u00e9n su impacto en las comunidades que los desarrollan y disfrutan, consolidando as\u00ed su valor como elemento central de la identidad cultural.\n",
   "valor":null,
   "unidad_medida":null
  },
  {
+  "investigacion_id":70.0,
+  "orden":1.0,
+  "titulo":"Perfil sociodemogr\u00e1fico y brechas de asistencia",
+  "texto":"El estudio piloto mostr\u00f3 que la mayor\u00eda de los asistentes encuestados residen en Bogot\u00e1 (91,9%), con mayor participaci\u00f3n de localidades como Chapinero (13,5%), Suba (10,6%) y Teusaquillo (9,8%). En cuanto a la edad, se encontr\u00f3 que el p\u00fablico adulto entre 29 y 59 a\u00f1os (55,2%) es el m\u00e1s frecuente, mientras que la participaci\u00f3n de ni\u00f1os (0-11 a\u00f1os, nula en este sondeo), adolescentes (2,7%) y adultos mayores (6,6%) fue baja.\n\nComo este fue un ejercicio piloto, ser\u00eda valioso complementar los hallazgos con un an\u00e1lisis geogr\u00e1fico m\u00e1s detallado para entender mejor la relaci\u00f3n entre la ubicaci\u00f3n de los escenarios y la procedencia de los asistentes. Asimismo, se recomienda que, al seleccionar los horarios de recolecci\u00f3n de la muestra en los escenarios, se garantice una diversidad de la programaci\u00f3n, asegurando que los datos capturen la variedad de p\u00fablicos que asisten a diferentes tipos de eventos.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":70.0,
+  "orden":2.0,
+  "titulo":"Frecuencia de asistencia y barreras para el consumo cultural",
+  "texto":"El 40,2% de los encuestados asisti\u00f3 por primera vez a uno de los escenarios evaluados, lo que muestra la capacidad de atraer nuevos p\u00fablicos. No obstante, la asistencia recurrente sigue siendo limitada: solo el 18,1% asiste entre 4 y 5 veces al a\u00f1o, mientras que el 13,6% lo hace m\u00e1s de 5 veces. Entre quienes asisten menos de cuatro veces al a\u00f1o (81,0%), las principales barreras identificadas fueron falta de tiempo (49,6%), distancia del escenario (19,2%) y problemas de movilidad en la ciudad (8,9%).\n\nEstos resultados reflejan la importancia de generar estrategias que faciliten la asistencia recurrente, como oferta cultural en diferentes franjas horarias, descuentos o incentivos para quienes visitan con mayor frecuencia y estrategias de movilidad que faciliten el acceso a los escenarios.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":70.0,
+  "orden":3.0,
+  "titulo":"Medios de influencia y h\u00e1bitos de consumo",
+  "texto":"Los d\u00edas con mayor preferencia para asistir a eventos culturales fueron s\u00e1bado (48,3%), viernes (24,2%), domingo (12,0%) y jueves (8,8%). En cuanto a las \u00e1reas m\u00e1s atractivas para el p\u00fablico, se destacaron la m\u00fasica (39,5%), las artes audiovisuales (24,6%) y el teatro y circo (13,3%). Tambi\u00e9n se encontr\u00f3 que el 50,8% de los asistentes considera que el factor m\u00e1s importante para regresar a un escenario es la programaci\u00f3n, seguido de la cercan\u00eda (17,2%) y la posibilidad de asistir con familiares o amigos (14,4%).\n\nDado que la programaci\u00f3n es un factor clave para la fidelizaci\u00f3n del p\u00fablico, se recomienda explorando los canales m\u00e1s efectivos para promocionar la programaci\u00f3n y facilitar el acceso a la informaci\u00f3n sobre la oferta cultural disponible en los distintos escenarios.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":70.0,
+  "orden":4.0,
+  "titulo":"Nivel de satisfacci\u00f3n",
+  "texto":"El nivel de satisfacci\u00f3n general con los escenarios culturales fue alto, con m\u00e1s del 80% de asistentes satisfechos o muy satisfechos en todos los aspectos evaluados. Los asistentes destacaron especialmente la calidad de los eventos (97,1% satisfechos o muy satisfechos), la log\u00edstica (93,9%), la infraestructura (93,7%) y la atenci\u00f3n del equipo humano (93,7%). Aunque la satisfacci\u00f3n con la claridad en la informaci\u00f3n y difusi\u00f3n de la programaci\u00f3n fue la menor entre los indicadores evaluados (80,8% satisfechos o muy satisfechos, 19,2% poco o nada satisfechos), sigue siendo un resultado positivo.\n\nPara seguir fortaleciendo la experiencia del p\u00fablico, se pueden explorar estrategias que faciliten el acceso a la informaci\u00f3n sobre la programaci\u00f3n cultural, asegurando que llegue de manera clara y oportuna a los distintos p\u00fablicos. Esto podr\u00eda incluir el uso de canales digitales m\u00e1s din\u00e1micos, recordatorios de eventos y una mayor personalizaci\u00f3n de la informaci\u00f3n enviada a los asistentes, con el fin de mejorar a\u00fan m\u00e1s la percepci\u00f3n en este aspecto.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":70.0,
+  "orden":5.0,
+  "titulo":"Conocimiento y asistencia a escenarios culturales",
+  "texto":"El estudio mostr\u00f3 que algunos escenarios registraron niveles m\u00e1s bajos de asistencia, como el Centro Cultural Compartir en Sumapaz (3,2%), y los escenarios m\u00f3viles Mar\u00eda Mercedes Carranza (6,3%) y Armando de la Torre (3,8%). Esta informaci\u00f3n es valiosa para comprender c\u00f3mo fortalecer la presencia de estos espacios dentro de la oferta cultural de la ciudad.\n\nPara futuras mediciones, ser\u00eda recomendable ampliar el operativo de campo en estos escenarios, permitiendo recopilar informaci\u00f3n m\u00e1s detallada sobre la percepci\u00f3n del p\u00fablico y las oportunidades para fortalecer su visibilidad.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":71.0,
+  "orden":1.0,
+  "titulo":"Gran escala de asistencia y diversidad por g\u00e9nero en los Festivales Al Parque",
+  "texto":"En 2024, los ocho (8) Festivales Al Parque tuvieron una asistencia acumulada de casi 600 mil personas (593.811), con cifras que destacan especialmente para Rock (300.940), Salsa (105.342) y Hip Hop (88.886). \n\nAdem\u00e1s, se observa una diversidad en la composici\u00f3n de g\u00e9nero, donde ciertos festivales (como Vallenato y Jazz) presentan un equilibrio casi par entre hombres y mujeres, mientras que en otros (por ejemplo, Hip Hop) se evidencia una mayor presencia masculina. ",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":71.0,
+  "orden":2.0,
+  "titulo":"Los Festivales son motivo de orgullo e identidad para la ciudad.",
+  "texto":"Los asistentes resaltan que los festivales son espacios que promueven la identidad y el orgullo por Bogot\u00e1. En promedio, el 94,5% de los asistentes manifestaron que estos eventos refuerzan la identidad de la ciudad, y el 95,3% afirm\u00f3 que los festivales le han permitido sentirse orgulloso de la ciudad por su oferta cultural. ",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":71.0,
+  "orden":3.0,
+  "titulo":"Los Festivales Al Parque son espacios de cultura ciudadana, convivencia ciudadana, inclusi\u00f3n y diversidad.",
+  "texto":"En promedio, 9 de cada 10 personas que asistieron a los Festivales est\u00e1n de acuerdo con que son espacios de encuentro y sana convivencia en el espacio p\u00fablico; 7 de cada 10 personas consideran que contribuyen a fomentar la cultura ciudadana y la convivencia pac\u00edfica en la capital y; 5 de cada 10 personas los perciben como espacios que generan un impacto positivo en la confianza entre ciudadanos en el espacio p\u00fablico. \r\n\nAdem\u00e1s, m\u00e1s del 78% de los asistentes afirm\u00f3 que los festivales les permitieron valorar y respetar otros grupos \u00e9tnicos y culturales, mientras el respeto por otras culturas super\u00f3 el 92% en todos los festivales.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":71.0,
+  "orden":4.0,
+  "titulo":"Los Festivales Al Parque tienen un impacto positivo en el turismo de la ciudad.",
+  "texto":"En promedio, 9% de los asistentes a los festivales afirmaron no residir en Bogot\u00e1. Adicionalmente, motivados por la oferta cultural, estos visitantes se\u00f1alaron sentirse atra\u00eddos por otras actividades complementarias que piensan realizar durante su estad\u00eda en la ciudad como recorridos por la ciudad (entre el 18% y el 32%) y la oferta gastron\u00f3mica (entre el 26,7% y el 7,9%).",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":null,
+  "orden":null,
+  "titulo":"En los Festivales Al Parque los emprendimientos reportan alta rentabilidad y, en general, se sienten muy satisfechos con su participaci\u00f3n. ",
+  "texto":"\nEn promedio el 72,6% de los emprendimientos reportan que las ganancias obtenidas son mayores a la inversi\u00f3n realizada en la participaci\u00f3n, con picos en Joropo (88,9%), Colombia (88%) y Rock (84,6%). Por su parte, el 86,3% de los emprendimientos afirmaron sentirse satisfechos o muy satisfechos con su participaci\u00f3n en el Festival con picos en Joropo (99%), Colombia (96%) y Rock (87%).\n",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":71.0,
+  "orden":5.0,
+  "titulo":"Los Festivales Al Parque impulsan el descubrimiento de los\/as artistas locales y refuerzan la conexi\u00f3n entre estos y el p\u00fablico.",
+  "texto":"En t\u00e9rminos generales, los datos muestran que Rock y Hip Hop funcionan como escenarios de encuentro entre las bandas locales y un p\u00fablico ya comprometido. En Hip Hop, el 75.8% de los asistentes encuestados afirm\u00f3 que entre los artistas que se presentan le llama la atenci\u00f3n conocer o seguir a los artistas locales, mientras en Rock, este porcentaje llega al 67.1%. \n\nPor su parte, en festivales como Colombia y Vallenato el p\u00fablico se acerca con menos conocimiento previo de los artistas locales (11.7% en Vallenato y 7.6% en Colombia), pero aun as\u00ed un porcentaje importante llega a reconocer a alguno de los artistas locales (55.9% en Vallenato y 38.3% en Colombia).",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
   "investigacion_id":75.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":"El Festival Petronio \u00c1lvarez tiene un alto nivel de aceptaci\u00f3n y potencial de fidelizaci\u00f3n en Bogot\u00e1",
   "texto":" Un 99,5% de los asistentes encuestados apoya su realizaci\u00f3n anual. La programaci\u00f3n art\u00edstica y cultural fue calificada como buena o excelente por el 93,6%, y los emprendimientos gastron\u00f3micos por el 87,7%. Adem\u00e1s, el 70,1% asisti\u00f3 por primera vez, lo que demuestra su capacidad de atraer nuevas audiencias y la oportunidad de fortalecer estrategias de fidelizaci\u00f3n.",
   "valor":null,
@@ -193,7 +281,7 @@
  },
  {
   "investigacion_id":null,
-  "orden":2,
+  "orden":2.0,
   "titulo":"El Festival Petronio \u00c1lvarez se consolida como un escenario de y para la diversidad cultural",
   "texto":"La identificaci\u00f3n \u00e9tnica de los asistentes muestra que el 18,4% se reconoci\u00f3 como afrocolombiano o negro, reafirmando la importancia del evento como un espacio de afirmaci\u00f3n cultural. La principal motivaci\u00f3n para asistir fue la oferta musical del Pac\u00edfico, con un 32,3% de asistentes interesados en los grupos y artistas participantes. Sin embargo, la marca del Festival Petronio \u00c1lvarez tambi\u00e9n tuvo un peso significativo: un 25,3% acudi\u00f3 por curiosidad sobre el evento, un 12% para vivir la experiencia del Petronio en Bogot\u00e1 y un 9,3% para conocer expresiones culturales del Pac\u00edfico. En conjunto, estos factores superan el porcentaje de quienes asistieron exclusivamente por la oferta musical, lo que refuerza la importancia del festival como una plataforma integral de difusi\u00f3n cultural.",
   "valor":null,
@@ -201,7 +289,7 @@
  },
  {
   "investigacion_id":75.0,
-  "orden":3,
+  "orden":3.0,
   "titulo":"Las redes sociales oficiales fueron eficaces para la convocatoria",
   "texto":"Internet fue el medio m\u00e1s utilizado para enterarse del evento (58,7%), con las redes sociales de la FUGA (34,5%), el Bronx Distrito Creativo (14,1%) y el Festival Petronio \u00c1lvarez (18,6%) como principales canales de difusi\u00f3n. El boca a boca fue el segundo canal m\u00e1s relevante (25,1%), lo que refleja el inter\u00e9s generado entre los ciudadanos. Sin embargo, la baja incidencia de medios tradicionales como televisi\u00f3n (4,8%), radio (2,7%) y prensa (0,5%) sugiere la necesidad de diversificar las estrategias de comunicaci\u00f3n. Adem\u00e1s, el 47,7% de los asistentes recomend\u00f3 mejorar la difusi\u00f3n de la programaci\u00f3n como un aspecto clave para futuras ediciones.",
   "valor":null,
@@ -209,7 +297,7 @@
  },
  {
   "investigacion_id":75.0,
-  "orden":4,
+  "orden":4.0,
   "titulo":"Los comerciantes informales de benefician sin generar alianzas ni involucrar a m\u00e1s personas en el negocio",
   "texto":"El 100% de los comerciantes report\u00f3 un aumento en sus ventas durante el festival en comparaci\u00f3n con otros s\u00e1bados, y el 73% afirm\u00f3 que sus ingresos crecieron m\u00e1s del 50%. No obstante, este incremento no estuvo acompa\u00f1ado de la incorporaci\u00f3n de m\u00e1s personas al negocio ni de la creaci\u00f3n de alianzas con otros comerciantes. En cambio, se atribuy\u00f3 principalmente a estrategias como ampliar las horas de trabajo (72,7%) y aumentar la cantidad de productos disponibles (63,6%). Adem\u00e1s, el 100% de los comerciantes trabaj\u00f3 sin contratar personal adicional.",
   "valor":null,
@@ -217,7 +305,7 @@
  },
  {
   "investigacion_id":75.0,
-  "orden":5,
+  "orden":5.0,
   "titulo":"Desaf\u00edos y oportunidades en el entorno del festival",
   "texto":"Aunque los comerciantes informales destacaron mejoras en la movilidad (54,5%) y la reducci\u00f3n del parqueo en zonas prohibidas (45,5%), tambi\u00e9n se\u00f1alaron un aumento en el consumo de sustancias psicoactivas (SPA) (72,7%) y en la presencia de habitantes de calle (63,6%). A pesar de estos desaf\u00edos, el 72,7% coincidi\u00f3 en que el festival hizo m\u00e1s agradable el espacio p\u00fablico y les permiti\u00f3 conocer nuevas pr\u00e1cticas culturales.",
   "valor":null,
@@ -225,7 +313,7 @@
  },
  {
   "investigacion_id":75.0,
-  "orden":6,
+  "orden":6.0,
   "titulo":"Un espacio de transformaci\u00f3n cultural: La Plaza Cultural La Santamar\u00eda",
   "texto":"\nLa Plaza Cultural La Santamar\u00eda contin\u00faa asoci\u00e1ndose principalmente con los toros, pero el festival permiti\u00f3 que tanto comerciantes como asistentes incorporaran nuevas asociaciones relacionadas con la cultura y la renovaci\u00f3n. Mientras que los comerciantes identificaron la plaza con t\u00e9rminos como mejora y ventas, los asistentes destacaron conceptos como arte, evento, festival y Petronio.",
   "valor":null,
@@ -233,7 +321,7 @@
  },
  {
   "investigacion_id":76.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":"El Espacio P\u00fablico como Corredor de Movilidad",
   "texto":"La principal funci\u00f3n percibida del espacio p\u00fablico es la movilidad. Por ejemplo, localidades como Barrios Unidos (65.8%), Chapinero (61.3%) y Ciudad Bol\u00edvar (63.4%) lideran en esta percepci\u00f3n. Esto indica una dependencia alta de los espacios p\u00fablicos para desplazamientos diarios, dejando menos espacio para funciones sociales o culturales.",
   "valor":null,
@@ -241,7 +329,7 @@
  },
  {
   "investigacion_id":76.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":"El mayor desafio, la inseguridad",
   "texto":"La percepci\u00f3n de inseguridad es predominante en varias localidades, afectando su uso y disfrute. En localidades como Kennedy (67% percibe inseguridad) y Rafael Uribe Uribe (74.4%), las cifras indican que m\u00e1s de dos tercios de los encuestados consideran los espacios p\u00fablicos como inseguros. Elementos como iluminaci\u00f3n adecuada y presencia de personal de seguridad son clave para mejorar esta percepci\u00f3n.",
   "valor":null,
@@ -249,7 +337,7 @@
  },
  {
   "investigacion_id":76.0,
-  "orden":3,
+  "orden":3.0,
   "titulo":"Baja participaci\u00f3n en actividades comunitarias",
   "texto":"Un porcentaje significativo de encuestados nunca participa en actividades recreativas o sociales en el espacio p\u00fablico. En Bosa, el 50.3% de los encuestados report\u00f3 no participar nunca en estas actividades, seguido de Suba (70.8%). Este hallazgo sugiere una oportunidad para fomentar mayor integraci\u00f3n social a trav\u00e9s de eventos organizados.",
   "valor":null,
@@ -257,7 +345,7 @@
  },
  {
   "investigacion_id":76.0,
-  "orden":4,
+  "orden":4.0,
   "titulo":"Eventos culturales y artisticos como potencial para la apropiaci\u00f3n del Espacio P\u00fablico ",
   "texto":"Los ciudadanos valoran actividades como festivales tradicionales y eventos art\u00edsticos para revitalizar los espacios p\u00fablicos. Por ejemplo, en Santa Fe, el 39.3% de los encuestados prefiere exposiciones de arte local, mientras que en Usme, el 49.3% destaca los festivales tradicionales. Estas actividades tienen el potencial de conectar a las comunidades con su cultura e identidad.",
   "valor":null,
@@ -265,7 +353,7 @@
  },
  {
   "investigacion_id":76.0,
-  "orden":5,
+  "orden":5.0,
   "titulo":"Resultados por localidades",
   "texto":"Localidades como Teusaquillo, Usaqu\u00e9n, y Santa Fe destacan por una percepci\u00f3n m\u00e1s positiva, mejor estado de sus espacios p\u00fablicos y mayor conexi\u00f3n con la identidad cultural. En contraste, Ciudad Bol\u00edvar, Los M\u00e1rtires, y Rafael Uribe Uribe presentan resultados cr\u00edticos en t\u00e9rminos de inseguridad, deterioro de infraestructura y falta de uso comunitario, lo que refuerza la necesidad de intervenciones focalizadas.",
   "valor":null,
@@ -273,7 +361,7 @@
  },
  {
   "investigacion_id":79.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":"Medici\u00f3n del nuevo dise\u00f1o de la factura",
   "texto":"Le evaluaci\u00f3n se enfocar\u00e1 en medir los resultados del nuevo dise\u00f1o de la factura en el consumo de agua de los bogotanos",
   "valor":null,
@@ -281,7 +369,7 @@
  },
  {
   "investigacion_id":79.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":"Metodolog\u00eda de medici\u00f3n",
   "texto":"La evaluaci\u00f3n de resultados se har\u00e1 por medio de una metodolog\u00eda de diferencia de medias.",
   "valor":null,
@@ -289,7 +377,7 @@
  },
  {
   "investigacion_id":80.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":"Equivalencia de un metro cubico en litros",
   "texto":"El 46% de bogotanos no sabe la equivalencia de un metro c\u00fabico en litros.",
   "valor":null,
@@ -297,7 +385,7 @@
  },
  {
   "investigacion_id":80.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":"Acciones de ahorro de agua tras el racionamiento",
   "texto":"Despu\u00e9s de las medidas de racionamiento, el 17% de los bogotanos empezaron a recoger agua en un balde durante el ba\u00f1o. El 55% ya lo hac\u00eda antes del racionamiento. \r",
   "valor":null,
@@ -305,7 +393,7 @@
  },
  {
   "investigacion_id":80.0,
-  "orden":3,
+  "orden":3.0,
   "titulo":"Creencias sobre el lugar de la casa donde m\u00e1s se gasta agua",
   "texto":"En promedio, el 42% de los bogotanos cree que la zona de lavado de ropas es donde m\u00e1s se gasta agua en el hogar.\r",
   "valor":null,
@@ -313,7 +401,7 @@
  },
  {
   "investigacion_id":80.0,
-  "orden":4,
+  "orden":4.0,
   "titulo":"Tiempo en la ducha",
   "texto":"Aproximadamente 3 de cada 10 bogotanos se ba\u00f1an en m\u00e1s de 5 minutos. \r",
   "valor":null,
@@ -321,7 +409,7 @@
  },
  {
   "investigacion_id":80.0,
-  "orden":5,
+  "orden":5.0,
   "titulo":"Asociaci\u00f3n de la ducha",
   "texto":"47% asocia la ducha como un espacio de aseo, el 38% como un espacio para activarse, y el 15% como uno de reflexi\u00f3n, relajaci\u00f3n y bienestar.\r",
   "valor":null,
@@ -329,7 +417,7 @@
  },
  {
   "investigacion_id":81.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":null,
   "texto":"Los resultados reflejan una alta participaci\u00f3n reciente en eventos culturales y recreativos, y alta acogida de la estrategia, con un 38% de los encuestados que han asistido a un evento en la \u00faltima semana y un 94% que califica positivamente la iniciativa de extender la oferta cultural a horarios nocturnos.",
   "valor":null,
@@ -337,7 +425,7 @@
  },
  {
   "investigacion_id":81.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":null,
   "texto":"El inter\u00e9s en actividades nocturnas se concentra en eventos culturales y recreativos, como teatro, visitas guiadas, cine y m\u00fasica en vivo, mientras que actividades como el circo y servicios financieros tienen menor aceptaci\u00f3n.",
   "valor":null,
@@ -345,7 +433,7 @@
  },
  {
   "investigacion_id":81.0,
-  "orden":3,
+  "orden":3.0,
   "titulo":null,
   "texto":"Los principales obst\u00e1culos se\u00f1alados para extender la oferta cultural y recreativa a horarios nocturnos en Bogot\u00e1 son la inseguridad (82%) y la falta de transporte p\u00fablico en horarios nocturnos (71%). Los encuestados sugieren mejorar la seguridad, ampliar la cobertura de transporte y fortalecer la difusi\u00f3n de actividades como acciones prioritarias para superar estas barreras.",
   "valor":null,
@@ -353,7 +441,7 @@
  },
  {
   "investigacion_id":81.0,
-  "orden":4,
+  "orden":4.0,
   "titulo":null,
   "texto":"\u2022Los encuestados valoran la oferta cultural nocturna por los beneficios que genera tanto a nivel personal como social. Un 95% considera que la estrategia Bogot\u00e1 24 horas tendr\u00eda un impacto positivo en sus vidas. Los principales beneficios para la ciudad mencionados por los encuestados incluyen la reactivaci\u00f3n econ\u00f3mica, mayor inclusi\u00f3n social y aumento del empleo.",
   "valor":null,
@@ -361,7 +449,7 @@
  },
  {
   "investigacion_id":81.0,
-  "orden":5,
+  "orden":5.0,
   "titulo":null,
   "texto":"El 33% de los encuestados indica que conf\u00eda en otros bogotanos.",
   "valor":null,
@@ -369,7 +457,7 @@
  },
  {
   "investigacion_id":85.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":"Inclusi\u00f3n e Identidades Sociales Diversas",
   "texto":"En los espacios priorizados, el reconocimiento y respeto por la diversidad presentan importantes desaf\u00edos, con puntajes bajos en el \u00edndice de inclusi\u00f3n (0,35 en Santander, 0,37 en La Concordia y 0,29 en Media Torta-Girardot, frente a 0,67 en Bogot\u00e1). Aunque en temas como el matrimonio igualitario el apoyo es superior al promedio bogotano (76% en Santander y 80% en La Concordia), persisten altos niveles de rechazo a la convivencia con personas de comunidades diversas, especialmente en Media Torta-Girardot. Para contrarrestar estas barreras, se recomienda el dise\u00f1o de estrategias de sensibilizaci\u00f3n cultural y educaci\u00f3n comunitaria que promuevan la inclusi\u00f3n y combatan prejuicios, incorporando enfoques interseccionales que visibilicen las realidades de grupos hist\u00f3ricamente excluidos.",
   "valor":null,
@@ -377,7 +465,7 @@
  },
  {
   "investigacion_id":85.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":"Equidad de G\u00e9nero y Eliminaci\u00f3n del Machismo",
   "texto":"Las creencias y actitudes sobre el g\u00e9nero en estos territorios reflejan una fuerte persistencia de estereotipos y desigualdades. En Media Torta-Girardot, 58% de las personas creen que la violencia de pareja solo es un problema si ocurre en p\u00fablico, y 74% considera que las mujeres son naturalmente mejores en las tareas del hogar, lo que evidencia una normalizaci\u00f3n de roles de g\u00e9nero desiguales. Aunque La Concordia presenta los mejores resultados en este aspecto (0,62 en el \u00edndice, frente a 0,55 en Bogot\u00e1), a\u00fan persisten retos en la equidad de g\u00e9nero. Es crucial implementar programas comunitarios que cuestionen estos imaginarios y promuevan masculinidades no violentas, as\u00ed como fortalecer la pedagog\u00eda sobre derechos de las mujeres y prevenci\u00f3n de violencias basadas en g\u00e9nero.",
   "valor":null,
@@ -385,7 +473,7 @@
  },
  {
   "investigacion_id":null,
-  "orden":3,
+  "orden":3.0,
   "titulo":"Cultura Pol\u00edtica y Ciudadan\u00eda",
   "texto":"Si bien Santander y La Concordia tienen una leve ventaja sobre el promedio de Bogot\u00e1 en este sub\u00edndice (0,37 y 0,36 respectivamente, frente a 0,30 en Bogot\u00e1), en Media Torta-Girardot la participaci\u00f3n pol\u00edtica es limitada (0,31), con bajo conocimiento de mecanismos de participaci\u00f3n y escaso involucramiento en procesos ciudadanos. Solo 16% de los habitantes de La Concordia y Media Torta-Girardot participan en iniciativas ambientales o culturales, en contraste con el 35% en Bogot\u00e1. Para fortalecer la cultura pol\u00edtica, se recomienda fomentar la formaci\u00f3n ciudadana con estrategias accesibles que permitan a la comunidad conocer y usar herramientas de participaci\u00f3n, as\u00ed como promover el liderazgo local a trav\u00e9s de procesos organizativos que incentiven la apropiaci\u00f3n de los espacios de decisi\u00f3n.",
   "valor":null,
@@ -393,7 +481,7 @@
  },
  {
   "investigacion_id":null,
-  "orden":4,
+  "orden":4.0,
   "titulo":"Convivencia y Cultura de Paz",
   "texto":"Los resultados muestran que los habitantes de estos territorios valoran la solidaridad y el apoyo comunitario, con La Concordia destac\u00e1ndose en este aspecto (0,59 en el \u00edndice, por encima del 0,44 en Bogot\u00e1). Sin embargo, la inseguridad sigue siendo una preocupaci\u00f3n central, y en Media Torta-Girardot 45% de las personas justifican el porte de armas como forma de protecci\u00f3n, reflejando una percepci\u00f3n de desprotecci\u00f3n estatal. Para fortalecer la convivencia, es fundamental promover espacios de di\u00e1logo comunitario y estrategias que fortalezcan la confianza entre la ciudadan\u00eda, incluyendo programas de mediaci\u00f3n y resoluci\u00f3n pac\u00edfica de conflictos.",
   "valor":null,
@@ -401,7 +489,7 @@
  },
  {
   "investigacion_id":85.0,
-  "orden":5,
+  "orden":5.0,
   "titulo":"Espacio P\u00fablico",
   "texto":"A pesar de los altos niveles de percepci\u00f3n de inseguridad, los espacios priorizados contin\u00faan siendo ampliamente utilizados. En Santander, 79% de los habitantes reportaron consumo de sustancias psicoactivas en parques cercanos, un porcentaje significativamente superior al 36% en Bogot\u00e1. Sin embargo, tambi\u00e9n se report\u00f3 un alto nivel de aprovechamiento del espacio p\u00fablico, con 71% de los habitantes de La Concordia considerando que la conexi\u00f3n peatonal en su barrio es buena, frente al 49% en Bogot\u00e1. Esto indica que, a pesar de los problemas de seguridad, la comunidad sigue apropi\u00e1ndose del espacio. Para mejorar las condiciones del entorno, se recomienda fortalecer la presencia institucional, recuperar espacios deteriorados y fomentar estrategias de apropiaci\u00f3n comunitaria a trav\u00e9s de actividades culturales y recreativas.",
   "valor":null,
@@ -409,7 +497,7 @@
  },
  {
   "investigacion_id":85.0,
-  "orden":6,
+  "orden":6.0,
   "titulo":"Cultura Ambiental",
   "texto":"El inter\u00e9s por el cuidado del medio ambiente es considerablemente mayor en estos territorios en comparaci\u00f3n con Bogot\u00e1. Mientras que en la ciudad solo 28% de las personas separan sus residuos, en Santander, La Concordia y Media Torta-Girardot este porcentaje es de 70%, 75% y 74% respectivamente, lo que evidencia una fuerte conciencia ambiental. Esta disposici\u00f3n representa una oportunidad clave para integrar el componente ambiental en otras estrategias de transformaci\u00f3n cultural, asegurando su articulaci\u00f3n con procesos educativos, comunitarios y gubernamentales para fomentar el desarrollo sostenible de estos territorios.",
   "valor":null,
@@ -417,7 +505,7 @@
  },
  {
   "investigacion_id":85.0,
-  "orden":7,
+  "orden":7.0,
   "titulo":"Movilidad",
   "texto":"Este sub\u00edndice tuvo los puntajes m\u00e1s bajos, con 0,24 en Santander, 0,27 en La Concordia y 0,29 en Media Torta-Girardot, todos por debajo del 0,38 en Bogot\u00e1. En Santander, 88% de los habitantes reportaron haber visto peatones cruzando sin usar el puente peatonal, evidenciando una falta de cultura vial y condiciones inadecuadas para la movilidad segura. Adem\u00e1s, en Media Torta-Girardot, 42% de la poblaci\u00f3n se desplaza a pie como principal medio de transporte, lo que sugiere posibles barreras econ\u00f3micas o estructurales en el acceso al transporte p\u00fablico. Se recomienda impulsar campa\u00f1as de educaci\u00f3n vial, mejorar la infraestructura peatonal y evaluar la accesibilidad al transporte en estos sectores, asegurando condiciones seguras y equitativas para todos los actores viales.",
   "valor":null,
@@ -425,7 +513,7 @@
  },
  {
   "investigacion_id":89.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":"Predominio de la Falta de Planificaci\u00f3n al Estacionar",
   "texto":"La mayor\u00eda de los encuestados indic\u00f3 que no planifica completamente d\u00f3nde estacionar antes de llegar a su destino. Solo un promedio del 39% se\u00f1al\u00f3 que siempre lo hace, siendo Fontib\u00f3n la mejor localidad con un 61.2% y Kennedy la peor con apenas un 16.7%. Este hallazgo revela una brecha significativa en la planificaci\u00f3n previa de los viajes, lo que contribuye al mal parqueo.",
   "valor":null,
@@ -433,7 +521,7 @@
  },
  {
   "investigacion_id":89.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":"Aceptaci\u00f3n del Uso del Espacio P\u00fablico para Estacionamiento",
   "texto":"El 49.6% de los encuestados considera que el espacio p\u00fablico deber\u00eda usarse para veh\u00edculos particulares si no hay otras opciones de estacionamiento. Kennedy tuvo los mejores resultados, con un 73% de ciudadanos rechazando esta afirmaci\u00f3n, mientras que Engativ\u00e1 mostr\u00f3 el nivel m\u00e1s alto de aceptaci\u00f3n con un 77.4%. Esto resalta una tensi\u00f3n entre las necesidades de movilidad privada y la preservaci\u00f3n del espacio p\u00fablico.",
   "valor":null,
@@ -441,7 +529,7 @@
  },
  {
   "investigacion_id":89.0,
-  "orden":3,
+  "orden":3.0,
   "titulo":"Percepci\u00f3n del Mal Parqueo como un Problema Social",
   "texto":"El 84.2% de los encuestados considera que el mal parqueo afecta negativamente la calidad de vida en la ciudad. San Crist\u00f3bal, Santa Fe - La Candelaria y Kennedy presentaron los niveles m\u00e1s altos de concienciaci\u00f3n con el 100%, mientras que Antonio Nari\u00f1o fue la m\u00e1s rezagada, con solo un 63.2%. Este dato indica una comprensi\u00f3n generalizada del impacto social del mal parqueo",
   "valor":null,
@@ -449,7 +537,7 @@
  },
  {
   "investigacion_id":89.0,
-  "orden":4,
+  "orden":4.0,
   "titulo":"Eficacia Percibida de las Sanciones por Mal Parqueo",
   "texto":"El 51.7% de los encuestados percibe que las sanciones actuales no son efectivas para prevenir el mal parqueo. Chapinero mostr\u00f3 la mayor satisfacci\u00f3n con las sanciones (79.2%), mientras que Kennedy y Los M\u00e1rtires destacaron como las peores con niveles de aceptaci\u00f3n del 16.7%. ",
   "valor":null,
@@ -457,7 +545,7 @@
  },
  {
   "investigacion_id":89.0,
-  "orden":5,
+  "orden":5.0,
   "titulo":"Indiferencia Frente a los Veh\u00edculos Mal Estacionados",
   "texto":"Un 19.1% de los encuestados admiti\u00f3 sentirse indiferente al ver veh\u00edculos mal estacionados, siendo Antonio Nari\u00f1o la localidad con el porcentaje m\u00e1s alto de indiferencia (29.9%), y Teusaquillo la m\u00e1s cr\u00edtica, con un 50% expresando inconformidad. Este hallazgo sugiere que, aunque el mal parqueo es reconocido como un problema, un segmento de la poblaci\u00f3n no lo considera prioritario.",
   "valor":null,
@@ -465,7 +553,7 @@
  },
  {
   "investigacion_id":90.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":null,
   "texto":"Los temas m\u00e1s presenciados por los encuestados de predios residenciales en los pol\u00edgonos encuestados son pobreza, inseguridad, desempleo, narcotr\u00e1fico y aumento de precios. Cerca del 73% de los encuestados manifiesta haberlos presenciado.",
   "valor":null,
@@ -473,7 +561,7 @@
  },
  {
   "investigacion_id":90.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":null,
   "texto":"En los \u00faltimos 12 meses, el 36% de los encuestados de predios residenciales cree que la seguridad en su sector aument\u00f3. El 22% cree que se disminuy\u00f3,  y el 42% cree que se mantuvo igual.",
   "valor":null,
@@ -481,7 +569,7 @@
  },
  {
   "investigacion_id":90.0,
-  "orden":3,
+  "orden":3.0,
   "titulo":null,
   "texto":"En promedio, para el 50% de los encuestados, la delincuencia com\u00fan, los robos, agresiones, la informaci\u00f3n que escucha en la calle, la poca presencia policial, el expendio de droga (ollas), las v\u00edas p\u00fablicas sin iluminaci\u00f3n o en mal estado, la presencia de habitantes en condici\u00f3n de calle, el que hayan ocurrido homicidios en el \u00faltimo a\u00f1o, la existencia de basureros y\/o botaderos de basura, y la presencia de pandillas son los factores que m\u00e1s influyen en su percepci\u00f3n de inseguridad.",
   "valor":null,
@@ -489,7 +577,7 @@
  },
  {
   "investigacion_id":90.0,
-  "orden":4,
+  "orden":4.0,
   "titulo":null,
   "texto":"El 20.92% de los encuestados de predios residenciales fue v\u00edctima de hurto a personas. El delito que afect\u00f3 en mayor medida a los encuestados (60%) fue el hurto a personas. El delito que m\u00e1s afect\u00f3 a los encuestados ocurri\u00f3 mayoritariamente en la calle (44%), en espacios online o por tel\u00e9fono (10%) o en los puentes peatonales (9%). En la mayor\u00eda de los delitos que m\u00e1s afectaron a los encuestados no se us\u00f3 ning\u00fan elemento amenazante. Los m\u00e1s usados son el arma blanca (33%) y de fuego (15%). Sobre el hurto a personas: el tel\u00e9fono m\u00f3vil (34%) y el dinero (30%) fueron los elementos mas hurtados. El 39% de este delito sucedi\u00f3 por medio de atracos. El 13% por raponazo. El 20% por estafa o fleteo. El 11% por cosquilleo o halado.",
   "valor":null,
@@ -497,7 +585,7 @@
  },
  {
   "investigacion_id":90.0,
-  "orden":5,
+  "orden":5.0,
   "titulo":null,
   "texto":"Solo el 25% de las personas v\u00edctimas de alg\u00fan delito denunciaron (n = 90.999). Estas personas acudieron principalmente a la Polic\u00eda Nacional (CAI, estaci\u00f3n de polic\u00eda, DIJIN -SIJIN) (70%) o a la Comisar\u00eda de familia (11%). El resto a la Fiscal\u00eda o a la Defensor\u00eda del Pueblo. En una escala de 1 (muy insatisfecho) a 10 (muy satisfecho), el grado de satisfacci\u00f3n de las personas que denunciaron con la autoridad que le atendi\u00f3 fue de 4.33 puntos, un nivel bajo.\nLas tres principales razones para no denunciar son:  desconocimiento de los lugares y tr\u00e1mites de denuncia (23%), desconfianza en las capacidades de las entidades de administraci\u00f3n de justicia (21%), temor a amenazas\/represalias (14%)",
   "valor":null,
@@ -505,7 +593,7 @@
  },
  {
   "investigacion_id":1.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":null,
   "texto":" El crecimiento de las pr\u00e1cticas circenses en la ciudad trae nuevos retos en relaci\u00f3n con la infraestructura para este arte: la cantidad de artistas circenses cada d\u00eda es mayor en las localidades de la ciudad, por lo que se manifiesta la importancia de aumentar la infraestructura para cubrir las necesidades de entrenamiento, pr\u00e1ctica, creaci\u00f3n y circulaci\u00f3n, dando un cubrimiento tanto a las y los ciudadanos que son parte del sector como a quienes disfrutan del espect\u00e1culo.",
   "valor":null,
@@ -513,7 +601,7 @@
  },
  {
   "investigacion_id":1.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":null,
   "texto":"Los artistas circenses, al tener un rol multifac\u00e9tico, trae consigo nuevas necesidades: se identifica dos momentos importantes en los procesos de creaci\u00f3n para los actos de circo; el te\u00f3rico y el pr\u00e1ctico, pero los artistas han tenido m\u00faltiples dificultades con este proceso porque deben ocuparse de tareas en distintas \u00e1reas como la gesti\u00f3n y la producci\u00f3n; lo que origina la necesidad de aumentar la cantidad de est\u00edmulos y apoyos para quienes hacen parte del sector.",
   "valor":null,
@@ -521,7 +609,7 @@
  },
  {
   "investigacion_id":1.0,
-  "orden":3,
+  "orden":3.0,
   "titulo":null,
   "texto":"La formaci\u00f3n para este arte va m\u00e1s all\u00e1 de tener un t\u00edtulo: una de las mayores debilidades del Sector Circense es la falta de una educaci\u00f3n universitaria centrada en el circo, ya que en el distrito solo encontramos programas t\u00e9cnicos. Por ende, es prioritario buscar la manera de brindar un programa centrado en las necesidades y requerimientos del sector que lleven a un reconocimiento y a brindar las herramientas necesarias para ejercer los distintos roles y tareas del campo. Una gran necesidad que se identifica es fortalecer la formaci\u00f3n en \u00e1reas de conciencia y cuidado corporal para evitar lesiones",
   "valor":null,
@@ -529,7 +617,7 @@
  },
  {
   "investigacion_id":1.0,
-  "orden":4,
+  "orden":4.0,
   "titulo":null,
   "texto":"El circo contempor\u00e1neo ha alcanzado un gran crecimiento en Bogot\u00e1: el nuevo circo es la tipolog\u00eda de este arte que m\u00e1s ha crecido en la ciudad, a pesar de que el circo tradicional tiene una mayor trayectoria. Esto debido a la falta de espacios y a la normatividad vigente para la operatividad. Por ello se evidencia la necesidad de fortalecer el acompa\u00f1amiento al circo tradicional, teniendo en cuenta la importancia que tiene para el sector y para la tradici\u00f3n del mismo",
   "valor":null,
@@ -537,7 +625,7 @@
  },
  {
   "investigacion_id":1.0,
-  "orden":5,
+  "orden":5.0,
   "titulo":null,
   "texto":"Los nuevos desaf\u00edos en la construcci\u00f3n de pol\u00edtica p\u00fablica para el circo: aunque el cubrimiento al circo en la ciudad ha aumentado gracias a los programas, convocatorias y otras acciones que se realizan a trav\u00e9s de la gerencia de Arte Dram\u00e1tico de Idartes, se identifica que sigue siendo un sector invisibilizado, y a pesar de su gran crecimiento no ha logrado la consolidaci\u00f3n de pol\u00edticas p\u00fablicas espec\u00edficas que ayuden a quienes conforman este sector. Por lo tanto, desde esta investigaci\u00f3n, se manifiesta la necesidad de ahondar en la construcci\u00f3n de nuevos lineamientos p\u00fablicos que permitan mejorar el reconocimiento y en general, el quehacer del artista circense. ",
   "valor":null,
@@ -545,7 +633,7 @@
  },
  {
   "investigacion_id":2.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":null,
   "texto":" El PDSC contribuye a una mejor gesti\u00f3n de las salas de teatro: el Programa Distrital de Salas Concertadas ha sido clave en el proceso de adquisici\u00f3n de conocimientos legales y habilidades administrativas por parte de los equipos administrativos y gestores de las salas de teatro de Bogot\u00e1. Por ello se recomienda seguir realizando esfuerzos para fortalecer la gesti\u00f3n administrativa dentro de las salas.",
   "valor":null,
@@ -553,7 +641,7 @@
  },
  {
   "investigacion_id":2.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":null,
   "texto":"El PDSC potencia los proyectos art\u00edsticos de las salas: el Programa Distrital de Salas Concertadas ha impactado a las propuestas art\u00edsticas de las salas de teatro de Bogot\u00e1, permitiendo que sus equipos gestores materialicen sus propuestas en los proyectos que presentan al programa, y que, asimismo, sostengan su programaci\u00f3n. En pocas palabras, la implementaci\u00f3n de este programa permite aportar a los procesos de creaci\u00f3n y circulaci\u00f3n del teatro y otras expresiones escn\u00e9nicas en la ciudad.\n",
   "valor":null,
@@ -561,7 +649,7 @@
  },
  {
   "investigacion_id":2.0,
-  "orden":3,
+  "orden":3.0,
   "titulo":null,
   "texto":"El PDSC es una pieza clave de la sostenibilidad de las salas de teatro: el Programa Distrital de Salas Concertadas integra los esquemas mixtos de sostenibilidad de las salas y ha estimulado el aprovechamiento de esas instalaciones para promover el desarrollo de diferentes dimensiones del campo art\u00edstico, a su vez que enriquecen las actividades de las salas y pueden obtener recursos para el mantenimiento tanto de los espacios, como de sus actividades. ",
   "valor":null,
@@ -569,7 +657,7 @@
  },
  {
   "investigacion_id":2.0,
-  "orden":4,
+  "orden":4.0,
   "titulo":null,
   "texto":" El PDSC ha dinamizado el sector promoviendo su articulaci\u00f3n interna: el Programa Distrital de Salas Concertadas ha incidido sobre las relaciones que sostienen diferentes agentes del sector entre s\u00ed, al promover directamente la vinculaci\u00f3n a las salas concertadas con grupos que no cuentan con espacios propios y que all\u00ed pueden tanto circular sus obras, como desarrollar sus procesos creativos y desplegar una oferta de formaci\u00f3n. En conclusi\u00f3n, el programa genera estrategias para que los artistas trabajen de forma mancomunada y a su vez se apoya a los grupos emergentes. ",
   "valor":null,
@@ -577,7 +665,7 @@
  },
  {
   "investigacion_id":2.0,
-  "orden":5,
+  "orden":5.0,
   "titulo":null,
   "texto":"Alrededor del PDSC se han tejido buena parte de las relaciones del sector y la institucionalidad cultural bogotana: hist\u00f3ricamente el Programa Distrital de Salas Concertadas ha sido una pieza clave en la construcci\u00f3n de las relaciones del sector con la institucionalidad, pues se considera que este y buena parte de la trama institucional en la que se enmarca, han sido resultado de la obra colectiva del movimiento teatral articulado. ",
   "valor":null,
@@ -585,7 +673,7 @@
  },
  {
   "investigacion_id":3.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":null,
   "texto":"La Cinemateca de Bogot\u00e1 crea un p\u00fablico especializado: la Cinemateca de Bogot\u00e1 ha cultivado un p\u00fablico especializado mediante la creaci\u00f3n de oportunidades de acceso a talleres y recursos disponibles en la Biblioteca Especializada en Cine y Medios Audiovisuales (BECMA), as\u00ed como en las experiencias ofrecidas por Media Lab. Esta accesibilidad no solo atrae a individuos interesados en profundizar sus conocimientos cinematogr\u00e1ficos, sino que tambi\u00e9n facilita la formaci\u00f3n de una audiencia especializada. Adem\u00e1s, la Cinemateca ha desarrollado actividades espec\u00edficamente orientadas a un p\u00fablico infantil y juvenil. Estas iniciativas no solo buscan despertar el inter\u00e9s temprano en el cine entre las generaciones m\u00e1s j\u00f3venes, sino que tambi\u00e9n contribuyen activamente a la formaci\u00f3n de p\u00fablicos juveniles, fomentando as\u00ed el crecimiento de una nueva generaci\u00f3n interesada en el cine.",
   "valor":null,
@@ -593,7 +681,7 @@
  },
  {
   "investigacion_id":3.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":null,
   "texto":"La Cinemateca de Bogot\u00e1 acoge un p\u00fablico diverso: la audiencia que frecuenta la Cinemateca es diversa, ya que abarca a personas de diferentes edades, niveles socioecon\u00f3micos y tambi\u00e9n incluye personas en condici\u00f3n de discapacidad. Este variado conjunto de asistentes refleja la amplitud y la inclusividad de los espacios ofrecidos por la Cinemateca.",
   "valor":null,
@@ -601,7 +689,7 @@
  },
  {
   "investigacion_id":3.0,
-  "orden":3,
+  "orden":3.0,
   "titulo":null,
   "texto":"El p\u00fablico de las exposiciones es diverso: se observa que las exposiciones atraen a una audiencia m\u00e1s diversa, cuya composici\u00f3n puede cambiar seg\u00fan el tema. No se limita necesariamente a un p\u00fablico especializado en cine, sino que se nota una presencia significativa de personas con intereses diversos. En este sentido, no se identifica una tendencia en cuanto al p\u00fablico que asiste a este espacio, por lo que la curadur\u00eda puede ampliarse a m\u00faltiples temas sin restricci\u00f3n.",
   "valor":null,
@@ -609,7 +697,7 @@
  },
  {
   "investigacion_id":3.0,
-  "orden":4,
+  "orden":4.0,
   "titulo":null,
   "texto":"La motivaci\u00f3n para asistir a la Cinemateca var\u00eda seg\u00fan el entorno y la edad: a partir de la investigaci\u00f3n se observa que la asistencia del p\u00fablico j\u00f3ven se realiza en compa\u00f1ia de amigos, mientras que un p\u00fablico m\u00e1s adulto y especializado puede optar por disfrutar de la Cinemateca en solitario. Para ello se recomienda dise\u00f1ar estrategias que convoquen a estos p\u00fablicos que vayan acorde a sus formas de ocio, por ejemplo para el p\u00fablico j\u00f3ven, dichas estrategias, pueden estar enfocadas en la creaci\u00f3n de redes amigos, influencers, voz a voz, etc. Mientras que para el p\u00fablico adulto y especializado la curadur\u00eda tem\u00e1tica y la divulgaci\u00f3n de la misma en centros acad\u00e9micos y otros espacios relacionados puede ser una buena alternativa.",
   "valor":null,
@@ -617,7 +705,7 @@
  },
  {
   "investigacion_id":5.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":null,
   "texto":"El trabajo de la FUGA ha permitido la visibilizaci\u00f3n de la marca BRONX: Esta gran labor que ha hecho la instituci\u00f3n ha llevado a que m\u00e1s de un 30% de los entrevistados hayan escuchado o identifiquen la marca Bronx Distrito Creativo, siendo mayor que quienes han o\u00eddo sobre los distritos creativos, es por esto que se debe continuar el trabajo en doble v\u00eda conocimiento de Bronx Distrito Creativo y de los distritos creativos, aprovechando las caracter\u00edsticas que la ciudadan\u00eda identifica en el espacio. \n",
   "valor":null,
@@ -625,7 +713,7 @@
  },
  {
   "investigacion_id":5.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":null,
   "texto":"La ruta ideal para para ahondar con la conexi\u00f3n emocional: Se reconoce que la carga hist\u00f3rica y patrimonial puede ser utilizada para ampliar la conexi\u00f3n emocional que debe buscar generar la marca y que dar\u00eda herramientas para la consesi\u00f3n planteada.\n",
   "valor":null,
@@ -633,7 +721,7 @@
  },
  {
   "investigacion_id":5.0,
-  "orden":3,
+  "orden":3.0,
   "titulo":null,
   "texto":"El Bronx Distrito Creativo tiene potencial no explorado: El BDC es un espacio al que le falta ser explorado y que debe ser aprovechado m\u00e1s all\u00e1 de su oferta cultural, pues es un punto de encuentro y creaci\u00f3n comunitaria, generador de esperanza, sentimiento que se relaciona con lo planteado para este espacio.",
   "valor":null,
@@ -641,7 +729,7 @@
  },
  {
   "investigacion_id":5.0,
-  "orden":4,
+  "orden":4.0,
   "titulo":null,
   "texto":"\nEl Bronx Distrito Creativo es una marca - lugar: El concepto de marca -lugar puede generar un aumento de inversi\u00f3n y puede ser utilizado para promover una identidad distinta que genere el inter\u00e9s y preferencia de los ciudadanos para habitar este espacio.",
   "valor":null,
@@ -649,7 +737,7 @@
  },
  {
   "investigacion_id":5.0,
-  "orden":5,
+  "orden":5.0,
   "titulo":null,
   "texto":"La percepci\u00f3n de los ciudadanos y ciudadanas ha cambiado: La mayor\u00eda de los encuestados se sienten seguros en el BDC. Se pueden utilizar la historia de los edificios que la componen, la estructura y el juego de luces y espacios exteriores e interiores que se est\u00e1 llevando a cabo con la reestructuraci\u00f3n del lugar para seguir aumentando este componente.\"",
   "valor":null,
@@ -657,7 +745,7 @@
  },
  {
   "investigacion_id":6.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":null,
   "texto":"Los conocimientos esenciales para el rol: se identifica que para desempe\u00f1ar el rol de consejero se necesita tener conocimientos en dos campos. Primero, sobre pol\u00edtica p\u00fablica y normatividad y segundo, el conocimiento sobre el \u00e1rea art\u00edstica a la que representa. Estos son los elementos que les permiten realizar su labor como consejeros distritales y aportar al sector.",
   "valor":null,
@@ -665,7 +753,7 @@
  },
  {
   "investigacion_id":6.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":null,
   "texto":"\u00bfCu\u00e1l es el rol del Consejero? Se reconoce que hay un desconocimiento previo sobre lo que hace un consejero distrital en las artes, y su alcance en las acciones. Este desconocimiento est\u00e1 en la ciudadan\u00eda en general y puede ser lo que este ocasionando la baja participaci\u00f3n en el Consejo. Se recomienda que la SCRD y el IDARTES logren aportar a un proceso comunicativo donde se logre hacer visible la importancia de estos roles para los sectores art\u00edsticos.",
   "valor":null,
@@ -673,7 +761,7 @@
  },
  {
   "investigacion_id":6.0,
-  "orden":3,
+  "orden":3.0,
   "titulo":null,
   "texto":"El trabajo colaborativo es esencial: Si los consejeros distritales de las \u00e1reas art\u00edsticas tuvieran una mayor articulaci\u00f3n, se lograr\u00eda identificar las necesidades comunes que tienen los sectores. Esto permitir\u00eda la generaci\u00f3n y el fortalecimiento de v\u00ednculos y redes entre \u00e1reas, y como consecuencia los resultados ser\u00edan m\u00e1s visibles para ellos mismos, para el sector de las artes y para la ciudadan\u00eda. Por ello se recomienda dialogar, dise\u00f1ar e implementar estrategias que permitan este trabajo colaborativo y de reconocimiento entre ellos, ya que se identifica que entre ellos mismos no se conocen y mucho menos sus acciones.",
   "valor":null,
@@ -681,7 +769,7 @@
  },
  {
   "investigacion_id":6.0,
-  "orden":4,
+  "orden":4.0,
   "titulo":null,
   "texto":"No hay empalme entre los consejeros: Se logra identificar que no hay un proceso de empalme con gestiones anteriores, lo que no permite una continuidad de las gestiones y apoyo a los sectores art\u00edsticos. Por ello se recomienda dise\u00f1ar e implementar una estrategia que permita relatar las acciones realizadas y a su vez, reconocer la labor de los consejeros en el sector de las artes.",
   "valor":null,
@@ -689,7 +777,7 @@
  },
  {
   "investigacion_id":6.0,
-  "orden":5,
+  "orden":5.0,
   "titulo":null,
   "texto":"El mayor obst\u00e1culo en la gesti\u00f3n: Se nombr\u00f3 como mayor obst\u00e1culo para ejercer esta labor la falta de apoyo por parte de los distintos \u00f3rganos como entidades, Secretar\u00edas T\u00e9cnicas y Gerencias de las \u00c1reas; donde se asocia la falta de inter\u00e9s con la falta de comunicaci\u00f3n y de articulaci\u00f3n entre ellos, por lo que se recomienda hacer una articulaci\u00f3n m\u00e1s clara entre los consejeros y las instituciones.",
   "valor":null,
@@ -697,7 +785,7 @@
  },
  {
   "investigacion_id":7.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":null,
   "texto":"La nueva bater\u00eda de indicadores se construy\u00f3 a partir de 6 dimensiones en torno al Fomento Expandido: teniendo en cuenta los nuevos alcances ded esta bater\u00eda se busca integrar informaci\u00f3n sobre los Beneficiarios indirectos, Territorialidad, Equipos de trabajo, Alianzas, Ejecuci\u00f3n de recursos y G\u00e9nero.\"",
   "valor":null,
@@ -705,7 +793,7 @@
  },
  {
   "investigacion_id":7.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":null,
   "texto":"El Fomento es un eje transversal para los agentes culturales: a trav\u00e9s de esta investigaci\u00f3n se quiere retratar a Fomento como una estructura c\u00edclica y sist\u00e9mica donde los agentes culturales transitan no solo por los procesos de las convocatorias p\u00fablicas, sino tambi\u00e9n a trav\u00e9s de los programas de fortalecimiento y de capacitaci\u00f3n ofrecidos por el distrito.",
   "valor":null,
@@ -713,7 +801,7 @@
  },
  {
   "investigacion_id":7.0,
-  "orden":3,
+  "orden":3.0,
   "titulo":null,
   "texto":"La propuesta de bater\u00eda de indicadores para Fomento busca entender la cultura como un fen\u00f3meno amplio: esta nueva bater\u00eda de indicadores busca comprender la cultura como un fen\u00f3meno que va m\u00e1s all\u00e1 del valor econ\u00f3mico representado en los recursos entregados a los agentes culturales de la ciudad. Busca adem\u00e1s abarcar las afectaciones que se presentan de forma indirecta en los procesos de creaci\u00f3n, apropiaci\u00f3n y circulaci\u00f3n de la cultura, tanto en los beneficiarios como en la ciudadan\u00eda. ",
   "valor":null,
@@ -721,7 +809,7 @@
  },
  {
   "investigacion_id":8.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":null,
   "texto":"Lecturas en Movimiento es una estrategia aun desconocida por la mayor parte de los usuarios de Transmilenio, pero con una alta potencialidad de aceptaci\u00f3n incluso en otros espacios de circulaci\u00f3n distintos al sistema de transporte p\u00fablico masivo. Tanto la Biblioteca Digital de Bogot\u00e1 -BDB- como la estrategia Lecturas en Movimiento, son desconocidas por la mayor\u00eda de la poblaci\u00f3n. Un 71.7% de los encuestados manifest\u00f3 no conocer la BDB, y un 87% declar\u00f3 no haber accedido previamente a la plataforma de Lecturas en Movimiento. Discriminados estos datos por los puntos en los que se realiz\u00f3 la medici\u00f3n, se obtiene que en el Portal del Tunal es donde m\u00e1s se conoc\u00edan previamente tanto la BDB como la plataforma de Lecturas en Movimiento, mientras que en el Portal 20 de Julio es en el que menos. No obstante, frente a este desconocimiento, la ciudadan\u00eda se\u00f1ala una aprobaci\u00f3n notable a la posibilidad de que se desplieguen iniciativas de este tipo en el transporte p\u00fablico (51.6% est\u00e1 de acuerdo con ellas, 42.3% muy de acuerdo), indicando una apertura por parte de la poblaci\u00f3n a la ampliaci\u00f3n de la oferta cultural en estos espacios de circulaci\u00f3n. Esta misma favorabilidad la expresaron al ser indagados acerca de extender estrategias semejantes a otros \u00e1mbitos de tr\u00e1nsito de la ciudadan\u00eda: el 55.1% manifest\u00f3 estar de acuerdo con esta posibilidad y el 40.5% se declar\u00f3 estar muy de acuerdo con ella. De tal modo, puede afirmarse que la poblaci\u00f3n se encuentra receptiva a estrategias de divulgaci\u00f3n, circulaci\u00f3n y promoci\u00f3n de la lectura digital, por lo que se recomienda hacer nuevas apuestas para la divulgaci\u00f3n de la estrategia y ampliar el alcance de la estrategia a otros espacios de circulaci\u00f3n en vista del reconocimiento otorgado por la ciudadan\u00eda a los beneficios de la estrategia. ",
   "valor":null,
@@ -729,7 +817,7 @@
  },
  {
   "investigacion_id":8.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":null,
   "texto":"Los factores que limitan el uso de la plataforma son externos a su dise\u00f1o y contenidos. Si bien m\u00e1s del 77% de los encuestados afirma que la lectura mejora la experiencia de movilidad, los factores que tendr\u00edan que mejorar para que se hiciera un mayor uso de la plataforma. son elementos externos tanto al dise\u00f1o de la plataforma y su accesibilidad, como a sus contenidos. Entre los aspectos que deber\u00edan alterarse para favorecer un aumento en el uso de Lecturas en Movimiento: se destacan en este sentido la seguridad en el sistema Transmilenio, la conectividad dentro del sistema y la comodidad durante los desplazamientos. Los contenidos apenas fueron se\u00f1alados por un 5.3% de los encuestados. ",
   "valor":null,
@@ -737,7 +825,7 @@
  },
  {
   "investigacion_id":8.0,
-  "orden":3,
+  "orden":3.0,
   "titulo":null,
   "texto":"Los ciudadanos quieren encontrar formatos audibles, relatos cortos y poes\u00edas. En relaci\u00f3n con los formatos de los contenidos, los ciudadanos expresaron sentirse muy atra\u00eddos por encontrar en la plataforma de Lecturas en Movimiento sobre todo m\u00fasica (84.4%), audiolibros (55.5%) y podcast (45.2%). Sobre materiales literarios, los ciudadanos declararon tener mucho inter\u00e9s por poes\u00eda (61.1%) cuento (58.7%) novela (55.6%) y c\u00f3mic o novela gr\u00e1fica (53.2%). De este modo, se verifica que el libro digitalizado, hoy en d\u00eda el grueso tanto de la Biblioteca Digital de Bogot\u00e1 como de la plataforma de Lecturas en Movimiento, debe ser m\u00e1s acompa\u00f1ado por formatos sonoros, multimedia o hipermedia. ",
   "valor":null,
@@ -745,7 +833,7 @@
  },
  {
   "investigacion_id":8.0,
-  "orden":4,
+  "orden":4.0,
   "titulo":null,
   "texto":"Los curadores empiezan a explorar formatos distintos al libro digitalizado. Los curadores de Lecturas en Movimiento manifiestan que apenas han empezado a explorar los acervos de la Biblioteca Digital de Bogot\u00e1 en busca de contenidos distintos al libro digitalizado, como los materiales sonoros y audiovisuales, hipermedia o multimedia, fotograf\u00edas, gr\u00e1ficas, m\u00fasica y podcast, materiales que contribuyen a expandir la experiencia de lectura y que pueden adaptarse mejor a los usuarios que est\u00e1n en movimiento, para alcanzar el doble objetico de acercar a la ciudadan\u00eda a las distintas formas de lectura, y en especial a la lectura digital en su forma ampliada. ",
   "valor":null,
@@ -753,7 +841,7 @@
  },
  {
   "investigacion_id":9.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":null,
   "texto":"Canal Capital es el canal con m\u00e1s audiencia en la localidad de Suba,  respecto a canales de corte similar: La manera de consumir televisi\u00f3n ha cambiado a lo largo del tiempo debido al auge de nuevas plataformas de Streaming o nuevas formas de acceso a productos audiovisuales, esto ha contribuido a la disminuci\u00f3n del tiempo que las personas usaban para ver televisi\u00f3n de la manera tradicional, sin embargo se encontr\u00f3 relevante que Canal Capital es el canal con m\u00e1s audiencia en la localidad de Suba, respecto a otros canales de corte institucional o que transmiten contenidos similares.   \n",
   "valor":null,
@@ -761,7 +849,7 @@
  },
  {
   "investigacion_id":9.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":null,
   "texto":"Se identifica un desconocimiento de la poblaci\u00f3n frente a los contenidos de Capital, Sistema de Comunicaci\u00f3n P\u00fablica:  Aunque hay ciertos contenidos de mayor reconocimiento del sistema, como las transmisiones de los eventos culturales (como los al parque) (29,9%), animalxs (22,8%) o Mesa Capital (16,5%), se identific\u00f3 que m\u00e1s de la mitad de lo encuestados (64,7%) no reconoce ninguno de los contenidos.",
   "valor":null,
@@ -769,7 +857,7 @@
  },
  {
   "investigacion_id":9.0,
-  "orden":3,
+  "orden":3.0,
   "titulo":null,
   "texto":"Se identific\u00f3 un bajo uso de las redes sociales de Capital, Sistema de Comunicaci\u00f3n P\u00fablica: En la localidad de Suba se identific\u00f3 el bajo uso de las redes sociales por parte de la ciudadan\u00eda. Sin embargo, la red con el uso m\u00e1s frecuente es Facebook, seguido de Instagram y X.",
   "valor":null,
@@ -777,7 +865,7 @@
  },
  {
   "investigacion_id":9.0,
-  "orden":4,
+  "orden":4.0,
   "titulo":null,
   "texto":"Capital, Sistema de Comunicaci\u00f3n P\u00fablica es identificado como parte de la Alcald\u00eda de Bogot\u00e1: Se destaca que el canal est\u00e1 asociado por el 67% con la Alcald\u00eda y se percibe que es el medio del gobierno local.",
   "valor":null,
@@ -785,7 +873,7 @@
  },
  {
   "investigacion_id":12.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":null,
   "texto":"El Festival Colombia al Parque 2023 cont\u00f3 con un total de 22.251 asistencias durante los d\u00edas 18 y 19 de marzo. Colombia al parque es un festival que atrae nuevos p\u00fablicos, el 51% de las personas asiste por primera vez",
   "valor":"22251",
@@ -793,7 +881,7 @@
  },
  {
   "investigacion_id":12.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":null,
   "texto":"\nColombia al Parque en un Festival que atrae a un p\u00fablico nuevo y familiar. La mitad de las personas acudieron por primera vez tanto en 2022 como en 2023. Esto quiere decir que se trata de un festival que convoca p\u00fablicos nuevos. Por otro lado, se trata de personas que asisten o en familia o solos. De ah\u00ed que sea importante destacar el car\u00e1cter familiar del festival (caracter\u00edstica compartida por otros festivales como Jazz al Parque y Joropo al Parque), y que se recomiende fortalecer la oferta de actividades dirigidas a la infancia y la primera infancia tal como ocurre en otros eventos, como Jazz al Parque, acerc\u00e1ndo a esta poblaci\u00f3n al disfrute de sus derechos culturales. ",
   "valor":null,
@@ -801,7 +889,7 @@
  },
  {
   "investigacion_id":12.0,
-  "orden":3,
+  "orden":3.0,
   "titulo":null,
   "texto":"Los asistentes encuestados a los eventos acad\u00e9micos refieren que lo mejor del evento, calificado como excelente con un 88%, fue la tem\u00e1tica tratada.",
   "valor":null,
@@ -809,7 +897,7 @@
  },
  {
   "investigacion_id":12.0,
-  "orden":4,
+  "orden":4.0,
   "titulo":null,
   "texto":"El 96% de los emprendedores afirma que volver\u00eda a participar en el evento y definitivamente recomendar\u00eda a otros a participar en este espacio.",
   "valor":null,
@@ -817,7 +905,7 @@
  },
  {
   "investigacion_id":12.0,
-  "orden":5,
+  "orden":5.0,
   "titulo":null,
   "texto":"Colombia al Parque es un escenario para dar a conocer nuevos artistas. A los asistentes les interesa cada vez m\u00e1s conocer el festival en s\u00ed, y ver bandas conocidas o conocer agrupaciones nuevas. Sin embargo, Colombia al Parque es un espacio para dar a conocer nuevas bandas al p\u00fablico, que en un 60% desconoce a los m\u00fasicos invitados. Adem\u00e1s, un 80% de los asistentes mostr\u00f3 inter\u00e9s por los artistas nacionales. Esto hace de Colombia al Parque un escenario clave para los artistas nacionales quienes manifiestan tener expectativas en relaci\u00f3n con la ampliaci\u00f3n de sus p\u00fablicos en el festival. Se recomienda por lo tanto, mantener una curadur\u00eda que atienda esa vocaci\u00f3n de vitrina para los artistas y sus potenciales p\u00fablicos, en pro de fortalecer la escena de las sonoridades locales. ",
   "valor":null,
@@ -825,7 +913,7 @@
  },
  {
   "investigacion_id":13.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":null,
   "texto":"El p\u00fablico asistente a Rock al Parque en sus diferentes instancias, eventos acad\u00e9micos y musicales, es joven: para el evento central, quienes cuentan entre 19 y 35 a\u00f1os fueron el 65% (los que tienen entre 19 y 25% fueron el 41.6%), mientras que en los eventos acad\u00e9micos estos suman el 68%. Por otro lado, es notable que Rock al Parque, el Festival Al Parque m\u00e1s antiguo que ofrece Bogot\u00e1, cuente con un p\u00fablico fiel que supera al 50% entre quienes han asistido al evento central en m\u00e1s de 3 ocasiones, y que en el 2023 haya podido dar un salto del 20% de asistentes primerizos, quienes pasaron del 19% al 33.2%. Esto revela la importancia del mantenimiento del Festival como un evento orientado a la juventud, horizonte planteado desde sus primeras versiones en la d\u00e9cada de 1990.",
   "valor":null,
@@ -833,7 +921,7 @@
  },
  {
   "investigacion_id":13.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":null,
   "texto":"Rock al Parque es un escenario para la diversidad bogotana: para los artistas, Rock al Parque se ha caracterizado por ser un espacio de inclusi\u00f3n para toda la ciudadan\u00eda, permitiendo el fortalecimiento de la escena musical bogotana y la apertura a nuevos estilos musicales. Por ello es importante ver el Festival como una plataforma para ellos, que pueda llegar m\u00e1s all\u00e1 de los escenarios convencionales y se aproxime m\u00e1s a los barrios. Por otro lado, frente a la versi\u00f3n 2023, los asistentes al evento musical, consideran en un 86.3% que se logr\u00f3 incorporar estilos que no se hab\u00edan incluido y aun as\u00ed, para un porcentaje similar (85.6%), se pudo mantener la esencia del festival. Es relevante que un porcentaje a\u00fan mayor de los asistentes, (90%), reconozca que Rock al Parque representa la diversidad sonora de Bogot\u00e1.",
   "valor":null,
@@ -841,7 +929,7 @@
  },
  {
   "investigacion_id":13.0,
-  "orden":3,
+  "orden":3.0,
   "titulo":null,
   "texto":"Rock al Parque como una ventana para dar a conocer el emprendimiento local en el mundo digital: a partir de la percepci\u00f3n de los emprendedores participantes en el Festival y del estudio comparativo realizado por el Observatorio, se identifica un leve aumento general (1.9%) en los seguidores de dichos negocios despu\u00e9s de la participaci\u00f3n en el Festival. Esto da indicios para imaginar y dise\u00f1ar, en pr\u00f3ximas versiones, una estrategia que permita fortalecer los beneficios digitales que pueden tener los emprendedores gracias a su participaci\u00f3n en los Festivales. Lo cual podr\u00eda dar a conocer la marca a nuevas personas, divulgar nuevos productos, generar redes de emprendimiento local y extenderse territorialmente.",
   "valor":null,
@@ -849,7 +937,7 @@
  },
  {
   "investigacion_id":13.0,
-  "orden":4,
+  "orden":4.0,
   "titulo":null,
   "texto":"Rock al Parque es un festival reconocido como una plataforma a nivel internacional: gracias a las encuestas realizadas a los artistas invitados, se identifica que los artistas reconocen que su participaci\u00f3n en Rock al Parque es importante para su crecimiento art\u00edstico y su proyecci\u00f3n en la escena. Esto debido a que se trata del mayor festival musical gratuito de Am\u00e9rica Latina, lo que resalta la importancia de este evento para la internacionalizaci\u00f3n de los agentes culturales locales.",
   "valor":null,
@@ -857,7 +945,7 @@
  },
  {
   "investigacion_id":14.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":null,
   "texto":"Total de 164.256 asistencias. Tres motivaciones principales para asistir al Festival son: la programaci\u00f3n musical, ir bailar y conocer el festival. El 98.2% se siente orgulloso de Bogot\u00e1 gracias a su oferta cultural",
   "valor":null,
@@ -865,7 +953,7 @@
  },
  {
   "investigacion_id":14.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":null,
   "texto":"En opini\u00f3n del 98.2% de los asistentes, el Festival logr\u00f3 crear una fiesta para los bogotanos, quienes pudieron cantar (97.5%), bailar (93.6) y comer (90%)",
   "valor":null,
@@ -873,7 +961,7 @@
  },
  {
   "investigacion_id":14.0,
-  "orden":3,
+  "orden":3.0,
   "titulo":null,
   "texto":"Salsa al Parque es un festival que en las dos ediciones post pandemia ha logrado mantener y ampliar el inter\u00e9s de un p\u00fablico creciente. Los asistentes que acudieron al festival por primera vez disminuy\u00f3 en 20%, (de 65% a 44.9%), mientras que quienes fueron por segunda vez aumentaron m\u00e1s del 10% (de 11% a 21.7%) y tambi\u00e9n creci\u00f3 el porcentaje de quienes asistieron 3 o m\u00e1s veces. Se recomienda mantener las apuestas curatoriales que pueden haber impactado positivamente en la fidelizaci\u00f3n de un p\u00fablico renovado en el periodo post pandemia, a pesar de que varios aspectos log\u00edsticos del festival recibieron una calificaci\u00f3n m\u00e1s cr\u00edtica en la versi\u00f3n 2023 que en la del a\u00f1o anterior. ",
   "valor":null,
@@ -881,7 +969,7 @@
  },
  {
   "investigacion_id":15.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":null,
   "texto":"El Festival Hip Hop al Parque contribuy\u00f3 al fortalecimiento del Movimiento Hip Hop: tanto para los asistentes al festival y a sus eventos acad\u00e9micos, como para los artistas se logr\u00f3 fortalecer la escena del Hip Hop a trav\u00e9s del reconocimiento y la valoraci\u00f3n de propuestas musicales (96%), conocer nuevas propuestas musicales (94%) y gr\u00e1ficas (88,6%), as\u00ed como el reconocimiento de propuestas de bailarines (66.5%), as\u00ed mismo en el \u00e1mbito academico se muestra un inter\u00e9s por generar espacios de formaci\u00f3n e incentivos enfocados en la investigaci\u00f3n en torno al Movimiento Hip Hop. Lo cual ratifica al festival como un evento que integra las diferentes manifestaciones de la Cultura Hip Hop y se consolida como una iniciativa de gran impacto sectorial. \n ",
   "valor":null,
@@ -889,7 +977,7 @@
  },
  {
   "investigacion_id":15.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":null,
   "texto":"El Festival Hip Hop al Parque contribuye al fortalecimiento de la participaci\u00f3n de la mujer: para los asistentes al festival y a sus eventos acad\u00e9micos se contribuy\u00f3 al fortalecimiento de la presencia de las mujeres al movimiento Hip Hop, ya que que se garantizaron espacios en la programaci\u00f3n para la participaci\u00f3n de artistas mujeres, sin embargo se evidencia la necesidad de promover espacios m\u00e1s seguros para las mujeres en el festival, atendiendo las pol\u00edticas de inclusi\u00f3n y aportando al goce efectivo de los derechos culturales a esta poblaci\u00f3n.\n",
   "valor":null,
@@ -897,7 +985,7 @@
  },
  {
   "investigacion_id":15.0,
-  "orden":3,
+  "orden":3.0,
   "titulo":null,
   "texto":"Hip Hop al Parque, un ejemplo para el emprendimiento en los Festivales al Parque: en comparaci\u00f3n con otros Festivales al Parque, este festival es el m\u00e1s potente en relaci\u00f3n con las alianzas entre emprendedores y artistas. Las acciones aqu\u00ed realizadas, como el workshop del 18 de julio (calificada como excelente 75%); son estrategias que permiten generar alianzas con otros emprendedores y con artistas, y a su vez potencia la cultura hip hop desde otra perspectiva.  Por ello se recomienda potenciar este tipo de actividades y replicarlas en otros festivales (teniendo en cuenta los p\u00fablicos y contextos).\n",
   "valor":null,
@@ -905,7 +993,7 @@
  },
  {
   "investigacion_id":15.0,
-  "orden":4,
+  "orden":4.0,
   "titulo":null,
   "texto":"El festival Hip Hop al Parque re\u00fane un p\u00fablico que se identifica y pr\u00e1ctica la Cultura Hip Hop: en comparaci\u00f3n con otros Festivales al Parque los asistentes a Hip Hop al Parque y sus diferentes escenarios (Festival y eventos acad\u00e9micos) se identifican como parte de la cultura Hip Hop, esto se ve reflejado, por ejemplo, en los eventos acad\u00e9micos donde la mayor\u00eda de participantes afirmaron practicar alguno de los elementos de la cultura (DJ-MC-Breaking-Street Dance, Graffiti). Lo cual le confiere al festival en su totalidad un fuerte car\u00e1cter de nicho, que se manifiesta en el alto porcentaje de reconocimiento de los artistas distritales y nacionales que componen la programaci\u00f3n, as\u00ed como en la fidelizaci\u00f3n del p\u00fablico.\n",
   "valor":null,
@@ -913,7 +1001,7 @@
  },
  {
   "investigacion_id":15.0,
-  "orden":5,
+  "orden":5.0,
   "titulo":null,
   "texto":"El festival Hip Hop al Parque es un escenario de promoci\u00f3n de cultura de paz: se evidencia de manera general una percepci\u00f3n positiva de la promoci\u00f3n de la cultura de paz en el marco de Festival, as\u00ed como se aprueba la intenci\u00f3n de generar espacios que la promuevan tanto en este como en otros eventos semejantes, en vista de que a\u00fan es necesario hacer del festival un lugar m\u00e1s seguro (en especial para las mujeres), sin discriminaci\u00f3n ni prejuicios y de de cuidado de la vida. En este sentido el festival debe seguir promoviendo el horizonte de tolerancia y convivencia que ha perseguido desde sus primeras versiones.",
   "valor":null,
@@ -921,7 +1009,7 @@
  },
  {
   "investigacion_id":16.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":null,
   "texto":"Jazz al Parque es un escenario propicio para la interdisciplinariedad. En su versi\u00f3n 2023, el festival realiz\u00f3 una apuesta que convoc\u00f3 diferentes expresiones y pr\u00e1cticas art\u00edsticas vinculadas a la cultura escrita, los juegos y actividades orientadas a la infancia y primera infancia y el arte de calle. Estas apuestas obtienen gran receptividad entre los asistentes quienes incluso destacan otras expresiones que pueden vincularse al festival, relacionadas con el dibujo y las artes gr\u00e1ficas (m\u00e1s all\u00e1 de su presencia en la Zona de Arte y Emprendimiento). De tal modo, se podr\u00e1 avanzar en la construcci\u00f3n de un festival que apunte a una visi\u00f3n m\u00e1s diversa de las expresiones y pr\u00e1cticas art\u00edsticas de la ciudad. ",
   "valor":null,
@@ -929,7 +1017,7 @@
  },
  {
   "investigacion_id":16.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":null,
   "texto":"En el futuro Jazz al Parque podr\u00eda ser un eslab\u00f3n importante del ecosistema editorial de Bogot\u00e1: se comprende que este festival busca fortalecer su enfoque en el emprendimiento editorial, de ser as\u00ed, se recomienda integrar en la programaci\u00f3n otras actividades que permitan complementar la oferta m\u00fasical con las pr\u00e1cticas lectoras como la ampliaci\u00f3n de emprendimientos editoriales, la integraci\u00f3n de espect\u00e1culos art\u00edsticos como sketch y otras representaciones de formato corto, y la integraci\u00f3n de libro al viento y otras estrategias de la ciudad enfocadas en la promoci\u00f3n de la lectura; las cuales pueden realizarse en alianza con la C\u00e1mara Colombiana del Libro, BibloRed y otras entidades representativas de este ecosistema.",
   "valor":null,
@@ -937,7 +1025,7 @@
  },
  {
   "investigacion_id":17.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":null,
   "texto":"1. La zona de emprendimiento, una potencia para la econom\u00eda cultural: se identifica la zona de emprendedores invitados como un fuerte eslab\u00f3n para fortalecer el ecosistema de emprendimiento local. En este escenario pueden ocurrir estrategias para el crecimiento de la econom\u00eda de la ciudad enfocado en el apoyo a los bienes y servicios culturales, y en un futuro se podr\u00edan establecer \u00edndices para el empleo j\u00f3ven, el apoyo a las mujeres emprendedoras y la implementaci\u00f3n de estrategias para la creaci\u00f3n de redes colaborativas. Este escenario podr\u00eda aportar al intercambio de buenas pr\u00e1cticas, teniendo en cuenta que los bienes culturales, en muchas ocasiones, se encuentran aisladas de procesos relacionados con tecnolog\u00edas, la ciencia y la innovaci\u00f3n, por lo que podr\u00eda ser una desventaja competitiva frente a otros sectores econ\u00f3micos. Por ello, la potenciaci\u00f3n y sistematizaci\u00f3n de esta iniciativa podr\u00eda ser un ejemplo para diversas regiones del pa\u00eds en pro de la econom\u00eda cultural. ",
   "valor":null,
@@ -945,7 +1033,7 @@
  },
  {
   "investigacion_id":17.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":null,
   "texto":" El festival se muestra como un escenario potente para la promoci\u00f3n de la cultura llanera: para los artistas este evento se constituye como una plataforma de reconocimiento y visibilizaci\u00f3n de los grupos, lo que se manifiesta en el aumento de sus seguidores en redes sociales, mientras que para los asistentes es un espacio para conocer nuevos artistas en vista del bajo porcentaje de reconocimiento inicial sobre quienes conforman la programaci\u00f3n. El festival puede avanzar en esta v\u00eda, con la generaci\u00f3n de escenarios que promuevan la investigaci\u00f3n y la reflexi\u00f3n acad\u00e9mica en torno a la cultura llanera, fortaleci\u00e9ndo de este modo la identidad de Bogot\u00e1 como una ciudad cultural y art\u00edsticamente diversa.  \n",
   "valor":null,
@@ -953,7 +1041,7 @@
  },
  {
   "investigacion_id":17.0,
-  "orden":3,
+  "orden":3.0,
   "titulo":null,
   "texto":"El festival en sus dos escenarios (evento m\u00fasical y Llan\u00f3dromo) se muestra como un espacio familiar:  se evidencia que los asistenes acuden en su mayor\u00eda en familia al Festival, adem\u00e1s manifiestan que deber\u00edan generarse espacios para la infancia y primera infancia. En esta medida es importante promover \u00e1mbitos que contemplen al p\u00fablico infantil y que promuevan en este la apropiapiaci\u00f3n de la cultura llanera, tal como sucede en otros festivales que comparten con Joropo al Parque el car\u00e1cter familiar, como lo es, por ejemplo, Jazz al Parque. De este modo se avanzar\u00eda en los esfuerzos por garantizar los derechos culturales de esta poblaci\u00f3n de especial protecci\u00f3n como son los ni\u00f1os y las ni\u00f1as. \n ",
   "valor":null,
@@ -961,7 +1049,7 @@
  },
  {
   "investigacion_id":17.0,
-  "orden":4,
+  "orden":4.0,
   "titulo":null,
   "texto":" El festival logra convertirse en un referente y escenario de encuentro de la cultura llanera colombo-venezolana: la mayor\u00eda de los asistentes declara tener un gusto anterior por la m\u00fasica y las expresiones art\u00edsticas de esta cultura, lo que lo acerca a constituirse en un escenario de nicho. Sin embargo, el p\u00fablico del festival que no es residente u oriundo de Bogot\u00e1, es en su mayor\u00eda colombiano (de los llanos orientales y Boyac\u00e1, principalmente) y menos de otros pa\u00edses. ",
   "valor":null,
@@ -969,7 +1057,7 @@
  },
  {
   "investigacion_id":18.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":null,
   "texto":"De las personas que expresan asistir en Bogot\u00e1 al menos una vez a eventos de lectura y escritura el 94% EXPRESA REALIZARLO EN ESPACIOS ALTERNATIVOS DE LECTURA (ppp, bibloestaciones, casas de la cultura, etc.), lo que justifica la realizaci\u00f3n de este tipo de eventos brindados por el Festival GABO teniendo en cuenta la variedad de tem\u00e1ticas y espacios de oferta logrados a trav\u00e9s del Convenio\n",
   "valor":null,
@@ -977,7 +1065,7 @@
  },
  {
   "investigacion_id":18.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":null,
   "texto":"\nEL FESTIVAL GABO GENERA NUEVOS P\u00daBLICOS, ya que el 74.6% de los encuestados asist\u00edan por primera vez al Festival, es decir que el Festival GABO ayuda a la formaci\u00f3n de estos y a la ampliaci\u00f3n de los intereses en temas de lectura, escritura y oralidad. \nEL FESTIVAL GABO ES UN ESPACIO DE INNOVACI\u00d3N EN LA CIUDAD, porque actualiza a los asistentes en tem\u00e1ticas de periodismo y literatura, la cual es una necesidad manifestada por los ciudadanos donde el 83.6% de los encuestados en el Festival identific\u00f3 que genera una transformaci\u00f3n de la realidad de los ciudadanos\n",
   "valor":null,
@@ -985,7 +1073,7 @@
  },
  {
   "investigacion_id":18.0,
-  "orden":3,
+  "orden":3.0,
   "titulo":null,
   "texto":"\nEl Festival GABO IMPACTA A LA CIUDAD a trav\u00e9s de: \n1. La promoci\u00f3n del poder del arte de contar historias (98.3% de 146 encuestados)\n2. La comprensi\u00f3n de la realidad (96.6% de 146 encuestados)\n3. La construcci\u00f3n de relatos colectivos (93,8% de 146 encuestados)\n4. La transformaci\u00f3n de la realidad, (83,6% de 146 encuestados)\n",
   "valor":null,
@@ -993,7 +1081,7 @@
  },
  {
   "investigacion_id":18.0,
-  "orden":4,
+  "orden":4.0,
   "titulo":null,
   "texto":"\nReconocer el Festival GABO como un evento de ciudad (Proyecto de acuerdo 579 de 2023) beneficia a sus habitantes, ya que ayuda al cumplimiento de los derechos culturales brindando espacios de participaci\u00f3n y disfrute de la vida cultural dando elementos tanto individuales como colectivos en el campo del periodismo y la literatura que d\u00eda tras d\u00eda toma m\u00e1s peso e importancia en los espacios cotidianos.",
   "valor":null,
@@ -1001,7 +1089,7 @@
  },
  {
   "investigacion_id":18.0,
-  "orden":5,
+  "orden":5.0,
   "titulo":null,
   "texto":"Los ciudadanos se benefician con el Festival GABO por la oferta de actividades que aportan a la lectura, la escritura y la oralidad, a trav\u00e9s de actividades relacionadas con la cultura escrita en la ciudad. El Festival GABO promueve la igualdad de oportunidades de acceso a la cultura literaria y period\u00edstica para los habitantes de la ciudad, aportando el crecimiento personal, a la comprensi\u00f3n y transformaci\u00f3n de la realidad.",
   "valor":null,
@@ -1009,7 +1097,7 @@
  },
  {
   "investigacion_id":19.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":null,
   "texto":"El Festival Danza en la Ciudad logr\u00f3 visibilizar las puestas en escena del ecosistema local de la danza: El Festival de Danza en la ciudad permiti\u00f3 generar encuentros entre danzantes y ciudadan\u00eda, e invitar a vivenciar el arte del movimiento, a trav\u00e9s de la descentralizaci\u00f3n de la oferta ofrecida, permitiendo llegar a distintos escenarios tanto convencionales como no convencionales de la ciudad.",
   "valor":null,
@@ -1017,7 +1105,7 @@
  },
  {
   "investigacion_id":19.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":null,
   "texto":"El P\u00fablico de los eventos acad\u00e9micos demuestra una mayor especializaci\u00f3n en temas de danza que el p\u00fablico asistente a las presentaciones de danza: Es importante resaltar que se evidencia un p\u00fablico con mayor conocimiento e intereses particulares sobre la danza en los eventos acad\u00e9micos, en su mayor\u00eda asisten porque les interesa el tema tratado, a diferencia de los asistentes a las presentaciones de danza, que m\u00e1s de la mitad llegaron por casualidad.",
   "valor":null,
@@ -1025,7 +1113,7 @@
  },
  {
   "investigacion_id":19.0,
-  "orden":3,
+  "orden":3.0,
   "titulo":null,
   "texto":"El Festival logra apropiarse de la ciudad y llegar a nuevos p\u00fablicos: Aunque hay una recepci\u00f3n positiva del festival en la ciudadan\u00eda y logr\u00f3 atraer nuevos p\u00fablicos, es importante que se trabaje en el posicionamiento de la marca, pues se evidencia a\u00fan no tiene el suficiente reconocimiento.",
   "valor":null,
@@ -1033,7 +1121,7 @@
  },
  {
   "investigacion_id":19.0,
-  "orden":4,
+  "orden":4.0,
   "titulo":null,
   "texto":"El Festival de Danza en la Ciudad acoge mayoritariamente a los estratos 2 y 3: En relaci\u00f3n con la versi\u00f3n del 2022, esta poblaci\u00f3n aument\u00f3 su asistencia al festival, en contraposici\u00f3n las personas de estrato 6 disminuyeron su asistencia. As\u00ed mismo, se pudo observar que es un festival en donde la mayor parte son personas que acuden a estos eventos, son personas j\u00f3venes con un rango etario entre los 20 y 30 a\u00f1os.",
   "valor":null,
@@ -1041,7 +1129,7 @@
  },
  {
   "investigacion_id":20.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":null,
   "texto":"\nEl paso por el Pabell\u00f3n represent\u00f3 el primer contacto de muchos visitantes con algunos de los programas distritales de acceso ciudadano a la cultura escrita en Bogot\u00e1. Es necesario tener en cuenta que un poco m\u00e1s del 18% de los encuestados provino de fuera de la ciudad. Dicho esto, se constata que los visitantes conocieron por primera vez iniciativas como el Pic-Nic Literario (53.3%), Bogot\u00e1 100 palabras (47%), Libro al Viento (43%), Biblioteca Digital de Bogot\u00e1 (37.7), SiBiBo (30%) y BibloRed (25%). De esta forma se puede afirmar que el pabell\u00f3n fue una instancia efectiva para el reconocimiento, por parte de la ciudadan\u00eda, de gran parte de la oferta de programas vinculados a la cultura escrita del distrito, en t\u00e9rminos que var\u00edan, dependiendo del programa, entre el 25% y el 53%. En este sentido, el Pabell\u00f3n cumple una funci\u00f3n en relaci\u00f3n a la socializaci\u00f3n de la PPLEO, pues acerca a los ciudadanos a parte sustancial de su abanico de ofertas. ",
   "valor":"66%",
@@ -1049,7 +1137,7 @@
  },
  {
   "investigacion_id":20.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":null,
   "texto":"Las mujeres conocen las estrategias LEO en un porcentaje mayor que los hombres antes de su visita al Pabell\u00f3n. A\u00fan m\u00e1s significativo es que las mujeres expresan un mayor inter\u00e9s que los hombres en participar de la mayor\u00eda de los programas: BibloRed (86% contra 80.3%); Biblioteca Digital de Bogot\u00e1 (76.5% y 64.4%);  Libro al Viento (67.9% frente a 59.9%); Bogot\u00e1 100 Palabras (55.3% ante 72.4%) Pic-Nic Literario (78.3% frente a 73.4%), y SiBiBo (78.3 y 73.4%).",
   "valor":"36,70%",
@@ -1057,7 +1145,7 @@
  },
  {
   "investigacion_id":20.0,
-  "orden":3,
+  "orden":3.0,
   "titulo":null,
   "texto":"La apuesta por ser un \u201cresumen experiencial\u201d de la pol\u00edtica, fue una decisi\u00f3n exitosa del Pabell\u00f3n como estrategia de socializaci\u00f3n de la PPLEO. En efecto, los aspectos m\u00e1s destacados del Pabell\u00f3n fueron, en su orden; el dise\u00f1o del espacio, la interactividad de la propuesta, la informaci\u00f3n ofrecida y, en cuarto lugar, las actividades y la programaci\u00f3n. Esto indica que la apuesta por construir un pabell\u00f3n en el que el dise\u00f1o de sus espacios fueran mediadores de los mensajes fuerza de la pol\u00edtica fue una decisi\u00f3n acertada.  \nTal efecto, puede recogerse de otro nivel de percepciones, como el que ofrece la nube de palabras con las que los ciudadanos vinculan a la pol\u00edtica tras la visita al Pabell\u00f3n: en su orden se relacionan con: creatividad, cultura y lectura; elementos cognitivos como intereses, aprendizaje y conocimiento, o educativo, instructivo, informaci\u00f3n o sabidur\u00eda; dimensiones expresivas como imaginaci\u00f3n, arte, innovaci\u00f3n, y algunas palabras que podr\u00edan asociarse a este plano, como explorar, curiosidad, so\u00f1ar o inspiraci\u00f3n; sentimientos y sensaciones de bienestar como bueno, ch\u00e9vere, entretenido, agradable, bonito, excelente, amigable, tranquilidad, alegre, felicidad, magn\u00edfico y cuidado. Palabras que pueden relacionarse con la experiencia de la visita al Pabell\u00f3n: interactivo, visualizaci\u00f3n y constructivo; y con la oferta de lectura y la programaci\u00f3n como programa y estrategia. El v\u00ednculo con la ciudadan\u00eda se recoge en palabras como participaci\u00f3n, comunidad, identidad, integraci\u00f3n, cercan\u00eda, urbano y Bogot\u00e1. Y las experiencias vitales en vocablos como escape, motivaci\u00f3n, h\u00e1bito, fuerza, inspiraci\u00f3n, oportunidad, recuerdos, vivir y realidad.\nDe ac\u00e1 que pueda afirmarse que la propuesta de realizar un \u201cresumen experiencial\u201d de la misma tuvo efectos positivos m\u00e1s all\u00e1 de la divulgaci\u00f3n formal de la pol\u00edtica en folletos o conversatorios.",
   "valor":"70%",
@@ -1065,7 +1153,7 @@
  },
  {
   "investigacion_id":20.0,
-  "orden":4,
+  "orden":4.0,
   "titulo":null,
   "texto":"Los ciudadanos que visitaron el  Pabell\u00f3n, se identifican en menor porcentajes como lectores de la ciudad que como lectores a secas. Se tratar\u00eda, entonces, de un p\u00fablico cuya pr\u00e1ctica de la lectura es superior a la de la importancia concedida a la relaci\u00f3n de la lectura con la ciudad. Por otro lado, algunos escenarios de la ciudad son decisivos en la contextualizaci\u00f3n de las pr\u00e1cticas de escritura de los ciudadanos. Sin embargo, algunos 7. La mayor\u00eda de estos se\u00f1al\u00f3 a los parques y otros espacios relacionados con la naturaleza como los escenarios que les ofrecen inspiraci\u00f3n para su escritura; parques (25.9%), fue la respuesta m\u00e1s frecuente, junto a zonas verdes, el Parque Sim\u00f3n Bol\u00edvar y el Parque Nacional, bosques, los Cerros Orientales, el Jard\u00edn Bot\u00e1nico, el campo y los humedales: en conjunto estos espacios alcanzan el 36,7%. Esto indica el camino acertado de estrategias como Lectura Bajo los \u00c1rboles del Idartes, que vincula la lectoescritura al disfrute de la naturaleza y los espacios verdes de la ciudad. La Casa ocupa el segundo lugar (14.2%). El siguiente conjunto de espacios se identifica por su localizaci\u00f3n en el centro de Bogot\u00e1: Centro, La Candelaria, Carrera 7ma, Chorro de Quevedo, Plaza de Bol\u00edvar y Bronx, sumados alcanzan el 17.5%.  Un cuarto grupo est\u00e1 conformado por los equipamientos de la oferta cultural y educativa: Bibliotecas, Virgilio Barco, Colegio y Museos, llegan a representar el 10.8% de las respuestas. Estos \u00faltimos escenarios, espacios que concentran ya buena parte de la oferta cultural, art\u00edstica y de lectura, escritura y oralidad de la ciudad. ",
   "valor":null,
@@ -1073,7 +1161,7 @@
  },
  {
   "investigacion_id":21.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":null,
   "texto":"Los Distritos Creativos son espacios de inclusi\u00f3n de identidades sociales diversas y, en menor medida, de equidad de g\u00e9nero y eliminaci\u00f3n del machismo. En todos los distritos creativos la dimensi\u00f3n de Inclusi\u00f3n de identidades sociales diversas es m\u00e1s alto que en el resto de la ciudad; un desempe\u00f1o tambi\u00e9n muy positivo se encuentra en la dimensi\u00f3n de Equidad de g\u00e9nero y eliminaci\u00f3n del machismo, aunque en este caso el mejor desempe\u00f1o frente a la ciudad no alcanza a todos los distritos, sino a 11 de los 15. En 10 de los 15 la Convivencia y cultura de paz tiene un puntaje m\u00e1s alto que en el resto de la ciudad. En estas dimensiones las acciones, actividades y esfuerzos en relaci\u00f3n con temas como la cultura, el arte, la m\u00fasica, la danza, han incidido de forma positiva generando cohesi\u00f3n social, mejorando la convivencia y reforzando la intenci\u00f3n de que en los Distritos se potencie la inclusi\u00f3n social y se vea reflejado a su vez en la ciudad, por lo que se reconoce que los distritos creativos est\u00e1n cumpliendo su misi\u00f3n como espacios de convivencia, de libre respeto, de equidad de g\u00e9nero",
   "valor":null,
@@ -1081,7 +1169,7 @@
  },
  {
   "investigacion_id":21.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":null,
   "texto":"Se reconoce que dimensiones como cultura pol\u00edtica y ciudadan\u00eda, y movilidad, presentaron los niveles m\u00e1s bajos, con sub\u00edndices en ocasiones en rangos cr\u00edticos, lo que refleja la poca participaci\u00f3n y conocimiento de las personas en temas de \u00edndole pol\u00edtico, de cultura democr\u00e1tica, de confianza en el Estado y sus instituciones; y, con respecto a la dimensi\u00f3n de movilidad, refleja los comportamientos de los ciudadanos, puesto que se identificaron problem\u00e1ticas como: personas que evaden el pago del pasaje en transmilenio, motos o carros invadiendo los andenes y ciclistas en los carriles de veh\u00edculos existiendo ciclorruta al lado y no por los medios de transporte; sin embargo,",
   "valor":null,
@@ -1089,7 +1177,7 @@
  },
  {
   "investigacion_id":21.0,
-  "orden":3,
+  "orden":3.0,
   "titulo":null,
   "texto":"La movilidad es cr\u00edtica en los Distritos Creativos y esto se debe menos al uso de medios de transporte particulares y contaminantes, que al comportamiento de los ciudadanos. Se pudo identificar en el an\u00e1lisis de los resultados que la dimensi\u00f3n de movilidad, presenta un desempe\u00f1o cr\u00edtico en los distritos creativos: de los 15 distritos creativos, 13 tuvieron resultados desfavorables con contraste con la ciudad que presenta un nivel intermedio. Este resultado se ve permeado en gran parte por los comportamientos de los ciudadanos que habitan estos espacios, pues se identificaron problem\u00e1ticas con porcentajes significativos alrededor de pr\u00e1cticas como: personas que evaden el pago del pasaje en Transmilenio, motos o carros invadiendo los andenes, y ciclistas en los carriles de veh\u00edculos existiendo ciclorruta al lado. En menor medida, este mal desempe\u00f1o de la dimensi\u00f3n de movilidad no explica que sea por los medios de transporte que utilizan los ciudadanos, ya que de manera distintiva refirieron que utilizan Transmilenio, buses del SITP, bicicleta, o se desplazan a pie, generalmente con mayores valores que los que obtienen otros medios de transporte como las motos y carros particulares.",
   "valor":null,
@@ -1097,7 +1185,7 @@
  },
  {
   "investigacion_id":22.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":null,
   "texto":"\nDesconocimiento por parte de  los habitantes que el inmueble est\u00e1 en un SIU: la mayor parte de los habitantes y residentes de los BIC de la localidad de Teusaquillo, sean estos unidades habitacionales o econ\u00f3micas, tienen desconocimiento de la pertenencia del inmueble a un SIU. Esto evidencia que se debe trabajar en aumentar el conocimiento de las condiciones e implicaciones que generan que podr\u00eda ayudar a los procesos de conservaci\u00f3n de los inmuebles.\n",
   "valor":null,
@@ -1105,7 +1193,7 @@
  },
  {
   "investigacion_id":22.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":null,
   "texto":"\n\nAumenta la cantidad de BIC utilizados como unidades econ\u00f3micas: los BIC de la localidad de Teusaquillo han tenido grandes transformaciones en sus usos, pasando de ser un sector pensado como residencial a tener gran uso comercial, que puede ser una de las razones por las cuales los habitantes perciben un aumento en la inseguridad.\n\n",
   "valor":null,
@@ -1113,7 +1201,7 @@
  },
  {
   "investigacion_id":22.0,
-  "orden":3,
+  "orden":3.0,
   "titulo":null,
   "texto":"\nHay gran cantidad de actividades art\u00edsticas y culturales en el sector: aunque hay una gran cantidad de actividades art\u00edsticas y culturales, y los habitantes manifiestan que desean seguir manteniendolas en el tiempo, se debe trabajar en los procesos de comunicaci\u00f3n de estas para los habitantes del sector, ya que su apropiaci\u00f3n aportar\u00eda a generar mayor pertenencia y cuidado de los BIC.\n\n",
   "valor":null,
@@ -1121,7 +1209,7 @@
  },
  {
   "investigacion_id":22.0,
-  "orden":4,
+  "orden":4.0,
   "titulo":null,
   "texto":"Encuentro intergeneracional en la localidad: en el Sector de la Soledad, particularmente se puede notar un encuentro generacional que se deriva de que la mayor parte de la gente lleva m\u00e1s de 30 a\u00f1os o menos de tres habitando en los inmuebles. Esto trae consigo diferentes imaginarios y pensamientos en torno al cuidado del patrimonio. ",
   "valor":null,
@@ -1129,7 +1217,7 @@
  },
  {
   "investigacion_id":23.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":null,
   "texto":"En los parques analizados se encontr\u00f3 que los hombres son las principales v\u00edctimas de los hechos delictivos registrados con el 57% frente al 43% en el que las v\u00edctimas son mujeres. Las mujeres son en mayor medida v\u00edctimas del hecho delictivo Violencia Intrafamiliar. Para este tipo de hechos delictivos dentro o cerca de los parques las mujeres constituyen el 56,4% de las v\u00edctimas. Adicionalmente es recomendable extender este an\u00e1lisis sumando los datos de hechos delictivos de la Secretar\u00eda de Seguridad a partir de 2023 en el que posiblemente ya se incluya el registro de Delitos Sexuales.",
   "valor":"57%",
@@ -1137,7 +1225,7 @@
  },
  {
   "investigacion_id":23.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":null,
   "texto":"Al hacer una representaci\u00f3n geoespacial de los 160 parques con mayor frecuencia de hechos delictivos por mes (11 o m\u00e1s), no se evidencia una concentraci\u00f3n geogr\u00e1fica en alguna zona o sector particular de la ciudad. Tampoco hay indicios de una asociaci\u00f3n del sexo de la v\u00edctima de hechos delictivos con parques espec\u00edficos. A ra\u00edz de este hallazgo, se sugiere por tanto que se priorice la atenci\u00f3n e intervenci\u00f3n de los parques con mayor frecuencia de delitos (total hombres y mujeres), por encima de aquellos donde proporcionalmente sean m\u00e1s v\u00edctimas las mujeres, porque incluso as\u00ed el potencial de cantidad de mujeres beneficiadas es mayor en t\u00e9rminos absolutos.",
   "valor":null,
@@ -1145,7 +1233,7 @@
  },
  {
   "investigacion_id":23.0,
-  "orden":3,
+  "orden":3.0,
   "titulo":null,
   "texto":"No hay concentraci\u00f3n de zonas espec\u00edficas: Al hacer una representaci\u00f3n geoespacial de los 160 parques con mayor frecuencia de hechos delictivos por mes (10 o m\u00e1s), no se evidencia una concentraci\u00f3n geogr\u00e1fica en alguna zona o sector particular de la ciudad.",
   "valor":"160",
@@ -1153,7 +1241,7 @@
  },
  {
   "investigacion_id":23.0,
-  "orden":4,
+  "orden":4.0,
   "titulo":null,
   "texto":"Se identifica con claridad una necesidad en la recolecci\u00f3n de los datos en la ciudad para comprender los fen\u00f3menos alrededor de la mujer: adem\u00e1s de los datos de hechos delictivos usados para este an\u00e1lisis, no existe registro de otros fen\u00f3menos que pueden ser fuertes disuasorios para el acceso al disfrute de los parques y zonas verdes, como lo son el acoso callejero, \u201cpiropos\u201d, comentarios machistas y similares y en los que normalmente son v\u00edctimas las mujeres. En pocas palabras, el \"No dato\" limit\u00f3 el alcance y los resultados de esta investigaci\u00f3n. Por ello nace la necesidad de pensar en una forma de poder registrar y caracterizar geogr\u00e1ficamente estos fen\u00f3menos por parte de las v\u00edctimas para poder resolver completamente la necesidad de informaci\u00f3n que motiv\u00f3 esta investigaci\u00f3n.",
   "valor":null,
@@ -1161,7 +1249,7 @@
  },
  {
   "investigacion_id":23.0,
-  "orden":5,
+  "orden":5.0,
   "titulo":null,
   "texto":"La participaci\u00f3n de las mujeres en los parques y zonas recreativas es menor a la de los hombres: a partir de la revisi\u00f3n documental se identifica que las construcciones sociales asociadas a la masculinidad y a la feminidad, configuran las relaciones con el espacio p\u00fablico y la participaci\u00f3n en estos escenarios. De tal manera, el contexto cultural favorece una mayor apropiaci\u00f3n de los hombres a los escenarios p\u00fablicos respecto a las mujeres. A su vez, cabe aclarar que existen situaciones de violencias diferenciadas en funci\u00f3n del g\u00e9nero, tales como las diferentes formas de violencias sexuales, sobre las que las mujeres son sus principales receptoras, siendo los hombres los principales autores de este delito. Esto configura las relaciones que tienen las mujeres con los espacios, constituy\u00e9ndose as\u00ed cartograf\u00edas del miedo, sumado a una serie de dispositivos culturales que relegan a las mujeres a los espacios dom\u00e9sticos.",
   "valor":null,
@@ -1169,7 +1257,7 @@
  },
  {
   "investigacion_id":24.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":null,
   "texto":"Fue necesaria una revisi\u00f3n de una parte de las funcionalidades del sistema de informaci\u00f3n de convocatorias gestionada por la Direcci\u00f3n de Fomento. Esta revisi\u00f3n consisti\u00f3 en la identificaci\u00f3n de algunos aspectos que pueden ser objeto de mejora en la herramienta en t\u00e9rminos de funcionalidad, interfaz, textos de comunicaci\u00f3n y la ejecuci\u00f3n y contenido de la encuesta de satisfacci\u00f3n que los usuarios responden al final de realizar un proceso de inscripci\u00f3n.",
   "valor":null,
@@ -1177,7 +1265,7 @@
  },
  {
   "investigacion_id":24.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":null,
   "texto":"Es recomendable una revisi\u00f3n profunda de la herramienta m\u00e1s all\u00e1 de la interfaz y experiencia de usuario en la que se identifiquen con claridad los elementos de datos involucrados en todos los procesos: usuarios, personas, colectivos formales e informales, convocatorias, inscripciones, etc. Para cada una de estas entidades se deben definir las propiedades (diccionario de datos) y los procesos que pueden ejecutar o ejecutarse sobre ellos. Con esta estructura establecida se puede mejorar sustancialmente la definici\u00f3n de los men\u00fas de navegaci\u00f3n de forma jer\u00e1rquica y considerando el estado de cada elemento (visibles, invisibles, activos, inactivos, etc) en cada paso de los procesos.",
   "valor":null,
@@ -1185,7 +1273,7 @@
  },
  {
   "investigacion_id":24.0,
-  "orden":3,
+  "orden":3.0,
   "titulo":null,
   "texto":"Es posible que muchas de las dificultades del funcionamiento de la plataforma no est\u00e9n originadas por problemas de dise\u00f1o del front end sino una estructura o modelo de datos sin optimizar, con problemas de normalizaci\u00f3n o dise\u00f1o. Es prioritario previamente que se haga una revisi\u00f3n del modelo de datos para luego intervenir la interfaz y experiencia de usuario de una manera eficiente.",
   "valor":null,
@@ -1193,7 +1281,7 @@
  },
  {
   "investigacion_id":24.0,
-  "orden":4,
+  "orden":4.0,
   "titulo":null,
   "texto":"Se recomienda que en cada vista asociada a una acci\u00f3n o funcionalidad principal se resalte con tama\u00f1o y color de mayor contraste el bot\u00f3n de acci\u00f3n primaria: Guardar, Ingresar, Enviar, etc. En la mayor\u00eda de las vistas, el bot\u00f3n principal de acci\u00f3n tiene poco contraste y hasta con una jerarqu\u00eda visual inferior a la de elementos funcionalmente secundarios. El ejemplo m\u00e1s claro de este inconveniente est\u00e1 en el Login de usuario donde el bot\u00f3n [Acceder] es inferior visualmente al bot\u00f3n [Soy funcionario].",
   "valor":null,
@@ -1201,7 +1289,7 @@
  },
  {
   "investigacion_id":24.0,
-  "orden":5,
+  "orden":5.0,
   "titulo":null,
   "texto":"Tras la revisi\u00f3n y optimizaci\u00f3n del modelo de datos de la plataforma es necesario llevar a cabo una integraci\u00f3n con el sistema de usuarios de SICON, principalmente en cuando a sesiones de usuario e identificaci\u00f3n de usuarios que son personas naturales y su asociaci\u00f3n con personas jur\u00eddicas o colectivos informales. As\u00ed mismo es necesaria una revisi\u00f3n interna de los par\u00e1metros y variables del sistema desde el interior de la base de datos, para que se ajuste, cuando sea pertinente, con las variables y par\u00e1metros definidos en lo que se ha denominado \u201cLenguaje controlado\u201d dentro de CultuRed_Bogot\u00e1.\n",
   "valor":null,
@@ -1209,7 +1297,7 @@
  },
  {
   "investigacion_id":25.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":null,
   "texto":"La implementaci\u00f3n de los Manuales de Ligas y Clubes Deportivos permiten al IDRD obtener datos con altos est\u00e1ndares de veracidad:  los manuales permiten al equipo de Gobernanza del IDRD, minimizar los errores de digitaci\u00f3n y de captura de informaci\u00f3n, especifica las reglas de validaci\u00f3n, da claridad sobre como opera el equipo de campo que se encargar\u00e1 de la recolecci\u00f3n de datos y aclara los t\u00e9rminos que se utilizan en el instrumento de recolecci\u00f3n de informaci\u00f3n; evitando que cada encuestador entienda de forma diferente cada pregunta, esto con el fin de obtener datos veraces y eficientes para el fortalecimiento de los programas o proyectos al interior de la entidad.",
   "valor":null,
@@ -1217,7 +1305,7 @@
  },
  {
   "investigacion_id":25.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":null,
   "texto":"                                                                                                                                                                                                                                                                                                                                                                                                                                           El IDRD equipo de Gobernanza tiene como objetivo fortalecer el proyecto 7850 del 2021: a partir de la implementaci\u00f3n de una herramienta cualitativa (formulario), el IDRD podr\u00e1 fortalecer el Proyecto 7850 de la Subdirecci\u00f3n T\u00e9cnica de Recreaci\u00f3n y Deporte, el cual busca implementar una estrategia para el desarrollo deportivo y competitivo en Bogot\u00e1, por medio de la transferencia metodol\u00f3gica de estos dos Manuales, podr\u00e1n medir los niveles de Gobernanza de Ligas y Clubes con los datos obtenidos en el desarrollo de su gesti\u00f3n p\u00fablica y de esta manera se potencian las relaciones e interacciones entre ciudadanos, sociedad civil, actores privados y p\u00fablicos que permitan resolver las necesidades referidas por los bogotanos, aportando as\u00ed a la garant\u00eda de sus derecho, el uso efectivo de los recursos p\u00fablicos  y convertir las decisiones en pol\u00edticas p\u00fablicas, programas y proyectos que contribuyan a la pr\u00e1ctica deportiva.                                                                                                                                                                                                                                                                                                                                                     ",
   "valor":null,
@@ -1225,7 +1313,7 @@
  },
  {
   "investigacion_id":26.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":null,
   "texto":"El derecho a la palabra - Posibilidades de participaci\u00f3n y jerarqu\u00edas: Se observa una clara jerarqu\u00eda de g\u00e9nero en los contextos art\u00edsticos y culturales, donde las mujeres suelen ocupar posiciones de subordinaci\u00f3n y enfrentan obst\u00e1culos para participar plenamente y ser reconocidas en igualdad de condiciones. Por lo general, son los hombres quienes asumen posiciones de liderazgo y representaci\u00f3n. Esto plantea preguntas sobre la igualdad de oportunidades y la distribuci\u00f3n del poder en estas organizaciones.",
   "valor":null,
@@ -1233,7 +1321,7 @@
  },
  {
   "investigacion_id":26.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":null,
   "texto":"Sobrecarga de Trabajo y Techo de Cristal: Se identifica sobrecarga de trabajo en las mujeres, particularmente en tareas log\u00edsticas, de cuidado y trabajo reproductivo en las organizaciones. Con el concepto del \"techo de cristal\", se enfatiza en c\u00f3mo las estructuras de g\u00e9nero influyen en la distribuci\u00f3n desigual de oportunidades y reconocimiento en el \u00e1mbito art\u00edstico y cultural. Adem\u00e1s, se visibilizan forma de sobre-exigencias en las mujeres por dar a conocer su trabajo y demostrar su pertinencia y validez para ciertas tareas, pues la calidad de su trabajo se cuestiona constantemente en funcion del g\u00e9nero",
   "valor":null,
@@ -1241,7 +1329,7 @@
  },
  {
   "investigacion_id":26.0,
-  "orden":3,
+  "orden":3.0,
   "titulo":null,
   "texto":"Sexualizaci\u00f3n y cosificaci\u00f3n - De las musas a la misoginia: En algunos contextos, las mujeres son entendidas como una fuente de inspiraci\u00f3n para el artista masculino, pero desde un rol protag\u00f3nico y activo en la creaci\u00f3n art\u00edstica. La sexualizaci\u00f3n y cosificaci\u00f3n de las mujeresque socava la valoraci\u00f3n de sus logros y contribuciones, adem\u00e1s de vulnerar directamente sus derechos y  bienestar, limitando sus posibilidades de participar libremente en los espacios de arte o cultura. Este an\u00e1lisis convoca a abordar la cultura de la violaci\u00f3n y los discursos que mantienen y legitiman situaciones como el acoso o los abusos como forma de promover relaciones de respeto, consentimiento y no violencia.",
   "valor":null,
@@ -1249,7 +1337,7 @@
  },
  {
   "investigacion_id":26.0,
-  "orden":4,
+  "orden":4.0,
   "titulo":null,
   "texto":"Artes Permitidas, Artes Prohibidas: Existe una asociaci\u00f3n de ciertas formas de expresi\u00f3n art\u00edstica con alg\u00fan g\u00e9nero en particular, lo que puede limitar la creatividad y la diversidad en el arte, adem\u00e1s impide la posibilidad de democratizar la participaci\u00f3n de las personas en las pr\u00e1cticas art\u00edsticas. Por ejemplo, se cuestiona que las mujeres participen en el graffiti o el rap y en ocasiones, que los hombres practiquen danza. Por lo general, se le otorga mayor valor al trabajo que realizan los varones.",
   "valor":null,
@@ -1257,7 +1345,7 @@
  },
  {
   "investigacion_id":26.0,
-  "orden":5,
+  "orden":5.0,
   "titulo":null,
   "texto":"Continuidad de Normas de G\u00e9nero del Hogar: En el arte as\u00ed como en m\u00faltiples contextos de la sociedad, las normas y exigencias de g\u00e9nero se reproducen como continuaci\u00f3n a tramas impuestas en contextos m\u00e1s espec\u00edficos como la familia o la escuela, por lo que si bien estos mandatos se refuerzan de manera constante, no emergen exclusivamente en los escenarios art\u00edsticos",
   "valor":null,
@@ -1265,7 +1353,7 @@
  },
  {
   "investigacion_id":27.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":null,
   "texto":"La discriminaci\u00f3n en contra de las personas con orientaci\u00f3n sexual diversa tiene un car\u00e1cter sist\u00e9mico que se manifiesta en la imposibilidad de ejercer los mismos derechos con los que cuentan las parejas heterosexuales. Dentro de estos derechos est\u00e1 el de contraer matrimonio, el de compartir los derechos patrimoniales en las uniones de hecho y el de adoptar hijos. En el caso de la ciudadan\u00eda bogotana se identifica que persiste el car\u00e1cter sist\u00e9mico de la discriminaci\u00f3n pues existen y se reproducen representaciones hacia las personas LGBTI en donde son concebidas como un peligro para la sociedad.",
   "valor":null,
@@ -1273,7 +1361,7 @@
  },
  {
   "investigacion_id":27.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":null,
   "texto":"Sobre los pueblos \u00e9tnicos recae una gran variedad de narrativas y creencias que desconocen sus aportes, tergiversan sus culturas y ciernen sobre s\u00ed innumerables imaginarios negativos. En este sentido, las personas negras y afrocolombianas son vinculadas constantemente con el peligro y la amenaza frente a posibles pr\u00e1cticas delictivas y agresiones sexuales. Para el caso de Bogot\u00e1, los estereotipos predominantes, transversales en todos los estratos, estuvieron asociados al deporte, la pol\u00edtica y la danza.",
   "valor":null,
@@ -1281,7 +1369,7 @@
  },
  {
   "investigacion_id":27.0,
-  "orden":3,
+  "orden":3.0,
   "titulo":null,
   "texto":"Las personas mayores de 60 a\u00f1os son quienes presentan mayor resistencia y actitudes de discriminaci\u00f3n frente a los diferentes sectores, por ejemplo, ante la posibilidad de interactuar con sectores LGBTI o relacionan la ocurrencia de situaciones asociadas a la inseguridad en Bogot\u00e1 con la presencia de migrantes. As\u00ed mismo, tienen mayor proporci\u00f3n de creencias relacionadas con que las personas negras y afro no son buenas trabajadoras.",
   "valor":null,
@@ -1289,7 +1377,7 @@
  },
  {
   "investigacion_id":27.0,
-  "orden":4,
+  "orden":4.0,
   "titulo":null,
   "texto":"En Bogot\u00e1 apenas el 27% de la ciudadan\u00eda considera que se puede confiar en la gente, lo anterior, favorece la emergencia de barreras para el relacionamiento en general con personas que no son consideradas como \u201cconocidas\u201d. Esto trasciende al relacionamiento con la poblaci\u00f3n migrante pues apenas un 40% de personas en la ciudad afirmaron haber estado en contacto con esta poblaci\u00f3n durante el \u00faltimo mes. Adem\u00e1s, la opini\u00f3n con respecto a los migrantes \u2013 en su mayor\u00eda relacionada con la inseguridad- se construye a partir de informaci\u00f3n de segunda mano o suposiciones sin sustento emp\u00edrico en la mayor\u00eda de los casos.",
   "valor":null,
@@ -1297,7 +1385,7 @@
  },
  {
   "investigacion_id":27.0,
-  "orden":5,
+  "orden":5.0,
   "titulo":null,
   "texto":"Con respecto al cuestionamiento de las normas morales y sociales que se construyen en Bogot\u00e1 alrededor de la etnicidad, se identifica que el estereotipo principal es la vinculaci\u00f3n de la poblaci\u00f3n ind\u00edgena con la elaboraci\u00f3n de artesan\u00edas \u2013 estereotipo atravesado en todos los niveles socioecon\u00f3micos-, as\u00ed mismo al indagar por localidades de igual forma refieren que la poblaci\u00f3n ind\u00edgena se destaca en la elaboraci\u00f3n de artesan\u00edas.",
   "valor":null,
@@ -1305,7 +1393,7 @@
  },
  {
   "investigacion_id":29.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":null,
   "texto":"Las acciones del Combo Violeta s\u00ed se disfrutan por parte de la ciudadan\u00eda y al parecer s\u00ed lograron algunos efectos positivos de corto plazo porque despu\u00e9s de la intervenci\u00f3n, aument\u00f3 el porcentaje de personas que dijeron sentir satisfacci\u00f3n, diversi\u00f3n y tranquilidad hacia el sistema.",
   "valor":null,
@@ -1313,7 +1401,7 @@
  },
  {
   "investigacion_id":29.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":null,
   "texto":"Aument\u00f3 la confianza en los dem\u00e1s y disminuy\u00f3 la sensaci\u00f3n de angustia dentro del sistema.",
   "valor":null,
@@ -1321,7 +1409,7 @@
  },
  {
   "investigacion_id":29.0,
-  "orden":3,
+  "orden":3.0,
   "titulo":null,
   "texto":"Las acciones del Combo Violeta en esta ocasi\u00f3n no lograron disminuir el n\u00famero de evasiones de pago de pasajes.",
   "valor":null,
@@ -1329,7 +1417,7 @@
  },
  {
   "investigacion_id":29.0,
-  "orden":4,
+  "orden":4.0,
   "titulo":null,
   "texto":"Se recomienda reforzar acciones dirigidas a mejorar la experiencia de las mujeres ya que ellas, comparadas con los hombres, fueron quienes disfrutaron menos las actividades, sienten m\u00e1s miedo, estr\u00e9s y angustia al usar el sistema y presentan menos satisfacci\u00f3n con el sistema, con su experiencia de viaje, menos orgullo hacia \u00e9l y menos confianza en los dem\u00e1s.",
   "valor":null,
@@ -1337,7 +1425,7 @@
  },
  {
   "investigacion_id":29.0,
-  "orden":5,
+  "orden":5.0,
   "titulo":null,
   "texto":"Los floorgraphics tienen mensajes pertinentes y fueron bien recibidos por la ciudadan\u00eda; sin embargo, deben disponerse en lugares m\u00e1s visibles, con materiales m\u00e1s resistentes y en formatos m\u00e1s grandes para lograr mayores efectos.",
   "valor":null,
@@ -1345,7 +1433,7 @@
  },
  {
   "investigacion_id":33.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":null,
   "texto":"Existen dimensiones en el proceso de socializaci\u00f3n al interior de los grupos de j\u00f3venes que tienden a reforzar el uso de la violencia, y que tal reforzamiento operar\u00eda con m\u00e1s vigor entre personas del mismo sexo.",
   "valor":null,
@@ -1353,7 +1441,7 @@
  },
  {
   "investigacion_id":33.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":null,
   "texto":"Aunque los j\u00f3venes en edad escolar consideran la violencia como parte de una dimensi\u00f3n natural de los hombres y se piensa que hay una disposici\u00f3n mayoritaria entre ellos a ejercerla para resolver conflictos, tambi\u00e9n se reconoce que la violencia no encuentra justificaci\u00f3n en esta pretendida naturaleza, y consideran que es posible contrarrestar esa disposici\u00f3n natural desde una posici\u00f3n razonada.",
   "valor":null,
@@ -1361,7 +1449,7 @@
  },
  {
   "investigacion_id":33.0,
-  "orden":3,
+  "orden":3.0,
   "titulo":null,
   "texto":"En los colegios la proporci\u00f3n de hombres y mujeres que participan en situaciones de violencia interpersonal no son muy diferentes De hecho, la posici\u00f3n social de las mujeres en edad escolar ofrece m\u00e1s frentes de vulneraci\u00f3n que la de los hombres y, en esa medida una estas expresan una percepci\u00f3n de mayor gravedad para una mayor cantidad de situaciones, lo que se vincula a una mayor justificaci\u00f3n del uso de la violencia como respuesta a una mayor diversidad de potenciales ofensas.",
   "valor":null,
@@ -1369,7 +1457,7 @@
  },
  {
   "investigacion_id":33.0,
-  "orden":4,
+  "orden":4.0,
   "titulo":null,
   "texto":"En los colegios p\u00fablicos existe un nivel importante de legitimaci\u00f3n de la cultura de la violencia: las situaciones de agresi\u00f3n f\u00edsica entre estudiantes resultan siendo un motivo de emoci\u00f3n y adrenalina para los estudiantes, algunos de quienes afirman que no ser\u00eda bueno que desaparecieran las confrontaciones o peleas entre ellos, pues ser\u00eda aburrido.",
   "valor":null,
@@ -1377,7 +1465,7 @@
  },
  {
   "investigacion_id":33.0,
-  "orden":5,
+  "orden":5.0,
   "titulo":null,
   "texto":"Las redes sociales son un espacio en el que se propician situaciones de maltrato tales como: publicaciones de la vida privada de las y los estudiantes, insultos p\u00fablicos, fotograf\u00edas sin uso autorizado. Estas situaciones, derivan luego en enfrentamientos f\u00edsicos en las instalaciones de los colegios.",
   "valor":null,
@@ -1385,7 +1473,7 @@
  },
  {
   "investigacion_id":36.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":null,
   "texto":"Esta investigaci\u00f3n responde a la necesidad de conocer actores, espec\u00edficamente organizaciones sociales y comunitarias, con las que se pueda establecer alianzas y focalizar las diferentes estrategias de la Direcci\u00f3n de Redes y Acci\u00f3n Colectiva.\nDesde la Direcci\u00f3n del Observatorio se recolect\u00f3 informaci\u00f3n sobre 166 organizaciones que trabajan sobre tem\u00e1ticas asociadas a convivencia y resoluci\u00f3n pac\u00edfica de conflictos,   Identidades sociales diversas, Cultura Ambiental, Movilidad sostenible, Masculinidades alternativas, Violencias basadas en g\u00e9nero, Derechos Humanos y acceso a servicios b\u00e1sicos, Servicios p\u00fablicos y espacio p\u00fablico y, Participaci\u00f3n Pol\u00edtica",
   "valor":null,
@@ -1393,7 +1481,7 @@
  },
  {
   "investigacion_id":37.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":null,
   "texto":"Se identifica que existe una valoraci\u00f3n positiva frente a los elementos pedag\u00f3gicos y metodol\u00f3gicos de los espacios de formaci\u00f3n realizados, adem\u00e1s, existe un reconocimiento de la importancia de desarrollarlos. Sin embargo, se se\u00f1ala la necesidad de contar con m\u00e1s ejemplos contextuales a las funciones espec\u00edficas de los cargos de los grupos que participan en los espacios de formaci\u00f3n para facilitar la inclusi\u00f3n del enfoque de cultura ciudadana en planes y programas espec\u00edficos.",
   "valor":null,
@@ -1401,7 +1489,7 @@
  },
  {
   "investigacion_id":37.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":null,
   "texto":"Frente a conocimientos espec\u00edficos del Protocolo IDEARR y la usabilidad de las herramientas, existen a\u00fan oportunidades de mejora pues si bien los participantes dan muestras de conocer el contenido y hacer uso de los conocimientos, el protocolo no es reconocido por su nombre por lo que se debe trabajar m\u00e1s en la visibilidad y el reconocimiento del Protocolo.",
   "valor":null,
@@ -1409,7 +1497,7 @@
  },
  {
   "investigacion_id":37.0,
-  "orden":3,
+  "orden":3.0,
   "titulo":null,
   "texto":"Se identifica que existe apropiaci\u00f3n de la importancia de incluir y apropiarse del enfoque de cultura ciudadan, tanto por la ciudadan\u00eda como por los funcionarios participantes de los espacios de formaci\u00f3n, y que se ha tratado de incluir tanto en el desarrollo de las funciones, como en la vida diaria de los participantes; empero, hay una mayor visibilidad en las acciones relacionadas con la cotidianidad y con ejercicios personales de reflexi\u00f3n frente a la importancia de ser ejemplo y de ir cambiando comportamientos para poder influir en el c\u00edrculo cercano y as\u00ed iniciar cambios m\u00e1s sostenibles. ",
   "valor":null,
@@ -1417,7 +1505,7 @@
  },
  {
   "investigacion_id":37.0,
-  "orden":4,
+  "orden":4.0,
   "titulo":null,
   "texto":"Existe una recordaci\u00f3n del principio de la importancia de la evidencia y de tener datos como punto de partida, pero no se evidencia apropiaci\u00f3n frente a los principios de acupuntura cultural, acci\u00f3n colectiva y corresponsabilidad o valoraci\u00f3n y respeto a la diversidad, por lo que se sugiere hacer mayor \u00e9nfasis en estos principios en futuros espacios de formaci\u00f3n.  Adem\u00e1s, se debe profundizar dentro del componente pedag\u00f3gico la visi\u00f3n de una gobernanza colaborativa  y ciudadan\u00eda cultural que reconozca la importancia de contribuci\u00f3n de todos y todas y en donde se le d\u00e9 cada vez una mayor importancia a la cultura ciudadana.",
   "valor":null,
@@ -1425,7 +1513,7 @@
  },
  {
   "investigacion_id":39.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":null,
   "texto":"En el proceso de revisi\u00f3n de los datos de contactos de la red de cultura ciudadana se encontro que se tienen registradas 322 entidades\/organizaciones que agrupan a 697 personas\/contactos.",
   "valor":"697",
@@ -1433,7 +1521,7 @@
  },
  {
   "investigacion_id":39.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":null,
   "texto":"Una de las recomendaciones claves de al final de este an\u00e1lisis es la de llevar separadamente el registro de entidades (empresa, organizaciones, etc.) de la de contactos (personas). Se debe asignar una clave para identificar a las entidades y relacionar a los contactos con \u00e9sta.",
   "valor":null,
@@ -1441,7 +1529,7 @@
  },
  {
   "investigacion_id":39.0,
-  "orden":3,
+  "orden":3.0,
   "titulo":null,
   "texto":"Primer paso: Sistema de informaci\u00f3n sin herramienta de software: Este proceso de estructuraci\u00f3n y depuraci\u00f3n es el paso inicial indispensable para llegar a tener un sistema de informaci\u00f3n, aun si contar con una herramienta de software. Tener datos reales con usos reales para gesti\u00f3n e informes, facilitar\u00e1 mucho la implementaci\u00f3n, dise\u00f1o y articulaci\u00f3n con los componentes de CultuRed_Bogota y Pandora se se vienen implementando.",
   "valor":null,
@@ -1449,7 +1537,7 @@
  },
  {
   "investigacion_id":39.0,
-  "orden":4,
+  "orden":4.0,
   "titulo":null,
   "texto":"Los procesos de depuraci\u00f3n realizados principalmente fueron: correcci\u00f3n de nombres de entidades, estandarizaci\u00f3n de formatos, separaci\u00f3n de entidad-dependencia-cargo, cambio de siglas por nombres completos.",
   "valor":null,
@@ -1457,7 +1545,7 @@
  },
  {
   "investigacion_id":39.0,
-  "orden":5,
+  "orden":5.0,
   "titulo":null,
   "texto":"Inicialmente la forma en la que se propone que este sistema se integre con el de registro de acciones de las estrategias de cambio cultural es agregando el campo \"contato_id\" en la tabla de acciones.",
   "valor":null,
@@ -1465,7 +1553,7 @@
  },
  {
   "investigacion_id":40.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":null,
   "texto":"Una de las dificultades encontradas en el proceso de consolidaci\u00f3n de bases de datos tiene que ver con la sem\u00e1ntica. Para todo proceso del cual se vaya a registrar informaci\u00f3n es clave hacer un glosario con una definici\u00f3n y delimitaci\u00f3n de los conceptos que se gestionen, ya sean personas, entidades, eventos, o contenidos.",
   "valor":null,
@@ -1473,7 +1561,7 @@
  },
  {
   "investigacion_id":40.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":null,
   "texto":"La creaci\u00f3n de diccionarios de datos completos y claros es fundamental en todo proceso que involucre registro de datos en estructuras definidas, especialmente cuando sea posible que los gestores de esta informaci\u00f3n sean personas o entidades diferentes, como es el caso de los diferenes operadores que ha tenido la L\u00ednea Calma.",
   "valor":null,
@@ -1481,7 +1569,7 @@
  },
  {
   "investigacion_id":40.0,
-  "orden":3,
+  "orden":3.0,
   "titulo":null,
   "texto":"Una dificultad frecuente para revisar y validar datos reportados acumuladios radica en que no se cuenta con datos detallados, registro a registro con los cuales se calculan originalmente.",
   "valor":null,
@@ -1489,7 +1577,7 @@
  },
  {
   "investigacion_id":40.0,
-  "orden":4,
+  "orden":4.0,
   "titulo":null,
   "texto":"El impacto cultural y social que han tenido estrategias como la L\u00ednea Calma es innegable, y ante este crecimiento es clave que la Direcci\u00f3n de Transformaciones Culturales cuente con un profesional analista de datos para tareas de datos como resguardo, revisi\u00f3n, anonimizaci\u00f3n, preparaci\u00f3n, formato, an\u00e1lisis y visualizaci\u00f3n, esto enmarcado en posibles migraciones y usos del sistema de informaci\u00f3n misional que la Secretar\u00eda viene implementando.",
   "valor":null,
@@ -1497,7 +1585,7 @@
  },
  {
   "investigacion_id":40.0,
-  "orden":5,
+  "orden":5.0,
   "titulo":null,
   "texto":"Es una buena pr\u00e1ctica que los indicadores de gesti\u00f3n del operador de la l\u00ednea calma no sean calculados ni reportados por el operador, si no por la Direcci\u00f3n de Transformaciones Culturales a partir de los datos detallados registro a registro que se reciben.",
   "valor":null,
@@ -1505,7 +1593,7 @@
  },
  {
   "investigacion_id":41.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":null,
   "texto":"El cuidado emocional es el que presenta una mayor resistencia a abordar por parte de los hombres. Sin embargo, la participaci\u00f3n en la escuela ha representado cambios positivos en la disposici\u00f3n (del 67% al 90%).",
   "valor":null,
@@ -1513,7 +1601,7 @@
  },
  {
   "investigacion_id":41.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":null,
   "texto":"Se identifica una fuerte creencia sobre  que los hombres deben ayudar en las labores de cuidado, pero no es su obligaci\u00f3n y cuando se apropian de estas labores es por ausencia de una mujer.",
   "valor":null,
@@ -1521,7 +1609,7 @@
  },
  {
   "investigacion_id":41.0,
-  "orden":3,
+  "orden":3.0,
   "titulo":null,
   "texto":"Prevalece una idea ampliamente difundida respecto a que a los hombres no se les permite sentir o expresar ning\u00fan tipo de emoci\u00f3n. Adem\u00e1s, existen actitudes de rechazo a las labores de cuidado, representadas en verg\u00fcenza asociada a burlas y violencias hacia lo femenino y hacia lo no heteronormativo.",
   "valor":null,
@@ -1529,7 +1617,7 @@
  },
  {
   "investigacion_id":41.0,
-  "orden":4,
+  "orden":4.0,
   "titulo":null,
   "texto":"Existe la creencia de que las mujeres no dejan a los hombres asumir las labores de cuidado porque no conf\u00edan en ellos.",
   "valor":null,
@@ -1537,7 +1625,7 @@
  },
  {
   "investigacion_id":41.0,
-  "orden":5,
+  "orden":5.0,
   "titulo":null,
   "texto":"En cuanto a la metodolog\u00eda de las actividades, en general, los hombres que participaron, calificaron muy bien los contenidos de las sesiones y las pedagog\u00edas implementadas.",
   "valor":null,
@@ -1545,7 +1633,7 @@
  },
  {
   "investigacion_id":42.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":null,
   "texto":"En esta etapa sl seguimiento de las actividades de la Estrategia \"Hombres al Cuidado\" requiri\u00f3 la implementacion de 4 formatos: actividades, participantes, asistencia, participantes itinerantes.",
   "valor":"4",
@@ -1553,7 +1641,7 @@
  },
  {
   "investigacion_id":42.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":null,
   "texto":"Para la migraci\u00f3n al sistema de registro de acciones de cultura ciudadana se deber\u00e1 utilizar la tabla de actividades para migrar a la tabla acciones. Y los otros tres formatos en la tabla acciones_detalle.",
   "valor":null,
@@ -1561,7 +1649,7 @@
  },
  {
   "investigacion_id":42.0,
-  "orden":3,
+  "orden":3.0,
   "titulo":null,
   "texto":"Se destac\u00e1 la disciplina, por parte del equipo de la estrategia, en la tarea registro permanente y completo de los datos en los formatos dise\u00f1ados como base para la obtenci\u00f3n de resultados detallados y acumulados (Tablero de control), y como referencia real al Observatorio para el dise\u00f1o del sistema desde una perspectiva m\u00e1s amplia de posibles requerimientos.",
   "valor":null,
@@ -1569,7 +1657,7 @@
  },
  {
   "investigacion_id":42.0,
-  "orden":4,
+  "orden":4.0,
   "titulo":null,
   "texto":"En esta prueba piloto de registro de datos de la Estrategia fuincion\u00f3 de forma correcta el registro de lugares y direcciones en el formato requerido, con lo cual se pudo hacer la geocodificaci\u00f3n de las acciones y adicionalmente geovisualizarlas con herramientas indendientes como Google Looker Studio, Power Bi y ArcGis.",
   "valor":null,
@@ -1577,7 +1665,7 @@
  },
  {
   "investigacion_id":42.0,
-  "orden":5,
+  "orden":5.0,
   "titulo":null,
   "texto":"Para el dise\u00f1o de sistemas de informaci\u00f3n y conjuntos de datos es indispensable la participaci\u00f3n de los usuarios funcionales que tendr\u00e1n la responsabilidad final de utilizar los datos registrados en reportes acumulados. Conocer de primera mano los requerimientos finales pr\u00e1cticos ayuda mucho en una correcta definici\u00f3n de tablas, columnas, tipos de datos, criterios de dise\u00f1o y similares.",
   "valor":null,
@@ -1585,7 +1673,7 @@
  },
  {
   "investigacion_id":43.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":null,
   "texto":"El an\u00e1lisis permiti\u00f3 identificar los principales dispositivos ideol\u00f3gicos que replican situaciones de inequidad y distribuci\u00f3n inequitativa de los cuidados entre hombres y mujeres. Adem\u00e1s, reconoci\u00f3 cuales son los significados que mantiene la ciudadan\u00eda sobre diferentes dimensiones como los cuidados, la equidad de g\u00e9nero, la repartici\u00f3n de las labores de cuidado, el machismo, la participaci\u00f3n de los hombres en los cuidados. En definitiva, devel\u00f3 una radiograf\u00eda sobre los factores culturales que mantienen la problem\u00e1tica y c\u00f3mo estos son promovidos en funci\u00f3n del g\u00e9nero del emisor.",
   "valor":null,
@@ -1593,7 +1681,7 @@
  },
  {
   "investigacion_id":43.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":null,
   "texto":"Los hombres est\u00e1n mayoritariamente en contra de la estrategia en un 77.43% (151), mientras que el 18.97% (37) de los hombres respalda la estrategia. Solo un 3.58% tiene una opini\u00f3n ambigua (7). Las mujeres son quienes mayoritariamente apoyan la estrategia en un 77.95% (198), solo un 14.17% (38) de las mujeres expresa comentarios en contra de la estrategia, mientras que un 7.87% (20) expresa comentarios ambiguos.",
   "valor":null,
@@ -1601,7 +1689,7 @@
  },
  {
   "investigacion_id":43.0,
-  "orden":3,
+  "orden":3.0,
   "titulo":null,
   "texto":"Los argumentos en contra de la estrategia, expresados principalmente por los hombres, se pueden comprender como formas de defender los privilegios y la posici\u00f3n que tienen en sus familias o con sus parejas. Por consiguiente, significan la estrategia como una amenaza contra su rol e identidad masculina. De tal manera que los principales argumentos se relacionan con: la defensa de los roles tradicionales; el desconocimiento del cuidado como una forma de trabajo; la negaci\u00f3n de la sobrecarga de trabajos de cuidados en las mujeres; la defensa de la masculinidad hegem\u00f3nica y la negaci\u00f3n del machismo, a trav\u00e9s de narrativas mis\u00f3ginas.",
   "valor":null,
@@ -1609,7 +1697,7 @@
  },
  {
   "investigacion_id":43.0,
-  "orden":4,
+  "orden":4.0,
   "titulo":null,
   "texto":"La investigaci\u00f3n revel\u00f3 que una parte de la sociedad, principalmente representada en hombres, otorga significados negativos a la participaci\u00f3n de las mujeres en espacios p\u00fablicos, de ocio y entretenimiento, lo que refuerza la idea de que su \u00fanico lugar v\u00e1lido es el hogar. Cualquier desviaci\u00f3n de este est\u00e1ndar resulta en juicios mis\u00f3ginos. Adem\u00e1s, a las madres se les responsabiliza de cualquier desequilibrio en la vida familiar, descartando el papel del padre u otros miembros de la familia y generando sentimientos de culpa. Por tanto, cuestionar los roles de g\u00e9nero y promover la corresponsabilidad en los cuidados es crucial para mejorar el bienestar psicosocial de las mujeres.",
   "valor":null,
@@ -1617,7 +1705,7 @@
  },
  {
   "investigacion_id":43.0,
-  "orden":5,
+  "orden":5.0,
   "titulo":null,
   "texto":"Si bien un 14,17%  de las mujeres expresan argumentos en contra de la estrategia, no se identificaron argumentos de corte antifeminista ni negacionista del machismo. Tampoco se identificaron narrativas que desconozcan la existencia de sobrecarga de trabajos de cuidado en las mujeres. Sus principales argumentos de oposici\u00f3n, radican en concebir a la familia como la \u00fanica instituci\u00f3n v\u00e1lida para ense\u00f1ar los trabajos de cuidado, adem\u00e1s de desacuerdos con el Gobierno Distrital.",
   "valor":null,
@@ -1625,7 +1713,7 @@
  },
  {
   "investigacion_id":45.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":null,
   "texto":"La normalizaci\u00f3n del malestar vinculado a los celos: \u201cLos celos son un sentimiento normal en los seres humanos\u201d; \u201cLos celos son algo natural, pero se deben gestionar desde la comunicaci\u00f3n y expresarlos de manera respetuosa.\u201d",
   "valor":null,
@@ -1633,7 +1721,7 @@
  },
  {
   "investigacion_id":45.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":null,
   "texto":"Los celos se relacionan con sentimientos negativos como los son: la falta de comunicaci\u00f3n, incomodidad, impotencia, resentimiento e inconformidad y por el otro, se relaciona en gran medida con diferentes formas de inseguridad o falta de confianza",
   "valor":null,
@@ -1641,7 +1729,7 @@
  },
  {
   "investigacion_id":45.0,
-  "orden":3,
+  "orden":3.0,
   "titulo":null,
   "texto":"Revisar las consecuencias de las acciones, tomar una pausa antes de tomar alguna decisi\u00f3n: \u201cQue de la situaci\u00f3n que vivi\u00f3 piense cu\u00e1les fueron las consecuencias y replantee para nuevas oportunidades, el actuar, el pensar y el sentir\u201d",
   "valor":null,
@@ -1649,7 +1737,7 @@
  },
  {
   "investigacion_id":45.0,
-  "orden":4,
+  "orden":4.0,
   "titulo":null,
   "texto":"Control emocional y agencia personal como forma de prevenir violencias: \u201clo importante es aprender a controlar nuestras emociones y sentimientos para no herir ni herirnos a nosotros mismos ni a otras personas\u201c; \u201cLo importante aqu\u00ed es c\u00f3mo lo tomamos y c\u00f3mo reaccionamos ante esto\u201d",
   "valor":null,
@@ -1657,7 +1745,7 @@
  },
  {
   "investigacion_id":45.0,
-  "orden":5,
+  "orden":5.0,
   "titulo":null,
   "texto":"Solicitar de ayuda: \u201cLe dir\u00eda que no esta mal que busque ayuda porque todo eso de estar encerr\u00e1ndose y maltratandose mental y f\u00edsicamente solo va a da\u00f1ar su vida\u201d, \u201cNo est\u00e1 mal buscar ayuda cuando no se puede lidiar con todo eso\u201d",
   "valor":null,
@@ -1665,7 +1753,7 @@
  },
  {
   "investigacion_id":46.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":null,
   "texto":"Las pr\u00e1cticas m\u00e1s comunes entre los encuestados son la danza, el yoga y la meditaci\u00f3n. De otra parte, m\u00e1s de la mitad de los encuestados expone nunca haber realizado actividades como \u201cTai-chi\u201d, \u201cArtes marciales\u201d, \u201cAikido\u201d y \u201cChi-kung\u201d. Esto representa una ventana de oportunidad para promover el conocimiento sobre otras actividades de meditaci\u00f3n orientales que son poco comunes entre los bogotanos.",
   "valor":null,
@@ -1673,7 +1761,7 @@
  },
  {
   "investigacion_id":46.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":null,
   "texto":"Los habitantes de Bogot\u00e1 encuestados perciben beneficios principalmente en su salud f\u00edsica cuando realizan actividades de \u201cDanza\u201d, mientras que, perciben mayores beneficios de salud mental y bienestar psicol\u00f3gico con la pr\u00e1ctica de la \u201cMeditaci\u00f3n\u201d y el \u201cYoga\u201d.",
   "valor":null,
@@ -1681,7 +1769,7 @@
  },
  {
   "investigacion_id":46.0,
-  "orden":3,
+  "orden":3.0,
   "titulo":null,
   "texto":"La mayor\u00eda de los participantes reconoce la importancia de la calma y el bienestar en el contexto de las relaciones interpersonales y la confianza en s\u00ed mismos.",
   "valor":null,
@@ -1689,7 +1777,7 @@
  },
  {
   "investigacion_id":46.0,
-  "orden":4,
+  "orden":4.0,
   "titulo":null,
   "texto":"Las narrativas asociadas a la calma est\u00e1n asociadas a conceptos como paz, conexi\u00f3n, tranquilidad y equilibrio entre la mente y el cuerpo, evidenciando la necesidad de trabajarla desde distintos \u00e1mbitos y no solo como un estado de quietud.",
   "valor":null,
@@ -1697,7 +1785,7 @@
  },
  {
   "investigacion_id":46.0,
-  "orden":5,
+  "orden":5.0,
   "titulo":null,
   "texto":"Las y los habitantes de Bogot\u00e1 encuestados priorizan la respiraci\u00f3n y la actividad f\u00edsica como el yoga y estar en contacto con la naturaleza para mantener la calma, dando cuenta de una ventana de oportunidad para ampliar la oferta de estas actividades.",
   "valor":null,
@@ -1705,7 +1793,7 @@
  },
  {
   "investigacion_id":49.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":null,
   "texto":"Frente a las actitudes de la ciudadan\u00eda, se evidencia que de la gente que habita en Bogot\u00e1, el 76% se siente corresponsable con el cuidado del ambiente en la ciudad.",
   "valor":null,
@@ -1713,7 +1801,7 @@
  },
  {
   "investigacion_id":49.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":null,
   "texto":"En cuanto a las pr\u00e1cticas indagadas de los habitantes de Bogot\u00e1, el 79% de las personas en la ciudad lleva bolsa reutilizable cuando hace compras.",
   "valor":null,
@@ -1721,7 +1809,7 @@
  },
  {
   "investigacion_id":49.0,
-  "orden":3,
+  "orden":3.0,
   "titulo":null,
   "texto":"Respecto de los conocimientos de las personas, el 77% de las personas hace uso correcto de las bolsas de colores para la clasificaci\u00f3n de los residuos.",
   "valor":null,
@@ -1729,7 +1817,7 @@
  },
  {
   "investigacion_id":49.0,
-  "orden":4,
+  "orden":4.0,
   "titulo":null,
   "texto":"40% de los habitantes de Bogot\u00e1 argumenta que lo m\u00e1s dif\u00edcil de separar los residuos en el hogar es que los dem\u00e1s miembros de la familia no colaboran.",
   "valor":null,
@@ -1737,7 +1825,7 @@
  },
  {
   "investigacion_id":49.0,
-  "orden":5,
+  "orden":5.0,
   "titulo":null,
   "texto":"Sobre las pr\u00e1cticas de separaci\u00f3n de residuos en Bogot\u00e1, se encontr\u00f3 que un 56% de las personas reutilizan o reh\u00fasan envases, papeles, cajas u otros objetos materiales.",
   "valor":null,
@@ -1745,7 +1833,7 @@
  },
  {
   "investigacion_id":54.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":null,
   "texto":" El trabajo colaborativo entre artistas y ciudadanos, una metodolog\u00eda potente para la ciudad: la transmisi\u00f3n del mensaje en las intervenciones art\u00edsticas que se han hecho en las calles y puentes de la ciudad est\u00e1 siendo clara para la mayor\u00eda de los ciudadanos entrevistados. Teniendo en cuenta que dicho mensaje fue construido en algunos talleres de cocreaci\u00f3n entre habitantes de los sectores intervenidos y artistas locales, se recomienda continuar con estas formas de trabajo colaborativas para propender por el reconocimiento, el sentido de pertenencia y el cuidado de estas acciones en los espacios p\u00fablicos de la ciudad. \n",
   "valor":null,
@@ -1753,7 +1841,7 @@
  },
  {
   "investigacion_id":54.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":null,
   "texto":" Las intervenciones art\u00edsticas aporta al sentido de pertenencia por el espacio p\u00fablico: la mayor\u00eda de los entrevistados creen que estas intervenciones ayudan a generar sentido de pertenencia y de apropiaci\u00f3n, y que definitivamente deben perdurar en el tiempo, por lo que se recomienda buscar las maneras de integrar a los transe\u00fantes en estos procesos de creaci\u00f3n para la ciudad, lo que podr\u00eda mejorar las estrategias de cuidado de dichas acciones art\u00edsticas en el espacio p\u00fablico. \n",
   "valor":null,
@@ -1761,7 +1849,7 @@
  },
  {
   "investigacion_id":54.0,
-  "orden":3,
+  "orden":3.0,
   "titulo":null,
   "texto":"El arte en el espacio p\u00fablico despierta emociones positivas: se identifica que las intervenciones en los espacios p\u00fablicos est\u00e1n generando emociones como alegr\u00eda, tranquilidad y esperanza, logrando causar un impacto positivo en las y los ciudadanos.",
   "valor":null,
@@ -1769,7 +1857,7 @@
  },
  {
   "investigacion_id":54.0,
-  "orden":4,
+  "orden":4.0,
   "titulo":null,
   "texto":"El arte en el espacio p\u00fablico promueve el cuidado: la intenci\u00f3n detr\u00e1s de estos procesos para las intervenciones en el espacio p\u00fablico, estaba basada en resaltar a las comunidades y promover mensajes de cuidado lo cual est\u00e1 siendo logrado y se refleja en este estudio. ",
   "valor":null,
@@ -1777,7 +1865,7 @@
  },
  {
   "investigacion_id":54.0,
-  "orden":5,
+  "orden":5.0,
   "titulo":null,
   "texto":"Las intervenciones gr\u00e1ficas son asociadas al arte y la cultura, lo que fortalece el ecosistema cultural y tur\u00edstico de la ciudad: la mayor\u00eda de los entrevistados relaciona estas expresiones visuales en el espacio p\u00fablico directamente con los conceptos de arte y cultura, esto podr\u00eda potenciar las iniciativas que tiene el ecosistema cultural de la ciudad, interrelacionando iniciativas y artistas, a su vez, que invita a la ciudadan\u00eda a conocer estas intervenciones, transitarlas y referenciarlas a otros, aumentando quiz\u00e1 los espacios de atractivo tur\u00edstico de la ciudad.",
   "valor":null,
@@ -1785,7 +1873,7 @@
  },
  {
   "investigacion_id":55.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":null,
   "texto":"Con PACTARTE fue un primer paso de investigaci\u00f3n con la ciudadan\u00eda: en primera instancia se quiere resaltar que en este documento se compila los logros del trabajo conjunto entre el Observatorio y la estrategia distrital PACTARTE, como un primer paso que procura acercar los procesos de investigaci\u00f3n y la informaci\u00f3n cultural de la ciudad a los colectivos ciudadanos, aportando as\u00ed, a nuevas rutas para la gesti\u00f3n del conocimiento con el fin de generar apropiaci\u00f3n y uso de este en los territorios. ",
   "valor":null,
@@ -1793,7 +1881,7 @@
  },
  {
   "investigacion_id":55.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":null,
   "texto":"\u00a1A investigar el Hip Hop en Bogot\u00e1!: a ra\u00edz de este proceso conjunto se identifica que existe la necesidad de llevar a cabo diversas mediciones en las localidades, puesto que se reconoce que la Cultura del Hip Hop est\u00e1 presente en diferentes localidades de la ciudad. Estas mediciones permitir\u00edan evidenciar el impacto de las estrategias distritales que se implementan para acercar y dar a conocer este movimiento a los j\u00f3venes, y a su vez ofrecer\u00eda informaci\u00f3n para la toma de decisiones frente a estos proyectos. ",
   "valor":null,
@@ -1801,7 +1889,7 @@
  },
  {
   "investigacion_id":55.0,
-  "orden":3,
+  "orden":3.0,
   "titulo":null,
   "texto":"La riqueza del Hip Hop se encuentra en la multidisciplinariedad: la expansi\u00f3n de la Cultura Hip Hop en elementos como la danza, las artes gr\u00e1ficas, el emprendimiento y por supuesto la m\u00fasica, es un fen\u00f3meno que est\u00e1 ocurriendo en Bogot\u00e1 gracias al inter\u00e9s y la pasi\u00f3n de la poblaci\u00f3n j\u00f3ven. Esta multidisciplinariedad debe tenerse en cuenta para futuras investigaciones, con el fin de contemplar el ecosistema de este movimiento que se est\u00e1 formando en la ciudad. ",
   "valor":null,
@@ -1809,7 +1897,7 @@
  },
  {
   "investigacion_id":4.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":null,
   "texto":"El arte callejero el pilar del Corredor Cultural de la Carrera S\u00e9ptima: en cuanto a las actividades, las personas encuestadas se\u00f1alan que en el centro caminan, van a lugares ic\u00f3nicos como el Chorro de Quevedo o el Parque Nacional, visitan museos, hacen diligencias, trabajan y disfrutan de actividades como el septimazo. Se destacan principalmente la venta de artesan\u00edas con un reconocimiento por parte del 92% de los encuestados, seguido de la programaci\u00f3n cultural (89%), arte callejero (88%), venta de pinturas y caricaturas (81%), compra e intercambio de antig\u00fcedades (77%), oferta gastron\u00f3mica (76%) y pr\u00e1cticas deportivas (72%). No obstante, al preguntarle a las personas frente a cu\u00e1l cre\u00eda que era la m\u00e1s importante para que el centro sea reconocido como un territorio cultural, el 40% se\u00f1al\u00f3 que eran las actividades de arte callejero como estatuas humanas, danza, cuenter\u00eda, evidenciando el movimiento cultural con el que est\u00e1 relacionado el corredor cultural de la carrera s\u00e9ptima.  ",
   "valor":null,
@@ -1817,7 +1905,7 @@
  },
  {
   "investigacion_id":4.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":null,
   "texto":"Se identifica una baja participaci\u00f3n en la oferta cultural de la Carrera S\u00e9ptima: se identifica que para ninguna de las actividades se reconoce la participaci\u00f3n de los encuestados en m\u00e1s del 30%, lo que muestra que a pesar de que las personas conocen las actividades que se desarrollan en el centro, no necesariamente las hacen o participan de las mismas. La baja participaci\u00f3n se presenta tambi\u00e9n en las actividades o liderazgos relacionados con propuestas culturales, pues tan solo el 9,1% de las personas encuestadas reconocen haber participado en alguna propuesta, que en su mayor\u00eda se relacionan con m\u00fasica, turismo, arte callejero, gastronom\u00eda e incluso protestas. En ese sentido, se considera importante identificar opciones innovadoras que incentiven una mayor apropiaci\u00f3n de la oferta cultural, especialmente acciones relacionadas con turismo, artivismo, protecci\u00f3n animal, emprendimiento para mujeres, embellecimiento del espacio p\u00fablico, intervenciones circenses e investigaci\u00f3n cient\u00edfica. ",
   "valor":null,
@@ -1825,7 +1913,7 @@
  },
  {
   "investigacion_id":4.0,
-  "orden":3,
+  "orden":3.0,
   "titulo":null,
   "texto":"Una posible causa de la baja participaci\u00f3n, la sensaci\u00f3n de inseguridad: la falta de participaci\u00f3n puede estar ligada a que el miedo es el sentimiento que m\u00e1s se relaciona con estar en el centro de la ciudad, palabras como horror, inseguridad, peligro, delincuencia, tristeza y pereza fueron las m\u00e1s mencionadas. En ese marco, se quiere resaltar la importancia de dise\u00f1ar e implementar estrategias que mitiguen este factor (inseguridad) acompa\u00f1ado por una campa\u00f1a de divulgaci\u00f3n para que sea reconocida por los y las ciudadanas, con el prop\u00f3sito de que el imaginario colectivo, que hay al respecto, se transforme paulatinamente. Esto con el fin \u00faltimo de disminuir los obst\u00e1culos que puedan existir entre las personas habitantes de la ciudad y la oferta cultural de la zona.",
   "valor":null,
@@ -1833,7 +1921,7 @@
  },
  {
   "investigacion_id":4.0,
-  "orden":4,
+  "orden":4.0,
   "titulo":null,
   "texto":"M\u00e1s del 40% de los encuestados est\u00e1n interesados en aprender nuevas cosas sobre la zona: los resultados mostraron que el centro de la ciudad se relaciona con actividades art\u00edsticas y culturales, principalmente resaltando su importancia hist\u00f3rica y ser un espacio de encuentro tradicional. Ahora, el inter\u00e9s frente a nuevos aprendizajes relacionados con la cultura del centro es en su mayor\u00eda negativa, pero un gran porcentaje (46.1%) est\u00e1 interesado en aprender m\u00e1s sobre historia, cultura general, turismo y arte. Sumado a que la mayor\u00eda (53%) comparte datos del centro a otros como familiares, amigos y compa\u00f1eros. Por ello, se recomienda dise\u00f1ar estrategias de formaci\u00f3n abierta y no formal para acercar a la ciudadan\u00eda a estas tem\u00e1ticas de inter\u00e9s.",
   "valor":null,
@@ -1841,7 +1929,7 @@
  },
  {
   "investigacion_id":59.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":null,
   "texto":"La mayor parte de los restaurantes del centro son establecimientos nuevos que entraron en funcionamiento desde el inicio de la pandemia hasta el presente, ubicados en el estrato 3 en las localidades de Santaf\u00e9 o La Candelaria, con apenas una sede que funciona en un local arrendado con capacidad para atender entre 50 y 150 personas, y que cuenta con entre 3 y 7 empleados. Estos establecimientos tienen en su mayor\u00eda una oferta de platos a precios populares: en el 43,8% un plato fuerte cuesta menos de $20.000 pesos, y el porcentaje llega 61,6% si sumamos todos los negocios en los que estos platos valen menos de $30.000 pesos. A su vez, la gran mayor\u00eda de estos negocios (61,4%) obtuvieron en el mes anterior a la aplicaci\u00f3n de las encuestas, ingresos de menos de 20 millones de pesos; les siguen a estos, aun cuando de lejos, los que llegaron beneficiarse por entre 20 y 30 millones. Esta caracterizaci\u00f3n se\u00f1ala la importancia de estudios como este para reconocer estos nuevos actores que conforman un tejido econ\u00f3mico de claro acento popular, y propender por pol\u00edticas y estrategias que promuevan su sostenibilidad.",
   "valor":null,
@@ -1849,7 +1937,7 @@
  },
  {
   "investigacion_id":59.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":null,
   "texto":"La mayor parte de los negocios abren entre el final de la ma\u00f1ana y el comienzo de la tarde, cierran antes de la noche e identifican las tardes como sus franjas de horario m\u00e1s rentables. A pesar de que pocos establecimientos tienen horarios de funcionamiento que alcancen altas horas de la noche, y por m\u00e1s que muy pocos llegan a la madrugada, sorprende que poco menos de la mitad (48,8%) se muestre dispuesto a ampliar su atenci\u00f3n a las 24 horas (en caso de que llegue a activarse un plan cultural para la zona centro). De hecho, el 12% de los negocios implement\u00f3 una ampliaci\u00f3n de horarios durante el \u00faltimo a\u00f1o, en busca de mejores rendimientos. En consonancia con lo anterior, los trabajadores y funcionarios que laboran en el centro son el principal componente de sus clientelas, seguidos por los estudiantes y por los turistas. Enseguida encontramos a los habitantes del sector y, por \u00faltimo, a los asistentes a eventos culturales y art\u00edsticos (quienes pueden hacer una mayor presencia nocturna). Aunque la oferta cultural y de las artes fueron factores que estuvieron presentes en el origen de estos establecimientos al momento de decidir su actividad para el 52,7%, y a\u00fan m\u00e1s, su ubicaci\u00f3n (para el 71,7%), el peso de quienes asisten a eventos art\u00edsticos en los alrededores de los establecimientos sobre la composici\u00f3n de la clientela de los negocios gastron\u00f3micos del centro es percibido como m\u00ednimo. De ac\u00e1 que sea necesario promover alianzas directas entre actores que sostienen una oferta cultural nocturna y los establecimientos cercanos que mantienen la oferta gastron\u00f3mica, con la intenci\u00f3n de que el p\u00fablico de los primeros pese m\u00e1s en la composici\u00f3n de la clientela de los segundos. Esta estrategia de alianzas es, adem\u00e1s una de las menos recurridas por los establecimientos en el \u00faltimo a\u00f1o para ampliar sus rendimientos.",
   "valor":null,
@@ -1857,7 +1945,7 @@
  },
  {
   "investigacion_id":59.0,
-  "orden":3,
+  "orden":3.0,
   "titulo":null,
   "texto":"Seg\u00fan la percepci\u00f3n del 44,9% de los encuestados, las actividades art\u00edsticas en el espacio p\u00fablico no han tenido ning\u00fan impacto positivo sobre los establecimientos gastron\u00f3micos del centro de la ciudad durante el \u00faltimo a\u00f1o. Vale resaltar que se perciben a\u00fan menos aspectos negativos derivados de las actividades culturales y art\u00edsticas en los espacios p\u00fablicos: para la mayor\u00eda, estos efectos nocivos no existen (62,3%). Sin embargo, para un 10,4%, estas actividades han repercutido en un aumento de clientes, ventas y volumen de su comercio; para un 15% este impacto ha consistido en atraer visitantes, aunque no necesariamente esto represente un aumento de las ventas. ",
   "valor":null,
@@ -1865,7 +1953,7 @@
  },
  {
   "investigacion_id":59.0,
-  "orden":4,
+  "orden":4.0,
   "titulo":null,
   "texto":"Los turistas ocupan el tercer lugar en importancia entre los p\u00fablicos de la mayor\u00eda de los negocios, detr\u00e1s de los funcionarios y trabajadores, y de los estudiantes. El turismo fue un factor importante al momento de decidir la actividad del establecimiento para 49%, y fue determinante para el 69,8% para decidir elegir su ubicaci\u00f3n 69,8%. De hecho, como se indic\u00f3 tambi\u00e9n antes, para el 81% la cercan\u00eda a puntos tur\u00edsticos resulta importante o muy importante para su funcionamiento. Esta importancia tiene desdoblamientos sobre la oferta gastron\u00f3mica propiamente dicha. Es significativo que la gran mayor\u00eda de los encuestados (60,7%) suscribi\u00f3 la opini\u00f3n seg\u00fan la cual \u201ces importante conservar nuestra cocina, pero tambi\u00e9n ofrecer productos ajustados a las demandas gastron\u00f3micas de los turistas\u201d. Esta opini\u00f3n se\u00f1ala una especie de punto medio entre otras dos posiciones: una, \u201cadaptar los platos y servicios, as\u00ed no sean de nuestra cultura, teniendo como principal factor los gustos de los turistas\u201d, y dos, \u201crescatar las cocinas ancestrales del territorio y ponerlas a disposici\u00f3n del turismo\u201d. Un dato interesante, es que estas \u00faltimas dos posiciones recibieron casi el mismo porcentaje de aprobaci\u00f3n (18,7% y 18,2%).",
   "valor":null,
@@ -1873,7 +1961,7 @@
  },
  {
   "investigacion_id":59.0,
-  "orden":5,
+  "orden":5.0,
   "titulo":null,
   "texto":"El impacto del turismo no se despliega s\u00f3lo en la adaptaci\u00f3n de la oferta gastron\u00f3mica que ocurre en el 50,3% de los negocios, sino tambi\u00e9n en la conformaci\u00f3n los equipos de funcionarios en el 49,3% de los establecimientos. Al discriminarse las razones puntuales de esta adaptaci\u00f3n, se reconocen como principales determinantes el conocimiento de lenguas extranjeras (33,6%), el conocimiento gastron\u00f3mico de los empleados (26,5%) y la experiencia, los conocimientos en cocteler\u00eda y barismo, as\u00ed como las mejores capacidades para brindar atenci\u00f3n al cliente (15%).",
   "valor":null,
@@ -1881,7 +1969,7 @@
  },
  {
   "investigacion_id":34.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":null,
   "texto":"\u00bfQu\u00e9 pasa con las din\u00e1micas amorosas en Bogot\u00e1? Desde el Observatorio del Conocimiento Cultural, nos adentramos en las experiencias cotidianas que moldean nuestras relaciones. \u00bfQu\u00e9 hay detr\u00e1s de la \"conquista\" y el \"cortejo\"? \u00bfC\u00f3mo influye la cultura y el g\u00e9nero en estas interacciones? Exploramos estas inc\u00f3gnitas en un laboratorio que desarrollamos con  j\u00f3venes universitarios de 18 a 23 a\u00f1os. A partir del di\u00e1logo, el debate y algunos juegos, se movilizaron reflexiones sobre estas din\u00e1micas. Analizamos c\u00f3mo las normas culturales y de g\u00e9nero impactan estas din\u00e1micas, desafiando as\u00ed nuestros comportamientos sociales. \u00bfQu\u00e9 encontramos? En las pr\u00e1cticas de seducci\u00f3n se replican formas de acoso y violencia que se han normalizado y naturalizado, las cuales permiti\u00f3 problematizar el ejercicio. Tambi\u00e9n, se replican mandatos de la masculinidad y la feminidad hegem\u00f3nica a partir de din\u00e1micas de subordinaci\u00f3n y relaciones de poder. Por otro lado, la virilidad, en tanto sexualidad activa, se sit\u00faa como una de las m\u00e1s grande exigencias que permea todo un entramado de relaciones sociales y fomenta din\u00e1micas de sobre-exigencia, competencia y rectificaci\u00f3n identitaria en los hombres. Adicionalmente, se identifican formas de instrumentalizaci\u00f3n, sexualizaci\u00f3n y monetarizaci\u00f3n de las relaciones sociales en esta din\u00e1mica. Se reconoce c\u00f3mo la Investigaci\u00f3n participativa se sit\u00faa como una forma de promover cambios culturales, cuestionamientos y conocimiento situado. Por lo tanto, se sugiere Seguir explorando din\u00e1micas de la cotidianidad de la ciudad para favorecer su problematizaci\u00f3n, as\u00ed como nuevas formas l\u00fadicas y pedag\u00f3gicas para favorecer su exploraci\u00f3n. Se recomienda sintetizar estas reflexiones en c\u00e1psulas e insumos para redes sociales, como forma de expandir estos saberes co-construidos con la ciudadan\u00eda.",
   "valor":null,
@@ -1889,7 +1977,7 @@
  },
  {
   "investigacion_id":34.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":null,
   "texto":"Las experiencias relacionadas al amor o el desamor, hacen parte del d\u00eda a d\u00eda, de las conversaciones diarias, las canciones, las novelas y por lo general, son un asunto recurrente en nuestra cultura. El Observatorio  presenta reflexiones producto de un espacio desarrollado con j\u00f3venes estudiantes (18-20 a\u00f1os) habitantes de la ciudad de Bogot\u00e1. Este espacio se desarroll\u00f3 a partir de 3 actividades que buscaron incentivar la reflexi\u00f3n sobre temas relacionados con el amor, espec\u00edficamente sobre la \u201ctusa\u201d, el despecho y las rupturas amorosas para entender algunos factores culturales del manejo de los j\u00f3venes en estas situaciones. El desarrollo del Laboratorio permiti\u00f3 rectificar como, si bien la experiencia de la tusa est\u00e1 mediada por mandatos sociales, las experiencias y formas de tramitar cualquier p\u00e9rdida o separaci\u00f3n son distintas. Sin embargo, se identificaron algunos elementos en los que existi\u00f3 consenso y que muestran que los y las j\u00f3venes se debaten entre un discurso independiente y transaccional del amor en donde este se asemeja a un contrato que tiene reglas y acuerdos claros, lo que es una muestra de una concepci\u00f3n menos rom\u00e1ntica del amor, pero al mismo tiempo valoran elementos centrales del amor rom\u00e1ntico como la fidelidad y el entendimiento de las rupturas amorosas dentro de una perspectiva en donde hay buenos y malos, negando los matices y las diferentes historias y emociones que se articulan alrededor de las relaciones de pareja que vuelven mucho m\u00e1s compleja la categorizac\u00f3n entre victimas y victiminarios. Los y las j\u00f3venes participantes tienen una visi\u00f3n positiva frente a las terminaciones, pues se considera una posibilidad para un futuro mejor al ser situaciones que \u201cpasan por algo\u201d, ese algo se relaciona con la llegada de una \u201cmejor\u201d pareja y, en el entretanto, existe la oportunidad y la necesidad de enfocarse en s\u00ed mismo y trabajar para estar bien. \nDe otra parte, se identifica que existe solidaridad frente a las rupturas amorosas pues estas se reconocen como procesos dolorosos que requieren apoyo emocional y social y en ese sentido se recomienda identificar estrategias que esten focalizadas a brindar apoyo en el transito emocional de este tipo de experiencias. ",
   "valor":null,
@@ -1897,7 +1985,7 @@
  },
  {
   "investigacion_id":34.0,
-  "orden":3,
+  "orden":3.0,
   "titulo":null,
   "texto":"De igual manera, con respecto a la Tusa,  se identifica que existe solidaridad frente a las rupturas amorosas pues estas se reconocen como procesos dolorosos que requieren apoyo emocional y social y en ese sentido se recomienda identificar estrategias que esten focalizadas a brindar apoyo en el transito emocional de este tipo de experiencias. ",
   "valor":null,
@@ -1905,7 +1993,7 @@
  },
  {
   "investigacion_id":48.0,
-  "orden":1,
+  "orden":1.0,
   "titulo":null,
   "texto":"Uno de los desaf\u00edos que se plantean frente a la movilidad en la ciudad de Bogot\u00e1 tiene que ver con la seguridad de sus ciudadanos, en especial de aquellos que experimentan un mayor riesgo en sus desplazamientos cotidianos y que representan el mayor n\u00famero de v\u00edctimas, lesionados o fallecidos en los distintos incidentes que ocurren a diario en la capital del pa\u00eds. Estos son, de acuerdo con el Plan Distrital de Seguridad Vial -PDSV, peatones, ciclistas y motociclistas. En buena medida, los factores que inciden en la siniestralidad vial son culturales y pueden ser interpretados en la perspectiva de la Cultura Ciudadana. \nPara acercarse a estos factores se dise\u00f1\u00f3 un sondeo para indagar entre los bici-usuarios bogotanos acerca de sus pr\u00e1cticas de desplazamiento, el uso de elementos de protecci\u00f3n, y las creencias y motivaciones que animan tales pr\u00e1cticas. ",
   "valor":null,
@@ -1913,7 +2001,7 @@
  },
  {
   "investigacion_id":48.0,
-  "orden":2,
+  "orden":2.0,
   "titulo":null,
   "texto":"La v\u00eda identificada como primera opci\u00f3n para los desplazamientos por la mayor parte de los encuestados es la ciclorruta (71,7%), seguida de los andenes (53,6%). Las razones por la que no siempre se usa la ciclorruta tienen que ver principalmente con la presencia de huecos, seguidos muy de lejos por las ventas ambulantes; las motos y carros que invaden estas sendas; y los veh\u00edculos motorizados que circulan por ellas. Si bien, la mayor\u00eda de los encuestados prefiere evadir estos obst\u00e1culos y continuar por la v\u00eda exclusiva, el principal recurso de la mayor parte de personas, especialmente de los hombres y de las personas entre 18 y 28 a\u00f1os, es cambiar a la v\u00eda vehicular, situaci\u00f3n que puede incrementar el riesgo de accidentes. ",
   "valor":null,
@@ -1921,7 +2009,7 @@
  },
  {
   "investigacion_id":48.0,
-  "orden":3,
+  "orden":3.0,
   "titulo":null,
   "texto":"Alrededor del 25% de los ciudadanos manifiesta no llevar ning\u00fan elemento de protecci\u00f3n. Este comportamiento no tiene variaci\u00f3n en cuanto a sexo pero s\u00ed en cuanto a la dimensi\u00f3n etaria, pues el uso de elementos de protecci\u00f3n tiende a aumentar con la edad de los encuestados. Es preocupante que m\u00e1s de la mitad de quienes tienen entre 13 y 17 a\u00f1os no lleven ning\u00fan elemento de protecci\u00f3n activa. Entre los elementos utilizados, la luz trasera es el m\u00e1s com\u00fan, no obstante, los sondeos sucedieron durante el d\u00eda y la tarde, cuando a\u00fan hay luz solar y la mayor parte de las personas que respondieron a las preguntas son bici usuarios diurnos, por lo que ser\u00eda necesaria una investigaci\u00f3n de otro tipo para comprobar la respuesta y acceder a los bici-usuarios nocturnos y conocer sus pr\u00e1cticas y su uso de elementos de protecci\u00f3n activa. Apenas el 25,2% del total de los encuestados usa el caso, el 46,4% no justifica por ninguna situaci\u00f3n el que no se use. Aunque apenas el 9% de las personas deja de usar el casco por incomodidad, el 23% cree que los dem\u00e1s lo hacen por esta raz\u00f3n. Por el contrario, mientras el 33,2% justifica el no uso de reflectivos por los recorridos cortos, apenas el 7,6% cree que los dem\u00e1s lo hacen debido a este motivo.",
   "valor":null,
@@ -1929,7 +2017,7 @@
  },
  {
   "investigacion_id":48.0,
-  "orden":4,
+  "orden":4.0,
   "titulo":null,
   "texto":"Es necesario prestar atenci\u00f3n a las pr\u00e1cticas ciclistas de la poblaci\u00f3n m\u00e1s joven, que tiene entre 13 y 18 a\u00f1os. Esta poblaci\u00f3n pr\u00e1cticamente no usa casco ni reflectivos, aunque utilice luces traseras y delanteras en sus bicicletas. Son quienes m\u00e1s justifican el no uso de estos elementos por la cercan\u00eda de sus desplazamientos, especialmente los hombres, y por el hecho de desplazarse durante el d\u00eda. ",
   "valor":null,
