@@ -554,17 +554,17 @@
  },
  {
   "investigacion_id":70,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
+  "tipo_producto":"Base de datos",
+  "titulo":"Base piloto consumo de escenarios culturales IDARTES Para entregar",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1_EsVkyEcIP7zofbpV3PjZroM-saexQG0\/edit?usp=sharing&ouid=105090632649587320414&rtpof=true&sd=true"
  },
  {
   "investigacion_id":70,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
+  "tipo_producto":"Informe cuantitativo",
+  "titulo":"Resumen de Datos Univariados Escenarios Culturales 2024",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1AzVaWj0WyOvFfc3cxJu6lC6rBgZfklcN\/edit?usp=sharing&ouid=105090632649587320414&rtpof=true&sd=true"
  },
  {
   "investigacion_id":70,
