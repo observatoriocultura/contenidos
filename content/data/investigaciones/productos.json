@@ -884,8 +884,8 @@
  {
   "investigacion_id":76,
   "tipo_producto":"Presentaci\u00f3n",
-  "titulo":null,
-  "incluir_en_ficha":null,
+  "titulo":"Presentaci\u00f3n de resultados",
+  "incluir_en_ficha":"No",
   "url":null
  },
  {
@@ -940,21 +940,21 @@
  {
   "investigacion_id":77,
   "tipo_producto":"Presentaci\u00f3n",
-  "titulo":null,
+  "titulo":"Presentaci\u00f3n resultados",
   "incluir_en_ficha":null,
   "url":null
  },
  {
   "investigacion_id":77,
   "tipo_producto":"Base de datos",
-  "titulo":null,
+  "titulo":"Base ECA 2024",
   "incluir_en_ficha":null,
   "url":null
  },
  {
   "investigacion_id":77,
   "tipo_producto":"Instrumento recolecci\u00f3n",
-  "titulo":null,
+  "titulo":"Encuesta de Cultura Ambiental 2024",
   "incluir_en_ficha":null,
   "url":null
  },
@@ -1135,8 +1135,8 @@
  },
  {
   "investigacion_id":80,
-  "tipo_producto":null,
-  "titulo":null,
+  "tipo_producto":"Informe cuantitativo",
+  "titulo":"Tablas de salida",
   "incluir_en_ficha":null,
   "url":null
  },
@@ -1492,6 +1492,13 @@
  },
  {
   "investigacion_id":87,
+  "tipo_producto":"Informe final",
+  "titulo":"Documento final",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/file\/d\/1xfGj9WAxID8MPlkIwrVbpUorKGD2KK4K\/view?usp=drive_link"
+ },
+ {
+  "investigacion_id":87,
   "tipo_producto":"Visualizaci\u00f3n",
   "titulo":"Tablero de resultados",
   "incluir_en_ficha":"S\u00ed",
@@ -1499,24 +1506,17 @@
  },
  {
   "investigacion_id":87,
-  "tipo_producto":"Informe final",
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
+  "tipo_producto":"Presentaci\u00f3n",
+  "titulo":"Presentaci\u00f3n ejecutiva",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/file\/d\/1jk-l2spf8aBTAu4HCHXAgsM7dGAA4Nk7\/view?usp=drive_link"
  },
  {
   "investigacion_id":87,
   "tipo_producto":"Base de datos",
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":87,
-  "tipo_producto":"Presentaci\u00f3n",
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
+  "titulo":"Bases de datos de mediciones",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/drive\/folders\/1WQeVJHbCsxac2P3icIDRzmvZnjLsYZ5VV"
  },
  {
   "investigacion_id":87,
@@ -1668,13 +1668,13 @@
  {
   "investigacion_id":90,
   "tipo_producto":"Base de datos",
-  "titulo":null,
+  "titulo":"Base de datos pol\u00edgonos priorizados",
   "incluir_en_ficha":null,
   "url":null
  },
  {
   "investigacion_id":90,
-  "tipo_producto":"Presentaci\u00f3n",
+  "tipo_producto":"Anexo",
   "titulo":null,
   "incluir_en_ficha":null,
   "url":null
