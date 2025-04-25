@@ -592,6 +592,46 @@
   "unidad_medida":null
  },
  {
+  "investigacion_id":95.0,
+  "orden":1,
+  "titulo":"La inteligencia artificial y el procesamiento de lenguaje natural son herramientas clave\r\npara sistematizar percepciones y priorizar temas estrat\u00e9gicos.",
+  "texto":"La implementaci\u00f3n de tecnolog\u00edas como IA Studio y Notebook LM demostr\u00f3 ser altamente efectiva para transformar datos cualitativos en insumos estructurados, permitiendo identificar patrones y prioridades de forma \u00e1gil y reproducible. Esta capacidad es fundamental para fortalecer la planificaci\u00f3n cultural basada en evidencia y optimizar el dise\u00f1o del Plan de Cultura de Bogot\u00e1 2038.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":95.0,
+  "orden":2,
+  "titulo":"La percepci\u00f3n ciudadana sobre los horizontes estrat\u00e9gicos var\u00eda significativamente, revelando tensiones, oportunidades y desaf\u00edos diferenciados.",
+  "texto":"El an\u00e1lisis de sentimientos arroj\u00f3 que horizontes como Memorias y construcci\u00f3n de paz generan preocupaciones profundas en la ciudadan\u00eda, mientras que otros, como Tejidos productivos y entornos laborales emergentes, proyectan visiones m\u00e1s esperanzadoras. Estas diferencias deben ser tomadas en cuenta al definir estrategias, canales de comunicaci\u00f3n y acciones de intervenci\u00f3n.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":95.0,
+  "orden":3,
+  "titulo":"La cultura se posiciona como un eje transversal que articula todos los horizontes del desarrollo urbano y social.",
+  "texto":"Desde la sostenibilidad ambiental hasta la movilidad, la participaci\u00f3n pol\u00edtica o la transformaci\u00f3n digital, la cultura emerge como herramienta integradora y potenciadora de procesos de cambio. Esta transversalidad reafirma su rol estrat\u00e9gico como motor de cohesi\u00f3n, transformaci\u00f3n y adaptaci\u00f3n frente a desaf\u00edos futuros.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":95.0,
+  "orden":4,
+  "titulo":"La identificaci\u00f3n de actores clave permite mapear corresponsabilidades y orientar\r\nalianzas intersectoriales.",
+  "texto":"La investigaci\u00f3n permiti\u00f3 visibilizar el papel protag\u00f3nico de entidades p\u00fablicas, organizaciones sociales, sector privado y ciudadan\u00eda en cada horizonte. Este mapeo ofrece una gu\u00eda para fortalecer mecanismos de gobernanza cultural y construir una red institucional que acompa\u00f1e de manera coherente la implementaci\u00f3n del plan. ",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":95.0,
+  "orden":5,
+  "titulo":"El enfoque metodol\u00f3gico desarrollado en esta investigaci\u00f3n es replicable y escalable,\r\npero requiere validaci\u00f3n participativa.",
+  "texto":"Si bien los resultados ofrecieron hallazgos consistentes y procesables, es imprescindible que estos sean revisados, discutidos y complementados con la voz experta de equipos t\u00e9cnicos, responsables sectoriales y comunidades. Solo mediante esta validaci\u00f3n contextual se garantiza que los insumos generados se traduzcan en acciones culturalmente pertinentes y territorialmente adaptadas.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
   "investigacion_id":1.0,
   "orden":1,
   "titulo":null,
