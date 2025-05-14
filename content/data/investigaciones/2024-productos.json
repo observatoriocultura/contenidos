@@ -204,15 +204,22 @@
  },
  {
   "investigacion_id":63,
-  "tipo_producto":"Informe cuantitativo",
-  "titulo":"Tablas de salida ESALES art\u00edsticas y culturales. Plan Piloto",
+  "tipo_producto":"Visualizaci\u00f3n",
+  "titulo":"Tablero interactivo de resultados",
   "incluir_en_ficha":"S\u00ed",
-  "url":null
+  "url":"https:\/\/lookerstudio.google.com\/reporting\/4a928fd5-3d5a-4de3-a655-943ad2da4e6e\/page\/eEYFF"
  },
  {
   "investigacion_id":63,
-  "tipo_producto":"Base de datos",
-  "titulo":"Base de datos anonimizada",
+  "tipo_producto":"Instrumento recolecci\u00f3n",
+  "titulo":"Formulario ESALES art\u00edsticas y culturales. Plan Piloto",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/file\/d\/1sLUN0W3E98dBuBKWiuU_LlyU3q2EVMxt\/view?usp=drive_link"
+ },
+ {
+  "investigacion_id":63,
+  "tipo_producto":"Informe cuantitativo",
+  "titulo":"Tablas de salida ESALES art\u00edsticas y culturales. Plan Piloto",
   "incluir_en_ficha":"S\u00ed",
   "url":null
  },
@@ -232,16 +239,9 @@
  },
  {
   "investigacion_id":63,
-  "tipo_producto":"Instrumento recolecci\u00f3n",
-  "titulo":"Formulario ESALES art\u00edsticas y culturales. Plan Piloto",
+  "tipo_producto":"Base de datos",
+  "titulo":"Base de datos anonimizada",
   "incluir_en_ficha":"S\u00ed",
-  "url":"https:\/\/drive.google.com\/file\/d\/1sLUN0W3E98dBuBKWiuU_LlyU3q2EVMxt\/view?usp=drive_link"
- },
- {
-  "investigacion_id":63,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
   "url":null
  },
  {

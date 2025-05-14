@@ -512,6 +512,46 @@
   "unidad_medida":null
  },
  {
+  "investigacion_id":87.0,
+  "orden":1,
+  "titulo":"Aumento del sentido de apropiaci\u00f3n en usuarios frecuentes",
+  "texto":"El estudio evidenci\u00f3 que los usuarios frecuentes del sistema TransMilenio manifiestan un mayor nivel de apropiaci\u00f3n frente a los espacios del sistema. Esta conclusi\u00f3n surge a partir del an\u00e1lisis de encuestas estructuradas aplicadas a usuarios en diferentes estaciones, complementadas con observaci\u00f3n no participante. La triangulaci\u00f3n de m\u00e9todos permiti\u00f3 identificar que la frecuencia en el uso del sistema est\u00e1 positivamente correlacionada con comportamientos de cuidado y sentido de pertenencia.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":87.0,
+  "orden":2,
+  "titulo":"La confianza institucional depende del contexto de viaje",
+  "texto":"Los niveles de confianza en TransMilenio var\u00edan significativamente seg\u00fan el contexto y el tipo de interacci\u00f3n del usuario con el sistema. A trav\u00e9s de entrevistas semiestructuradas y grupos focales, se identific\u00f3 que factores como la hora del d\u00eda, el nivel de congesti\u00f3n y la presencia de personal operativo influyen directamente en la percepci\u00f3n de confiabilidad. La metodolog\u00eda cualitativa permiti\u00f3 captar matices que no emergieron en los instrumentos cuantitativos.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":87.0,
+  "orden":3,
+  "titulo":"El orgullo est\u00e1 ligado a elementos simb\u00f3licos del sistema",
+  "texto":"Los resultados de los talleres participativos con actores comunitarios revelaron que el orgullo hacia TransMilenio se asocia con elementos simb\u00f3licos como la arquitectura de las estaciones y el impacto del sistema en la movilidad de la ciudad. Estos hallazgos, complementados con cartograf\u00edas sociales, muestran c\u00f3mo el sistema es percibido como un referente de modernidad, a pesar de las cr\u00edticas frecuentes a su funcionamiento cotidiano.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":87.0,
+  "orden":4,
+  "titulo":" La percepci\u00f3n mejora con intervenciones culturales y pedag\u00f3gicas",
+  "texto":"Las estaciones intervenidas con acciones culturales y pedag\u00f3gicas mostraron mejoras sustanciales en los niveles de apropiaci\u00f3n y percepci\u00f3n positiva del sistema. Este resultado fue identificado a trav\u00e9s de mediciones antes y despu\u00e9s de las intervenciones, empleando encuestas de percepci\u00f3n y an\u00e1lisis de comportamiento observado. La metodolog\u00eda comparativa permiti\u00f3 aislar el efecto positivo de estas intervenciones frente a estaciones sin intervenci\u00f3n.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":87.0,
+  "orden":5,
+  "titulo":"La convivencia se fortalece donde hay mayor interacci\u00f3n ciudadana",
+  "texto":"El estudio hall\u00f3 que las estaciones con mayor dinamismo comunitario (presencia de actividades, participaci\u00f3n de usuarios en proyectos locales) presentaron mejores indicadores de confianza y orgullo. Esta conclusi\u00f3n se basa en el cruce de informaci\u00f3n proveniente de mapas de actores, entrevistas y registros de participaci\u00f3n, permitiendo afirmar que la interacci\u00f3n social favorece la construcci\u00f3n de un tejido simb\u00f3lico m\u00e1s robusto alrededor del sistema.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
   "investigacion_id":89.0,
   "orden":1,
   "titulo":"Predominio de la Falta de Planificaci\u00f3n al Estacionar",
