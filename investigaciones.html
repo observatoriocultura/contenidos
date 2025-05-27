@@ -47,7 +47,7 @@
                 </a>
             </div>
             <h1 class="page-title">Investigaciones</h1>
-            <div>Cultura de Datos</div>
+            <div></div>
         </div>
 
         <!-- CONTENIDO APLICACIÓN -->
@@ -61,7 +61,7 @@
                     </button>
                 </div>
 
-                <ul class="nav justify-content-center nav-tabs mb-3">
+                <ul class="nav justify-content-center nav-tabs mb-3" v-show="showMenu">
                     <li class="nav-item" v-for="pagina in menu">
                         <a class="nav-link" v-bind:href="pagina.name" v-bind:class="{'active': pagina.active == true }">
                             {{ pagina.title }}

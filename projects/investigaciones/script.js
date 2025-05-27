@@ -4,6 +4,7 @@ const url = window.location.href;
 const urlParams = new URLSearchParams(window.location.search);
 // Obtiene el valor del parámetro 'investigacion_id'
 const elementoIdInicial = urlParams.get('investigacion_id');
+const showMenu = urlParams.get('show_menu') || 'true';
 const baseUrl = window.location.origin + window.location.pathname;
 
 // VueApp
@@ -31,6 +32,7 @@ var investigacionesApp = createApp({
             filtroEstados: ['Enviada','Finalizada','4 Entregada', '5 Finalizada'],
             productos: [],
             hallazgos: [],
+            showMenu: showMenu == 'true' ? true : false,
         }
     },
     methods: {
@@ -42,7 +44,7 @@ var investigacionesApp = createApp({
         },
         getList: function(){
             this.loading = true
-            axios.get('content/data/investigaciones/investigaciones.json')
+            return axios.get('content/data/investigaciones/investigaciones.json')
             .then(response => {
                 this.elementos = response.data
             })
@@ -81,7 +83,7 @@ var investigacionesApp = createApp({
         },
         getProductos: function(){
             this.loading = true
-            axios.get('content/data/investigaciones/productos.json')
+            return axios.get('content/data/investigaciones/productos.json')
             .then(response => {
                 this.productos = response.data
             })
@@ -89,7 +91,7 @@ var investigacionesApp = createApp({
         },
         getHallazgos: function(){
             this.loading = true
-            axios.get('content/data/investigaciones/hallazgos.json')
+            return axios.get('content/data/investigaciones/hallazgos.json')
             .then(response => {
                 this.hallazgos = response.data
                 this.checkCurrent()
@@ -117,9 +119,13 @@ var investigacionesApp = createApp({
         },
     },
     mounted(){
-        this.getList()
-        this.getProductos()
-        this.getHallazgos()
+        Promise.all([
+            this.getList(),
+            this.getProductos(),
+            this.getHallazgos()
+        ]).then(() => {
+            this.checkCurrent()
+        })
     },
     computed: {
         elementosFiltrados: function() {
