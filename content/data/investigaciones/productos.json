@@ -989,16 +989,16 @@
  {
   "investigacion_id":78,
   "tipo_producto":"Informe final",
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
+  "titulo":"Informe indicadores",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/file\/d\/1ozayO79Z5mmGX0Kuyp1z5PsyvjkpwZ3R\/view"
  },
  {
   "investigacion_id":78,
-  "tipo_producto":"Base de datos",
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
+  "tipo_producto":"Instrumento recolecci\u00f3n",
+  "titulo":"Formulario",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/file\/d\/1rvgqAT93BryDaayTVzYJLLxVMOLUixKW\/view?usp=drive_link"
  },
  {
   "investigacion_id":78,
