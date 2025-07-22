@@ -1552,6 +1552,46 @@
   "unidad_medida":null
  },
  {
+  "investigacion_id":35.0,
+  "orden":1,
+  "titulo":"La estrategia SOMOS logr\u00f3 una amplia vinculaci\u00f3n comunitaria",
+  "texto":"La red de la estrategia SOMOS logr\u00f3 articular m\u00e1s de 180 actores, incluyendo organizaciones comunitarias, instituciones y l\u00edderes, lo cual evidencia un alto nivel de participaci\u00f3n y apropiaci\u00f3n por parte de diversos sectores sociales en Bogot\u00e1.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":35.0,
+  "orden":2,
+  "titulo":"La colaboraci\u00f3n entre actores fortaleci\u00f3 el tejido social local",
+  "texto":"El an\u00e1lisis muestra que la estrategia promovi\u00f3 relaciones colaborativas significativas entre actores de diferentes sectores, consolidando v\u00ednculos que potencian el trabajo conjunto para la transformaci\u00f3n cultural y la mejora de la convivencia ciudadana.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":35.0,
+  "orden":3,
+  "titulo":"Alcald\u00edas locales y sectores culturales son nodos clave",
+  "texto":"Las alcald\u00edas locales, junto con entidades del sector cultura, aparecen como actores centrales en la red, lo que refleja su papel articulador y facilitador dentro de los procesos comunitarios de la estrategia SOMOS.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":35.0,
+  "orden":4,
+  "titulo":"Densidad y conectividad mejoran con el enfoque territorial",
+  "texto":"El an\u00e1lisis evidencia que, en territorios donde hubo mayor presencia institucional y acompa\u00f1amiento t\u00e9cnico, la red mostr\u00f3 mayor densidad, conectividad y cohesi\u00f3n, fortaleciendo la sostenibilidad de las acciones implementadas.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":35.0,
+  "orden":5,
+  "titulo":"El enfoque intersectorial increment\u00f3 el alcance y la efectividad",
+  "texto":"La participaci\u00f3n de sectores como salud, educaci\u00f3n y seguridad permiti\u00f3 abordar problem\u00e1ticas complejas desde m\u00faltiples frentes, ampliando el impacto de la estrategia SOMOS y generando soluciones integrales y sostenibles en los territorios.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
   "investigacion_id":36.0,
   "orden":1,
   "titulo":null,

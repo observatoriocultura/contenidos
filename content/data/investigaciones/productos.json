@@ -2174,7 +2174,14 @@
   "tipo_producto":"Anexo",
   "titulo":"Formulario",
   "incluir_en_ficha":"S\u00ed",
-  "url":null
+  "url":"https:\/\/drive.google.com\/file\/d\/1NJmV-nlHlC5cFwQMRoc8q4yzZ_b5xyQL\/view?usp=drive_link"
+ },
+ {
+  "investigacion_id":10,
+  "tipo_producto":"Visualizaci\u00f3n\/Infograf\u00eda",
+  "titulo":"Tablero de resultados",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/app.powerbi.com\/view?r=eyJrIjoiN2E5ZDNmZDQtOGExZi00YzIzLWEwMTEtMjIyNTZjODRmYzU1IiwidCI6IjRmNzkzOWM3LWFhNjAtNDliZC05YjdiLTZmODFjMzdkMWIzNyJ9&pageName=69b48348ad3ee2b5bec5"
  },
  {
   "investigacion_id":10,
