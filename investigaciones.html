@@ -77,11 +77,8 @@
 
                 <!-- LISTA DE INVESTIGACIONES -->
                 <div v-show="section == 'lista'">
-                    <div class="row mb-4 border-bottom pb-2" v-for="(elemento, i) in elementosFiltrados">
-                        <div class="col-md-1">
-                            <span class="badge bg-primary">{{ elemento.id }}</span>
-                        </div>
-                        <div class="col-md-3">
+                    <div class="row mb-4 border-bottom_ pb-2" v-for="(elemento, i) in elementosFiltrados">
+                        <div class="col-md-4">
                             <a v-on:click="setCurrent(elemento.id)" class="pointer">
                                 <img v-bind:src="`projects/investigaciones/thumbnails/` + elemento.id + `.jpg`"
                                     class="w-100 rounded shadow mb-2" v-bind:alt="elemento.titulo"
@@ -99,6 +96,10 @@
             
                             <br>
                             <small>
+                                <span class="text-muted">ID: </span>
+                                <span class="text-primary">{{ elemento['id'] }}</span>
+
+                                &middot;
                                 <span class="text-muted">Año: </span>
                                 <span class="text-primary">{{ elemento['anio'] }}</span>
 
