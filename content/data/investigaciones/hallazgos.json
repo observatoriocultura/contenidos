@@ -112,6 +112,46 @@
   "unidad_medida":null
  },
  {
+  "investigacion_id":null,
+  "orden":1,
+  "titulo":"Las pr\u00e1cticas depotivas  del 25% de la poblaci\u00f3n bogotana",
+  "texto":"En Bogot\u00e1, uno de cada cuatro habitantes (24,9%) practica alg\u00fan deporte. Si bien la mayor\u00eda de estas personas lo hace en disciplinas con reglas fijas (56,9%), m\u00e1s de la mitad no busca competir (52,5%) ni est\u00e1 vinculada a asociaciones para cultivar dicha pr\u00e1ctica. El f\u00fatbol destaca como la disciplina m\u00e1s practicada (61,0%), con un crecimiento frente a 2022 y fuerte predominio entre los hombres: entre quienes practican deportes, dos de cada tres hombres y una de cada tres mujeres entrenan f\u00fatbol en Bogot\u00e1.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":64.0,
+  "orden":2,
+  "titulo":"Los equipamientos deportivos de la ciudad est\u00e1n cerca de m\u00e1s de la mitad de las personas, pero menos de la mitad los usa frecuentemente",
+  "texto":"M\u00e1s de la mitad de la poblaci\u00f3n (55,4%) afirma vivir a una distancia m\u00e1xima de cinco cuadras de un parque o escenario recreodeportivo, un aumento de 17,1 puntos porcentuales respecto a 2022.\nSi bien este resultado refleja un avance en la disponibilidad de infraestructura, a\u00fan el 44,6% de los habitantes permanece alejado de estos servicios. Por tanto, se recomienda continuar fortaleciendo las estrategias de ampliaci\u00f3n de equipamientos en la ciudad, con el objetivo de extender sus beneficios a un mayor n\u00famero de ciudadanos.\nPor otro lado, la poblaci\u00f3n bogotana realiza principalmente sus actividades f\u00edsicas en el espacio p\u00fablico (28,6%), as\u00ed como en parques y en equipamientos deportivos (26,0%). Entre los habitantes que manifiestan tener cerca un equipamiento, el 23,4% lo emplea para hacer deporte o actividad f\u00edsica. Los bogotanos que son deportistas manifiestan que son los parques su  principal escenario de entrenamiento, en particular para practicar el basquetbol, con excepci\u00f3n de quienes entrenan la nataci\u00f3n y el ciclismo.\n\n",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":64.0,
+  "orden":3,
+  "titulo":"La cultura de la bici se reconoce como patrimonio de la ciudad",
+  "texto":"En Bogot\u00e1, el 51,6% de la ciudadan\u00eda considera que la cultura bogotana de la bicicleta es patrimonio cultural de la ciudad, porque es una alternativa de movilidad y muchas personas la usan (44,2%), porque contribuye al deporte, la recreaci\u00f3n y el bienestar de la ciudadan\u00eda (26,7%) y porque es representativa de la ciudad (19,5%). Sin embargo, si bien se tiene una percepci\u00f3n alta sobre la cultura de la bicicleta, s\u00f3lo el 25,4% de la poblaci\u00f3n la usa, siendo los dos principales usos como actividad recreativa o deportiva (55,9%) y para desplazarse al trabajo, al estudio o a otros lugares (38,0%). ",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":64.0,
+  "orden":4,
+  "titulo":"La poblaci\u00f3n de Bogot\u00e1 es menos feliz que hace dos a\u00f1os",
+  "texto":"En Bogot\u00e1 baj\u00f3 en 1,3% la percepci\u00f3n de felicidad, ya que para 2024 el 86,1% de la ciudadan\u00eda respondi\u00f3 sentirse feliz o muy feliz, y en 2022 fue el 87,4%. As\u00ed mismo, aument\u00f3 en 1,7% quienes se consideran poco o nada felices en 2024, pasando de 11,8% en 2022 a 13,5% en 2024.\n",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":64.0,
+  "orden":5,
+  "titulo":"La poblaci\u00f3n bogotana cuenta con estrategias centradas en los contactos famiiares y de amigos y la cultura para afrontar emociones ",
+  "texto":"Escuchar m\u00fasica (66,0%), hablar con un amigo o familiar (61,4%) y entretenerse con pel\u00edculas, series o videojuegos (54,3%) son las estrategias m\u00e1s utilizadas en 2024 por la ciudadan\u00eda bogotana para afrontar emociones como rabia, enojo, tristeza, aburrimiento o melancol\u00eda. \nA su vez, Conversar con familia y amigos (62,2%), descansar en el hogar (44,9%) y trabajar (17,3%) son las actividades que principalmente generan bienestar y felicidad a la ciudadan\u00eda bogotana\n\n",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
   "investigacion_id":65.0,
   "orden":1,
   "titulo":"El espacio p\u00fablico como espacio de interacci\u00f3n",
