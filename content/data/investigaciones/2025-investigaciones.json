@@ -1,5 +1,21 @@
 [
  {
+  "id":100,
+  "titulo":"An\u00e1lisis de participaciones en espacios colaborativos para la construcci\u00f3n del Plan Cultural de Bogot\u00e1 2038",
+  "descripcion":"Desarrollo de una metodolog\u00eda para recoger, sistematizar y analizar la informaci\u00f3n cualitativa y cuantitativa obtenida en espacios colaborativos y en el sondeo ciudadano, como parte del proceso de formulaci\u00f3n del Plan de Cultura de Bogot\u00e1 2038. Incluye apoyo en dise\u00f1o de instrumentos, organizaci\u00f3n de datos, y elaboraci\u00f3n de contenidos interactivos de resultados.",
+  "entidad_solicitante":"SCRD",
+  "expediente_orfeo":null,
+  "dependencia":"OAP",
+  "puntaje":3,
+  "estado":"5 Finalizada",
+  "linea_investigacion":"Sector Cultura",
+  "objetivo":"Desarrollo de una metodolog\u00eda para recoger, sistematizar y analizar la informaci\u00f3n cualitativa y cuantitativa obtenida en espacios colaborativos y en el sondeo ciudadano, como parte del proceso de formulaci\u00f3n del Plan de Cultura de Bogot\u00e1 2038. Incluye apoyo en dise\u00f1o de instrumentos, organizaci\u00f3n de datos, y elaboraci\u00f3n de contenidos interactivos de resultados.",
+  "carpeta_productos":"https:\/\/drive.google.com\/drive\/folders\/1PlGfgXcH5IXr0sJSaJgwV8SixB8VefQT",
+  "palabras_clave":"plan de cultura 2038, entrevistas, inteligencia artificial, ia gemini, procesamiento de lenguje natural, modelos de lenguaje, co creaci\u00f3n, pcb 2038 pdc 2038, participaci\u00f3n ciudadana, oap, oficina asesora de planeaci\u00f3n, horizontes, coordendadas",
+  "investigadores":"M\u00e1bel Ayala, Mauricio Ojeda",
+  "anio":"2025"
+ },
+ {
   "id":99,
   "titulo":"Caracterizaci\u00f3n de Entidades Sin \u00c1nimo de Lucro 2025",
   "descripcion":"Segunda etapa del estudio sectorial iniciado en 2024, enfocado en actualizar y profundizar la caracterizaci\u00f3n de las Entidades Sin \u00c1nimo de Lucro (ESAL) adscritas a la SCRD, abordando aspectos de infraestructura, oferta de valor, sostenibilidad financiera y modelos de gesti\u00f3n.",
@@ -13,22 +29,6 @@
   "carpeta_productos":"https:\/\/drive.google.com\/drive\/folders\/1GPyUMdbxqqJ-fja7DNFswVLKyoucNKao",
   "palabras_clave":"Direcci\u00f3n de Personas Juridicas, ESALES Culturales, Oferta de Valor, Infraestructura, Sostenibilidad, econom\u00eda",
   "investigadores":"Giovani Moreno,Carlos Su\u00e1rez ",
-  "anio":"2025"
- },
- {
-  "id":100,
-  "titulo":"An\u00e1lisis de participaciones en espacios colaborativos para la construcci\u00f3n del Plan Cultural de Bogot\u00e1 2038",
-  "descripcion":"Desarrollo de una metodolog\u00eda para recoger, sistematizar y analizar la informaci\u00f3n cualitativa y cuantitativa obtenida en espacios colaborativos y en el sondeo ciudadano, como parte del proceso de formulaci\u00f3n del Plan de Cultura de Bogot\u00e1 2038. Incluye apoyo en dise\u00f1o de instrumentos, organizaci\u00f3n de datos, y elaboraci\u00f3n de contenidos interactivos de resultados.",
-  "entidad_solicitante":"SCRD",
-  "expediente_orfeo":null,
-  "dependencia":"OAP",
-  "puntaje":1,
-  "estado":"2 En ejecuci\u00f3n",
-  "linea_investigacion":"Sector Cultura",
-  "objetivo":null,
-  "carpeta_productos":"https:\/\/drive.google.com\/drive\/folders\/1PlGfgXcH5IXr0sJSaJgwV8SixB8VefQT",
-  "palabras_clave":"plan de cultura 2038, entrevistas, inteligencia artificial, ia gemini, procesamiento de lenguje natural, modelos de lenguaje, co creaci\u00f3n, pcb 2038 pdc 2038, participaci\u00f3n ciudadana",
-  "investigadores":"M\u00e1bel Ayala, Mauricio Ojeda",
   "anio":"2025"
  },
  {
