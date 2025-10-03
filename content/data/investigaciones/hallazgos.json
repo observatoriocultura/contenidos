@@ -2182,5 +2182,45 @@
   "texto":"Es necesario prestar atenci\u00f3n a las pr\u00e1cticas ciclistas de la poblaci\u00f3n m\u00e1s joven, que tiene entre 13 y 18 a\u00f1os. Esta poblaci\u00f3n pr\u00e1cticamente no usa casco ni reflectivos, aunque utilice luces traseras y delanteras en sus bicicletas. Son quienes m\u00e1s justifican el no uso de estos elementos por la cercan\u00eda de sus desplazamientos, especialmente los hombres, y por el hecho de desplazarse durante el d\u00eda. ",
   "valor":null,
   "unidad_medida":null
+ },
+ {
+  "investigacion_id":100.0,
+  "orden":1,
+  "titulo":"Una ciudad que imagina y act\u00faa desde el reconocimiento",
+  "texto":"El an\u00e1lisis evidenci\u00f3 un deseo colectivo por una Bogot\u00e1 que valore lo diverso, propicie el reconocimiento de identidades y fomente el cuidado mutuo. Las voces de la ciudadan\u00eda expresaron aspiraciones de convivencia, inclusi\u00f3n y justicia, ubicando la cultura como eje fundamental de transformaci\u00f3n social.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":100.0,
+  "orden":2,
+  "titulo":"El lenguaje cotidiano como insumo de pol\u00edtica p\u00fablica",
+  "texto":"La metodolog\u00eda basada en an\u00e1lisis de lenguaje natural permiti\u00f3 identificar patrones sem\u00e1nticos, emocionales y argumentativos en m\u00e1s de 12.000 intervenciones. Esta apuesta innovadora traduce conversaciones ciudadanas en insumos de pol\u00edtica, superando m\u00e9todos tradicionales y fortaleciendo la escucha activa del Estado.",
+  "valor":12000.0,
+  "unidad_medida":"intervenciones"
+ },
+ {
+  "investigacion_id":100.0,
+  "orden":3,
+  "titulo":"La cocreaci\u00f3n como motor de sentido colectivo",
+  "texto":"Los espacios de participaci\u00f3n propiciaron no solo el acopio de opiniones, sino la construcci\u00f3n conjunta de visiones de futuro. La diversidad de actores y territorios involucrados fortaleci\u00f3 la legitimidad del proceso y dio lugar a un horizonte compartido: una Bogot\u00e1 culturalmente viva, incluyente y consciente.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":100.0,
+  "orden":4,
+  "titulo":"Tecnolog\u00eda al servicio de lo humano",
+  "texto":"El uso de herramientas como IA, an\u00e1lisis de sentimientos y clasificaci\u00f3n tem\u00e1tica automatizada demostr\u00f3 c\u00f3mo la tecnolog\u00eda puede potenciar la comprensi\u00f3n de lo social, sin reemplazar la interpretaci\u00f3n cr\u00edtica. Esta hibridaci\u00f3n metodol\u00f3gica plantea nuevas posibilidades para la investigaci\u00f3n p\u00fablica y participativa.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":100.0,
+  "orden":5,
+  "titulo":"Metodolog\u00edas que transforman la gesti\u00f3n p\u00fablica",
+  "texto":"M\u00e1s all\u00e1 de los resultados, la principal innovaci\u00f3n fue metodol\u00f3gica: convertir un proceso de planeaci\u00f3n en un ejercicio de escucha plural, analizado con rigor t\u00e9cnico y sensibilidad \u00e9tica. Este enfoque fortalece la capacidad del Estado para actuar desde el conocimiento colectivo y en clave de transformaci\u00f3n cultural.",
+  "valor":null,
+  "unidad_medida":null
  }
 ]
