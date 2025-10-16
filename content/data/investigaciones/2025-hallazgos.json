@@ -11,8 +11,8 @@
   "investigacion_id":100,
   "orden":2,
   "titulo":"El lenguaje cotidiano como insumo de pol\u00edtica p\u00fablica",
-  "texto":"La metodolog\u00eda basada en an\u00e1lisis de lenguaje natural permiti\u00f3 identificar patrones sem\u00e1nticos, emocionales y argumentativos en m\u00e1s de 12.000 intervenciones. Esta apuesta innovadora traduce conversaciones ciudadanas en insumos de pol\u00edtica, superando m\u00e9todos tradicionales y fortaleciendo la escucha activa del Estado.",
-  "valor":12000.0,
+  "texto":"La metodolog\u00eda basada en an\u00e1lisis de lenguaje natural permiti\u00f3 identificar patrones sem\u00e1nticos, emocionales y argumentativos en m\u00e1s de 6.539 intervenciones. Esta apuesta innovadora traduce conversaciones ciudadanas en insumos de pol\u00edtica, superando m\u00e9todos tradicionales y fortaleciendo la escucha activa del Estado.",
+  "valor":6.539,
   "unidad_medida":"intervenciones"
  },
  {
