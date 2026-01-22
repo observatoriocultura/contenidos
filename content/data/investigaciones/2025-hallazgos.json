@@ -12,7 +12,7 @@
   "orden":2,
   "titulo":"El lenguaje cotidiano como insumo de pol\u00edtica p\u00fablica",
   "texto":"La metodolog\u00eda basada en an\u00e1lisis de lenguaje natural permiti\u00f3 identificar patrones sem\u00e1nticos, emocionales y argumentativos en m\u00e1s de 6.539 intervenciones. Esta apuesta innovadora traduce conversaciones ciudadanas en insumos de pol\u00edtica, superando m\u00e9todos tradicionales y fortaleciendo la escucha activa del Estado.",
-  "valor":6.539,
+  "valor":"6.539",
   "unidad_medida":"intervenciones"
  },
  {
@@ -36,6 +36,222 @@
   "orden":5,
   "titulo":"Metodolog\u00edas que transforman la gesti\u00f3n p\u00fablica",
   "texto":"M\u00e1s all\u00e1 de los resultados, la principal innovaci\u00f3n fue metodol\u00f3gica: convertir un proceso de planeaci\u00f3n en un ejercicio de escucha plural, analizado con rigor t\u00e9cnico y sensibilidad \u00e9tica. Este enfoque fortalece la capacidad del Estado para actuar desde el conocimiento colectivo y en clave de transformaci\u00f3n cultural.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":103,
+  "orden":1,
+  "titulo":"Reconocimiento y acceso a los canales en la ciudad",
+  "texto":"Los resultados de la encuesta muestran que los principales retos de los canales se relacionan con su nivel de reconocimiento y visibilidad, m\u00e1s que con dificultades de acceso a la se\u00f1al. En Bogot\u00e1, el 54,6% de la poblaci\u00f3n afirma conocer Canal Capital, mientras que Eureka es reconocido por el 10,9%. No obstante, entre quienes identifican los canales, la percepci\u00f3n sobre el acceso es ampliamente favorable: el 89,6% considera que Canal Capital es de f\u00e1cil acceso y, en el caso de Eureka, esta valoraci\u00f3n positiva supera el 82%. Estos datos indican que, una vez conocidos, ambos canales son percibidos como accesibles para la ciudadan\u00eda.\nEste hallazgo confirma que los desaf\u00edos principales se ubican en el plano del posicionamiento, la recordaci\u00f3n y el reconocimiento dentro del conjunto de la ciudadan\u00eda.\n",
+  "valor":"54,60%",
+  "unidad_medida":"Poblaci\u00f3n"
+ },
+ {
+  "investigacion_id":103,
+  "orden":2,
+  "titulo":"Imagen de marca y recordaci\u00f3n de la programaci\u00f3n",
+  "texto":"Las asociaciones espont\u00e1neas y las valoraciones recogidas muestran que Canal Capital es reconocido por su v\u00ednculo con la ciudad, la cultura y la informaci\u00f3n de inter\u00e9s p\u00fablico. No obstante, la recordaci\u00f3n de programas espec\u00edficos es parcial y se concentra en algunos contenidos puntuales. Aun as\u00ed, la valoraci\u00f3n general del canal es ampliamente positiva, m\u00e1s del 85% de quienes lo conocen reconoce su aporte cultural e informativo. \nEsta solidez en la imagen de marca constituye un activo relevante, que puede aprovecharse para fortalecer la recordaci\u00f3n de la programaci\u00f3n y profundizar la conexi\u00f3n con las audiencias.\n",
+  "valor":"85%",
+  "unidad_medida":"Quienes conocen"
+ },
+ {
+  "investigacion_id":103,
+  "orden":3,
+  "titulo":"Consumo audiovisual infantil mayoritariamente solitario",
+  "texto":"Los talleres participativos permitieron identificar que los h\u00e1bitos de consumo audiovisual de ni\u00f1os y ni\u00f1as se configuran principalmente en el \u00e1mbito dom\u00e9stico y bajo l\u00f3gicas de intimidad y rutina cotidiana. El consumo se representa mayoritariamente como una pr\u00e1ctica individual, lo que sugiere una relaci\u00f3n directa y personalizada con los contenidos audiovisuales. No obstante, esta experiencia solitaria convive con formas de acompa\u00f1amiento familiar, especialmente con hermanos y madres, lo que indica que el consumo audiovisual tambi\u00e9n cumple una funci\u00f3n relacional dentro del hogar, aunque de manera secundaria. La baja presencia de figuras adultas como el padre y de otros acompa\u00f1antes refuerza la idea de una pr\u00e1ctica centrada en la autonom\u00eda infantil y en din\u00e1micas propias del tiempo libre.\n",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":103,
+  "orden":4,
+  "titulo":"Los ni\u00f1os y ni\u00f1as se vinculan frente a los contenidos audiovisuales principalmente alrededor de los mensajes que transmiten, y su propia experiencia personal",
+  "texto":"El an\u00e1lisis de las preferencias frente a los contenidos del canal Eureka muestra que las opiniones infantiles se expresan principalmente a trav\u00e9s de valoraciones afectivas y apreciaciones tem\u00e1ticas. Las categor\u00edas emergentes con mayor frecuencia corresponden a sensaciones como gusto, aburrimiento, inter\u00e9s o miedo, as\u00ed como a referencias directas a los temas abordados por los programas. Esto sugiere que la recepci\u00f3n se construye desde una experiencia inmediata y emocional del visionado, m\u00e1s que desde una reflexi\u00f3n t\u00e9cnica o narrativa elaborada. Los elementos t\u00e9cnicos y las referencias expl\u00edcitas a la experiencia personal aparecen de manera marginal, lo que indica que, en este contexto metodol\u00f3gico, los ni\u00f1os y ni\u00f1as priorizan la reacci\u00f3n emocional y el contenido del mensaje.\n",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":105,
+  "orden":1,
+  "titulo":"Libro al Viento como encuentro ocasional con la lectura",
+  "texto":"Los resultados muestran que Libro al Viento funciona principalmente como una oportunidad ocasional de encuentro con la lectura, m\u00e1s que como un sistema de pr\u00e9stamo frecuente. La mayor\u00eda de las personas que toman libros accede a pocos ejemplares y lo hace de manera puntual. Esta caracter\u00edstica es coherente con el dise\u00f1o del programa y con su presencia en el espacio p\u00fablico, donde el acceso es abierto, espont\u00e1neo y no mediado por tr\u00e1mites o registros.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":105,
+  "orden":2,
+  "titulo":"Experiencia de lectura, disfrute, utilidad y apropiaci\u00f3n\n",
+  "texto":"La experiencia asociada a los libros de Libro al Viento combina el disfrute con usos pr\u00e1cticos. La lectura aparece vinculada principalmente a la diversi\u00f3n, pero tambi\u00e9n al trabajo, al aprendizaje y al enriquecimiento cultural, con variaciones seg\u00fan el tipo de entorno. Adem\u00e1s, los efectos simb\u00f3licos son claros entre quienes conocen el programa: orgullo por su existencia, disfrute de la lectura y reconocimiento de que leer no es solo para especialistas. Estos impactos, aunque concentrados en un grupo reducido, son intensos y significativos.\n",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":105,
+  "orden":3,
+  "titulo":"Presencia urbana y valor cultural del programa",
+  "texto":"Libro al Viento es percibido como un proyecto cultural con presencia en m\u00faltiples espacios de la ciudad, lo que refuerza su car\u00e1cter de pol\u00edtica cultural urbana. Su circulaci\u00f3n por bibliotecas, parques, eventos culturales, instituciones educativas y espacios de tr\u00e1nsito cotidiano lo posiciona como una iniciativa accesible, cercana y reconocible, que trasciende los espacios tradicionales de lectura y se integra a la vida urbana.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":105,
+  "orden":4,
+  "titulo":"Circulaci\u00f3n extendida y apropiaci\u00f3n simb\u00f3lica de los libros",
+  "texto":"La manera en que los libros circulan muestra que su valor no se agota en el punto de entrega ni en la regla de devoluci\u00f3n. Al conservarlos, regalarlos o compartirlos, las personas expresan una fuerte apropiaci\u00f3n simb\u00f3lica. Esta circulaci\u00f3n extendida refuerza la presencia del programa en la vida cotidiana y lo inscribe en trayectorias personales y sociales diversas, aunque tambi\u00e9n plantea retos para la disponibilidad y sostenibilidad del sistema de dispensadores.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":105,
+  "orden":5,
+  "titulo":"El libro como objeto social situado: inserci\u00f3n comunitaria y pol\u00edtica cultural ",
+  "texto":"Las cartograf\u00edas sociales evidencian que los libros del programa Libro al Viento se integran a pr\u00e1cticas sociales concretas y territorialmente situadas, m\u00e1s all\u00e1 de su simple circulaci\u00f3n f\u00edsica. Los libros se insertan en din\u00e1micas comunitarias, educativas y cotidianas, adquiriendo sentidos diversos seg\u00fan los contextos sociales y territoriales de cada taller. En este sentido, Libro al Viento se configura como una pol\u00edtica cultural situada, cuyos efectos dependen de las relaciones sociales que median la apropiaci\u00f3n del libro. Las cartograf\u00edas complementan el sondeo cuantitativo al mostrar c\u00f3mo los libros se anclan, circulan y se resignifican en la vida cotidiana, dando lugar a circuitos m\u00faltiples y no lineales de uso. \n",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":112,
+  "orden":1,
+  "titulo":"Naturaleza de la creaci\u00f3n colectiva\n",
+  "texto":"La creaci\u00f3n colectiva se caracteriza por su profunda vocaci\u00f3n de horizontalidad, solidaridad y libertad. M\u00e1s que centrarse en la obtenci\u00f3n de un producto final, privilegia el proceso como un espacio vivo de exploraci\u00f3n, di\u00e1logo y construcci\u00f3n conjunta. En este sentido, se configura como un ejercicio humano y pol\u00edtico que desaf\u00eda las jerarqu\u00edas tradicionales, redistribuye el poder creativo y habilita formas alternativas de relaci\u00f3n y producci\u00f3n cultural.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":112,
+  "orden":2,
+  "titulo":"Metodolog\u00edas, roles y autor\u00eda",
+  "texto":"En los procesos de creaci\u00f3n colectiva, las metodolog\u00edas se construyen desde la participaci\u00f3n activa y la co-decisi\u00f3n. Los roles no se imponen de antemano, sino que emergen en funci\u00f3n de las necesidades y momentos del proceso, lo que promueve din\u00e1micas m\u00e1s flexibles y colaborativas. El liderazgo se concibe como un acompa\u00f1amiento emp\u00e1tico y orientador, antes que como una instancia de direcci\u00f3n jer\u00e1rquica. La dramaturgia, por su parte, surge de la investigaci\u00f3n, la improvisaci\u00f3n y la apertura estructural, y aunque la documentaci\u00f3n es una herramienta valiosa, suele ser poco sistem\u00e1tica debido a la naturaleza org\u00e1nica del trabajo.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":112,
+  "orden":3,
+  "titulo":"Interdisciplinariedad y articulaci\u00f3n de saberes",
+  "texto":"La creaci\u00f3n colectiva se nutre de una integraci\u00f3n natural y fluida de m\u00faltiples artes, oficios y conocimientos. La apertura metodol\u00f3gica facilita aportes espont\u00e1neos entre disciplinas y la incorporaci\u00f3n de especialistas externos, enriqueciendo el proceso. La tecnolog\u00eda tambi\u00e9n se incorpora como recurso creativo y expresivo, privilegiando enfoques de cultura libre y acceso abierto, lo que ampl\u00eda las posibilidades est\u00e9ticas y fomenta la innovaci\u00f3n en los lenguajes esc\u00e9nicos.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":112,
+  "orden":4,
+  "titulo":"Sostenibilidad e impacto sociocultural",
+  "texto":"La sostenibilidad de estos procesos depende, ante todo, de los v\u00ednculos humanos, la confianza entre los participantes y la claridad de un prop\u00f3sito com\u00fan. En este modelo, la comunidad no es solo receptora, sino coproductora activa del proceso y sus resultados. Esta din\u00e1mica favorece transformaciones significativas tanto en el plano personal como en el territorial, fortaleciendo el sentido de pertenencia, la identidad colectiva y los procesos de memoria y cuidado de los territorios.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":115,
+  "orden":1,
+  "titulo":"Patrones de uso y acompa\u00f1amiento social",
+  "texto":"Los resultados muestran que los parques estructurantes priorizados presentan patrones de uso regular, con predominio de visitas semanales y diarias. La asistencia se realiza mayoritariamente en compa\u00f1\u00eda de familiares, y el horario de uso se concentra principalmente en la franja de la ma\u00f1ana. La pr\u00e1ctica de deporte o actividad f\u00edsica es la actividad reportada con mayor frecuencia en todos los parques, seguida por usos asociados al acompa\u00f1amiento y al tr\u00e1nsito cotidiano",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":115,
+  "orden":2,
+  "titulo":"Valoraci\u00f3n del estado f\u00edsico y la seguridad",
+  "texto":"La mayor\u00eda de las personas encuestadas califica el estado f\u00edsico y el mantenimiento de los parques como \u201cbueno\u201d o \u201cexcelente\u201d. De igual forma, una alta proporci\u00f3n de usuarios manifiesta sentirse segura al visitar estos espacios. No obstante, una parte de la poblaci\u00f3n reporta percepciones de inseguridad, especialmente asociadas a condiciones como la iluminaci\u00f3n, lo que coincide con los aspectos f\u00edsicos se\u00f1alados como susceptibles de mejora.\n",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":115,
+  "orden":3,
+  "titulo":"Reconocimiento comunitario del parque",
+  "texto":"Los parques son reconocidos por la mayor\u00eda de los usuarios como espacios importantes para su comunidad o barrio. Este reconocimiento se presenta de manera consistente en los cinco parques analizados, lo que describe el papel de estos escenarios como referentes del entorno social y del uso cotidiano del espacio p\u00fablico.\n",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":115,
+  "orden":4,
+  "titulo":"Diferencia entre participaci\u00f3n reportada e inter\u00e9s declarado",
+  "texto":"Los resultados evidencian que la proporci\u00f3n de personas que reporta haber participado en actividades organizadas en los parques es menor que la proporci\u00f3n de usuarios que manifiesta inter\u00e9s en participar en actividades deportivas, recreativas, culturales o comunitarias. Esta diferencia describe una brecha entre la participaci\u00f3n efectiva y la disposici\u00f3n declarada por la ciudadan\u00eda.\n",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":115,
+  "orden":5,
+  "titulo":"Barreras y condiciones para el aprovechamiento",
+  "texto":"La falta de tiempo es la barrera m\u00e1s reportada para el uso y aprovechamiento de los parques, seguida por la percepci\u00f3n de inseguridad y la falta de informaci\u00f3n sobre la oferta de actividades. Estas barreras se presentan en todos los parques, con variaciones en su magnitud relativa seg\u00fan el escenario.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":116,
+  "orden":1,
+  "titulo":"La motivaci\u00f3n existe. \nLas barreras son estructurales y de contexto\n",
+  "texto":"Ciclov\u00eda: la mayor\u00eda sabe montar bicicleta y reconoce beneficios claros (ahorro de tiempo\/dinero, autonom\u00eda).\n\nEscuela de la Bici: el principal obst\u00e1culo inicial no es el desinter\u00e9s, sino no saber montar, la inseguridad y la falta de confianza.\n",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":116,
+  "orden":2,
+  "titulo":"Los programas generan percepci\u00f3n de impacto, pero de forma diferenciada",
+  "texto":"Ciclov\u00eda: alta recurrencia y masividad; impacto percibido en actividad f\u00edsica, motivaci\u00f3n semanal y uso recreativo de la bicicleta.\n\nEscuela de la Bici: impacto percibido en aprendizaje, confianza, bienestar emocional y cambio personal, aunque con menor uso posterior por barreras materiales.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":116,
+  "orden":3,
+  "titulo":"La bicicleta transforma la vida cotidiana m\u00e1s que la identidad colectiva",
+  "texto":"La sociabilidad se expresa principalmente en v\u00ednculos cercanos (familia, amigos) m\u00e1s que en colectivos organizados.\n\nEl principal beneficio percibido es pr\u00e1ctico (ahorro de tiempo\/dinero, autonom\u00eda), seguido de salud y bienestar.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":117,
+  "orden":1,
+  "titulo":"Comprender la gobernanza deportiva como un sistema complejo, multinivel y en evoluci\u00f3n",
+  "texto":"Los hallazgos de esta investigaci\u00f3n muestran que la gobernanza del deporte, la recreaci\u00f3n y la actividad f\u00edsica en Bogot\u00e1 deber\u00eda entenderse como un sistema complejo en el que convergen actores p\u00fablicos, privados, comunitarios y acad\u00e9micos con distintos niveles de autoridad, capacidades y responsabilidades. La revisi\u00f3n de literatura confirma que los modelos contempor\u00e1neos de gobernanza combinan mecanismos jer\u00e1rquicos, colaborativos e h\u00edbridos, lo cual coincide con la configuraci\u00f3n del ecosistema distrital. Esta perspectiva permite reconocer tanto el valor de las estructuras formales del Sistema Nacional del Deporte como la importancia de los v\u00ednculos territoriales, las redes sociales y las pr\u00e1cticas comunitarias que sostienen el funcionamiento cotidiano del sistema.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":117,
+  "orden":2,
+  "titulo":"Clarificar el papel de los actores como base para mejorar la articulaci\u00f3n y corresponsabilidad",
+  "texto":"Se considera necesario seguir avanzando en mecanismos que fortalezcan la corresponsabilidad entre niveles de gobierno, organizaciones deportivas, sector privado, ciudadan\u00eda y academia. La claridad en los roles y la comprensi\u00f3n de las relaciones entre actores son condiciones esenciales para que la pol\u00edtica deportiva distrital evolucione hacia formas m\u00e1s consistentes de cooperaci\u00f3n, planificaci\u00f3n conjunta y toma de decisiones basada en evidencia, la tipolog\u00eda de actores es un punto de partida para esta definici\u00f3n.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":117,
+  "orden":3,
+  "titulo":"Aplicar la medici\u00f3n para caracterizar a los actores y fortalecer el sistema de informaci\u00f3n",
+  "texto":"El desarrollo de las categor\u00edas anal\u00edticas, del formulario cuantitativo y de la propuesta metodol\u00f3gica cualitativa constituye un insumo clave para avanzar hacia un sistema de informaci\u00f3n m\u00e1s s\u00f3lido y \u00fatil para la toma de decisiones. La aplicaci\u00f3n de estos instrumentos permitir\u00e1 caracterizar de manera rigurosa a los actores del ecosistema deportivo y facilitar\u00e1 una comprensi\u00f3n m\u00e1s completa, contextualizada y accionable sobre el funcionamiento real del ecosistema deportivo y sobre las oportunidades para fortalecer su gobernanza.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":117,
+  "orden":4,
+  "titulo":"Usar el instrumento como herramienta progresiva para la mejora de la pol\u00edtica p\u00fablica",
+  "texto":"Se recomienda concebir el instrumento desarrollado no como un ejercicio aislado de levantamiento de informaci\u00f3n, sino como una herramienta estrat\u00e9gica de uso progresivo para el fortalecimiento de la pol\u00edtica p\u00fablica del deporte en Bogot\u00e1. Su aplicaci\u00f3n peri\u00f3dica y su articulaci\u00f3n con otros sistemas de informaci\u00f3n permitir\u00e1n identificar brechas, monitorear avances en la articulaci\u00f3n institucional y ajustar intervenciones de manera gradual. En este sentido, el instrumento ofrece una base para avanzar hacia procesos de planeaci\u00f3n, seguimiento y evaluaci\u00f3n m\u00e1s coherentes, orientados al aprendizaje institucional y a la generaci\u00f3n de valor p\u00fablico en el ecosistema deportivo.\n\nEn este marco, el instrumento constituye una base para promover procesos de aprendizaje institucional, mejorar la coordinaci\u00f3n entre actores y fortalecer la generaci\u00f3n de valor p\u00fablico en el ecosistema deportivo, a partir de decisiones informadas y basadas en evidencia.\n",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":121,
+  "orden":4,
+  "titulo":"Mucho orgullo, confianza a\u00fan fr\u00e1gil",
+  "texto":"La encuesta muestra un considerable orgullo por Bogot\u00e1, pero una confianza interpersonal limitada: la mayor\u00eda dice poder confiar en menos de la mitad de las personas. Esta brecha sugiere que el sentido de pertenencia no se traduce autom\u00e1ticamente en cooperaci\u00f3n cotidiana. Para cerrarla, los laboratorios deben priorizar mediaciones comunitarias, pedagog\u00eda de cuidado del espacio p\u00fablico y acciones que incrementen encuentros repetidos y seguros entre vecinos. Deporte, juego y arte son palancas id\u00f3neas para \u201chacer juntos\u201d con bajas barreras de entrada. Medir confianza barrial antes y despu\u00e9s de cada ciclo permitir\u00e1 verificar si las intervenciones logran convertir orgullo en v\u00ednculos efectivos.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":121,
+  "orden":5,
+  "titulo":"Gobernanza compartida con palancas culturales",
+  "texto":"Los hallazgos apuntan a corresponsabilidad distribuida: fuerza p\u00fablica, entidades distritales, vecinos y JAL son percibidos como actores clave seg\u00fan el tipo de problema. Esta lectura respalda una gobernanza compartida, con roles claros y coordinaci\u00f3n por barrio, donde cultura ciudadana, bibliotecas y arte urbano act\u00faan como catalizadores. La priorizaci\u00f3n debe enfocarse en inseguridad y basuras, conectando intervenciones de seguridad situacional con cuidado del entorno y gesti\u00f3n de residuos. Dise\u00f1ar participaci\u00f3n flexible (horarios extendidos, micro-tareas, reconocimiento simb\u00f3lico) reduce barreras para ese tercio que no puede involucrarse. Con tableros de seguimiento por barrio, la estrategia podr\u00e1 iterar con evidencia y escalar lo que funciona.",
   "valor":null,
   "unidad_medida":null
  }
