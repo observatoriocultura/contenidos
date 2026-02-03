@@ -254,5 +254,45 @@
   "texto":"Los hallazgos apuntan a corresponsabilidad distribuida: fuerza p\u00fablica, entidades distritales, vecinos y JAL son percibidos como actores clave seg\u00fan el tipo de problema. Esta lectura respalda una gobernanza compartida, con roles claros y coordinaci\u00f3n por barrio, donde cultura ciudadana, bibliotecas y arte urbano act\u00faan como catalizadores. La priorizaci\u00f3n debe enfocarse en inseguridad y basuras, conectando intervenciones de seguridad situacional con cuidado del entorno y gesti\u00f3n de residuos. Dise\u00f1ar participaci\u00f3n flexible (horarios extendidos, micro-tareas, reconocimiento simb\u00f3lico) reduce barreras para ese tercio que no puede involucrarse. Con tableros de seguimiento por barrio, la estrategia podr\u00e1 iterar con evidencia y escalar lo que funciona.",
   "valor":null,
   "unidad_medida":null
+ },
+ {
+  "investigacion_id":133,
+  "orden":1,
+  "titulo":"La violencia sexual no es un desv\u00edo, es un mandato aprendido",
+  "texto":"La investigaci\u00f3n evidencia que la violencia sexual no aparece como un hecho aislado o accidental, sino como una expresi\u00f3n coherente de la masculinidad hegem\u00f3nica aprendida en distintos entornos sociales. El ejercicio de la violencia se asocia a expectativas de poder, control, dominaci\u00f3n y validaci\u00f3n identitaria masculina. Estas pr\u00e1cticas son reforzadas por la familia, los pares, los medios y, en ocasiones, por la ausencia de una educaci\u00f3n sexual integral. La violencia se convierte as\u00ed en un mecanismo para \u201cdemostrar hombr\u00eda\u201d, m\u00e1s que en una desviaci\u00f3n individual.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":133,
+  "orden":2,
+  "titulo":"El hogar es el principal escenario de riesgo y silenciamiento",
+  "texto":"Una proporci\u00f3n significativa de los hechos de violencia sexual ocurre en la vivienda y es ejercida por personas cercanas a la v\u00edctima. El entorno familiar, lejos de ser siempre un espacio protector, puede funcionar como un escenario de encubrimiento, negaci\u00f3n o minimizaci\u00f3n del da\u00f1o. Esta din\u00e1mica dificulta la denuncia, la intervenci\u00f3n temprana y la activaci\u00f3n de rutas de protecci\u00f3n. La naturalizaci\u00f3n del abuso dentro del hogar refuerza el silencio y perpet\u00faa la violencia.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":133,
+  "orden":3,
+  "titulo":"Negar, minimizar y justificar: la principal barrera para la responsabilidad",
+  "texto":"Tanto los ofensores como sus familias tienden a negar, minimizar o justificar la violencia sexual, lo que constituye una barrera estructural para los procesos de responsabilizaci\u00f3n y reparaci\u00f3n. Estas narrativas desplazan la culpa hacia las v\u00edctimas, apelan a la cercan\u00eda afectiva o normalizan el abuso como \u201cerror\u201d o \u201cjuego\u201d. Esta falta de reconocimiento del da\u00f1o limita la efectividad de las sanciones y de los procesos restaurativos. Sin responsabilidad no hay transformaci\u00f3n posible.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":133,
+  "orden":4,
+  "titulo":"La sexualidad se aprende sin consentimiento ni empat\u00eda",
+  "texto":"Los hallazgos muestran que muchos j\u00f3venes adquieren conocimientos sobre sexualidad a trav\u00e9s de pares, pornograf\u00eda y medios, sin mediaci\u00f3n cr\u00edtica ni enfoque \u00e9tico. Esto produce ideas distorsionadas sobre el consentimiento, la reciprocidad y el deseo, normalizando la cosificaci\u00f3n y la dominaci\u00f3n. La ausencia de educaci\u00f3n sexual integral favorece pr\u00e1cticas sexuales violentas y dificulta el desarrollo de empat\u00eda hacia las v\u00edctimas. La sexualidad se configura m\u00e1s como ejercicio de poder que como relaci\u00f3n.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":133,
+  "orden":5,
+  "titulo":"Transformar las masculinidades es clave para prevenir la violencia",
+  "texto":"La erradicaci\u00f3n de la violencia sexual requiere intervenir directamente en la construcci\u00f3n social de las masculinidades. El estudio muestra que trabajar \u00fanicamente sobre las v\u00edctimas o desde una l\u00f3gica punitiva es insuficiente. Se necesitan estrategias preventivas, educativas, culturales y restaurativas que involucren activamente a los hombres, desde la infancia hasta la adultez. Promover masculinidades no violentas es una condici\u00f3n central para la justicia, la convivencia y la transformaci\u00f3n cultural.",
+  "valor":null,
+  "unidad_medida":null
  }
 ]
