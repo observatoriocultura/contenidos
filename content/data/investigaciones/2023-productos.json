@@ -1,1924 +1,1938 @@
 [
  {
-  "investigacion_id":1,
+  "investigacion_id":1.0,
   "tipo_producto":"Informe final",
   "titulo":"Informe_Caracterizaci\u00f3n del Sector Circo de Bogot\u00e1, identificaci\u00f3n de actores, din\u00e1micas, pr\u00e1cticas",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1ykaiO15-2ev7YdGClrt_UpA_MPf57gSC\/view"
  },
  {
-  "investigacion_id":1,
+  "investigacion_id":1.0,
   "tipo_producto":"Presentaci\u00f3n",
   "titulo":"Presentaci\u00f3n_Caracterizaci\u00f3n del Sector Circo de Bogot\u00e1, identificaci\u00f3n de actores, din\u00e1micas, pr\u00e1cticas",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1AhXKnrT7Th7BpoBCv4yH_cB-tQjCS248\/view?usp=drive_link"
  },
  {
-  "investigacion_id":1,
+  "investigacion_id":1.0,
   "tipo_producto":"Anexo",
   "titulo":"Instrumento Entrevistas",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1TLru1u9vClhEyy1lB8LcMF1thPgVssym\/view?usp=drive_link"
  },
  {
-  "investigacion_id":2,
+  "investigacion_id":2.0,
   "tipo_producto":"Informe final",
   "titulo":"An\u00e1lisis de percepci\u00f3n de la incidencia del Programa Distrital de Salas Concertadas sobre el sector teatral de Bogot\u00e1",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/137wUWhDZzgnbFqlgPVHKr8c4vm3gqOFx\/view"
  },
  {
-  "investigacion_id":2,
+  "investigacion_id":2.0,
   "tipo_producto":"Anexo",
   "titulo":"Gu\u00eda Disen\u0303o de Grupo Focal con ex gerentes GAD",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1o2dmOfmG-s4O0f2i5u9z0jWsV_kdv_xg\/view?usp=drive_link"
  },
  {
-  "investigacion_id":2,
+  "investigacion_id":2.0,
   "tipo_producto":"Anexo",
   "titulo":"Gu\u00eda Grupo Focal con administrativos de salas de teatro (Gui\u0301a para moderadores)",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1Dk4yflHRMnhHEEPZyRFw5d8pCOTZ4enX\/view?usp=drive_link"
  },
  {
-  "investigacion_id":2,
+  "investigacion_id":2.0,
   "tipo_producto":"Anexo",
   "titulo":"Gu\u00eda Grupo Focal con representantes de Salas de teatro",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/13z8B9rsZNdsR66sCfvVu7BnClsOR3xSY\/view?usp=drive_link"
  },
  {
-  "investigacion_id":2,
+  "investigacion_id":2.0,
   "tipo_producto":"Presentaci\u00f3n",
   "titulo":"Presentaci\u00f3n Percepci\u00f3n de la incidencia del Programa Distrital de Salas Concertadas sobre el sector teatral de Bogot\u00e1",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/presentation\/d\/16gURpDBFTTBJJfohTlerKBUIhPJ7HeQw\/edit#slide=id.p1"
  },
  {
-  "investigacion_id":3,
+  "investigacion_id":3.0,
   "tipo_producto":"Informe final",
   "titulo":"Informe final Caracterizaci\u00f3n publicos cinemateca",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1IwOYou6wEpngB0_EUnNm1lRBt2p3w3Wi\/view?usp=drive_link"
  },
  {
-  "investigacion_id":3,
+  "investigacion_id":3.0,
   "tipo_producto":"Presentaci\u00f3n",
   "titulo":"Presentaci\u00f3n final Caracterizaci\u00f3n publicos cinemateca",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/presentation\/d\/1GKE5gyC-RNGoiB0T4cMUXxBYMqYLI3P5\/edit?usp=sharing&ouid=115906425371686900342&rtpof=true&sd=true"
  },
  {
-  "investigacion_id":3,
+  "investigacion_id":3.0,
   "tipo_producto":"Visualizaci\u00f3n\/Infograf\u00eda",
   "titulo":"Herramienta Observatorio de P\u00fablicos",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/app.powerbi.com\/view?r=eyJrIjoiN2RjMDc0NTMtZjIxZC00MGRmLTg5YjMtYzgxYmJhZGRmMjE1IiwidCI6IjRmNzkzOWM3LWFhNjAtNDliZC05YjdiLTZmODFjMzdkMWIzNyJ9"
  },
  {
-  "investigacion_id":3,
+  "investigacion_id":3.0,
   "tipo_producto":"Anexo",
   "titulo":"Informe narrativo de la investigaci\u00f3n",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/17_SzAMR6QwP8IC0STxuJV3ToVFdKmE5c\/view?usp=drive_link"
  },
  {
-  "investigacion_id":5,
+  "investigacion_id":5.0,
   "tipo_producto":"Informe final",
   "titulo":"Bronx Distrito Creativo:Acercamiento al reconocimiento de la marca en Bogot\u00e1",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/15Tix_ZAU7lNahOY6KLz6j-3dK8mNuvOs\/view"
  },
  {
-  "investigacion_id":5,
+  "investigacion_id":5.0,
+  "tipo_producto":"Anexo",
+  "titulo":null,
+  "incluir_en_ficha":null,
+  "url":null
+ },
+ {
+  "investigacion_id":5.0,
   "tipo_producto":"Informe cuantitativo",
   "titulo":"Informe cuantitativo",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/15YXSZ5yfELW7lUhcCi5m15w-fITs3lhK\/view?usp=drive_link"
  },
  {
-  "investigacion_id":5,
+  "investigacion_id":5.0,
   "tipo_producto":"Informe cuantitativo",
   "titulo":"Tablas de salida",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/spreadsheets\/d\/17zSit3xOGHMp1Sw8NjfbwDV_FUX-HVN4\/edit?usp=drive_link&ouid=115906425371686900342&rtpof=true&sd=true"
  },
  {
-  "investigacion_id":5,
+  "investigacion_id":5.0,
   "tipo_producto":"Anexo",
   "titulo":"Zona de influencia Bronx",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1qHQBwB7XpM3AqZOJte-iZH1SHTmnBf0c\/view?usp=drive_link"
  },
  {
-  "investigacion_id":5,
+  "investigacion_id":5.0,
   "tipo_producto":"Anexo",
   "titulo":"Registros Buffer Bronx",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1SIO1hmh3wYjyzBbuw57lcERInYjI9km0\/edit?usp=drive_link&ouid=115906425371686900342&rtpof=true&sd=true"
  },
  {
-  "investigacion_id":5,
+  "investigacion_id":5.0,
   "tipo_producto":"Base de datos",
   "titulo":"Base de datos anonimizada",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1hIqX3OLlKPsdvCTdLf8-LOfeXJi3PeiC\/edit?usp=drive_link&ouid=115906425371686900342&rtpof=true&sd=true"
  },
  {
-  "investigacion_id":5,
+  "investigacion_id":5.0,
   "tipo_producto":"Presentaci\u00f3n",
   "titulo":"Presentaci\u00f3n para socializaci\u00f3n",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1GQ72JRhtsMH8HJs362AsmPsPfeperZkY\/view?usp=drive_link"
  },
  {
-  "investigacion_id":6,
+  "investigacion_id":6.0,
   "tipo_producto":"Informe final",
   "titulo":"Informe final: Perfil y labor de los consejeros distritales de \u00c1reas Art\u00edsticas del Sistema de Arte, Cultura y Patrimonio",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1F2GNxA6aBR97uSkCAKBFQL6vJGUbB2l2\/view"
  },
  {
-  "investigacion_id":6,
+  "investigacion_id":6.0,
   "tipo_producto":"Anexo",
   "titulo":"Metodolog\u00eda Investigacio\u0301n consejeros",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1H-Bn9D29AxrUJuIOAT39iejAiM2yKzDz\/view?usp=drive_link"
  },
  {
-  "investigacion_id":6,
+  "investigacion_id":6.0,
   "tipo_producto":"Anexo",
   "titulo":"Ficha t\u00e9cnica de Encuesta Consejeros Culturales",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1Q1rj_o2HK20rFdHaa3LXcAhBsSjnwBWZ\/view?usp=drive_link"
  },
  {
-  "investigacion_id":6,
+  "investigacion_id":6.0,
   "tipo_producto":"Base de datos",
   "titulo":"Tablas de Salida",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1IcG1_rbOdi0SPT1T4NlQ3c1lFSXkrGMc\/edit?usp=drive_link&ouid=115906425371686900342&rtpof=true&sd=true"
  },
  {
-  "investigacion_id":6,
+  "investigacion_id":6.0,
   "tipo_producto":"Base de datos",
   "titulo":"Base Formulario Consejeros Culturales 2023",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1Nlt6RCwAW_6HVVe-q-GRXqEiVJgXuwBz\/edit?usp=drive_link&ouid=115906425371686900342&rtpof=true&sd=true"
  },
  {
-  "investigacion_id":6,
+  "investigacion_id":6.0,
   "tipo_producto":"Presentaci\u00f3n",
   "titulo":"Presentaci\u00f3n socializaci\u00f3n",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/16RuwSmsNZKugTLh7N8hy8ZR_sb-nkIUY\/view"
  },
  {
-  "investigacion_id":7,
+  "investigacion_id":7.0,
   "tipo_producto":"Informe final",
   "titulo":"Informe Bater\u00eda de indicadores para Fomento Expandido",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1cvTQFNAiiuKD9nh__Lcov85HgN67jdQO\/view?usp=drive_link"
  },
  {
-  "investigacion_id":7,
+  "investigacion_id":7.0,
   "tipo_producto":"Informe cuantitativo",
   "titulo":"Bater\u00eda de indicadores",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1JbIK-EkM9sozJjWOBE0EsLXQuuQJkiAE\/edit?usp=share_link&ouid=115906425371686900342&rtpof=true&sd=true"
  },
  {
-  "investigacion_id":7,
+  "investigacion_id":7.0,
   "tipo_producto":"Anexo",
   "titulo":"Muestra estratificada",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/spreadsheets\/d\/17GkRWYqO5uR3vkBS5XgdW92igTWj-T74\/edit?usp=drive_link&ouid=115906425371686900342&rtpof=true&sd=true"
  },
  {
-  "investigacion_id":7,
+  "investigacion_id":7.0,
   "tipo_producto":"Anexo",
   "titulo":"Herramienta de recolecci\u00f3n de informaci\u00f3n documental",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1UZycsE5anak2jINnqJIlX-DNCZO2Q5Vj\/edit?usp=drive_link&ouid=115906425371686900342&rtpof=true&sd=true"
  },
  {
-  "investigacion_id":7,
+  "investigacion_id":7.0,
   "tipo_producto":"Informe cuantitativo",
   "titulo":"Resultados de los an\u00e1lisis realizados",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1RezWWryZVjvHrRkSdKXjYoSRfJf0ZHZR\/edit?usp=drive_link&ouid=115906425371686900342&rtpof=true&sd=true"
  },
  {
-  "investigacion_id":7,
+  "investigacion_id":7.0,
   "tipo_producto":"Presentaci\u00f3n",
   "titulo":"Presentaci\u00f3n Socializaci\u00f3n Indicadores Fomento",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1tsAX03dBwvCKgRmuG9jiolb0SNzgVwaF\/view?usp=share_link"
  },
  {
-  "investigacion_id":8,
+  "investigacion_id":8.0,
   "tipo_producto":"Informe final",
   "titulo":"Informe final Lecturas en Movimiento 2023",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1FhmLVHRVlH64H3VGCFkMH6Dxgx4MXnZN\/view?usp=drive_link"
  },
  {
-  "investigacion_id":8,
+  "investigacion_id":8.0,
   "tipo_producto":"Informe cuantitativo",
   "titulo":"Informe Cuantitativo Lecturas en Movimiento 2023",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1N8ficygsVrGYzFsvd97YgXtiQPtkMGug\/view?usp=drive_link"
  },
  {
-  "investigacion_id":8,
+  "investigacion_id":8.0,
   "tipo_producto":"Anexo",
   "titulo":"Formulario Encuesta a ciudadanos",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1PF2E143QgsZOnAvhR89gPcIvEbrTB1Jz\/view?usp=drive_link"
  },
  {
-  "investigacion_id":8,
+  "investigacion_id":8.0,
   "tipo_producto":"Anexo",
   "titulo":"Formulario Entrevista a curadores",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1mPkCNI7nzeELfNWjsLPhSk00XB811lUg\/view?usp=drive_link"
  },
  {
-  "investigacion_id":8,
+  "investigacion_id":8.0,
   "tipo_producto":"Presentaci\u00f3n",
   "titulo":"Presentaci\u00f3n final ",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/12jIp4lezWqtSRy7vQ4VYN8n0XaXkA_DL\/view?usp=drive_link"
  },
  {
-  "investigacion_id":9,
+  "investigacion_id":9.0,
   "tipo_producto":"Informe final",
   "titulo":"Informe final",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1NczYNmBndhd5KoG-X0ehqbEsd8qXDK5R\/view?usp=drive_link"
  },
  {
-  "investigacion_id":9,
+  "investigacion_id":9.0,
   "tipo_producto":"Base de datos",
   "titulo":"Base Estudio de medios canal capital 2023 anonimizada",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1XR_FqysNBbTvavAhLQ-MAIhJn53RCnsX\/edit?usp=drive_link&ouid=105090632649587320414&rtpof=true&sd=true"
  },
  {
-  "investigacion_id":9,
+  "investigacion_id":9.0,
   "tipo_producto":"Informe cuantitativo",
   "titulo":"Procesamiento cuantitativo",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/document\/d\/1MsrNXH36nFpGL4uL-0S-bUzOUrWCrUNm\/edit?usp=drive_link&ouid=115906425371686900342&rtpof=true&sd=true"
  },
  {
-  "investigacion_id":9,
+  "investigacion_id":9.0,
   "tipo_producto":"Informe cuantitativo",
   "titulo":"Salidas univariadas ponderadas",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/spreadsheets\/d\/17odEafGUS2sH_8aQYNXVxucdPMS7Bu8H\/edit?usp=drive_link&ouid=115906425371686900342&rtpof=true&sd=true"
  },
  {
-  "investigacion_id":9,
+  "investigacion_id":9.0,
   "tipo_producto":"Presentaci\u00f3n",
   "titulo":"Presentaci\u00f3n final Percepci\u00f3n de Audiencias Capital Sistema de Comunicaci\u00f3n P\u00fablica",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1hy2azvOQt4NmwRFQUHAkga9HW1XBfa3v\/view?usp=drive_link"
  },
  {
-  "investigacion_id":10,
+  "investigacion_id":10.0,
   "tipo_producto":"Anexo",
   "titulo":"Formulario",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1NJmV-nlHlC5cFwQMRoc8q4yzZ_b5xyQL\/view?usp=drive_link"
  },
  {
-  "investigacion_id":10,
+  "investigacion_id":10.0,
   "tipo_producto":"Visualizaci\u00f3n\/Infograf\u00eda",
   "titulo":"Tablero de resultados",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/app.powerbi.com\/view?r=eyJrIjoiN2E5ZDNmZDQtOGExZi00YzIzLWEwMTEtMjIyNTZjODRmYzU1IiwidCI6IjRmNzkzOWM3LWFhNjAtNDliZC05YjdiLTZmODFjMzdkMWIzNyJ9&pageName=69b48348ad3ee2b5bec5"
  },
  {
-  "investigacion_id":10,
+  "investigacion_id":10.0,
   "tipo_producto":"Base de datos",
   "titulo":"Formulario",
   "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
-  "investigacion_id":10,
+  "investigacion_id":10.0,
   "tipo_producto":"Base de datos",
   "titulo":"Base de datos de respuestas",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/drive\/folders\/16eryl_52rAcWTHuMVPv6k-eLZR96IGmA"
  },
  {
-  "investigacion_id":11,
+  "investigacion_id":11.0,
   "tipo_producto":"Visualizaci\u00f3n\/Infograf\u00eda",
   "titulo":"Tablero de resultados",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/app.powerbi.com\/view?r=eyJrIjoiYWVjOGE2MzQtYzI2ZC00MjdmLThjYmMtYjI1NWQxNWZiYWMxIiwidCI6IjRmNzkzOWM3LWFhNjAtNDliZC05YjdiLTZmODFjMzdkMWIzNyJ9&pageName=69b48348ad3ee2b5bec5"
  },
  {
-  "investigacion_id":11,
+  "investigacion_id":11.0,
   "tipo_producto":"Anexo",
   "titulo":"Formulario",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1INxdYL5esWt78ecrLJnnCdDvQVtiopqt\/edit?usp=sharing&ouid=105090632649587320414&rtpof=true&sd=true"
  },
  {
-  "investigacion_id":11,
+  "investigacion_id":11.0,
   "tipo_producto":"Base de datos",
   "titulo":"Base de datos de respuestas",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/drive\/folders\/1LQpM86pNqhDpvqKiPAOfk0q0a91sy6yC"
  },
  {
-  "investigacion_id":12,
+  "investigacion_id":12.0,
   "tipo_producto":"Informe final",
   "titulo":"Informe final de la investigaci\u00f3n",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/169ZUMSTEKXpn2zS3ahwXd6dniR25Tvae\/view?usp=drive_link"
  },
  {
-  "investigacion_id":12,
+  "investigacion_id":12.0,
   "tipo_producto":"Informe cuantitativo",
   "titulo":"Informe Ejecutivo: An\u00e1lisis Multivariado Colombia al Parque",
   "incluir_en_ficha":"No",
   "url":null
  },
  {
-  "investigacion_id":12,
+  "investigacion_id":12.0,
   "tipo_producto":"Base de datos",
   "titulo":"Base de datos respuestas encuesta Colombia al Parque 2023",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/drive\/folders\/1tUe7lCvSwn81YX_xTZWKhcyfPSi9-rBQ?usp=sharing"
  },
  {
-  "investigacion_id":12,
+  "investigacion_id":12.0,
   "tipo_producto":"Informe cuantitativo",
   "titulo":"Informe de procesamiento",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1uT9-dKpf0RrXBUiWlBHSP6BwzJj5nYvA\/view?usp=sharing"
  },
  {
-  "investigacion_id":12,
+  "investigacion_id":12.0,
   "tipo_producto":"Presentaci\u00f3n",
   "titulo":"Presentaci\u00f3n final ",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1dTBoXEHWjsSqe63u4AJ5RV4Mzwr8QHnr\/view?usp=drive_link"
  },
  {
-  "investigacion_id":12,
+  "investigacion_id":12.0,
   "tipo_producto":"Anexo",
   "titulo":"Informe de conteos de asistencias",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1vcKNETLzMpuh5irL9MIryHC-USmViEwZ\/view?usp=drive_link"
  },
  {
-  "investigacion_id":12,
+  "investigacion_id":12.0,
   "tipo_producto":"Anexo",
   "titulo":"Formularios Colombia al Parque 2023 finales",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1s5UXeVr_m6gUd7nmIeMx-IExk3waex40\/edit?usp=sharing&ouid=105090632649587320414&rtpof=true&sd=true"
  },
  {
-  "investigacion_id":12,
+  "investigacion_id":12.0,
   "tipo_producto":"Carpeta archivos",
   "titulo":"Carpeta equipo Anal\u00edtica",
   "incluir_en_ficha":"No",
   "url":null
  },
  {
-  "investigacion_id":12,
+  "investigacion_id":12.0,
   "tipo_producto":"Carpeta archivos",
   "titulo":"Carpeta con bases de datos de las encuestas del festival",
   "incluir_en_ficha":"No",
   "url":null
  },
  {
-  "investigacion_id":12,
+  "investigacion_id":12.0,
   "tipo_producto":"Carpeta archivos",
   "titulo":"Carpeta equipo Sector Cultura",
   "incluir_en_ficha":"No",
   "url":null
  },
  {
-  "investigacion_id":13,
+  "investigacion_id":13.0,
   "tipo_producto":"Informe final",
   "titulo":"Informe final rock al parque 2023",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1anUS9awBpXaWdHjRm9huN8tqPRuati7p\/view?usp=drive_link"
  },
  {
-  "investigacion_id":13,
+  "investigacion_id":13.0,
   "tipo_producto":"Presentaci\u00f3n",
   "titulo":"Presentaci\u00f3n final Rock al parque",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1kWm3KE1keSQsIUwx4p6QjXmLYeApc5AW\/view?usp=drive_link"
  },
  {
-  "investigacion_id":13,
+  "investigacion_id":13.0,
   "tipo_producto":"Anexo",
   "titulo":"Formularios Rock al Parque 2023",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1-qDzyvXw_H1pQSqQtkO0vFt6XEJXAHv4\/edit?usp=drive_link&ouid=115906425371686900342&rtpof=true&sd=true"
  },
  {
-  "investigacion_id":13,
+  "investigacion_id":13.0,
   "tipo_producto":"Visualizaci\u00f3n\/Infograf\u00eda",
   "titulo":"Visualizaci\u00f3n tableros Al Parque",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/lookerstudio.google.com\/u\/0\/reporting\/42bf3134-0b58-4c9c-8ace-fa6974a2e894\/page\/p_l7ybdcu39c"
  },
  {
-  "investigacion_id":13,
+  "investigacion_id":13.0,
   "tipo_producto":"Anexo",
   "titulo":"Conteos",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1q3FsN6CPYnhKtc942Y30jIaKKzPlx-bN\/view?usp=drive_link"
  },
  {
-  "investigacion_id":13,
+  "investigacion_id":13.0,
   "tipo_producto":"Informe cuantitativo",
   "titulo":"Informes de procesamiento",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/drive\/folders\/1Uq684jU5wd-5mJDkzcAFb2JJQD3NfnrH?usp=drive_link"
  },
  {
-  "investigacion_id":14,
+  "investigacion_id":14.0,
   "tipo_producto":"Informe final",
   "titulo":"Informe final de la investigaci\u00f3n",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1b5PNPdxmjZkTNjClwt4-df80KKb9cy0E\/view?usp=drive_link"
  },
  {
-  "investigacion_id":14,
+  "investigacion_id":14.0,
   "tipo_producto":"Base de datos",
   "titulo":"Base de datos anonimizadas",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/drive\/folders\/1oXNaAZpefArYqHwxb7Jy0Facdkbxx0DE"
  },
  {
-  "investigacion_id":14,
+  "investigacion_id":14.0,
   "tipo_producto":"Informe cuantitativo",
   "titulo":"Procesamientos Estad\u00edsticos - Salsa al Parque 2023",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/drive\/folders\/10BE3jOAev9CV32OGmnHHto7dzOrfQ6BX"
  },
  {
-  "investigacion_id":14,
+  "investigacion_id":14.0,
   "tipo_producto":"Presentaci\u00f3n",
   "titulo":"Presentaci\u00f3n final ",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1A8-pskZ-2c7N-XnscA1qtOKR1qSA-2gi\/view?usp=drive_link"
  },
  {
-  "investigacion_id":14,
+  "investigacion_id":14.0,
   "tipo_producto":"Anexo",
   "titulo":"Inf de conteos Festival Salsa al parque 2023",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1E9_io2X49eAN78-23GETeBKDZo6dNX9k\/view?usp=drive_link"
  },
  {
-  "investigacion_id":14,
+  "investigacion_id":14.0,
   "tipo_producto":"Anexo",
   "titulo":"Formularios Salsa 2023 finales",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1Cgz7a_-MEl7xRcIeE8sPfu_IV-Xo8yzv\/edit?usp=sharing&ouid=105090632649587320414&rtpof=true&sd=true"
  },
  {
-  "investigacion_id":14,
+  "investigacion_id":14.0,
   "tipo_producto":"Carpeta archivos",
   "titulo":"Carpeta equipo Anal\u00edtica",
   "incluir_en_ficha":"No",
   "url":null
  },
  {
-  "investigacion_id":14,
+  "investigacion_id":14.0,
   "tipo_producto":"Carpeta archivos",
   "titulo":"Carpeta equipo Sector Cultura",
   "incluir_en_ficha":"No",
   "url":null
  },
  {
-  "investigacion_id":14,
+  "investigacion_id":14.0,
   "tipo_producto":"Informe cuantitativo",
   "titulo":"Ana\u0301lsis multivariado de datos Salsa al parque",
   "incluir_en_ficha":"No",
   "url":null
  },
  {
-  "investigacion_id":15,
+  "investigacion_id":15.0,
   "tipo_producto":"Informe final",
   "titulo":"Informe final Hip Hop al Parque 2023",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/10aKWMH1tqLx3-yy8kWhU5_zE0DsUQqYg\/view"
  },
  {
-  "investigacion_id":15,
+  "investigacion_id":15.0,
   "tipo_producto":"Presentaci\u00f3n",
   "titulo":"Presentaci\u00f3n Hip Hop al Parque 2023",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/presentation\/d\/1Uo2M-ube3cIStR3JgdGq8CmXL8jhKEvg\/edit#slide=id.p1"
  },
  {
-  "investigacion_id":15,
+  "investigacion_id":15.0,
   "tipo_producto":"Anexo",
   "titulo":"1. Procesamiento Encuestas a Asistente Hip Hop al parque",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1GcgPqIFvAoUu66cvwDsYi1X6cimjf8Dj\/view?usp=drive_link"
  },
  {
-  "investigacion_id":15,
+  "investigacion_id":15.0,
   "tipo_producto":"Anexo",
   "titulo":"2. Procesamiento Encuestas a Emprendedores HipHop al parque",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/19Ye4yTEc-tVJQE0PjDegWFmT2U0rK-cM\/view?usp=drive_link"
  },
  {
-  "investigacion_id":15,
+  "investigacion_id":15.0,
   "tipo_producto":"Anexo",
   "titulo":"3. Procesamiento Encuestas a talleristas de eventos acad\u00e9micos en Hip Hop al parque",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1Z6G-videHQiPihDOVpHvelZ7GdHat9Ta\/view?usp=drive_link"
  },
  {
-  "investigacion_id":15,
+  "investigacion_id":15.0,
   "tipo_producto":"Anexo",
   "titulo":"4. Procesamiento Encuestas a artistas musicales, bailarines y artistas gr\u00e1ficos Hip Hop al parque",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/14h9zxbaKEOb9fempj2Rhst7huDe3xln8\/view?usp=drive_link"
  },
  {
-  "investigacion_id":15,
+  "investigacion_id":15.0,
   "tipo_producto":"Anexo",
   "titulo":"5. Procesamiento Encuestas a Asistente a Eventos Acad\u00e9micos HipHop al parque",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1-PgZlWWbOyUdzUe3VoVc9FOSB6JLHpa0\/view?usp=drive_link"
  },
  {
-  "investigacion_id":15,
+  "investigacion_id":15.0,
   "tipo_producto":"Base de datos",
   "titulo":"Base de Datos Hip Hop al parque",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/drive\/folders\/1bcoY5DxpgB4-lYWRK3_F-ffIs3ZiiCMP?usp=drive_link"
  },
  {
-  "investigacion_id":16,
+  "investigacion_id":16.0,
   "tipo_producto":"Informe final",
   "titulo":"Informe final Jazz al parque",
   "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
-  "investigacion_id":16,
+  "investigacion_id":16.0,
   "tipo_producto":"Presentaci\u00f3n",
   "titulo":"Presentaci\u00f3n final ",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/14q3Q63pPblz_Bi60laTvijou86C5RuZw\/view?usp=drive_link"
  },
  {
-  "investigacion_id":16,
+  "investigacion_id":16.0,
   "tipo_producto":"Informe cuantitativo",
   "titulo":"Procesamiento cuantitativo eventos acad\u00e9micos",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1xWWNhtWeFgqQiuf7aYUlyUqUstYcOXkj\/view?usp=drive_link"
  },
  {
-  "investigacion_id":16,
+  "investigacion_id":16.0,
   "tipo_producto":"Informe cuantitativo",
   "titulo":"Procesamiento cuantitativo asistentes Festival",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1iySZzcZWn16Duo6HOyPDT31JYG0D-_Wh\/view?usp=drive_link "
  },
  {
-  "investigacion_id":16,
+  "investigacion_id":16.0,
   "tipo_producto":"Informe cuantitativo",
   "titulo":"Procesamiento cuantitativo Emprendedores",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1ZJrSSmqPHnHWyDzeD6ih6wq_igByb5Xc\/view?usp=drive_link "
  },
  {
-  "investigacion_id":16,
+  "investigacion_id":16.0,
   "tipo_producto":"Informe cuantitativo",
   "titulo":"Procesamiento cuantitativo talleristas",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1PDS3U8qVfgJZtwW4q-js4xJh6ELVy2WR\/view?usp=drive_link"
  },
  {
-  "investigacion_id":16,
+  "investigacion_id":16.0,
   "tipo_producto":"Base de datos",
   "titulo":"Base de datos Jazz al parque",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/drive\/folders\/1stpSf1BFSPnHYuRW3XPsv8a_4-Lkennb"
  },
  {
-  "investigacion_id":17,
+  "investigacion_id":17.0,
   "tipo_producto":"Informe final",
   "titulo":"Informe Final Joropo al parque 2023",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1L9dAZOm7jVYVYLR3nW-aQIydtT2byB39\/view?usp=drive_link"
  },
  {
-  "investigacion_id":17,
+  "investigacion_id":17.0,
   "tipo_producto":"Informe cuantitativo",
   "titulo":"Estudio estad\u00edstico asistentes al Festival",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1WwHmCzCYYGGVkf2n2lpmMGOpi-IeAFYE\/view?usp=drive_link"
  },
  {
-  "investigacion_id":17,
+  "investigacion_id":17.0,
   "tipo_producto":"Informe cuantitativo",
   "titulo":"Estudio estad\u00edstico asistentes al Llan\u00f3dromo",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1zVip9KdcpY1VNLikw2BwaK2OMyAbvAfT\/view?usp=drive_link"
  },
  {
-  "investigacion_id":17,
+  "investigacion_id":17.0,
   "tipo_producto":"Informe cuantitativo",
   "titulo":"Estudio estad\u00edstico bailarines",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1AcddKnCRfeLPYPy0Si39BzvE94Nik8QN\/view?usp=drive_link"
  },
  {
-  "investigacion_id":17,
+  "investigacion_id":17.0,
   "tipo_producto":"Informe cuantitativo",
   "titulo":"Estudio estad\u00edstico emprendedores",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1KNMuc9goI66qmxRCZ26TM5gO5lzUAkZq\/view?usp=drive_link"
  },
  {
-  "investigacion_id":17,
+  "investigacion_id":17.0,
   "tipo_producto":"Informe cuantitativo",
   "titulo":"Informe conteos Joropo al parque",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1lpplH9LhNjHTsKLk3e9SDqS6MLHzj6fT\/view?usp=drive_link"
  },
  {
-  "investigacion_id":17,
+  "investigacion_id":17.0,
   "tipo_producto":"Informe cuantitativo",
   "titulo":"An\u00e1lisis multivariado",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1h93djlqPTSw0GUhLRfxt4C2-dyK5GeWL\/view?usp=drive_link"
  },
  {
-  "investigacion_id":17,
+  "investigacion_id":17.0,
   "tipo_producto":"Base de datos",
   "titulo":"Bases de datos",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/drive\/u\/0\/folders\/1-A2QJ5CMymAQEGcg_EyAyap7D5TVwTNY"
  },
  {
-  "investigacion_id":17,
+  "investigacion_id":17.0,
   "tipo_producto":"Presentaci\u00f3n",
   "titulo":"Presentaci\u00f3n Final Joropo al parque 2023",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/presentation\/d\/1LNNUVsIh_Pmv8utm2_5IYSLOnQ3l8WCT\/edit#slide=id.g2587b0c1125_1_47"
  },
  {
-  "investigacion_id":17,
+  "investigacion_id":17.0,
   "tipo_producto":"Informe cuantitativo",
   "titulo":"Documentos procesamientos estad\u00edsticos",
   "incluir_en_ficha":"No",
   "url":null
  },
  {
-  "investigacion_id":18,
+  "investigacion_id":18.0,
   "tipo_producto":"Informe final",
   "titulo":"Informe Final de Investigaci\u00f3n Festival Gabo",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1SN80ca6qe3qtS-XEDcnGqTCdvdw9RHCT\/view?usp=drive_link"
  },
  {
-  "investigacion_id":18,
+  "investigacion_id":18.0,
   "tipo_producto":"Informe cuantitativo",
   "titulo":"Procesamiento Cuantitativo festival Gabo",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1r93xl4bKXRXRf8mUpbl3ECueAnsGSLtB\/view?usp=drive_link"
  },
  {
-  "investigacion_id":18,
+  "investigacion_id":18.0,
   "tipo_producto":"Base de datos",
   "titulo":"Base de datos",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1gkT4IwQ0XGMBqQVU8JGg5XZ6HCt0Pjjp\/edit?usp=sharing&ouid=105090632649587320414&rtpof=true&sd=true"
  },
  {
-  "investigacion_id":18,
+  "investigacion_id":18.0,
   "tipo_producto":"Presentaci\u00f3n",
   "titulo":"Presentaci\u00f3n Final de Investigaci\u00f3n Festival Gabo",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1k7qzWhMfFk6NTmKkn_gUKHqXg37ToJia\/view?usp=drive_link"
  },
  {
-  "investigacion_id":18,
+  "investigacion_id":18.0,
   "tipo_producto":"Anexo",
   "titulo":"Formulario",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1JtgY3gNeIdFONxGMJv_by7LuMmGw5_ck\/view?usp=drive_link"
  },
  {
-  "investigacion_id":19,
+  "investigacion_id":19.0,
   "tipo_producto":"Informe final",
   "titulo":"Informe final Danza en la Ciudad",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1gbZbpLiJizNPEs4UUtB_MXol4G3kge5F\/view?usp=drive_link"
  },
  {
-  "investigacion_id":19,
+  "investigacion_id":19.0,
   "tipo_producto":"Presentaci\u00f3n",
   "titulo":"Presentaci\u00f3n Danza en la Ciudad",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/15wYazAh3FOzdNeqNpSkIbluqQyAYEx5V\/view?usp=drive_link"
  },
  {
-  "investigacion_id":19,
+  "investigacion_id":19.0,
   "tipo_producto":"Base de datos",
   "titulo":"Tablas de salida",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/drive\/folders\/1PG88EG6lkoCCD5PLf02aUDNOjqxsY5MC?usp=drive_link"
  },
  {
-  "investigacion_id":19,
+  "investigacion_id":19.0,
   "tipo_producto":"Informe cuantitativo",
   "titulo":"Informes cuantitativos",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/drive\/folders\/1k5OhAiAzI7HOFayaf-mpTP_N5dAKFZ4-?usp=drive_link"
  },
  {
-  "investigacion_id":19,
+  "investigacion_id":19.0,
   "tipo_producto":"Informe cuantitativo",
   "titulo":"Formularios Danza en la Ciudad",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1eGnxIDjTf1K_jKpqBoS7gkPre-HFAGwP\/edit?usp=drive_link&ouid=115906425371686900342&rtpof=true&sd=true"
  },
  {
-  "investigacion_id":20,
+  "investigacion_id":20.0,
   "tipo_producto":"Informe final",
   "titulo":"Informe final de la investigaci\u00f3n",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1gQHVIybAeB0oDaJDg3H78jEF2pUV3e1j\/view?usp=drive_link"
  },
  {
-  "investigacion_id":20,
+  "investigacion_id":20.0,
   "tipo_producto":"Base de datos",
   "titulo":"Datos encuesta asistentes 6 a 12 a\u00f1os",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1mlanxcD_36HreQPTpZO0FQzqaf81uBGi\/edit?usp=sharing&ouid=105090632649587320414&rtpof=true&sd=true"
  },
  {
-  "investigacion_id":20,
+  "investigacion_id":20.0,
   "tipo_producto":"Base de datos",
   "titulo":"Datos encuesta asistentes +13 a\u00f1os",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1vKYqpe9bIDehlu89737Tpbdo082MP3Mm\/edit?usp=drive_link&ouid=105090632649587320414&rtpof=true&sd=true"
  },
  {
-  "investigacion_id":20,
+  "investigacion_id":20.0,
   "tipo_producto":"Informe cuantitativo",
   "titulo":"Informe de resultados encuesta asistentes 6 a 12 a\u00f1os",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1qxdfxxVJSceiuE0NO0I1GIqX-Y4YIf1_\/view?usp=drive_link"
  },
  {
-  "investigacion_id":20,
+  "investigacion_id":20.0,
   "tipo_producto":"Informe cuantitativo",
   "titulo":"Informe de resultados encuesta asistentes +13 a\u00f1os",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1jSKvDHcfMs22B2l6S9ofJUwjdO39i4CU\/view?usp=drive_link"
  },
  {
-  "investigacion_id":20,
+  "investigacion_id":20.0,
   "tipo_producto":"Visualizaci\u00f3n\/Infograf\u00eda",
   "titulo":"Mapa de calor interactivo, asistencia al Pabell\u00f3n",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/observatoriocultura.github.io\/proyectos2023\/pabellon_leo_filbo_2023.html#"
  },
  {
-  "investigacion_id":20,
+  "investigacion_id":20.0,
   "tipo_producto":"Visualizaci\u00f3n\/Infograf\u00eda",
   "titulo":"Conteo de asistentes al pabell\u00f3n",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/app.powerbi.com\/view?r=eyJrIjoiZWQzMjY1Y2ItMTUwYS00OTJkLWE2Y2UtZGE2YWRiZDRkNmNmIiwidCI6IjRmNzkzOWM3LWFhNjAtNDliZC05YjdiLTZmODFjMzdkMWIzNyJ9"
  },
  {
-  "investigacion_id":20,
+  "investigacion_id":20.0,
   "tipo_producto":"Audiovisual",
   "titulo":"V\u00eddeo Mapa de calor asistencia al Pabell\u00f3n",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1HD5To6xTXgayjO9bZQVqcI3Kj3gxF9vS\/view"
  },
  {
-  "investigacion_id":20,
+  "investigacion_id":20.0,
   "tipo_producto":"Anexo",
   "titulo":"Taller corre y dile",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1gQHVIybAeB0oDaJDg3H78jEF2pUV3e1j\/view?usp=drive_link"
  },
  {
-  "investigacion_id":20,
+  "investigacion_id":20.0,
   "tipo_producto":"Carpeta archivos",
   "titulo":"Carpeta equipo Anal\u00edtica",
   "incluir_en_ficha":"No",
   "url":null
  },
  {
-  "investigacion_id":20,
+  "investigacion_id":20.0,
   "tipo_producto":"Anexo",
   "titulo":"Tablas de salida Filbo de 13 a\u00f1os y mas_mayo 15",
   "incluir_en_ficha":"No",
   "url":null
  },
  {
-  "investigacion_id":20,
+  "investigacion_id":20.0,
   "tipo_producto":"Anexo",
   "titulo":"Tablas de salida filbo_ni\u00f1os de 6 a 12 a\u00f1os",
   "incluir_en_ficha":"No",
   "url":null
  },
  {
-  "investigacion_id":20,
+  "investigacion_id":20.0,
   "tipo_producto":"Carpeta archivos",
   "titulo":"Carpeta visualizaci\u00f3n mapa de calor",
   "incluir_en_ficha":"No",
   "url":null
  },
  {
-  "investigacion_id":21,
+  "investigacion_id":21.0,
   "tipo_producto":"Informe final",
   "titulo":"Informe final Indice de Cultura en Distritos Creativos",
   "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
-  "investigacion_id":21,
+  "investigacion_id":21.0,
   "tipo_producto":"Presentaci\u00f3n",
   "titulo":"Presentaci\u00f3n final Indice de Cultura en Distritos Creativos",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/18KyZw9-IowkbBOkErw3XiMyBDBF_Ouoj\/view?usp=drive_link"
  },
  {
-  "investigacion_id":21,
+  "investigacion_id":21.0,
   "tipo_producto":"Anexo",
   "titulo":"Transferencia metodol\u00f3gica",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1C6y8N5Rof13SKS6FLYIwCkz-FUYSQ9Mk\/view?usp=drive_link"
  },
  {
-  "investigacion_id":21,
+  "investigacion_id":21.0,
   "tipo_producto":"Informe cuantitativo",
   "titulo":"Presentaci\u00f3n de resultados del c\u00e1lculo",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1tx6vwCgD0vIyhHBcw9FuRbnsf1Yg3P6B\/edit?usp=drive_link&ouid=115906425371686900342&rtpof=true&sd=true"
  },
  {
-  "investigacion_id":21,
+  "investigacion_id":21.0,
   "tipo_producto":"Anexo",
   "titulo":"Ficha t\u00e9cnica de la Encuesta \u00cdndice de Cultura ciudadana en DC",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1eyFxsPVQOfws8FWRdrV8F8tp_aQLpn8j\/view?usp=drive_link"
  },
  {
-  "investigacion_id":21,
+  "investigacion_id":21.0,
   "tipo_producto":"Informe cuantitativo",
   "titulo":"Tablas de salida",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1tx6vwCgD0vIyhHBcw9FuRbnsf1Yg3P6B\/edit?usp=drive_link&ouid=115906425371686900342&rtpof=true&sd=true"
  },
  {
-  "investigacion_id":21,
+  "investigacion_id":21.0,
   "tipo_producto":"Anexo",
   "titulo":"C\u00e1lculo del \u00edndice",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1mcvQf9VSTNBG6FeriaNgE9l_MHKJTxFi\/edit?usp=drive_link&ouid=115906425371686900342&rtpof=true&sd=true"
  },
  {
-  "investigacion_id":21,
+  "investigacion_id":21.0,
   "tipo_producto":"Base de datos",
   "titulo":"Base anonimizada",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1RJzwAV1oGKRYr263SG43gy898n0ZhmMx\/edit?usp=drive_link&ouid=115906425371686900342&rtpof=true&sd=true"
  },
  {
-  "investigacion_id":22,
+  "investigacion_id":22.0,
   "tipo_producto":"Informe final",
   "titulo":"Informe Final Medici\u00f3n Pol\u00edgono Teusaquillo",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1UEFQ4chrtBA0XAkR-f49cudx4yXrv5nw\/view"
  },
  {
-  "investigacion_id":22,
+  "investigacion_id":22.0,
   "tipo_producto":"Base de datos",
   "titulo":"Base Encuesta Predios de Inter\u00e9s Cultural - IDPC 2023 Direcciones Estandarizadas",
   "incluir_en_ficha":"No",
   "url":null
  },
  {
-  "investigacion_id":22,
+  "investigacion_id":22.0,
   "tipo_producto":"Anexo",
   "titulo":"Dise\u00f1o muestral encuesta",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1Ul-JzLgDG8WkfyE8vvoOKkMUrAD9lWk-\/view?usp=drive_link"
  },
  {
-  "investigacion_id":22,
+  "investigacion_id":22.0,
   "tipo_producto":"Anexo",
   "titulo":"Ficha t\u00e9cnica",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1PwCPYK8hFEyVzRr_y_gceCfyE30N6dWx\/view?usp=drive_link"
  },
  {
-  "investigacion_id":22,
+  "investigacion_id":22.0,
   "tipo_producto":"Anexo",
   "titulo":"Operativo de campo",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1vKo1vUSKh24kbZcUC5K4wEffODQhUFPC\/view?usp=drive_link"
  },
  {
-  "investigacion_id":22,
+  "investigacion_id":22.0,
   "tipo_producto":"Anexo",
   "titulo":"Procesamiento Bienes de Inter\u00e9s Cultural",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1eg9KCy-mmCMcyAoRsIOSFEW4pwpQuuOX\/view?usp=drive_link"
  },
  {
-  "investigacion_id":22,
+  "investigacion_id":22.0,
   "tipo_producto":"Presentaci\u00f3n",
   "titulo":"Presentaci\u00f3n Final Medici\u00f3n Pol\u00edgono Teusaquillo",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/presentation\/d\/1oWGa6dSLgTDNSSfLbUAB1668OoNNpC7g\/edit?usp=sharing&ouid=115906425371686900342&rtpof=true&sd=true"
  },
  {
-  "investigacion_id":23,
+  "investigacion_id":23.0,
   "tipo_producto":"Informe final",
   "titulo":"Informe final de la investigaci\u00f3n",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1j15r0GsaA46zRm2PKVhlRE0F8uBuJ9Fr\/view?usp=drive_link"
  },
  {
-  "investigacion_id":23,
+  "investigacion_id":23.0,
   "tipo_producto":"Visualizaci\u00f3n\/Infograf\u00eda",
   "titulo":"Informe de visualizaci\u00f3n interactivo",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/app.powerbi.com\/view?r=eyJrIjoiMDMyZjFhYjItYzgwZC00YjM3LWFhZGEtNGM5ZWMzM2E2NTA5IiwidCI6IjRmNzkzOWM3LWFhNjAtNDliZC05YjdiLTZmODFjMzdkMWIzNyJ9&pageName=ReportSectionc82b9733ee3313c73855"
  },
  {
-  "investigacion_id":23,
+  "investigacion_id":23.0,
   "tipo_producto":"Base de datos",
   "titulo":"Base de datos, parques e indicadores",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1vjT86WMN92y45LBR4kp2nRdt1aeC7FzMfcmdUBEiSdE\/edit?usp=drive_link"
  },
  {
-  "investigacion_id":23,
+  "investigacion_id":23.0,
   "tipo_producto":"Presentaci\u00f3n",
   "titulo":"Presentaci\u00f3n socializaci\u00f3n de resultados",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1wPxdmd2hXoXdaMl5veQS8lahC0KiQsDn\/view?usp=share_link"
  },
  {
-  "investigacion_id":23,
+  "investigacion_id":23.0,
   "tipo_producto":"Carpeta archivos",
   "titulo":"Carpeta archivos de trabajo",
   "incluir_en_ficha":"No",
   "url":null
  },
  {
-  "investigacion_id":24,
+  "investigacion_id":24.0,
   "tipo_producto":"Informe final",
   "titulo":"Informe final metodolog\u00eda",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1ShQcbB93LZQWa2JCoMjy1rxEmipBuI5Z\/view?usp=drive_link"
  },
  {
-  "investigacion_id":24,
+  "investigacion_id":24.0,
   "tipo_producto":"Anexo",
   "titulo":"Revisi\u00f3n detallada del proceso",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/observatoriocultura.github.io\/proyectos2023\/revision_sicon_2023.html"
  },
  {
-  "investigacion_id":24,
+  "investigacion_id":24.0,
   "tipo_producto":"Anexo",
   "titulo":"Propuesta de navegaci\u00f3n jer\u00e1rquica y elementos",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/observatoriocultura.github.io\/proyectos2023\/revision_sicon_2023_propuesta_1.html"
  },
  {
-  "investigacion_id":24,
+  "investigacion_id":24.0,
   "tipo_producto":"Base de datos",
   "titulo":"Listado de revisi\u00f3nes clasificadas",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1idGE2V84NfGbA6zFFVCMVHnzZ37NyfRpgF4s7UiuIMI\/edit?usp=drive_link"
  },
  {
-  "investigacion_id":25,
+  "investigacion_id":25.0,
   "tipo_producto":"Informe final",
   "titulo":"Informe final Manual de aplicaci\u00f3n: \u00edndices de buena gobernanza para Ligas y Clubes Deportivos.",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/18YsIy7tk9_t83kXyuYjVI_tIYv_0Qi4U\/view?usp=drive_link"
  },
  {
-  "investigacion_id":25,
+  "investigacion_id":25.0,
   "tipo_producto":"Anexo",
   "titulo":"Manuales de campo integrado Encuestas",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/drive\/u\/1\/folders\/1gM485YGczHFJk-I2UUvOtH-DFYGamiQP"
  },
  {
-  "investigacion_id":25,
+  "investigacion_id":25.0,
   "tipo_producto":"Presentaci\u00f3n",
   "titulo":"Socializaci\u00f3n Manual de aplicaci\u00f3n: \u00edndices de buena gobernanza para Ligas y Clubes Deportivos.",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/presentation\/d\/1AOodFSkgpKgTVq6FCRZk1FsvOIuRI4zE\/edit#slide=id.g1e97287a592_9_0"
  },
  {
-  "investigacion_id":25,
+  "investigacion_id":25.0,
   "tipo_producto":"Informe cuantitativo",
   "titulo":"Manual a Clubes",
   "incluir_en_ficha":null,
   "url":"https:\/\/drive.google.com\/file\/d\/16k5SrKNS-RZLjjJbZOKA3KH_Vw0i5BBU\/view?usp=drive_link"
  },
  {
-  "investigacion_id":25,
+  "investigacion_id":25.0,
   "tipo_producto":"Informe cuantitativo",
   "titulo":"Manual a Ligas",
   "incluir_en_ficha":null,
   "url":"https:\/\/drive.google.com\/file\/d\/1YNVw9jk4rWN9YR4MPLOeXUNDJmE8yCCP\/view?usp=drive_link"
  },
  {
-  "investigacion_id":26,
+  "investigacion_id":26.0,
   "tipo_producto":"Informe final",
-  "titulo":"\u201cCuerpos en di\u00e1logo\u201d\r\nUna Exploraci\u00f3n a las Violencias Basadas en G\u00e9nero en Contextos art\u00edsticos y Culturales\r\n\r\n",
+  "titulo":"\u201cCuerpos en di\u00e1logo\u201d Una Exploraci\u00f3n a las Violencias Basadas en G\u00e9nero en Contextos art\u00edsticos y Culturales",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/16cS9KWv2N4lPPAw7QgT80rN8akHeKhH4\/view"
  },
  {
-  "investigacion_id":26,
+  "investigacion_id":26.0,
   "tipo_producto":"Anexo",
   "titulo":"Cartograf\u00eda Corporal Eva - Feminidad en Bogot\u00e1",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/13ySflv-RSZ3ObiPDgPCxaHa3_mtjh_4x\/view?usp=drive_link"
  },
  {
-  "investigacion_id":26,
+  "investigacion_id":26.0,
   "tipo_producto":"Anexo",
   "titulo":"Cartograf\u00eda Corporal  - Masculinidad en Bogot\u00e1",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1TV4t1whta57nwGFMHCfwP867raq8-vs1\/view?usp=drive_link"
  },
  {
-  "investigacion_id":27,
+  "investigacion_id":27.0,
   "tipo_producto":"Informe final",
   "titulo":"Informe final Diagn\u00f3stico",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1C-QpVXQpK4ugz33s84Nj3BL9Zaov7KeT\/view?usp=drive_link"
  },
  {
-  "investigacion_id":27,
+  "investigacion_id":27.0,
   "tipo_producto":"Visualizaci\u00f3n\/Infograf\u00eda",
   "titulo":"Infograf\u00eda hallazgos SOMOS Ind\u00edgenas",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1YA0PA7SaesCrUqydRC3mM3Z7ynvQWRq3\/view?usp=drive_link"
  },
  {
-  "investigacion_id":27,
+  "investigacion_id":27.0,
   "tipo_producto":"Visualizaci\u00f3n\/Infograf\u00eda",
   "titulo":"Infograf\u00eda hallazgos SOMOS NARP",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1l5dTxxopEJTR7B0qmQNisw-_-iosWYlQ\/view?usp=drive_link"
  },
  {
-  "investigacion_id":27,
+  "investigacion_id":27.0,
   "tipo_producto":"Visualizaci\u00f3n\/Infograf\u00eda",
   "titulo":"Infograf\u00eda hallazgos SOMOS LGBTI",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1Mx8kY19-T7L3D-3Ku6L39tOgMmy7zbMa\/view?usp=drive_link"
  },
  {
-  "investigacion_id":27,
+  "investigacion_id":27.0,
   "tipo_producto":"Visualizaci\u00f3n\/Infograf\u00eda",
   "titulo":"Infograf\u00eda hallazgos SOMOS Migrantes",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/12bkI5L0nhcAFe4vdQ5LG_ypjgoT1LtLN\/view?usp=drive_link"
  },
  {
-  "investigacion_id":27,
+  "investigacion_id":27.0,
   "tipo_producto":"Presentaci\u00f3n",
   "titulo":"Presentaci\u00f3n resultados encuesta prevenci\u00f3n de discriminaciones (Ind\u00edgena - NARP)",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1lg_2baMBot1qlfHsXTeEfHmxPQKFyV1v\/view?usp=drive_link"
  },
  {
-  "investigacion_id":27,
+  "investigacion_id":27.0,
   "tipo_producto":"Presentaci\u00f3n",
   "titulo":"Presentaci\u00f3n resultados encuesta prevenci\u00f3n de discriminaciones (LGBTI - Migrante)",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1R3bEhbRBOrGZjzGLVkdYM-_VLNkWKccw\/view?usp=drive_link"
  },
  {
-  "investigacion_id":27,
+  "investigacion_id":27.0,
   "tipo_producto":"Base de datos",
   "titulo":"Base de datos SOMOS (Ind\u00edgenas - NARP)",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1zHCKdgCYqIPEvNExg_n4pqlovB470hgF\/view?usp=drive_link"
  },
  {
-  "investigacion_id":27,
+  "investigacion_id":27.0,
   "tipo_producto":"Base de datos",
   "titulo":"Base de datos SOMOS (LGBTI - Migrantes)",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1BZSJCFTqAT6WGshGCgRQHor_0s8j4gbC\/edit?usp=drive_link&ouid=105090632649587320414&rtpof=true&sd=true"
  },
  {
-  "investigacion_id":28,
+  "investigacion_id":28.0,
   "tipo_producto":"Anexo",
   "titulo":"Formulario de recolecci\u00f3n de datos",
   "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
-  "investigacion_id":29,
+  "investigacion_id":29.0,
   "tipo_producto":"Informe final",
   "titulo":"Informe completo medici\u00f3n intervenci\u00f3n combo violeta",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1TWckkWRRUOVbFaOJjUQdcBUSp71lm821\/view?usp=drive_link"
  },
  {
-  "investigacion_id":29,
+  "investigacion_id":29.0,
   "tipo_producto":"Anexo",
   "titulo":"Medici\u00f3n intervenci\u00f3n del Combo Violeta",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1IA66qaFPrhFe0asB9btYioV6NdhLf65C\/view"
  },
  {
-  "investigacion_id":29,
+  "investigacion_id":29.0,
   "tipo_producto":"Base de datos",
   "titulo":"Base de datos sondeos Combo Violeta Eje Ambiental",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1RXNBZb6gXnBJ30beH5p2JPQAfESKXmIF\/edit#gid=138033070"
  },
  {
-  "investigacion_id":30,
+  "investigacion_id":30.0,
   "tipo_producto":"Base de datos",
   "titulo":"Bases de datos Respuestas Encuesta",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/drive\/folders\/1oYvFSZ9oCs5O81OmYSOf21CLgC9JCgGW"
  },
  {
-  "investigacion_id":31,
+  "investigacion_id":31.0,
   "tipo_producto":"Presentaci\u00f3n",
   "titulo":"Presentaci\u00f3n resultados preliminares",
   "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
-  "investigacion_id":31,
+  "investigacion_id":31.0,
   "tipo_producto":"Base de datos",
   "titulo":"Base de datos de la encuesta",
   "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
-  "investigacion_id":31,
+  "investigacion_id":31.0,
   "tipo_producto":"Anexo",
   "titulo":"Dise\u00f1o muestral encuesta",
   "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
-  "investigacion_id":31,
+  "investigacion_id":31.0,
   "tipo_producto":"Anexo",
   "titulo":"Observaciones conceptuales a las preguntas",
   "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
-  "investigacion_id":32,
+  "investigacion_id":32.0,
   "tipo_producto":"Informe final",
   "titulo":"Presentaci\u00f3n de resultados preliminares",
   "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
-  "investigacion_id":32,
+  "investigacion_id":32.0,
   "tipo_producto":"Anexo",
   "titulo":"Dise\u00f1o muestral encuesta",
   "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
-  "investigacion_id":32,
+  "investigacion_id":32.0,
   "tipo_producto":"Anexo",
   "titulo":"Observaciones conceptuales a las preguntas",
   "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
-  "investigacion_id":32,
+  "investigacion_id":32.0,
   "tipo_producto":"Base de datos",
   "titulo":"Bases de datos resultados",
   "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
-  "investigacion_id":33,
+  "investigacion_id":33.0,
   "tipo_producto":"Informe final",
   "titulo":"Diagn\u00f3stico Violencia Interpersonal - Parche en la Buena 2022",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1rO6bRwkHul2LNUfFYdyhFTYCecfrGzi8\/view?usp=sharing"
  },
  {
-  "investigacion_id":33,
+  "investigacion_id":33.0,
   "tipo_producto":"Informe final",
   "titulo":"An\u00e1lisis de resultados Encuesta Violencia Interpersonal",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1kpbOGKh2OZY1oSY0sRkitHjYgfWwC3qf\/view?usp=drive_link"
  },
  {
-  "investigacion_id":33,
+  "investigacion_id":33.0,
   "tipo_producto":"Presentaci\u00f3n",
   "titulo":"Presentaci\u00f3n resultados encuesta Violencia Interpersonal 2022",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1q5Tw09qz_50OnKJGtcDwbZ4_Jp643kw_\/view?usp=drive_link"
  },
  {
-  "investigacion_id":33,
+  "investigacion_id":33.0,
   "tipo_producto":"Base de datos",
   "titulo":"Bases de datos de encuesta de Violencia Interpersonal 2022",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1e5xpp4x-csYk403dkr5zv3R0tEcSuk0W\/edit?usp=sharing&ouid=105090632649587320414&rtpof=true&sd=true"
  },
  {
-  "investigacion_id":34,
+  "investigacion_id":34.0,
   "tipo_producto":"Informe final",
   "titulo":"Laboratorios de g\u00e9nero: Cap\u00edtulo conquista \"Procura coquetearme m\u00e1s\"",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1NkUrIQrljG5ozp2rHclJlGY86jNTwDN3\/view?usp=drive_link"
  },
  {
-  "investigacion_id":34,
+  "investigacion_id":34.0,
   "tipo_producto":"Informe final",
   "titulo":"Laboratorios de g\u00e9nero\nCap\u00edtulo Tusa: Del amor y las rupturas",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1SK9dQpX-mO7DVeo1HJ-jNI5x7gQwNduT\/view?usp=drive_link"
  },
  {
-  "investigacion_id":34,
+  "investigacion_id":34.0,
   "tipo_producto":"Anexo",
   "titulo":"Dise\u00f1o metodol\u00f3gico",
   "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
-  "investigacion_id":35,
+  "investigacion_id":35.0,
   "tipo_producto":"Informe final",
   "titulo":"Informe final de an\u00e1lisis",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1uibpFZ4H0ADmOideoDZ3rOO1EbEXKGHm\/view?usp=drive_link"
  },
  {
-  "investigacion_id":35,
+  "investigacion_id":35.0,
   "tipo_producto":"Anexo",
   "titulo":"Propuesta metodol\u00f3gica",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1vVzN-zOIv2JGhHuM5gHFpq0sggcby78z\/view?usp=drive_link"
  },
  {
-  "investigacion_id":35,
+  "investigacion_id":35.0,
   "tipo_producto":"Base de datos",
   "titulo":"Matriz de sistematizaci\u00f3n de publicaciones",
   "incluir_en_ficha":"No",
   "url":null
  },
  {
-  "investigacion_id":36,
+  "investigacion_id":36.0,
   "tipo_producto":"Informe final",
   "titulo":"Informe final apoyo Mapeo de Actores de Cultura Ciudadana",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1LIaHZSpaOybvgrvmEv3w97t3RtesYv81\/view?usp=drive_link"
  },
  {
-  "investigacion_id":36,
+  "investigacion_id":36.0,
   "tipo_producto":"Anexo",
   "titulo":"Matriz de organizaciones",
   "incluir_en_ficha":"No",
   "url":null
  },
  {
-  "investigacion_id":37,
+  "investigacion_id":37.0,
   "tipo_producto":"Informe final",
   "titulo":"Balance de los procesos de transferencia del enfoque de cultura ciudadana",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/11AZA6OL_xBwScxrMBIHHSvVVgGqiZKoU\/view"
  },
  {
-  "investigacion_id":37,
+  "investigacion_id":37.0,
   "tipo_producto":"Anexo",
   "titulo":"Propuesta metodol\u00f3gica",
   "incluir_en_ficha":"No",
   "url":null
  },
  {
-  "investigacion_id":37,
+  "investigacion_id":37.0,
   "tipo_producto":"Anexo",
   "titulo":"Cuestionario instrumentos aplicados",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1Yym8riueUVByVT41hmXt-GlnUG4SeUnU5ZqKTeofbd0\/edit#gid=0"
  },
  {
-  "investigacion_id":38,
+  "investigacion_id":38.0,
   "tipo_producto":"Informe final",
   "titulo":"RESULTADOS DEL RETO DE OBSERVACI\u00d3N DE LAS AVES CUIDADORAS 2023",
   "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
-  "investigacion_id":38,
+  "investigacion_id":38.0,
   "tipo_producto":"Presentaci\u00f3n",
   "titulo":"Presentaci\u00f3n de resultados",
   "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
-  "investigacion_id":39,
+  "investigacion_id":39.0,
   "tipo_producto":"Informe final",
   "titulo":"Informe final",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/19MQyRZZeq90oZuot09UEEAxgekmeCCgX\/view?usp=drive_link"
  },
  {
-  "investigacion_id":39,
+  "investigacion_id":39.0,
   "tipo_producto":"Anexo",
   "titulo":"Diccionario de datos",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/spreadsheets\/d\/12BNyPM73sw9qxELAiKPxofGDWgwXHT7gxdmN2Q-Snxw\/edit#gid=0"
  },
  {
-  "investigacion_id":39,
+  "investigacion_id":39.0,
   "tipo_producto":"Visualizaci\u00f3n\/Infograf\u00eda",
   "titulo":"Balance de entidades y contactos",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/lookerstudio.google.com\/reporting\/951acd36-f172-4c9e-8083-c08ed1080acc\/page\/UL1SD"
  },
  {
-  "investigacion_id":39,
+  "investigacion_id":39.0,
   "tipo_producto":"Anexo",
   "titulo":"Modelo de datos",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/viewer.diagrams.net\/index.html?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=MECC%20Modelo%20de%20datos.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D18SYu_DpeBISLojrKI3le3j-TgQokd6GW%26export%3Ddownload"
  },
  {
-  "investigacion_id":39,
+  "investigacion_id":39.0,
   "tipo_producto":"Base de datos",
   "titulo":"Base de datos del directorio, entidades y contactos",
   "incluir_en_ficha":"No",
   "url":null
  },
  {
-  "investigacion_id":39,
+  "investigacion_id":39.0,
   "tipo_producto":"Carpeta archivos",
   "titulo":"Carpeta con archivo base de datos NO ANONIMIZADA, acceso privado",
   "incluir_en_ficha":"No",
   "url":null
  },
  {
-  "investigacion_id":40,
+  "investigacion_id":40.0,
   "tipo_producto":"Informe final",
   "titulo":"Informe final",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1fe5Ix0AVk0AKrVgDEUdYXp1XnSnda7CT\/view?usp=drive_link"
  },
  {
-  "investigacion_id":40,
+  "investigacion_id":40.0,
   "tipo_producto":"Visualizaci\u00f3n\/Infograf\u00eda",
   "titulo":"Tablero de visualizaci\u00f3n L\u00ednea Calma",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/app.powerbi.com\/view?r=eyJrIjoiOTYxMmJkOTUtODliOC00MmU3LWEyZDAtY2NjNTdhMmI2YzNlIiwidCI6IjRmNzkzOWM3LWFhNjAtNDliZC05YjdiLTZmODFjMzdkMWIzNyJ9"
  },
  {
-  "investigacion_id":40,
+  "investigacion_id":40.0,
   "tipo_producto":"Base de datos",
   "titulo":"Base de datos L\u00ednea Calma Anonimizada",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1-QjeowQnLp6pMkFHbIZdw1ZAKhUhDAH4\/edit?usp=drive_link&ouid=114299960211627169695&rtpof=true&sd=true"
  },
  {
-  "investigacion_id":41,
+  "investigacion_id":41.0,
   "tipo_producto":"Informe final",
   "titulo":"Informe Evaluaci\u00f3n actividades de estrategia - Escuela Hombres al Cuidado 2022",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1fgii8-wwexue6Vs9imYwqq7tFauwJIIO\/view?usp=drive_link"
  },
  {
-  "investigacion_id":41,
+  "investigacion_id":41.0,
   "tipo_producto":"Informe final",
   "titulo":"Hallazgos principales de las actividades de seguimiento de la estrategia \u201cEscuela de Hombres al cuidado\u201d\n2022",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1ZDEw6cwPZ8BgJkVrsx_auQ79P_ZAxuh_\/view?usp=drive_link"
  },
  {
-  "investigacion_id":42,
+  "investigacion_id":42.0,
   "tipo_producto":"Informe final",
   "titulo":"Informe final",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1TNGfMqPKZOb2Jf0adhjFuPlM_ncmCshV\/view?usp=drive_link"
  },
  {
-  "investigacion_id":42,
+  "investigacion_id":42.0,
   "tipo_producto":"Base de datos",
   "titulo":"Estructura de datos anonimizada",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/spreadsheets\/d\/10vKwTJwW-YlAsCnGr2rKJ-497b7FbcWUvU5Ecg-CzJ4\/edit#gid=1889535523"
  },
  {
-  "investigacion_id":42,
+  "investigacion_id":42.0,
   "tipo_producto":"Visualizaci\u00f3n\/Infograf\u00eda",
   "titulo":"Tablero de control Estrategia",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/lookerstudio.google.com\/reporting\/ddb3de9d-6ff5-4347-b635-91830511fb3a\/page\/p_gdgj81np6c"
  },
  {
-  "investigacion_id":42,
+  "investigacion_id":42.0,
   "tipo_producto":"Anexo",
   "titulo":"Prototipo exploraci\u00f3n de actividades",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/www.prototipos-sicc.com\/app\/acciones\/explorar\/1\/?"
  },
  {
-  "investigacion_id":42,
+  "investigacion_id":42.0,
   "tipo_producto":"Carpeta archivos",
   "titulo":"Carpeta de archivos",
   "incluir_en_ficha":"No",
   "url":null
  },
  {
-  "investigacion_id":43,
+  "investigacion_id":43.0,
   "tipo_producto":"Informe final",
   "titulo":"Informe final",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1QQ4t_UKjOyQx8mmzejf1jTbK1xCUV2EQ\/view"
  },
  {
-  "investigacion_id":43,
+  "investigacion_id":43.0,
   "tipo_producto":"Anexo",
   "titulo":"Matriz de resultados",
   "incluir_en_ficha":"No",
   "url":"https:\/\/drive.google.com\/drive\/folders\/18SAS2A-VQai42xwzG61ypXzfE3bsWDin"
  },
  {
-  "investigacion_id":43,
+  "investigacion_id":43.0,
   "tipo_producto":"Presentaci\u00f3n",
   "titulo":"Presentaci\u00f3n resultados  ",
   "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
-  "investigacion_id":43,
+  "investigacion_id":43.0,
   "tipo_producto":"Anexo",
   "titulo":"Tablas de categorizaci\u00f3n",
   "incluir_en_ficha":"No",
   "url":null
  },
  {
-  "investigacion_id":44,
+  "investigacion_id":44.0,
   "tipo_producto":"Informe final",
   "titulo":"(Pendiente definir nombre articulo)",
   "incluir_en_ficha":null,
   "url":null
  },
  {
-  "investigacion_id":45,
+  "investigacion_id":45.0,
   "tipo_producto":"Informe final",
   "titulo":"An\u00e1lisis resultados psicoeducativos",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1gEHfvc_sH2DtcJrccC5iINU9YAjRp7B-\/view"
  },
  {
-  "investigacion_id":45,
+  "investigacion_id":45.0,
   "tipo_producto":"Visualizaci\u00f3n\/Infograf\u00eda",
   "titulo":"Conversando sobre celos con los hombres",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1BdN3MwbS5xYcHBux5EMrAccUxRSPn3uo\/view?usp=drive_link"
  },
  {
-  "investigacion_id":45,
+  "investigacion_id":45.0,
   "tipo_producto":"Audiovisual",
   "titulo":"Tips para ser un buen Ex - Parte 1",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1dR70lOv5k3v11YqeRcJS_HNGqrAbKDhI\/view?usp=sharing"
  },
  {
-  "investigacion_id":45,
+  "investigacion_id":45.0,
   "tipo_producto":"Audiovisual",
   "titulo":"Tips para ser un buen Ex - Parte 2",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1slYCnmOjvyGC5rMpODv3Se3qiuO7gQup\/view?usp=sharing"
  },
  {
-  "investigacion_id":46,
+  "investigacion_id":46.0,
   "tipo_producto":"Informe final",
   "titulo":"Festival Calma en la Ciudad",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1z8bdFu7SyTGYxMRESyphxIBG6j2Hcido\/view?usp=drive_link"
  },
  {
-  "investigacion_id":46,
+  "investigacion_id":46.0,
   "tipo_producto":"Informe cuantitativo",
   "titulo":"Procesamiento estad\u00edstico",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1GT5GZeYdwPdpV4DsIarPiAbqmKKJFc2m\/edit?usp=sharing&ouid=105090632649587320414&rtpof=true&sd=true"
  },
  {
-  "investigacion_id":46,
+  "investigacion_id":46.0,
   "tipo_producto":"Base de datos",
   "titulo":"Base de datos anonimizada",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1-7bH5zfcH8l-BYYjPFKBe2ql6Q26hyl7\/edit?usp=sharing&ouid=105090632649587320414&rtpof=true&sd=true"
  },
  {
-  "investigacion_id":46,
+  "investigacion_id":46.0,
   "tipo_producto":"Audiovisual",
   "titulo":"Entrevistas Festival Calma en la Ciudad",
   "incluir_en_ficha":"No",
   "url":null
  },
  {
-  "investigacion_id":48,
+  "investigacion_id":48.0,
   "tipo_producto":"Informe final",
   "titulo":"Informe medici\u00f3n seguridad vial",
   "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
-  "investigacion_id":48,
+  "investigacion_id":48.0,
   "tipo_producto":"Informe cuantitativo",
   "titulo":"Presentaci\u00f3n de resultados",
   "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
-  "investigacion_id":48,
+  "investigacion_id":48.0,
   "tipo_producto":"Base de datos",
   "titulo":"Base de datos Encuesta Asistentes",
   "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
-  "investigacion_id":49,
+  "investigacion_id":49.0,
   "tipo_producto":"Informe final",
   "titulo":"Informe final de la investigaci\u00f3n",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1SfWfBbXVxlWPyF9Bb-tSW89vI74XCmgL\/view?usp=drive_link"
  },
  {
-  "investigacion_id":49,
+  "investigacion_id":49.0,
   "tipo_producto":"Presentaci\u00f3n",
   "titulo":"Presentaci\u00f3n resultados ECA",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1vVGK5ZE6Cm7L5VjVsgAlFKZCvWGCiU_7\/view?usp=drive_link"
  },
  {
-  "investigacion_id":49,
+  "investigacion_id":49.0,
   "tipo_producto":"Base de datos",
   "titulo":"Base de datos Encuesta de Cultura Ambiental",
   "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
-  "investigacion_id":50,
+  "investigacion_id":50.0,
   "tipo_producto":"Informe final",
   "titulo":"Informe final sobre mediciones de la estrategia \"Que la basura no se vuelva paisaje\"",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/18GTTKOF8LjaidwyNd-CVl3xvhU9E0M2V\/view?usp=drive_link"
  },
  {
-  "investigacion_id":50,
+  "investigacion_id":50.0,
   "tipo_producto":"Visualizaci\u00f3n\/Infograf\u00eda",
   "titulo":"Story Maps mediciones de la estrategia \"Que la Basura no se vuelva paisaje\"",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/storymaps.arcgis.com\/stories\/b421b86f0efa4681bbdfa46cf49e1bf5"
  },
  {
-  "investigacion_id":50,
+  "investigacion_id":50.0,
   "tipo_producto":"Base de datos",
   "titulo":"Base de datos - Formularios facores culturales",
   "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
-  "investigacion_id":50,
+  "investigacion_id":50.0,
   "tipo_producto":"Informe final",
   "titulo":"Documento Final pr\u00e1cticas de sostenibilidad en la moda",
   "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
-  "investigacion_id":50,
+  "investigacion_id":50.0,
   "tipo_producto":"Informe final",
   "titulo":"Ensayo origen y uso de la falda ",
   "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
-  "investigacion_id":50,
+  "investigacion_id":50.0,
   "tipo_producto":"Base de datos",
   "titulo":"Base de datos - formulario sondeo de percepci\u00f3n",
   "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
-  "investigacion_id":51,
+  "investigacion_id":51.0,
   "tipo_producto":"Presentaci\u00f3n",
   "titulo":"Presentaci\u00f3n transferencia metodol\u00f3gica acci\u00f3n M\u00e1s Rimas Cero Ri\u00f1as",
   "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
-  "investigacion_id":51,
+  "investigacion_id":51.0,
   "tipo_producto":"Presentaci\u00f3n",
   "titulo":"Presentaci\u00f3n an\u00e1lisis de resultados encuesta Violencia Interpersonal 2022",
   "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
-  "investigacion_id":51,
+  "investigacion_id":51.0,
   "tipo_producto":"Anexo",
   "titulo":"Acta de transferencia",
   "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
-  "investigacion_id":54,
+  "investigacion_id":54.0,
   "tipo_producto":"Informe final",
   "titulo":"Medici\u00f3n Museo Abierto de Bogot\u00e1",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/www.google.com\/url?q=https:\/\/acortar.link\/YphI2A&sa=D&source=apps-viewer-frontend&ust=1701451650162192&usg=AOvVaw1MaXcX549qjFRMWdtfEK8e&hl=es"
  },
  {
-  "investigacion_id":54,
+  "investigacion_id":54.0,
   "tipo_producto":"Anexo",
   "titulo":"Fichas t\u00e9cnicas encuestas \n",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/19VlJABGXfm9xQJcnmGdd7sjZhqt_dXdm\/view?usp=drive_link"
  },
  {
-  "investigacion_id":54,
+  "investigacion_id":54.0,
   "tipo_producto":"Anexo",
   "titulo":"Ana\u0301lisis Multivariado Museo Abierto de Bogota\u0301 2022 - 2023",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/drive\/folders\/1llfVOmGzWBUO0L19RsXRLOjBtTyVKIDd?usp=drive_link,"
  },
  {
-  "investigacion_id":54,
+  "investigacion_id":54.0,
   "tipo_producto":"Base de datos",
   "titulo":"Bases de datos Encuestas 2022 ",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1BIa7MUXZxlUOkGP2Fslbf_wrJ503wAwp\/edit?usp=drive_link&ouid=115906425371686900342&rtpof=true&sd=true"
  },
  {
-  "investigacion_id":54,
+  "investigacion_id":54.0,
   "tipo_producto":"Anexo",
   "titulo":"Resultados univariados 2022-2023",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/17dXDhqojn22KgEXHllF0-VTkXlxDg2VP\/view?usp=drive_link"
  },
  {
-  "investigacion_id":54,
+  "investigacion_id":54.0,
   "tipo_producto":"Base de datos",
   "titulo":"Bases de datos Encuestas 2023 \n",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1BIa7MUXZxlUOkGP2Fslbf_wrJ503wAwp\/edit?usp=drive_link&ouid=115906425371686900342&rtpof=true&sd=true"
  },
  {
-  "investigacion_id":54,
+  "investigacion_id":54.0,
   "tipo_producto":"Presentaci\u00f3n",
   "titulo":"Presentaci\u00f3n final_Medici\u00f3n Museo Abierto de Bogot\u00e1",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1I88XRGEEH1YDOK4MfUe4dKq7rzZqtaI-\/view?usp=drive_link"
  },
  {
-  "investigacion_id":55,
+  "investigacion_id":55.0,
   "tipo_producto":"Informe final",
   "titulo":"Informe final",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1tXXV2v0YTArK3SXuuMsPynyiLIIMn6oz\/view?usp=drive_link"
  },
  {
-  "investigacion_id":55,
+  "investigacion_id":55.0,
   "tipo_producto":"Presentaci\u00f3n",
   "titulo":"Presentaci\u00f3n del estudio",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/presentation\/d\/1YM0gzV3IhJlKHKacw82o3doLgQYOVZTJ\/edit"
  },
  {
-  "investigacion_id":55,
+  "investigacion_id":55.0,
   "tipo_producto":"Anexo",
   "titulo":"Bases anonimizadas",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/drive\/folders\/1Jm80b6iysEm-aAZi4S32mKiaJICdeCsR?usp=drive_link"
  },
  {
-  "investigacion_id":55,
+  "investigacion_id":55.0,
   "tipo_producto":"Anexo",
   "titulo":"Formularios HipHop al Parque",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/drive\/folders\/1u0kLZY3MeDJ_NtJggBqRH0UkpLlDXDaK?usp=drive_link"
  },
  {
-  "investigacion_id":55,
+  "investigacion_id":55.0,
   "tipo_producto":"Anexo",
   "titulo":"Fomularios Serenata Rap",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/drive\/folders\/11vMGVlA9VUFxcSwoNlxlgNoDXKWWoNAi?usp=drive_link"
  },
  {
-  "investigacion_id":55,
+  "investigacion_id":55.0,
   "tipo_producto":"Anexo",
   "titulo":"Procesamiento estadistico",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/drive\/folders\/1Hpd1FeMefXUr4inBMYuWBJacB6aEY4Ws?usp=drive_link"
  },
  {
-  "investigacion_id":55,
+  "investigacion_id":55.0,
   "tipo_producto":"Anexo",
   "titulo":"Ficha t\u00e9cnica encuesta Serenata Rap",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1bM_YhPSbMYPDsvWJVBkbZGkRLK5H6PMl\/view?usp=drive_link"
  },
  {
-  "investigacion_id":55,
+  "investigacion_id":55.0,
   "tipo_producto":"Anexo",
   "titulo":"Formularios Pactarte",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1PVsdwdPAnrO8tqTAJXUPFW7aYvl-hewT\/edit?usp=drive_link&ouid=115906425371686900342&rtpof=true&sd=true"
  },
  {
-  "investigacion_id":4,
+  "investigacion_id":4.0,
   "tipo_producto":"Informe final",
   "titulo":"Informe final BOGOT\u00c1 SABE A CENTRO - Corredor cultural carrera 7a",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1anNwsJlEbA41BKMnXN21OD_PINKGul94\/view"
  },
  {
-  "investigacion_id":4,
+  "investigacion_id":4.0,
   "tipo_producto":"Base de datos",
   "titulo":"Base de datos Corredor Cultural de la Carrera 7",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1u5OpWDT9YV82J0cdE6w6gGJKMyrQP0cs\/edit?usp=drive_link&ouid=115906425371686900342&rtpof=true&sd=true"
  },
  {
-  "investigacion_id":4,
+  "investigacion_id":4.0,
   "tipo_producto":"Informe cuantitativo",
   "titulo":"Procesamiento de datos Corredor cultural de la Carrera 7",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1n85QNB5Tm_DkqCS7irfiO7RknlY8B5X2\/view?usp=drive_link"
  },
  {
-  "investigacion_id":4,
+  "investigacion_id":4.0,
   "tipo_producto":"Visualizaci\u00f3n\/Infograf\u00eda",
   "titulo":"Mapa de actores culturales",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/sdcrd.maps.arcgis.com\/apps\/mapviewer\/index.html?webmap=fe8d4b59339f49dd9875932d2d00c360"
  },
  {
-  "investigacion_id":4,
+  "investigacion_id":4.0,
   "tipo_producto":"Visualizaci\u00f3n\/Infograf\u00eda",
   "titulo":"L\u00ednea de tiempo ",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/observatoriocultura.github.io\/proyectos2023\/intervenciones.html"
  },
  {
-  "investigacion_id":4,
+  "investigacion_id":4.0,
   "tipo_producto":"Anexo",
   "titulo":"Formulario Corredor Cultural de la Carrera 7",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/spreadsheets\/d\/10VeVkCwdUMU5LX3Wn7QBG0tjD-DXmVE4\/edit?usp=drive_link&ouid=115906425371686900342&rtpof=true&sd=true"
  },
  {
-  "investigacion_id":4,
+  "investigacion_id":4.0,
   "tipo_producto":"Anexo",
   "titulo":"Sistematizaci\u00f3n de intervenciones carrera 7a",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1_VkeQstPyWXr3IazLRJP6RHr3XwCxtRx\/edit?usp=drive_link&ouid=115906425371686900342&rtpof=true&sd=true"
  },
  {
-  "investigacion_id":59,
+  "investigacion_id":59.0,
   "tipo_producto":"Informe final",
   "titulo":"Informe final: Estrategia Bogot\u00e1 Sabe a Centro: Medici\u00f3n restaurantes y gastrobares",
   "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
-  "investigacion_id":59,
+  "investigacion_id":59.0,
   "tipo_producto":"Informe cuantitativo",
   "titulo":"Procesamiento Estad\u00edstico - Bogot\u00e1 Sabe a Centro 2023-restaurantes",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1o5JkVNF1nyvWQa0qDh-1mO4LGl1ntE0c\/view?usp=drive_link"
  },
  {
-  "investigacion_id":59,
+  "investigacion_id":59.0,
   "tipo_producto":"Anexo",
   "titulo":"Formulario Bogot\u00e1 Sabe a Centro 2023-Restaurantes",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1B_2w8FQTw2OU4rdDjihe-hd_QY-Xfx6A\/view?usp=drive_link"
  },
  {
-  "investigacion_id":59,
+  "investigacion_id":59.0,
   "tipo_producto":"Informe cuantitativo",
   "titulo":"Tablas de salida univariadas Bogot\u00e1 Sabe a Centro 2023",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1rp7MWwii46vq7hpyqLi8ptYzXwuFYQxs\/edit?usp=drive_link&ouid=115906425371686900342&rtpof=true&sd=true"
  },
  {
-  "investigacion_id":59,
+  "investigacion_id":59.0,
   "tipo_producto":"Base de datos",
   "titulo":"BBDD_BSC_Fex (Depurada_Anonimizada)",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/spreadsheets\/d\/17h0GbuiW1ijPOW7G4FfNuD6lh_By3j5k\/edit?usp=drive_link&ouid=115906425371686900342&rtpof=true&sd=true"
  },
  {
-  "investigacion_id":59,
+  "investigacion_id":59.0,
   "tipo_producto":"Visualizaci\u00f3n\/Infograf\u00eda",
   "titulo":"Mapa Bogot\u00e1 Sabe a Centro",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/sdcrd.maps.arcgis.com\/apps\/mapviewer\/index.html?webmap=fe8d4b59339f49dd9875932d2d00c360"
  },
  {
-  "investigacion_id":52,
+  "investigacion_id":52.0,
   "tipo_producto":"Informe final",
   "titulo":"Impactos de la cultura en el valor del metro cuadrado comercial de terreno en Bogot\u00e1",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1IduUoCy2S1rY7SPiePucYE26Nl9r8QJQ\/view?usp=drive_link"
  },
  {
-  "investigacion_id":53,
+  "investigacion_id":53.0,
   "tipo_producto":"Informe final",
   "titulo":"Informe final fase inicial de diagn\u00f3stico",
   "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
-  "investigacion_id":53,
+  "investigacion_id":53.0,
   "tipo_producto":"Anexo",
   "titulo":"Guias de observaci\u00f3n participante de IDRD y Compensar",
   "incluir_en_ficha":"No",
   "url":null
  },
  {
-  "investigacion_id":53,
+  "investigacion_id":null,
+  "tipo_producto":null,
+  "titulo":null,
+  "incluir_en_ficha":"No",
+  "url":null
+ },
+ {
+  "investigacion_id":53.0,
   "tipo_producto":"Presentaci\u00f3n",
   "titulo":"Presentaci\u00f3n encuesta bienal 2019",
   "incluir_en_ficha":"No",
   "url":null
  },
  {
-  "investigacion_id":53,
+  "investigacion_id":53.0,
   "tipo_producto":"Presentaci\u00f3n",
   "titulo":"Presentaci\u00f3n resultados encuesta practica deportiva y calidad de vida 2021 \u2013 2022 ",
   "incluir_en_ficha":"No",
   "url":null
  },
  {
-  "investigacion_id":53,
+  "investigacion_id":53.0,
   "tipo_producto":"Presentaci\u00f3n",
   "titulo":"Presentaci\u00f3n resultados encuesta de pr\u00e1cticas deportivas 2022 ",
   "incluir_en_ficha":"No",
   "url":null
  },
  {
-  "investigacion_id":53,
+  "investigacion_id":53.0,
   "tipo_producto":"Presentaci\u00f3n",
   "titulo":"Resultados encuestas 2021 -2022",
   "incluir_en_ficha":"No",
   "url":null
  },
  {
-  "investigacion_id":44,
+  "investigacion_id":44.0,
   "tipo_producto":"Informe final",
-  "titulo":"Acercamientos cr\u00edticos a las violencias en Bogot\u00e1:\n G\u00e9nero, masculinidad hegem\u00f3nica y poder.\n",
+  "titulo":"Acercamientos cr\u00edticos a las violencias en Bogot\u00e1: G\u00e9nero, masculinidad hegem\u00f3nica y poder.",
   "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
-  "investigacion_id":58,
+  "investigacion_id":58.0,
   "tipo_producto":"Informe final",
-  "titulo":"Medici\u00f3n sobre las\npercepciones y pr\u00e1cticas\nde la formaci\u00f3n art\u00edstica,\ncultural y deportiva en\nBogot\u00e1 2023",
+  "titulo":"Medici\u00f3n sobre las percepciones y pr\u00e1cticas de la formaci\u00f3n art\u00edstica, cultural y deportiva en Bogot\u00e1 2023",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1F_W-CzUrHMFFhvIRRYskFzQAJzeOchD9\/view?usp=drive_link"
  },
  {
-  "investigacion_id":58,
+  "investigacion_id":58.0,
   "tipo_producto":"Informe final",
   "titulo":"Documento conceptual_Enfoques y capacidades transversales",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1lOwQvLwc2tkrxASSKO81VbywV7Muf3fy\/view?usp=drive_link"
  },
  {
-  "investigacion_id":58,
+  "investigacion_id":58.0,
   "tipo_producto":"Visualizaci\u00f3n\/Infograf\u00eda",
   "titulo":"Tablero de control con los resultados de la medici\u00f3n",
   "incluir_en_ficha":"S\u00ed",

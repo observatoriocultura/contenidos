@@ -4,6 +4,8 @@ const url = window.location.href;
 const urlParams = new URLSearchParams(window.location.search);
 // Obtiene el valor del parámetro 'investigacion_id'
 const elementoIdInicial = urlParams.get('investigacion_id');
+const lineaInvestigacionInicial = urlParams.get('linea_investigacion') || '';
+const yearInicial = urlParams.get('year') || '';
 const showMenu = urlParams.get('show_menu') || 'true';
 const baseUrl = window.location.origin + window.location.pathname;
 
@@ -27,9 +29,15 @@ var investigacionesApp = createApp({
             currentElement: {'id':0,'titulo':'Cargando...'},
             q: '',
             filters: {
-                status: '' 
+                status: '',
+                linea_investigacion: lineaInvestigacionInicial,
+                year: yearInicial,
             },
             filtroEstados: ['Enviada','Finalizada','4 Entregada', '5 Finalizada'],
+            filtroLineasInvestigacion: [
+                {value: 'cultura-ciudadana', text: 'Cultura Ciudadana'},
+                {value: 'sector-cultura', text: 'Sector Cultura'},
+            ],
             productos: [],
             hallazgos: [],
             showMenu: showMenu == 'true' ? true : false,
@@ -133,6 +141,16 @@ var investigacionesApp = createApp({
             listaFiltrada = listaFiltrada.filter(elemento => this.filtroEstados.includes(elemento['estado']))
             if ( this.filters.status != '' ) {
                 listaFiltrada = listaFiltrada.filter(elemento => elemento['estado'] == this.filters.status)
+            }
+            if ( this.filters.linea_investigacion != '' ) {
+                console.log('Hay filtro de linea de investigacion')
+                console.log(this.filters.linea_investigacion)
+                listaFiltrada = listaFiltrada.filter(elemento => Pcrn.textToClass(elemento['linea_investigacion']) == this.filters.linea_investigacion)
+            }
+            if ( this.filters.year > 0 ) {
+                console.log('Hay filtro de año')
+                console.log(this.filters.year)
+                listaFiltrada = listaFiltrada.filter(elemento => elemento['anio'] == this.filters.year)
             }
             if (this.q.length > 0) {
                 var fieldsToSearch = ['titulo','descripcion','palabras_clave','entidad_soliciante',
