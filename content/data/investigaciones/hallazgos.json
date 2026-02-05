@@ -2184,6 +2184,38 @@
   "unidad_medida":null
  },
  {
+  "investigacion_id":99,
+  "orden":1,
+  "titulo":"\u00c1reas de actuaci\u00f3n y alcance territorial: alta concentraci\u00f3n urbana y fuerte orientaci\u00f3n formativa\u2013esc\u00e9nica\n",
+  "texto":"El diagn\u00f3stico evidencia que las ESALES culturales en Bogot\u00e1 desarrollan mayoritariamente su actividad en entornos urbanos y con una concentraci\u00f3n territorial en localidades centrales como Teusaquillo (8,2%), Chapinero (7,7%), La Candelaria (6,4%) y Santa Fe (6,4%). Aunque una proporci\u00f3n relevante de entidades reporta alcance nacional y metropolitano (41,6% en cada uno de estos niveles), el anclaje operativo y organizativo sigue siendo predominantemente local y urbano, como lo confirma el hecho de que el 76,1% desarrolla sus actividades en \u00e1mbito urbano y el 97,9% tiene su ciudad de residencia en Bogot\u00e1. \n",
+  "valor":"76,10%",
+  "unidad_medida":"ESALES que desarrollan sus actividades en el \u00e1mbito urbano"
+ },
+ {
+  "investigacion_id":99,
+  "orden":2,
+  "titulo":"Fortalezas estructurales: organizaciones consolidadas pero con alta concentraci\u00f3n de funciones",
+  "texto":"El sector se caracteriza por una base de entidades con trayectorias medias y largas, dado que el 30,3% tiene entre 10 y 20 a\u00f1os de existencia y el 28,2% supera los 20 a\u00f1os de constituci\u00f3n jur\u00eddica. No obstante, esta fortaleza convive con una alta concentraci\u00f3n de roles en una misma persona, particularmente en la figura del representante legal, quien en el 100% de los casos cumple simult\u00e1neamente funciones de direcci\u00f3n o gerencia y, tambi\u00e9n en el 100%, asume m\u00faltiples roles dentro de la organizaci\u00f3n. \n",
+  "valor":"28,20%",
+  "unidad_medida":"ESALESs con m\u00e1s de 20 a\u00f1os de constituci\u00f3n jur\u00eddica"
+ },
+ {
+  "investigacion_id":99,
+  "orden":3,
+  "titulo":"Financiamiento: dependencia del recurso p\u00fablico con avances relevantes en ingresos propios\n",
+  "texto":"En materia de sostenibilidad econ\u00f3mica, el diagn\u00f3stico muestra como principal fortaleza la capacidad de acceso a recursos p\u00fablicos, utilizados por el 68,3% de las ESALES y que representan, en promedio, el 39,4% del total de su financiamiento. A ello se suma un avance en la venta de productos y\/o servicios, reportada por el 57,0% de las entidades y que aporta en promedio el 38,7% de sus ingresos, lo que indica procesos incipientes pero relevantes de autogeneraci\u00f3n de recursos. La empresa privada participa como fuente de financiamiento en el 40,9% de los casos, con un peso promedio del 15,0%. Sin embargo, persiste una baja diversificaci\u00f3n financiera, evidenciada en la escasa participaci\u00f3n de la cooperaci\u00f3n internacional (9,2% de las entidades; 2,9% del financiamiento promedio) y de los cr\u00e9ditos comerciales o internos (7,0%; 4,0% del promedio).\n\nEsta estructura financiera refuerza la estabilidad de corto plazo, pero mantiene al sector expuesto a riesgos asociados a la variabilidad de la inversi\u00f3n p\u00fablica y a las limitaciones en capacidades comerciales y de negociaci\u00f3n, en un contexto donde el 68,3% de las entidades reporta ingresos anuales inferiores a $100 millones.\n",
+  "valor":"68,30%",
+  "unidad_medida":"ESALES que acceden a recursos p\u00fablicos"
+ },
+ {
+  "investigacion_id":99,
+  "orden":4,
+  "titulo":"Perspectivas de mejora: consenso en la necesidad de fortalecer sostenibilidad y capacidades estrat\u00e9gicas\n",
+  "texto":"Las ESALES culturales presentan una notable convergencia en sus perspectivas de futuro, al identificar como retos prioritarios la mejora de la sostenibilidad financiera (97,9% la considera importante o muy importante), el fortalecimiento organizacional (94,4%) y el aumento del n\u00famero de beneficiarios o personas impactadas (94,4%). Este consenso se complementa con un inter\u00e9s creciente en la incorporaci\u00f3n de herramientas digitales y tecnol\u00f3gicas, se\u00f1aladas como innovaci\u00f3n futura por el 42,3% de las entidades, as\u00ed como en el fortalecimiento de capacidades relacionadas con la contrataci\u00f3n p\u00fablica (57,8%) y las alianzas estrat\u00e9gicas (57,0%) como temas prioritarios de capacitaci\u00f3n. Al mismo tiempo, la baja definici\u00f3n de innovaciones futuras en el 44,4% de las organizaciones (Ns\/Nr) sugiere la necesidad de procesos de acompa\u00f1amiento estrat\u00e9gico que permitan traducir estas aspiraciones en planes concretos de desarrollo, diversificaci\u00f3n territorial y ampliaci\u00f3n del alcance cultural.\n",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
   "investigacion_id":100,
   "orden":1,
   "titulo":"Una ciudad que imagina y act\u00faa desde el reconocimiento",
@@ -2220,6 +2252,46 @@
   "orden":5,
   "titulo":"Metodolog\u00edas que transforman la gesti\u00f3n p\u00fablica",
   "texto":"M\u00e1s all\u00e1 de los resultados, la principal innovaci\u00f3n fue metodol\u00f3gica: convertir un proceso de planeaci\u00f3n en un ejercicio de escucha plural, analizado con rigor t\u00e9cnico y sensibilidad \u00e9tica. Este enfoque fortalece la capacidad del Estado para actuar desde el conocimiento colectivo y en clave de transformaci\u00f3n cultural.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":102,
+  "orden":1,
+  "titulo":"El ecosistema cultural nocturno en Bogot\u00e1 presenta condiciones para una ampliaci\u00f3n horaria gradual",
+  "texto":"Si bien una proporci\u00f3n de establecimientos opera en la franja nocturna temprana y la ciudadan\u00eda manifiesta alta disposici\u00f3n a asistir a actividades en la noche, la operaci\u00f3n sostenida en horarios extendidos y de madrugada es limitada, tanto en la pr\u00e1ctica como en la disposici\u00f3n declarada.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":102,
+  "orden":2,
+  "titulo":"Existe una desalineaci\u00f3n entre la disposici\u00f3n de la demanda y las capacidades operativas de la oferta",
+  "texto":"Mientras la ciudadan\u00eda expresa altos niveles de inter\u00e9s y disposici\u00f3n a asistir con frecuencia regular a eventos nocturnos, la oferta presenta limitaciones asociadas a protocolos, articulaci\u00f3n entre actores y gesti\u00f3n del riesgo, lo que condiciona su capacidad de responder a dicha demanda.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":102,
+  "orden":3,
+  "titulo":"La estrategia Ecosistema Cultural 24\/7 presenta una baja apropiaci\u00f3n desde la ciudadan\u00eda, pese a una valoraci\u00f3n mayoritariamente positiva del enfoque",
+  "texto":"El bajo nivel de conocimiento de la estrategia contrasta con la aceptaci\u00f3n general de la ampliaci\u00f3n de la oferta nocturna, lo que sugiere una brecha entre el dise\u00f1o institucional y su posicionamiento p\u00fablico.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":102,
+  "orden":4,
+  "titulo":"Las barreras para la operaci\u00f3n y el consumo nocturno son principalmente de car\u00e1cter urbano y estructural",
+  "texto":"La seguridad y la movilidad emergen como los principales factores que condicionan tanto la decisi\u00f3n de los establecimientos para ampliar horarios como la disposici\u00f3n de la ciudadan\u00eda para asistir, por encima de restricciones normativas o culturales.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":102,
+  "orden":5,
+  "titulo":"El ecosistema se compone mayoritariamente de establecimientos de peque\u00f1a y mediana escala, con formas de operaci\u00f3n que tienden a desarrollarse de manera individual y localizada",
+  "texto":"Este perfil favorece din\u00e1micas de consumo de cercan\u00eda y experiencias de menor escala, especialmente en franjas horarias extendidas, aunque tambi\u00e9n plantea desaf\u00edos para la articulaci\u00f3n entre actores y la construcci\u00f3n de ofertas nocturnas integrales, particularmente en ausencia de mecanismos de coordinaci\u00f3n o acompa\u00f1amiento institucional.",
   "valor":null,
   "unidad_medida":null
  },
@@ -2292,6 +2364,38 @@
   "orden":5,
   "titulo":"El libro como objeto social situado: inserci\u00f3n comunitaria y pol\u00edtica cultural ",
   "texto":"Las cartograf\u00edas sociales evidencian que los libros del programa Libro al Viento se integran a pr\u00e1cticas sociales concretas y territorialmente situadas, m\u00e1s all\u00e1 de su simple circulaci\u00f3n f\u00edsica. Los libros se insertan en din\u00e1micas comunitarias, educativas y cotidianas, adquiriendo sentidos diversos seg\u00fan los contextos sociales y territoriales de cada taller. En este sentido, Libro al Viento se configura como una pol\u00edtica cultural situada, cuyos efectos dependen de las relaciones sociales que median la apropiaci\u00f3n del libro. Las cartograf\u00edas complementan el sondeo cuantitativo al mostrar c\u00f3mo los libros se anclan, circulan y se resignifican en la vida cotidiana, dando lugar a circuitos m\u00faltiples y no lineales de uso. \n",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":109,
+  "orden":1,
+  "titulo":"El Festival activa din\u00e1micas econ\u00f3micas y de sosenibilidad cultural",
+  "texto":"Aunque el apoyo a emprendimientos culturales, la compra de productos o el intercambio con mel\u00f3manos no constituyen el principal motivo de asistencia en ninguno de los escenarios, s\u00ed aparecen de manera consistente en todos ellos como motivaciones complementarias. Este patr\u00f3n sugiere que el Festival Centro no solo funciona como un espacio de circulaci\u00f3n art\u00edstica, sino tambi\u00e9n como un dispositivo que contribuye a la sostenibilidad econ\u00f3mica del ecosistema cultural, al activar pr\u00e1cticas de consumo cultural, visibilizaci\u00f3n de agentes y circulaci\u00f3n de bienes simb\u00f3licos asociados a la m\u00fasica y las artes.\nAs\u00ed, se podr\u00eda seguir fortaleciendo de manera estrat\u00e9gica los componentes de circulaci\u00f3n econ\u00f3mica y visibilizaci\u00f3n de emprendimientos culturales, especialmente en aquellos escenarios con mayor afluencia y diversidad de p\u00fablicos, sin desdibujar el eje art\u00edstico del Festival.\n",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":109,
+  "orden":2,
+  "titulo":"El Festival no genera mayores impactos negativos en el espacio p\u00fablico",
+  "texto":"En los cuatro escenarios analizados, la percepci\u00f3n mayoritaria de los asistentes indica que la realizaci\u00f3n del Festival no modifica sustancialmente problem\u00e1ticas asociadas al espacio p\u00fablico, como el arrojo de basuras, el parqueo en zonas prohibidas o la contaminaci\u00f3n auditiva y visual. \nPor otro lado, en algunos casos, como el Muelle de la FUGA y La Media Torta, se registra una mayor percepci\u00f3n de incremento en la presencia de vendedores informales o en el turismo; sin embargo, estos fen\u00f3menos coexisten con una valoraci\u00f3n positiva del evento y no se asocian a un deterioro de la convivencia en la zona.\n",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":109,
+  "orden":3,
+  "titulo":"El Festival articula los desplazamientos, recorridos y consumos culturales en el centro",
+  "texto":"En todos los escenarios, una proporci\u00f3n mayoritaria de asistentes declar\u00f3 haber visitado o tener previsto visitar otros espacios del centro antes o despu\u00e9s del evento. Los recorridos se concentraron principalmente en equipamientos culturales, caf\u00e9s, restaurantes, bares, teatros, salas de arte y museos, lo que evidencia una alta capacidad del Festival para articular la oferta cultural, gastron\u00f3mica y comercial del centro de Bogot\u00e1. Este comportamiento refuerza el papel del Festival Centro como dinamizador territorial y como nodo de conexi\u00f3n entre la programaci\u00f3n cultural p\u00fablica y otras actividades econ\u00f3micas y simb\u00f3licas del \u00e1rea.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":109,
+  "orden":4,
+  "titulo":"La oferta musical y art\u00edstica es el principal motivo de asistencia\n",
+  "texto":"En todos los escenarios, los motivos de asistencia se concentran de manera consistente en la presencia de los grupos y artistas, el inter\u00e9s por conocer nuevas propuestas musicales y el reconocimiento previo de algunos de los artistas participantes. El Festival Centro opera simult\u00e1neamente como un espacio de encuentro entre artistas y sus audiencias y como una plataforma para el descubrimiento de nuevas propuestas, lo que explica la coexistencia de p\u00fablicos con trayectoria en el Festival y de personas que asisten por primera vez.",
   "valor":null,
   "unidad_medida":null
  },

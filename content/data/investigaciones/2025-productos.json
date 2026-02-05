@@ -1,17 +1,17 @@
 [
  {
   "investigacion_id":99,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
+  "tipo_producto":"Informe final",
+  "titulo":"Informe final Caracterizaci\u00f3n de las ESALES culturales de Bogot\u00e1 2025\n",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/file\/d\/1V2LcYxrrvtQrwyVv-PxQ9jHBnJp-Q5lX\/view?usp=drive_link"
  },
  {
   "investigacion_id":99,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
+  "tipo_producto":"Instrumento recolecci\u00f3n",
+  "titulo":"Formulario ESALES 2025",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/file\/d\/1MzaFzKFri8-Y3gbOaECJEpN3dTcbHzKV\/view?usp=drive_link"
  },
  {
   "investigacion_id":99,
@@ -93,20 +93,20 @@
  {
   "investigacion_id":101,
   "tipo_producto":"Instrumento recolecci\u00f3n",
-  "titulo":null,
-  "incluir_en_ficha":"No",
-  "url":null
+  "titulo":"Formulario EBC - PACCP Final Indicadores Formaci\u00f3n",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1FdjJSejVqDjcXO3k5xNzxpCU2Gv_V3er\/edit?usp=sharing&ouid=105090632649587320414&rtpof=true&sd=true"
  },
  {
   "investigacion_id":101,
-  "tipo_producto":null,
+  "tipo_producto":"Base de datos",
   "titulo":null,
   "incluir_en_ficha":null,
   "url":null
  },
  {
   "investigacion_id":101,
-  "tipo_producto":null,
+  "tipo_producto":"Informe cuantitativo",
   "titulo":null,
   "incluir_en_ficha":null,
   "url":null
@@ -135,51 +135,51 @@
  {
   "investigacion_id":102,
   "tipo_producto":"Base de datos",
-  "titulo":"5. Base Encuesta_Ecosistema_247_Asistentes_CHAPINERO TEUSAQUILLO CANDELARIA Anonimizada.xlsx",
+  "titulo":"Base anonimizada Ecosistema Cultural 24\/7 Asistentes",
   "incluir_en_ficha":"S\u00ed",
-  "url":null
+  "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1robWu-87K25n70k06owJuRggNwMVnXLF\/edit?usp=drive_link&ouid=114639277514087565011&rtpof=true&sd=true"
  },
  {
   "investigacion_id":102,
   "tipo_producto":"Base de datos",
-  "titulo":"6. Base Ecosistema_Cultural_247_Oferta_Anonimizada.xlsx",
+  "titulo":"Base anonimizada Ecosistema Cultural 24\/7 Oferta ",
   "incluir_en_ficha":"S\u00ed",
-  "url":null
+  "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1JTi5z-x1PgmRrGThTV8H0w86uOk3pDdd\/edit?usp=drive_link&ouid=114639277514087565011&rtpof=true&sd=true"
  },
  {
   "investigacion_id":102,
   "tipo_producto":"Informe cuantitativo",
-  "titulo":"1. Resul_247_Chap_Teusa_Cande Asistentes.xlsx",
+  "titulo":"Resultados Asistentes",
   "incluir_en_ficha":"S\u00ed",
-  "url":null
+  "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1Haze9wH0-YlSDY1bHrWDfXJjMwc1LD7J\/edit?usp=drive_link&ouid=114639277514087565011&rtpof=true&sd=true"
  },
  {
   "investigacion_id":102,
   "tipo_producto":"Informe cuantitativo",
-  "titulo":"1_Resultados_Ecosistema_Cultural_247_Oferta.xls",
+  "titulo":"Resultados Oferta",
   "incluir_en_ficha":"S\u00ed",
-  "url":null
+  "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1eL-kvZajGI8undcq5WGwmKI7cSji0iyJ\/edit?usp=drive_link&ouid=114639277514087565011&rtpof=true&sd=true"
  },
  {
   "investigacion_id":102,
   "tipo_producto":"Otro",
-  "titulo":"2. Ficha_T\u00e9cnica_247 Asistentes",
+  "titulo":"FichaT\u00e9cnica Asistentes",
   "incluir_en_ficha":"S\u00ed",
-  "url":null
+  "url":"https:\/\/drive.google.com\/file\/d\/1BPmvMkVgSMtofKkz65LdTUdby-e0nI66\/view?usp=drive_link"
  },
  {
   "investigacion_id":102,
   "tipo_producto":"Otro",
-  "titulo":"3_Ficha_T\u00e9cnica_Oferta_247",
+  "titulo":"Ficha T\u00e9cnica Oferta",
   "incluir_en_ficha":"S\u00ed",
-  "url":null
+  "url":"https:\/\/drive.google.com\/file\/d\/121wFHZbwRLw_NGTkQ8UjMg0rsYtFQ3yl\/view?usp=drive_link"
  },
  {
   "investigacion_id":102,
   "tipo_producto":"Informe final",
   "titulo":"Informe Resultados Sondeo Ecosistema 24\/7",
   "incluir_en_ficha":"S\u00ed",
-  "url":null
+  "url":"https:\/\/drive.google.com\/file\/d\/1QIL_a1eOSFhjpKgln0XgVpFeVcFhCG1n\/view?usp=drive_link"
  },
  {
   "investigacion_id":102,
@@ -435,17 +435,17 @@
  },
  {
   "investigacion_id":109,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
+  "tipo_producto":"Informe final",
+  "titulo":"Informe Festival Centro 2025",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/file\/d\/1OFk4HXgTpXjngSXZwFWsEeZxJvkpUpdI\/view?usp=drive_link"
  },
  {
   "investigacion_id":109,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
+  "tipo_producto":"Informe cuantitativo",
+  "titulo":"Tablas de salida Festival Centro",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1e2ga-N1piD18x0W9kwcv0lMJDrROL_dW\/edit?usp=drive_link&ouid=114639277514087565011&rtpof=true&sd=true"
  },
  {
   "investigacion_id":109,
@@ -813,21 +813,21 @@
  },
  {
   "investigacion_id":118,
-  "tipo_producto":null,
+  "tipo_producto":"Instrumento recolecci\u00f3n",
+  "titulo":"Formulario EBC - PACCP Final",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1qsclq1ogNVWTc6Sh7swGgV-k7DZr-Wnj\/edit?usp=drive_link&ouid=105090632649587320414&rtpof=true&sd=true"
+ },
+ {
+  "investigacion_id":118,
+  "tipo_producto":"Base de datos",
   "titulo":null,
   "incluir_en_ficha":null,
   "url":null
  },
  {
   "investigacion_id":118,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":118,
-  "tipo_producto":null,
+  "tipo_producto":"Informe cuantitativo",
   "titulo":null,
   "incluir_en_ficha":null,
   "url":null
