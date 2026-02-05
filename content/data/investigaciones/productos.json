@@ -3916,7 +3916,7 @@
   "investigacion_id":101.0,
   "tipo_producto":"Instrumento recolecci\u00f3n",
   "titulo":null,
-  "incluir_en_ficha":null,
+  "incluir_en_ficha":"No",
   "url":null
  },
  {
@@ -4795,53 +4795,11 @@
   "url":"https:\/\/lookerstudio.google.com\/reporting\/ccbecff5-f250-4a21-b1f8-5290632c1187\/page\/p_shhgwuepsd"
  },
  {
-  "investigacion_id":121.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
   "investigacion_id":122.0,
   "tipo_producto":"Presentaci\u00f3n",
   "titulo":"Presentaci\u00f3n final",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1f6sPy_pAB5aZpB_kvra4Qy4YiKsiGjgR\/view?usp=drive_link"
- },
- {
-  "investigacion_id":122.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":122.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":122.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":122.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":122.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
  },
  {
   "investigacion_id":123.0,
@@ -4858,220 +4816,122 @@
   "url":"https:\/\/docs.google.com\/spreadsheets\/d\/11YGZTE7pzMI4lDBZmvYiq5Xq9TwCE1z4\/edit?usp=drive_link&ouid=114299960211627169695&rtpof=true&sd=true"
  },
  {
-  "investigacion_id":123.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":123.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":123.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":123.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
   "investigacion_id":124.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
+  "tipo_producto":"Infograf\u00eda",
+  "titulo":"Presentaci\u00f3n final",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/file\/d\/1VhroKpPxgqcqQso3fwqBLmJ5zbwmJ8od\/view?usp=share_link"
  },
  {
   "investigacion_id":124.0,
   "tipo_producto":"Otro",
   "titulo":"Dise\u00f1o de experimento econ\u00f3mico",
-  "incluir_en_ficha":null,
+  "incluir_en_ficha":"No",
   "url":null
  },
  {
   "investigacion_id":124.0,
   "tipo_producto":"Informe cuantitativo",
   "titulo":"C\u00e1lculo de consumo de agua en ducha por factura",
-  "incluir_en_ficha":null,
+  "incluir_en_ficha":"No",
   "url":null
  },
  {
   "investigacion_id":124.0,
   "tipo_producto":"Base de datos",
   "titulo":"Datos EAAB por Barrio para experimento",
-  "incluir_en_ficha":null,
+  "incluir_en_ficha":"No",
   "url":null
  },
  {
   "investigacion_id":124.0,
   "tipo_producto":"Infograf\u00eda",
   "titulo":"Datos de hitos Barrios Vivos Agua",
-  "incluir_en_ficha":null,
+  "incluir_en_ficha":"No",
   "url":null
  },
  {
   "investigacion_id":124.0,
   "tipo_producto":"Plan de trabajo",
   "titulo":"Cronograma Investigaci\u00f3n Agua",
-  "incluir_en_ficha":null,
+  "incluir_en_ficha":"No",
   "url":null
  },
  {
   "investigacion_id":125.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
+  "tipo_producto":"Presentaci\u00f3n",
+  "titulo":"Presentaci\u00f3n final",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/file\/d\/1KnbyFYzDxdGfLHJqZDXjhrrUnvwF8O0D\/view?usp=share_link"
  },
  {
   "investigacion_id":125.0,
   "tipo_producto":"Informe cuantitativo",
   "titulo":"Tablas de salida",
-  "incluir_en_ficha":null,
+  "incluir_en_ficha":"No",
   "url":null
  },
  {
   "investigacion_id":125.0,
   "tipo_producto":"Carpeta archivos",
   "titulo":"ICC Distritos Creativos 2025",
-  "incluir_en_ficha":null,
+  "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
   "investigacion_id":125.0,
   "tipo_producto":"Instrumento recolecci\u00f3n",
   "titulo":"Formulario ICC Distritos Creativos 2025",
-  "incluir_en_ficha":null,
+  "incluir_en_ficha":"S\u00ed",
   "url":null
  },
  {
   "investigacion_id":125.0,
   "tipo_producto":"Plan de trabajo",
   "titulo":"Cronograma ICC Distritos Creativos",
-  "incluir_en_ficha":null,
+  "incluir_en_ficha":"No",
   "url":null
  },
  {
-  "investigacion_id":125.0,
+  "investigacion_id":126.0,
   "tipo_producto":"Informe final",
-  "titulo":"Documento Distritos Creativos",
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":126.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":126.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":126.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":126.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":126.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":126.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
+  "titulo":"Informe de caracterizaci\u00f3n con fuentes secundarias",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/file\/d\/1nqXIcpjznaD1Dn8fjBR_fg7L2XdFwKsg\/view?usp=share_link"
  },
  {
   "investigacion_id":127.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
+  "tipo_producto":"Visualizaci\u00f3n",
+  "titulo":"Tablero de recorrido por espacio p\u00fabilco del centro ",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/sdcrd.maps.arcgis.com\/apps\/dashboards\/f5ba03060ca94dfa8d4fee25f0de6d7f"
  },
  {
   "investigacion_id":127.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":127.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":127.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":127.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":127.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
+  "tipo_producto":"Informe final",
+  "titulo":"Tablero de recorrido por espacio p\u00fabilco del centro ",
+  "incluir_en_ficha":"No",
   "url":null
  },
  {
   "investigacion_id":128.0,
   "tipo_producto":"Informe final",
   "titulo":null,
-  "incluir_en_ficha":null,
+  "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1NsVGUlWsADXoKnEO31ub8Cp0Krp9Aig3\/view?usp=drive_link"
  },
  {
   "investigacion_id":128.0,
   "tipo_producto":"Anexo",
   "titulo":null,
-  "incluir_en_ficha":null,
+  "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1yZIHrgUGq2Lu0TFlzzyGvCS7RXjuxd1M\/view?usp=drive_link"
  },
  {
   "investigacion_id":128.0,
   "tipo_producto":"Instrumento recolecci\u00f3n",
   "titulo":null,
-  "incluir_en_ficha":null,
+  "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1AVJBnJQld7Uyna3WW04TEPkFOQQqFlQl\/view?usp=drive_link"
  },
  {
@@ -5097,213 +4957,52 @@
  },
  {
   "investigacion_id":129.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
+  "tipo_producto":"Informe final",
+  "titulo":"An\u00e1lisis de impacto de la implementaci\u00f3n de los Laboratorios de Bienestar a adolescentes: Comparaci\u00f3n de encuestas pre y post de la implementaci\u00f3n del laboratorio: \u201cEl Viaje Hacia Dentro de Mi\u201d - Estrategia EstarBien Bogot\u00e1 ",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/file\/d\/1R8tXuWA5XQrs_U1P2LAakV8WjHZp-Hyc\/view?usp=share_link"
  },
  {
   "investigacion_id":129.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":129.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":129.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":129.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":129.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
+  "tipo_producto":"Plan de trabajo",
+  "titulo":"Plan de investigaci\u00f3n",
+  "incluir_en_ficha":"No",
   "url":null
  },
  {
   "investigacion_id":130.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":130.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":130.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":130.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":130.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":130.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
+  "tipo_producto":"Instrumento recolecci\u00f3n",
+  "titulo":"Matriz de preguntas de la EBC",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/file\/d\/1DBDvo9ZxCKI-N5iG-XNns-ILD2S1UEMe\/view?usp=share_link"
  },
  {
   "investigacion_id":131.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
+  "tipo_producto":"Presentaci\u00f3n",
+  "titulo":"Presentaci\u00f3n final",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/file\/d\/1Ez5bU0fGKborxl5_zyUc27muZZizMtFC\/view?usp=share_link"
  },
  {
   "investigacion_id":131.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":131.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":131.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":131.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":131.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":132.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":132.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":132.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":132.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":132.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
+  "tipo_producto":"Instrumento recolecci\u00f3n",
+  "titulo":"Encuesta de recolecci\u00f3n de fuentes primarias",
+  "incluir_en_ficha":"No",
   "url":null
  },
  {
   "investigacion_id":132.0,
   "tipo_producto":"Informe final",
   "titulo":"Cultura Metro - Estado del Arte",
-  "incluir_en_ficha":null,
-  "url":null
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/docs.google.com\/document\/d\/1TvqbXkunNvyWYuMDu2TZ_rwJeAI2fjFR\/edit?usp=sharing&ouid=100772003525119686921&rtpof=true&sd=true"
  },
  {
   "investigacion_id":133.0,
   "tipo_producto":"Presentaci\u00f3n",
-  "titulo":"Presentaci\u00f3n",
+  "titulo":"Presentaci\u00f3n Final ",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/16AYD-Y9HF8O45rYDxH6a_pgEbUjv_Ofo\/view?usp=drive_link"
- },
- {
-  "investigacion_id":133.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":133.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":133.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":133.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":133.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
  },
  {
   "investigacion_id":134.0,
@@ -5349,80 +5048,31 @@
  },
  {
   "investigacion_id":135.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
+  "tipo_producto":"Informe final",
+  "titulo":"Marco conceptual",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/file\/d\/12I-YN44-_0suC2dpHX3vOLYgHwHTHA-E\/view?usp=share_link"
  },
  {
   "investigacion_id":135.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
+  "tipo_producto":"Instrumento recolecci\u00f3n",
+  "titulo":"\u00edndice de reconciliaci\u00f3n y paz ",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/file\/d\/1ySdEC1LyX43LPMZdqi2vBiSWXoQRieJH\/view?usp=share_link"
  },
  {
-  "investigacion_id":135.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":135.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":135.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":135.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
+  "investigacion_id":136.0,
+  "tipo_producto":"Informe final",
+  "titulo":"Documento Desarrollo T\u00e9cnico Normativo y misional del enfoque de Cultura Ciudadana para la movilidad\n",
+  "incluir_en_ficha":"No",
   "url":null
  },
  {
   "investigacion_id":136.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":136.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":136.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":136.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":136.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
+  "tipo_producto":"Informe final",
+  "titulo":"Estado del arte y de la pr\u00e1ctica sobre problem\u00e1ticas relacionadas a cultura ciudadana y movilidad \n",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/file\/d\/1l3CBDIXbCVbiG153wP35kkD4Q44DZbI1\/view?usp=share_link"
  },
  {
   "investigacion_id":136.0,
@@ -5451,26 +5101,5 @@
   "titulo":"Datos de encuestas",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1rX2RfuDon4SukoBpHxRg7m9fnL6_1Jw2\/edit?usp=drive_link&ouid=114299960211627169695&rtpof=true&sd=true"
- },
- {
-  "investigacion_id":137.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":137.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
- },
- {
-  "investigacion_id":137.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
  }
 ]
