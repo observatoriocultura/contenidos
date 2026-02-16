@@ -2328,6 +2328,38 @@
   "unidad_medida":null
  },
  {
+  "investigacion_id":104,
+  "orden":1,
+  "titulo":"Experiencia y participaci\u00f3n cultural",
+  "texto":"El Festival Monumentum 2025 registra una experiencia altamente valorada por sus asistentes y un desempe\u00f1o s\u00f3lido en calidad art\u00edstica. Predominan asistentes primerizos, lo que sugiere capacidad de ampliaci\u00f3n de p\u00fablicos; al mismo tiempo, se observa una alta disposici\u00f3n a volver y a recomendar el evento. La participaci\u00f3n no se limita a la asistencia: aparecen pr\u00e1cticas asociadas de circulaci\u00f3n y apropiaci\u00f3n (seguimiento de contenidos, espacios formativos y socializaci\u00f3n de la experiencia), lo que refuerza el festival como un nodo que activa participaci\u00f3n cultural m\u00e1s sostenida en Bogot\u00e1 D.C. ",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":104,
+  "orden":2,
+  "titulo":"Convivencia, identidad y orgullo por Bogot\u00e1 D.C.",
+  "texto":"Los resultados muestran que el evento se percibe como un espacio de encuentro, respeto e inclusi\u00f3n en el espacio p\u00fablico, con valoraciones favorables sobre convivencia y comportamiento durante la jornada. En el plano simb\u00f3lico, se reporta una conexi\u00f3n fuerte con la cultura de la ciudad y con el arte como forma de transformaci\u00f3n, junto con un componente extendido de orgullo por Bogot\u00e1 D.C. y por su oferta cultural. En conjunto, el festival aparece como una experiencia urbana que fortalece sentidos de pertenencia y reconocimiento cultural. ",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":104,
+  "orden":3,
+  "titulo":"Condiciones de acceso, comunicaci\u00f3n y sostenibilidad",
+  "texto":"En accesibilidad, la mayor\u00eda reporta facilidad para gestionar transporte de llegada, ingreso, informaci\u00f3n y aspectos log\u00edsticos generales, aunque persisten retos puntuales en seguridad y planeaci\u00f3n del transporte de salida para una fracci\u00f3n del p\u00fablico. En mediaci\u00f3n y comunicaci\u00f3n, predomina el canal digital (especialmente redes), con percepciones mayoritarias de informaci\u00f3n clara, pero con margen para fortalecer la promoci\u00f3n. En sostenibilidad, se destaca un patr\u00f3n de movilidad asociado principalmente a transporte p\u00fablico masivo, mientras que la percepci\u00f3n sobre separaci\u00f3n de residuos es positiva pero menos contundente, lo que sugiere oportunidades de mejora en visibilidad y apropiaci\u00f3n de acciones ambientales. ",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":104,
+  "orden":4,
+  "titulo":"Efectos econ\u00f3micos indirectos y din\u00e1mica territorial heterog\u00e9nea",
+  "texto":"El an\u00e1lisis econ\u00f3mico descriptivo muestra dos se\u00f1ales principales: el gasto declarado por asistentes en rubros asociados a su participaci\u00f3n y el reporte de incremento de ventas en una parte de los negocios de la zona de influencia. Sin embargo, estos efectos no son homog\u00e9neos: no todos los establecimientos perciben mejoras, y la evidencia de inversi\u00f3n adicional y contrataci\u00f3n de personal es limitada. En s\u00edntesis, el festival activa din\u00e1micas econ\u00f3micas locales de forma parcial y desigual, aportando indicios \u00fatiles para fortalecer estrategias de articulaci\u00f3n territorial y aprovechamiento econ\u00f3mico en futuras ediciones en Bogot\u00e1 D.C.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
   "investigacion_id":105,
   "orden":1,
   "titulo":"Libro al Viento como encuentro ocasional con la lectura",
@@ -2368,6 +2400,78 @@
   "unidad_medida":null
  },
  {
+  "investigacion_id":106,
+  "orden":1,
+  "titulo":"Experiencia altamente valorada y con fuerte fidelizaci\u00f3n",
+  "texto":"Los resultados muestran una valoraci\u00f3n mayoritariamente positiva del Premio Luis Caballero 2025. La calidad de los proyectos y artistas es calificada como excelente por una proporci\u00f3n amplia de asistentes, y se observa una muy alta disposici\u00f3n a recomendar y a asistir nuevamente en futuras ediciones. En conjunto, esto reafirma al premio como una plataforma s\u00f3lida de circulaci\u00f3n del arte contempor\u00e1neo, capaz de generar satisfacci\u00f3n y continuidad en el p\u00fablico. ",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":106,
+  "orden":2,
+  "titulo":"Ampliaci\u00f3n de audiencias y v\u00ednculo con la oferta cultural de la ciudad",
+  "texto":"El premio convoca p\u00fablicos con trayectorias culturales activas, pero tambi\u00e9n funciona como puerta de entrada: una mayor\u00eda de asistentes reporta estar participando por primera vez en el evento y, antes de la visita, una proporci\u00f3n importante no lo conoc\u00eda o ten\u00eda un conocimiento limitado. Tras la experiencia, aumenta el reconocimiento del Premio como un espacio relevante y se fortalece la disposici\u00f3n a participar en otros eventos culturales de Bogot\u00e1 D.C., lo que sugiere un efecto de \u201cenganche\u201d con la oferta cultural m\u00e1s amplia. ",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":106,
+  "orden":3,
+  "titulo":"Aporte simb\u00f3lico y lectura cr\u00edtica del arte contempor\u00e1neo",
+  "texto":"M\u00e1s all\u00e1 del disfrute, los asistentes se\u00f1alan que el premio contribuye a valorar el arte y el patrimonio como formas de transformaci\u00f3n, ampliar conocimientos sobre el entorno cultural y reconocerse como parte activa de la vida cultural. En el componente modular resalta que, para una mayor\u00eda, el premio aporta al debate sobre arte contempor\u00e1neo y promueve proyectos disruptivos, pero tambi\u00e9n se reconoce que puede reforzar ciertos discursos dominantes, mostrando que el p\u00fablico lo comprende como un espacio de discusi\u00f3n real, con tensiones propias del campo art\u00edstico. ",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":106,
+  "orden":4,
+  "titulo":"Accesibilidad y mediaci\u00f3n con percepci\u00f3n positiva",
+  "texto":"En t\u00e9rminos de log\u00edstica y acceso, se reportan percepciones favorables sobre se\u00f1alizaci\u00f3n, acompa\u00f1amiento del personal, fluidez en entradas y\/o salidas, y condiciones de accesibilidad (incluida discapacidad), mientras que transporte y seguridad aparecen como factores centrales al decidir asistir. Por otro lado, los medios de comunicaci\u00f3n sobre el evento se distribuyen entre internet, voz a voz y descubrimiento en el lugar, lo que sugiere una oportunidad para fortalecer la divulgaci\u00f3n previa.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":107,
+  "orden":1,
+  "titulo":"El circo en Bogot\u00e1: un proyecto de vida en un sector consolidado",
+  "texto":"El sector circense en Bogot\u00e1 presenta un alto grado de madurez, caracterizado por la predominancia de artistas con m\u00e1s de diez a\u00f1os de experiencia, formaci\u00f3n emp\u00edrica y\/o especializada, y desempe\u00f1o en m\u00faltiples disciplinas y oficios. Esta configuraci\u00f3n da cuenta de un campo complejo, diversificado y t\u00e9cnicamente aut\u00f3nomo. De manera significativa, una parte mayoritaria de los participantes reconoce el circo como su proyecto de vida y principal ocupaci\u00f3n, reafirmando su condici\u00f3n de sector profesional y no meramente recreativo.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":107,
+  "orden":2,
+  "titulo":"Ecosistema polivalente y m\u00f3vil, anclado en el espacio p\u00fablico",
+  "texto":"Aunque predomina el circo contempor\u00e1neo, el social\u2011comunitario y el tradicional mantienen una presencia significativa, con trayectorias mixtas e hibridaciones que se desplazan entre carpas, espacio p\u00fablico, salas, escuelas y espacios no convencionales. El entrenamiento y la circulaci\u00f3n se apoyan fuertemente en parques, plazas y espacios comunitarios, lo que expresa la vocaci\u00f3n itinerante del circo, pero tambi\u00e9n la ausencia de infraestructura estable y adecuada para ensayo y presentaci\u00f3n.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":107,
+  "orden":3,
+  "titulo":"Organizaci\u00f3n fuerte, sostenibilidad fr\u00e1gil",
+  "texto":"El sector muestra altos niveles de organizaci\u00f3n y articulaci\u00f3n: cerca de dos tercios de las personas encuestadas pertenecen a redes, colectivos u organizaciones, y m\u00e1s del 70% ha participado en mesas, sindicatos o consejos del sector cultural. Sin embargo, la mayor\u00eda se ubica en condiciones de informalidad o semi\u2011formalidad laboral, con ingresos espor\u00e1dicos y baja protecci\u00f3n social, lo que tensiona la posibilidad de sostener el circo como trabajo estable pese a la fuerte capacidad asociativa",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":107,
+  "orden":4,
+  "titulo":"Restricciones estructurales que limitan la sostenibilidad econ\u00f3mica y la circulaci\u00f3n",
+  "texto":"Aunque el 59% declara vivir principalmente del circo y otro grupo importante lo ejerce como actividad complementaria o mediante proyectos, las principales dificultades para sostener la pr\u00e1ctica son el acceso a recursos p\u00fablicos, la entrada a festivales y espacios de circulaci\u00f3n, y las restricciones para usar el espacio p\u00fablico. Estas barreras, sumadas a la precariedad de infraestructura y la inestabilidad de los lugares de entrenamiento y presentaci\u00f3n, impiden traducir la experiencia acumulada en condiciones econ\u00f3micas m\u00e1s estables.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":107,
+  "orden":5,
+  "titulo":"Un sector formado que exige condiciones para profesionalizarse",
+  "texto":"Alrededor del 77,6% de las personas encuestadas ha recibido formaci\u00f3n espec\u00edfica en circo, combinando tradici\u00f3n familiar, espacios comunitarios, autoformaci\u00f3n, instituciones t\u00e9cnicas, maestras y maestros particulares y, en algunos casos, procesos internacionales. Existe un consenso amplio sobre la importancia de la formaci\u00f3n profesional circense y se priorizan como apoyos clave los recursos econ\u00f3micos, los espacios y condiciones adecuadas de pr\u00e1ctica, la formaci\u00f3n especializada, el reconocimiento profesional del oficio y el acceso a salud y protecci\u00f3n social, delineando una agenda concreta para pol\u00edticas de profesionalizaci\u00f3n del sector.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
   "investigacion_id":109,
   "orden":1,
   "titulo":"El Festival activa din\u00e1micas econ\u00f3micas y de sosenibilidad cultural",
@@ -2400,6 +2504,38 @@
   "unidad_medida":null
  },
  {
+  "investigacion_id":110,
+  "orden":1,
+  "titulo":"Balance general de la experiencia",
+  "texto":"En la Noche de Museos y el Festival Patrimonios en Ruana se observa una valoraci\u00f3n global muy favorable por parte de los asistentes. Predominan percepciones de alta satisfacci\u00f3n y de calidad en la experiencia cultural, junto con una muy alta disposici\u00f3n a recomendar y a asistir nuevamente en futuras ediciones. En conjunto, los resultados sugieren que ambos formatos funcionan como espacios consistentes para el disfrute del patrimonio y la cultura, con capacidad de sostener la participaci\u00f3n en el tiempo.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":110,
+  "orden":2,
+  "titulo":"P\u00fablicos, motivaciones y activaci\u00f3n cultural",
+  "texto":"Los hallazgos muestran p\u00fablicos con trayectorias culturales diversas y motivaciones centradas en hacer algo distinto, explorar la ciudad y acercarse a experiencias culturales espec\u00edficas. La Noche de Museos destaca por su capacidad de atraer asistentes primerizos, mientras Patrimonios en Ruana combina ese componente con un p\u00fablico recurrente; en ambos casos, la vivencia del evento se asocia con un mayor inter\u00e9s por seguir participando en la oferta cultural de la ciudad.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":110,
+  "orden":3,
+  "titulo":"Encuentro ciudadano, identidad y orgullo por Bogot\u00e1 D.C.",
+  "texto":"En ambas mediciones, los eventos aparecen como escenarios de encuentro social con percepciones mayoritarias de respeto e inclusi\u00f3n. Adem\u00e1s, se reportan aportes simb\u00f3licos claros: conexi\u00f3n con la cultura de la ciudad, fortalecimiento de lazos sociales y comunitarios, y un sentimiento extendido de orgullo por la oferta cultural de Bogot\u00e1 D.C. En conjunto, los resultados respaldan la idea de que estos eventos no solo convocan p\u00fablico, sino que tambi\u00e9n fortalecen sentidos compartidos de pertenencia.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":110,
+  "orden":4,
+  "titulo":"Condiciones de acceso, comunicaci\u00f3n y oportunidades de mejora",
+  "texto":"La log\u00edstica es bien evaluada en aspectos como se\u00f1alizaci\u00f3n, apoyo al p\u00fablico y organizaci\u00f3n general; aun as\u00ed, el transporte, la movilidad y la seguridad aparecen como factores determinantes para facilitar la asistencia y mejorar la experiencia. En t\u00e9rminos de comunicaci\u00f3n, Noche de Museos se apoya m\u00e1s en canales digitales, mientras Patrimonios en Ruana depende m\u00e1s del voz a voz, lo que abre una oportunidad para fortalecer la divulgaci\u00f3n sin perder el componente comunitario. Tambi\u00e9n se identifican mejoras puntuales en accesibilidad para personas con discapacidad y en temas log\u00edsticos asociados al desplazamiento.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
   "investigacion_id":112,
   "orden":1,
   "titulo":"Naturaleza de la creaci\u00f3n colectiva\n",
@@ -2428,6 +2564,38 @@
   "orden":4,
   "titulo":"Sostenibilidad e impacto sociocultural",
   "texto":"La sostenibilidad de estos procesos depende, ante todo, de los v\u00ednculos humanos, la confianza entre los participantes y la claridad de un prop\u00f3sito com\u00fan. En este modelo, la comunidad no es solo receptora, sino coproductora activa del proceso y sus resultados. Esta din\u00e1mica favorece transformaciones significativas tanto en el plano personal como en el territorial, fortaleciendo el sentido de pertenencia, la identidad colectiva y los procesos de memoria y cuidado de los territorios.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":114,
+  "orden":1,
+  "titulo":"La FUGA: Una biblioteca-destino",
+  "texto":"A diferencia del patr\u00f3n observado en la mayor\u00eda de las bibliotecas p\u00fablicas \u2014donde predomina el uso para estudio o trabajo\u2014, en la Biblioteca P\u00fablica FUGA el principal motivo de visita es recorrerla por primera vez (48,6%). Este valor resulta excepcionalmente alto frente al promedio general del sistema (7,9%) y pone en evidencia su car\u00e1cter monumental, simb\u00f3lico y tur\u00edstico, as\u00ed como su rol estrat\u00e9gico como equipamiento cultural de alto valor patrimonial en el centro hist\u00f3rico de Bogot\u00e1.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":114,
+  "orden":2,
+  "titulo":"Un patr\u00f3n de afiliaci\u00f3n excepcional dentro de la Red",
+  "texto":"En la Biblioteca P\u00fablica Manuel Zapata Olivella \u2013 El Tintal, el segundo motivo m\u00e1s frecuente de visita es la afiliaci\u00f3n o el uso de otros servicios (18,7%). Este porcentaje es significativamente superior al promedio de la Red, lo que evidencia un desempe\u00f1o at\u00edpico y sugiere que las estrategias de afiliaci\u00f3n, fidelizaci\u00f3n y acercamiento comunitario han tenido un impacto especialmente efectivo en su entorno territorial.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":114,
+  "orden":3,
+  "titulo":"La biblioteca como centro de acceso digital: El caso de Suba",
+  "texto":"En la Biblioteca P\u00fablica Francisco Jos\u00e9 de Caldas (Suba), el uso de computadores y otros equipos tecnol\u00f3gicos se configura como una motivaci\u00f3n de visita altamente relevante, alcanzando el 18,6 % de las respuestas. Esta proporci\u00f3n supera ampliamente el promedio general de las bibliotecas sondeadas (7,0 %), lo que evidencia una demanda territorial espec\u00edfica de acceso a infraestructura tecnol\u00f3gica y posiciona a la biblioteca como un nodo clave para la reducci\u00f3n de brechas digitales en la localidad.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":114,
+  "orden":4,
+  "titulo":"Desconocimiento que frena el uso de los servicios",
+  "texto":"El principal obst\u00e1culo para la vinculaci\u00f3n de usuarios potenciales a los servicios bibliotecarios es el desconocimiento de la oferta. Entre las personas que se encuentran en los recintos pero no hacen uso de los servicios, este factor aparece de manera recurrente y con una intensidad superior al promedio del sistema. En la Biblioteca de Usaqu\u00e9n-Servit\u00e1, el 44,4 % de estos usuarios se\u00f1ala no conocer la oferta disponible, mientras que en La Pe\u00f1a esta proporci\u00f3n asciende al 50 %, cifras que superan ampliamente el promedio general (20,9 %) y evidencian una brecha cr\u00edtica de informaci\u00f3n y comunicaci\u00f3n.",
   "valor":null,
   "unidad_medida":null
  },
@@ -2528,6 +2696,70 @@
   "unidad_medida":null
  },
  {
+  "investigacion_id":119,
+  "orden":1,
+  "titulo":"Balance general y experiencia del p\u00fablico",
+  "texto":"El Festival de Verano 2025 presenta una valoraci\u00f3n mayoritariamente positiva en Bogot\u00e1 D.C., con satisfacci\u00f3n frente a la programaci\u00f3n y a la experiencia general de participaci\u00f3n. Como recomendaci\u00f3n, se sugiere mantener temas log\u00edsticos que m\u00e1s inciden en el disfrute de la experiencia como personal de apoyo, informaci\u00f3n clara, entre otros, especialmente en escenarios de alta afluencia. ",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":119,
+  "orden":2,
+  "titulo":"Accesibilidad, movilidad y seguridad como factores cr\u00edticos",
+  "texto":"La evidencia indica que la experiencia no depende solo de las actividades, sino de condiciones de acceso, circulaci\u00f3n y permanencia. Se recomienda fortalecer la gesti\u00f3n de movilidad (incluida la salida) y de seguridad, con medidas preventivas y coordinaci\u00f3n interinstitucional, priorizando los puntos y franjas horarias donde se concentran los mayores flujos. ",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":119,
+  "orden":3,
+  "titulo":"Convivencia y gesti\u00f3n del entorno territorial",
+  "texto":"En t\u00e9rminos de convivencia, el festival es percibido como espacio favorable para el encuentro, pero la medici\u00f3n a vecinos y ciudadan\u00eda muestra tensiones asociadas al entorno (parqueo indebido, residuos, ruido y otras din\u00e1micas percibidas). Se recomienda reforzar estrategias de ordenamiento, mitigaci\u00f3n ambiental y corresponsabilidad ciudadana en zonas de influencia, para equilibrar disfrute y bienestar barrial. ",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":119,
+  "orden":4,
+  "titulo":"Din\u00e1mica econ\u00f3mica local y formalizaci\u00f3n de oportunidades",
+  "texto":"Los resultados sugieren una activaci\u00f3n econ\u00f3mica asociada al festival (ingresos reportados por vendedores informales y participaci\u00f3n de emprendimientos), aunque con comportamientos heterog\u00e9neos. Se recomienda consolidar lineamientos de participaci\u00f3n, articulaci\u00f3n con emprendimientos y vendedores, y mecanismos de seguimiento que permitan aprovechar mejor el potencial econ\u00f3mico sin perder el enfoque cultural, recreativo y de espacio p\u00fablico del evento.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":120,
+  "orden":1,
+  "titulo":"Balance general de satisfacci\u00f3n",
+  "texto":"La investigaci\u00f3n consolida resultados de la Bienal Internacional de Arte y Ciudad BOG25, el Concurso Internacional de Viol\u00edn 2025 y Navidad es Cultura 2025, donde se identifica una experiencia ampliamente positiva, con altos niveles de recomendaci\u00f3n, orgullo y disposici\u00f3n a regresar en futuras ediciones, lo que sugiere una aceptaci\u00f3n s\u00f3lida de los formatos en Bogot\u00e1 D.C. ",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":120,
+  "orden":2,
+  "titulo":"Aportes culturales y formativos para los p\u00fablicos",
+  "texto":"De forma agregada, los resultados muestran que la experiencia no se limita al disfrute: una proporci\u00f3n alta reporta aprendizajes, descubrimiento y reflexi\u00f3n, as\u00ed como un incremento en el inter\u00e9s por seguir participando en la oferta cultural. En este sentido, se destaca el descubrimiento de nuevos artistas o discursos, la reflexi\u00f3n provocada por las obras y la motivaci\u00f3n para asistir a otros eventos; adem\u00e1s, se observa un fortalecimiento del inter\u00e9s por la m\u00fasica cl\u00e1sica y la formaci\u00f3n de p\u00fablicos en Bogot\u00e1 D.C. ",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":120,
+  "orden":3,
+  "titulo":"Encuentro ciudadano, identidad y orgullo por Bogot\u00e1 D.C.",
+  "texto":"En conjunto, los eventos se perciben como espacios que favorecen el encuentro social, la convivencia y el fortalecimiento de sentidos de identidad y pertenencia. Los hallazgos tambi\u00e9n muestran un componente simb\u00f3lico fuerte de orgullo por Bogot\u00e1 D.C. y una lectura del arte y la cultura como herramientas que pueden reunir a personas diversas y abrir conversaciones. Adicionalmente, tras la experiencia, una parte importante de asistentes reporta mayor confianza en la articulaci\u00f3n institucional y en el uso transparente de recursos p\u00fablicos. ",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":120,
+  "orden":4,
+  "titulo":"Acceso y comunicaci\u00f3n: fortalezas y oportunidades de mejora",
+  "texto":"En t\u00e9rminos generales, se reportan condiciones de participaci\u00f3n mayoritariamente favorables, con \u00e9nfasis en la accesibilidad f\u00edsica y la log\u00edstica; sin embargo, los resultados sugieren un reto claro en comunicaci\u00f3n previa (cuando una proporci\u00f3n de asistentes percibe informaci\u00f3n poco clara o confusa) y, en eventos desarrollados en espacio p\u00fablico, la mediaci\u00f3n puede reforzarse para que m\u00e1s personas identifiquen que lo que observan hace parte del evento. En s\u00edntesis, el balance operativo es positivo, pero hay margen para fortalecer divulgaci\u00f3n y mediaci\u00f3n para ampliar alcance y mejorar la experiencia.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
   "investigacion_id":121,
   "orden":4,
   "titulo":"Mucho orgullo, confianza a\u00fan fr\u00e1gil",
@@ -2540,6 +2772,30 @@
   "orden":5,
   "titulo":"Gobernanza compartida con palancas culturales",
   "texto":"Los hallazgos apuntan a corresponsabilidad distribuida: fuerza p\u00fablica, entidades distritales, vecinos y JAL son percibidos como actores clave seg\u00fan el tipo de problema. Esta lectura respalda una gobernanza compartida, con roles claros y coordinaci\u00f3n por barrio, donde cultura ciudadana, bibliotecas y arte urbano act\u00faan como catalizadores. La priorizaci\u00f3n debe enfocarse en inseguridad y basuras, conectando intervenciones de seguridad situacional con cuidado del entorno y gesti\u00f3n de residuos. Dise\u00f1ar participaci\u00f3n flexible (horarios extendidos, micro-tareas, reconocimiento simb\u00f3lico) reduce barreras para ese tercio que no puede involucrarse. Con tableros de seguimiento por barrio, la estrategia podr\u00e1 iterar con evidencia y escalar lo que funciona.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":128,
+  "orden":1,
+  "titulo":"Un instrumento que lee el oficio como econom\u00eda cultural",
+  "texto":"El nuevo formulario no solo recoge informaci\u00f3n: reconstruye la l\u00f3gica productiva del oficio artesanal. Aunque mantiene seis ejes estructurales (sociodemograf\u00eda, identificaci\u00f3n, elaboraci\u00f3n, comercializaci\u00f3n, valor patrimonial y consentimiento), incorpora variables que permiten entender al artesano como unidad productiva inserta en din\u00e1micas territoriales y de mercado.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":128,
+  "orden":2,
+  "titulo":"Georreferenciaci\u00f3n: el espacio p\u00fablico como territorio productivo",
+  "texto":"La incorporaci\u00f3n de georreferenciaci\u00f3n de puntos de elaboraci\u00f3n y venta, junto con la identificaci\u00f3n de tipos de espacios (p\u00fablicos y privados), convierte el instrumento en una herramienta de an\u00e1lisis territorial. Esta informaci\u00f3n permite mapear las din\u00e1micas reales de ocupaci\u00f3n econ\u00f3mica del espacio p\u00fablico, identificar concentraciones, circuitos y patrones de uso, y generar insumos estrat\u00e9gicos para la gesti\u00f3n urbana y la toma de decisiones sobre regulaci\u00f3n y permisos.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":128,
+  "orden":3,
+  "titulo":"Hacedores, creadores y comercializadores: una tipolog\u00eda para entender el rol de los artesanos en la cadena de valor",
+  "texto":"La introducci\u00f3n de preguntas sobre rol principal frente a las piezas, etapas del proceso en las que se participa y v\u00ednculo con la venta permiti\u00f3 construir una clasificaci\u00f3n en cuatro categor\u00edas: hacedor\/a, hacedor\/a\u2011comercializador\/a, creador\/a y comercializador\/a. Esta tipolog\u00eda, basada en una definici\u00f3n de artesano que articula medio de vida, expresi\u00f3n cultural y dominio t\u00e9cnico, ofrece un insumo clave para orientar estrategias diferenciadas de formaci\u00f3n, visibilizaci\u00f3n y fortalecimiento seg\u00fan el lugar que cada persona ocupa en la cadena de valor artesanal",
   "valor":null,
   "unidad_medida":null
  },
