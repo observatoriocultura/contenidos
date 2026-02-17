@@ -288,6 +288,38 @@
   "unidad_medida":null
  },
  {
+  "investigacion_id":108,
+  "orden":1,
+  "titulo":"Experiencia y calidad art\u00edstica como eje de satisfacci\u00f3n",
+  "texto":"En los ocho Festivales al Parque 2025, el balance general converge en una valoraci\u00f3n muy favorable de la experiencia, donde el disfrute del espect\u00e1culo, la calidad art\u00edstica y la programaci\u00f3n aparecen como el principal motor de satisfacci\u00f3n y como el rasgo que sostiene la reputaci\u00f3n de los eventos. En conjunto, los eventos se consolidan como plataformas culturales del Distrito que ofrecen experiencias significativas en espacio p\u00fablico, con una percepci\u00f3n positiva sobre la organizaci\u00f3n y log\u00edstica, reforzando su car\u00e1cter emblem\u00e1tico dentro de la vida cultural de Bogot\u00e1 D.C.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":108,
+  "orden":2,
+  "titulo":"Renovaci\u00f3n y fidelizaci\u00f3n de p\u00fablicos",
+  "texto":"Los resultados muestran una din\u00e1mica consistente de p\u00fablicos mixtos con personas que asisten por primera vez y que conviven con asistentes recurrentes, lo que sugiere simult\u00e1neamente capacidad de ampliar audiencias y de fidelizar comunidades culturales ya formadas. Esta combinaci\u00f3n refuerza el rol de los festivales como puerta de entrada a la oferta cultural distrital y, al mismo tiempo, como un circuito de permanencia donde se sostienen trayectorias de participaci\u00f3n. Adem\u00e1s, se reconoce que la experiencia del evento tiende a motivar a los asistentes a explorar otras actividades culturales de la ciudad.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":108,
+  "orden":3,
+  "titulo":"Comunidad, convivencia e inclusi\u00f3n",
+  "texto":"De manera transversal, los festivales son percibidos como espacios de encuentro ciudadano que favorecen la convivencia y el reconocimiento mutuo entre p\u00fablicos diversos. Sumado al componente musical, resalta la capacidad de los Festivales al Parque para activar v\u00ednculos sociales, fortalecer sentidos de pertenencia y producir experiencias colectivas en torno a pr\u00e1cticas culturales compartidas. ",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
+  "investigacion_id":108,
+  "orden":4,
+  "titulo":"Identidad y orgullo por Bogot\u00e1 D.C.",
+  "texto":"Se identifica una relaci\u00f3n entre los festivales y el fortalecimiento de la identidad cultural, tanto por el reconocimiento musical y de expresiones art\u00edsticas, como por la apropiaci\u00f3n simb\u00f3lica del espacio p\u00fablico, lo cual se traduce en percepciones favorables de orgullo por la ciudad y por su oferta cultural. De manera complementaria, se observan valoraciones menos homog\u00e9neas en lo que respecta a la confianza institucional y algunos componentes de la experiencia urbana, lo que sugiere un campo claro para fortalecer el v\u00ednculo entre experiencia cultural e institucionalidad.",
+  "valor":null,
+  "unidad_medida":null
+ },
+ {
   "investigacion_id":109,
   "orden":1,
   "titulo":"El Festival activa din\u00e1micas econ\u00f3micas y de sosenibilidad cultural",

@@ -17,7 +17,7 @@
   "investigacion_id":99,
   "tipo_producto":"Visualizaci\u00f3n",
   "titulo":"Tablero de resultados cuantitativos",
-  "incluir_en_ficha":"No",
+  "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/lookerstudio.google.com\/u\/0\/reporting\/4a928fd5-3d5a-4de3-a655-943ad2da4e6e\/page\/p_d6cfr52jwd"
  },
  {
@@ -214,7 +214,7 @@
   "tipo_producto":"Presentaci\u00f3n",
   "titulo":"Presentaci\u00f3n resultados encuesta consumo audiovisual",
   "incluir_en_ficha":"S\u00ed",
-  "url":"https:\/\/drive.google.com\/file\/d\/1H-gGZzkXd1x4NUFnUjlHJsbv2SNMHxa3\/view?usp=drive_link"
+  "url":"https:\/\/drive.google.com\/file\/d\/1zSXYH6cCKPEoIcuur0PuPncZ0IaOLo8E\/view?usp=drive_link"
  },
  {
   "investigacion_id":103,
@@ -239,10 +239,10 @@
  },
  {
   "investigacion_id":104,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
+  "tipo_producto":"Instrumento recolecci\u00f3n",
+  "titulo":"Formularios Festival Monumentum 2025",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/file\/d\/1f8Q-GMDfGsdYbhOeIsTIlHRfCnQpw8vh\/view?usp=sharing"
  },
  {
   "investigacion_id":104,
@@ -323,10 +323,10 @@
  },
  {
   "investigacion_id":106,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
+  "tipo_producto":"Instrumento recolecci\u00f3n",
+  "titulo":"Formularios Premio Luis Caballero 2025",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/file\/d\/1tA-OMX6rjr4wNMQ0GIEXPrZ_v1L66jet\/view?usp=sharing"
  },
  {
   "investigacion_id":106,
@@ -343,11 +343,11 @@
   "url":null
  },
  {
-  "investigacion_id":106,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
+  "investigacion_id":108,
+  "tipo_producto":"Presentaci\u00f3n",
+  "titulo":"Presentaci\u00f3n resultados Festivales al Parque 2025",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/file\/d\/1ju-2pVTUW2-guIgxcUm7FLAnb1yNjvGX\/view?usp=sharing"
  },
  {
   "investigacion_id":107,
@@ -403,35 +403,35 @@
   "tipo_producto":"Informe final",
   "titulo":"Productos finales Festival Joropo al Parque",
   "incluir_en_ficha":"S\u00ed",
-  "url":"https:\/\/drive.google.com\/drive\/folders\/1Lcu0iYLFoiXHMX8f8ivPgJPF5XDn-IYx?usp=drive_link"
+  "url":"https:\/\/drive.google.com\/drive\/folders\/1Lcu0iYLFoiXHMX8f8ivPgJPF5XDn-IYx?usp=sharing"
  },
  {
   "investigacion_id":108,
   "tipo_producto":"Informe final",
   "titulo":"Productos finales Festival Rock al Parque",
   "incluir_en_ficha":"S\u00ed",
-  "url":"https:\/\/drive.google.com\/drive\/folders\/1rccxA6SFUSsKbjgRKqWnvEbok0SpWS9t?usp=drive_link"
+  "url":"https:\/\/drive.google.com\/drive\/folders\/1rccxA6SFUSsKbjgRKqWnvEbok0SpWS9t?usp=sharing"
  },
  {
   "investigacion_id":108,
   "tipo_producto":"Informe final",
   "titulo":"Productos finales Festival Vallenato al Parque",
   "incluir_en_ficha":"S\u00ed",
-  "url":"https:\/\/drive.google.com\/drive\/folders\/1BchZfxR7zuYYbkgIH8qE8fdgQ1y1EYZk?usp=drive_link"
+  "url":"https:\/\/drive.google.com\/drive\/folders\/1BchZfxR7zuYYbkgIH8qE8fdgQ1y1EYZk?usp=sharing"
  },
  {
   "investigacion_id":108,
   "tipo_producto":"Informe final",
   "titulo":"Productos finales Festival Colombia al Parque",
   "incluir_en_ficha":"S\u00ed",
-  "url":"https:\/\/drive.google.com\/drive\/folders\/1HBmOWH-hQDqwj0mDiTDqlVdSUVcQkhYt?usp=drive_link"
+  "url":"https:\/\/drive.google.com\/drive\/folders\/1HBmOWH-hQDqwj0mDiTDqlVdSUVcQkhYt?usp=sharing"
  },
  {
   "investigacion_id":108,
   "tipo_producto":"Informe final",
   "titulo":"Productos finales Festival Jazz al Parque",
   "incluir_en_ficha":"S\u00ed",
-  "url":"https:\/\/drive.google.com\/drive\/folders\/1SSz2sXnITpz_lT4g5-n2AR3M8Ed3LsnM?usp=drive_link"
+  "url":"https:\/\/drive.google.com\/drive\/folders\/1SSz2sXnITpz_lT4g5-n2AR3M8Ed3LsnM?usp=sharing"
  },
  {
   "investigacion_id":109,
@@ -480,49 +480,49 @@
   "tipo_producto":"Informe final",
   "titulo":"Productos finales Festival Popular al Parque",
   "incluir_en_ficha":"S\u00ed",
-  "url":"https:\/\/drive.google.com\/drive\/folders\/14CmZAQrG8eHOh7xDTf8ypS7TweGA5Df_?usp=drive_link"
+  "url":"https:\/\/drive.google.com\/drive\/folders\/14CmZAQrG8eHOh7xDTf8ypS7TweGA5Df_?usp=sharing"
  },
  {
   "investigacion_id":108,
   "tipo_producto":"Informe final",
   "titulo":"Productos finales Festival Hip Hop al Parque",
   "incluir_en_ficha":"S\u00ed",
-  "url":"https:\/\/drive.google.com\/drive\/folders\/19PXuTzH3C_Nfl5Gj8LO1_XHUgBfjb4b4?usp=drive_link"
+  "url":"https:\/\/drive.google.com\/drive\/folders\/19PXuTzH3C_Nfl5Gj8LO1_XHUgBfjb4b4?usp=sharing"
  },
  {
   "investigacion_id":108,
   "tipo_producto":"Informe final",
   "titulo":"Productos finales Festival Salsa al Parque",
   "incluir_en_ficha":"S\u00ed",
-  "url":"https:\/\/drive.google.com\/drive\/folders\/1DwWfpUiZRNgalk9jBxS-hFLcAWPqdcap?usp=drive_link"
+  "url":"https:\/\/drive.google.com\/drive\/folders\/1DwWfpUiZRNgalk9jBxS-hFLcAWPqdcap?usp=sharing"
  },
  {
   "investigacion_id":110,
-  "tipo_producto":"Informe final",
-  "titulo":"Informe Festival Patrimonios en Ruana 2025",
+  "tipo_producto":"Carpeta archivos",
+  "titulo":"Productos finales Festival Patrimonios en Ruana 2025",
   "incluir_en_ficha":"S\u00ed",
-  "url":"https:\/\/drive.google.com\/file\/d\/1wvZVJDVHbqK5dHnGP3YmZgPAUOh17Dxg\/view?usp=sharing"
+  "url":"https:\/\/drive.google.com\/drive\/folders\/11bbVLTsTRBTvuwOBfs-eO66V-l-ZCh3_?usp=sharing"
  },
  {
   "investigacion_id":110,
-  "tipo_producto":"Informe final",
-  "titulo":"Informe Noche de Museos 2025",
+  "tipo_producto":"Carpeta archivos",
+  "titulo":"Productos finales Noche de Museos 2025",
   "incluir_en_ficha":"S\u00ed",
-  "url":"https:\/\/drive.google.com\/file\/d\/1pFLvJdEzUI-VNyrHRMUQCrJQpZAkapIx\/view?usp=sharing"
+  "url":"https:\/\/drive.google.com\/drive\/folders\/10FyRwNotpVpQk4mvg9tOUyDOFYRDlXA3?usp=sharing"
  },
  {
   "investigacion_id":110,
-  "tipo_producto":"Presentaci\u00f3n",
-  "titulo":"Presentaci\u00f3n Festival Patrimonios en Ruana 2025",
-  "incluir_en_ficha":"S\u00ed",
-  "url":"https:\/\/drive.google.com\/file\/d\/1CaHBM28hdOyauLNWrACrgLpvdPbUDqch\/view?usp=sharing"
+  "tipo_producto":null,
+  "titulo":null,
+  "incluir_en_ficha":null,
+  "url":null
  },
  {
   "investigacion_id":110,
-  "tipo_producto":"Presentaci\u00f3n",
-  "titulo":"Presentaci\u00f3n Noche de Museos 2025",
-  "incluir_en_ficha":"S\u00ed",
-  "url":"https:\/\/drive.google.com\/file\/d\/1CaHBM28hdOyauLNWrACrgLpvdPbUDqch\/view?usp=sharing"
+  "tipo_producto":null,
+  "titulo":null,
+  "incluir_en_ficha":null,
+  "url":null
  },
  {
   "investigacion_id":111,
@@ -858,14 +858,14 @@
   "tipo_producto":"Informe final",
   "titulo":"Informe Festival de Verano 2025",
   "incluir_en_ficha":"S\u00ed",
-  "url":"https:\/\/drive.google.com\/file\/d\/1mTOdJ3SeDN8tW2UEmwBNQ1ineXgoHsou\/view?usp=sharing"
+  "url":"https:\/\/drive.google.com\/file\/d\/1-uaRSsIb95aqNSXjLDLMJG0a-OjealWM\/view?usp=sharing"
  },
  {
   "investigacion_id":119,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
+  "tipo_producto":"Instrumento recolecci\u00f3n",
+  "titulo":"Formularios Festival de Verano 2025",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/file\/d\/1mDfyDNhmr4Y0uawfGhle1_DlUiM9H9oU\/view?usp=sharing"
  },
  {
   "investigacion_id":119,
@@ -897,17 +897,17 @@
  },
  {
   "investigacion_id":120,
-  "tipo_producto":"Informe final",
-  "titulo":"Informe Concurso Internacional de Viol\u00edn 2025",
+  "tipo_producto":"Carpeta archivos",
+  "titulo":"Productos finales Concurso Internacional de Viol\u00edn 2025",
   "incluir_en_ficha":"S\u00ed",
-  "url":"https:\/\/drive.google.com\/file\/d\/1om-sh_zxWJhBidcMWVCsb1psSg8gwLXr\/view?usp=sharing"
+  "url":"https:\/\/drive.google.com\/drive\/folders\/114QuIa8ZzjC_GNjRUVggtFVTN3y_zOAL?usp=sharing"
  },
  {
   "investigacion_id":120,
-  "tipo_producto":"Informe final",
-  "titulo":"Informe Bienal Internacional de Arte y Ciudad BOG25",
+  "tipo_producto":"Carpeta archivos",
+  "titulo":"Productos finales Bienal Internacional de Arte y Ciudad BOG25",
   "incluir_en_ficha":"S\u00ed",
-  "url":"https:\/\/drive.google.com\/file\/d\/19W6ZP0kAGHIjQJfGd3cAnFvG1Cmo4qtu\/view?usp=sharing"
+  "url":"https:\/\/drive.google.com\/drive\/folders\/17Bi6a6nKxYmJNqTEWtIH6lYiXMxIECYi?usp=sharing"
  },
  {
   "investigacion_id":120,
