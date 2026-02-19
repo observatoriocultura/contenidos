@@ -81,7 +81,7 @@ var visualizacionesApp = createApp({
     computed: {
         elementosFiltrados: function() {
             var listaFiltrada = this.elementos
-            listaFiltrada = listaFiltrada.filter(elemento => this.filtroEstados.includes(elemento['estado']))
+            listaFiltrada = listaFiltrada.filter(elemento => this.filtroEstados.includes(elemento['estado_ant']))
             if (this.q.length > 0) {
                 var fieldsToSearch = ['nombre','descripcion','palabras_clave']
                 listaFiltrada = PmlSearcher.getFilteredResults(this.q, listaFiltrada, fieldsToSearch)
