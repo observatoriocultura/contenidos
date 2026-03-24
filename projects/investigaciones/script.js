@@ -23,7 +23,8 @@ var investigacionesApp = createApp({
                 {name: 'mapas.html', title: 'Mapas', active: false},
             ],
             loading: false,
-            section:'lista',
+            section:'resultados',
+            listFormat: 'grid',
             elementos: [],
             currentId: elementoIdInicial,
             currentElement: {'id':0,'titulo':'Cargando...'},
@@ -46,7 +47,7 @@ var investigacionesApp = createApp({
     methods: {
         setSection: function(newSection){
             this.section = newSection
-            if ( newSection = 'lista' ) {
+            if ( newSection == 'resultados' || newSection == 'lista' ) {
                 history.pushState(null, null, baseUrl)
             }
         },
@@ -65,7 +66,8 @@ var investigacionesApp = createApp({
         },
         clearSearch: function(){
             this.q = ''
-            this.setSection('lista')
+            this.setSection('resultados')
+            this.listFormat = 'grid'
             history.pushState(null, null, baseUrl)
         },
         textToClass: function(prefix='', inputText){
@@ -125,6 +127,23 @@ var investigacionesApp = createApp({
             if ( producto['url'] == null) { displayProducto = false }
             return displayProducto
         },
+        sendProductClick: function(producto){
+            if (typeof gtag === 'function') {
+                gtag('event', 'click_producto', {
+                    'investigacion_id': producto.investigacion_id,
+                    'producto_titulo': producto.titulo,
+                    'url': producto.url
+                });
+            }
+        },
+    },
+    watch: {
+        q: function(newVal){
+            if (newVal.length > 0) {
+                this.listFormat = 'lista'
+                this.section = 'resultados'
+            }
+        }
     },
     mounted(){
         Promise.all([
@@ -166,3 +185,4 @@ var investigacionesApp = createApp({
         },
     }
 }).mount('#investigacionesApp')
+

@@ -56,7 +56,7 @@
             <div class="center_box_920">
                 <!-- FORMULARIO DE BÚSQUEDA -->
                 <div class="search-container">
-                    <input class="search-input mb-2" type="text" v-model="q" v-bind:placeholder="`Buscar ` + nombreElemento" autofocus v-on:change="setSection('lista')">
+                    <input class="search-input mb-2" type="text" v-model="q" v-bind:placeholder="`Buscar ` + nombreElemento" autofocus v-on:change="setSection('resultados')">
                     <button class="search-button" v-show="this.q.length > 0" v-on:click="clearSearch()">
                         <i class="fas fa-times"></i>
                     </button>
@@ -77,8 +77,8 @@
                 </p>
 
                 <!-- LISTA DE INVESTIGACIONES -->
-                <div v-show="section == 'lista'">
-                    <div class="row mb-4 border-bottom_ pb-2" v-for="(elemento, i) in elementosFiltrados">
+                <div v-show="section == 'resultados'">
+                    <div v-show="listFormat == 'lista'" class="row mb-4 border-bottom_ pb-2" v-for="(elemento, i) in elementosFiltrados">
                         <div class="col-md-4">
                             <a v-on:click="setCurrent(elemento.id)" class="pointer">
                                 <img v-bind:src="`projects/investigaciones/thumbnails/` + elemento.id + `.jpg`"
@@ -97,10 +97,6 @@
             
                             <br>
                             <small>
-                                <span class="text-muted">ID: </span>
-                                <span class="text-primary">{{ elemento['id'] }}</span>
-
-                                &middot;
                                 <span class="text-muted">Año: </span>
                                 <span class="text-primary">{{ elemento['anio'] }}</span>
 
@@ -111,12 +107,34 @@
                             </small>
                         </div>
                     </div>
+
+                    <div v-show="listFormat == 'grid'">
+                        <div class="row">
+                            <div class="col-md-4 col-sm-6 grid-item" v-for="(elemento, i) in elementosFiltrados">
+                                <div class="grid-thumbnail-container" v-on:click="setCurrent(elemento.id)">
+                                    <img v-bind:src="`projects/investigaciones/thumbnails/` + elemento.id + `.jpg`"
+                                        v-bind:alt="elemento.titulo"
+                                        v-bind:onerror="`this.src='resources/images/app/nd.jpg'`">
+                                </div>
+                                <h5 class="grid-title">
+                                    <a href="#" v-on:click="setCurrent(elemento.id)"
+                                        v-bind:title="`[` + elemento.id + `] ` + elemento.titulo">
+                                        {{ elemento.titulo }}
+                                    </a>
+                                </h5>
+                                <div class="grid-subtitle">
+                                    <div class="text-gray">Solicitante: {{ elemento['entidad_solicitante'] }}</div>
+                                    <span class="badge-year">{{ elemento['anio'] }}</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
 
                 <!-- DETALLE INVESTIGACIÓN -->
                 <div v-show="section == 'ficha'">
                     <div class="mb-2">
-                        <button class="btn btn-light btn-sm" v-on:click="setSection('lista')">
+                        <button class="btn btn-light btn-sm" v-on:click="setSection('resultados')">
                             <i class="fas fa-arrow-left"></i> Volver
                         </button>
                     </div>
@@ -131,7 +149,7 @@
                                 </div>
                                 <div class="col-md-6">
                                     <div v-for="producto in productos" class="producto" v-show="displayProducto(producto)">
-                                        <a class="d-flex" v-bind:href="producto['url']" target="_blank">
+                                        <a class="d-flex" v-bind:href="producto['url']" target="_blank" v-on:click="sendProductClick(producto)">
                                             <div width="65px" class="text-center me-3">
                                                 <div class="icon-container">
                                                     <span>
@@ -154,7 +172,7 @@
                                 <span title="Expediente documental en Orfeo">{{ currentElement['expediente_orfeo'] }}</span>
                             </div>
                             <div class="p-2 only-lg"><img class="logo-dogcc"
-                                    src="resources/images/observatorio/logo-dogcc-yellow.png" alt="Logo Observatorio de Cultura">
+                                    src="resources/images/observatorio/dogcc-logotipo-morado-gris.png" alt="Logo Observatorio de Cultura">
                             </div>
                         </div>
                     </div>
