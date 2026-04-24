@@ -609,6 +609,20 @@
   "url":"https:\/\/drive.google.com\/file\/d\/16W6G5tRSMAk7F6SDasy_0yM92zpbwTbq\/view?usp=drive_link"
  },
  {
+  "investigacion_id":113,
+  "tipo_producto":"Visualizaci\u00f3n",
+  "titulo":"Tabero de Resultados",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/observatoriocultura.github.io\/observatorio\/#\/ebc\/lectura-escritura-y-oralidad-2025"
+ },
+ {
+  "investigacion_id":113,
+  "tipo_producto":"Base de datos",
+  "titulo":"Base de datos detallada",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1ncjBs9trvq52fX5STxFHJTkdM7tQLgc6\/edit?usp=drive_link&ouid=114299960211627169695&rtpof=true&sd=true"
+ },
+ {
   "investigacion_id":114,
   "tipo_producto":"Instrumento recolecci\u00f3n",
   "titulo":"Instrumento de recolecci\u00f3n Espacios de Lectura",
@@ -687,8 +701,8 @@
  },
  {
   "investigacion_id":115,
-  "tipo_producto":"Informe final",
-  "titulo":"Informe Espacios de actividad f\u00edsica",
+  "tipo_producto":null,
+  "titulo":null,
   "incluir_en_ficha":"S\u00ed",
   "url":null
  },
@@ -723,9 +737,9 @@
  {
   "investigacion_id":115,
   "tipo_producto":"Informe final",
-  "titulo":"Informe final ",
+  "titulo":"Informe final Espacios de actividad f\u00edsica",
   "incluir_en_ficha":"S\u00ed",
-  "url":"https:\/\/docs.google.com\/document\/d\/1BVdsnc2YA1a2JeXAjjW5O6Z2t0UkP55Z-0WtShl4xa8\/edit?usp=sharing"
+  "url":"https:\/\/drive.google.com\/file\/d\/1VMhbyOIs4ScBC_JIaaLKz8_A-A7G5cOl\/view?usp=sharing"
  },
  {
   "investigacion_id":116,
