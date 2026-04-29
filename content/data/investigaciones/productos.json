@@ -3840,7 +3840,7 @@
   "tipo_producto":"Visualizaci\u00f3n",
   "titulo":"Tablero de resultados cuantitativos",
   "incluir_en_ficha":"S\u00ed",
-  "url":"https:\/\/lookerstudio.google.com\/u\/0\/reporting\/4a928fd5-3d5a-4de3-a655-943ad2da4e6e\/page\/p_d6cfr52jwd"
+  "url":"https:\/\/datastudio.google.com\/u\/0\/reporting\/4a928fd5-3d5a-4de3-a655-943ad2da4e6e\/page\/eEYFF"
  },
  {
   "investigacion_id":99.0,
@@ -4204,14 +4204,14 @@
   "tipo_producto":"Informe final",
   "titulo":"Informe Final Caracterizaci\u00f3n Sector Circo - Fase 2",
   "incluir_en_ficha":"S\u00ed",
-  "url":"https:\/\/drive.google.com\/file\/d\/1ysvsCPGJOfu0iRaVnhZLyxQlDeI4MJ2_\/view?usp=drive_link"
+  "url":"https:\/\/drive.google.com\/file\/d\/1PnmpSnkkyh4bJVzxfL-RkYnrgoOycMXn\/view?usp=drive_link"
  },
  {
   "investigacion_id":107.0,
   "tipo_producto":"Presentaci\u00f3n",
   "titulo":"Presentaci\u00f3n Resultados Caracterizaci\u00f3n Sector Circo - Fase 2",
   "incluir_en_ficha":"S\u00ed",
-  "url":"https:\/\/drive.google.com\/file\/d\/1zFYtNPqms3OkOZw6b-waNURvYySD2r8E\/view?usp=drive_link"
+  "url":"https:\/\/drive.google.com\/file\/d\/1uvPcjC3VFFwdTN4LKTZqQa4dd_mt6aRq\/view?usp=drive_link"
  },
  {
   "investigacion_id":107.0,
@@ -4425,10 +4425,10 @@
  },
  {
   "investigacion_id":113.0,
-  "tipo_producto":"Instrumento recolecci\u00f3n",
-  "titulo":"Formulario Final EBC LEO",
+  "tipo_producto":"Presentaci\u00f3n",
+  "titulo":"Presentaci\u00f3n Resultados",
   "incluir_en_ficha":"S\u00ed",
-  "url":"https:\/\/drive.google.com\/file\/d\/16W6G5tRSMAk7F6SDasy_0yM92zpbwTbq\/view?usp=drive_link"
+  "url":"https:\/\/docs.google.com\/presentation\/d\/1yWaRc9exf_bTRLogY91xFm07vA1z9KIVUtMvRjmZROU\/edit?slide=id.g39d9e6d9131_0_0#slide=id.g39d9e6d9131_0_0"
  },
  {
   "investigacion_id":113.0,
@@ -4443,6 +4443,13 @@
   "titulo":"Base de datos detallada",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1ncjBs9trvq52fX5STxFHJTkdM7tQLgc6\/edit?usp=drive_link&ouid=114299960211627169695&rtpof=true&sd=true"
+ },
+ {
+  "investigacion_id":113.0,
+  "tipo_producto":"Instrumento recolecci\u00f3n",
+  "titulo":"Formulario Final EBC LEO",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/drive.google.com\/file\/d\/1yyt1S-79rnJrntKimXHfNVwC1iuCEgBW\/view?usp=drive_link"
  },
  {
   "investigacion_id":114.0,
@@ -4985,10 +4992,38 @@
  },
  {
   "investigacion_id":130.0,
+  "tipo_producto":"Visualizaci\u00f3n",
+  "titulo":"Tabero de Resultados",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/observatoriocultura.github.io\/observatorio\/#\/ebc\/encuesta-cultura-ciudadana-2025"
+ },
+ {
+  "investigacion_id":130.0,
   "tipo_producto":"Instrumento recolecci\u00f3n",
   "titulo":"Matriz de preguntas de la EBC",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1DBDvo9ZxCKI-N5iG-XNns-ILD2S1UEMe\/view?usp=share_link"
+ },
+ {
+  "investigacion_id":130.0,
+  "tipo_producto":null,
+  "titulo":null,
+  "incluir_en_ficha":null,
+  "url":null
+ },
+ {
+  "investigacion_id":130.0,
+  "tipo_producto":null,
+  "titulo":null,
+  "incluir_en_ficha":null,
+  "url":null
+ },
+ {
+  "investigacion_id":130.0,
+  "tipo_producto":null,
+  "titulo":null,
+  "incluir_en_ficha":null,
+  "url":null
  },
  {
   "investigacion_id":131.0,
