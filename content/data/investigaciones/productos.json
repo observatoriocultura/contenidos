@@ -4992,13 +4992,6 @@
  },
  {
   "investigacion_id":130.0,
-  "tipo_producto":"Visualizaci\u00f3n",
-  "titulo":"Tabero de Resultados",
-  "incluir_en_ficha":"S\u00ed",
-  "url":"https:\/\/observatoriocultura.github.io\/observatorio\/#\/ebc\/encuesta-cultura-ciudadana-2025"
- },
- {
-  "investigacion_id":130.0,
   "tipo_producto":"Presentaci\u00f3n",
   "titulo":"Presentaci\u00f3n resumen de resultados",
   "incluir_en_ficha":"S\u00ed",
@@ -5006,17 +4999,24 @@
  },
  {
   "investigacion_id":130.0,
+  "tipo_producto":"Visualizaci\u00f3n",
+  "titulo":"Tabero de Resultados",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/observatoriocultura.github.io\/observatorio\/#\/ebc\/encuesta-cultura-ciudadana-2025"
+ },
+ {
+  "investigacion_id":130.0,
+  "tipo_producto":"Base de datos",
+  "titulo":"Datos detallados de respuestas",
+  "incluir_en_ficha":"S\u00ed",
+  "url":"https:\/\/docs.google.com\/spreadsheets\/d\/1nCsuCpG7YJ-PQ7ilHtNdGahIDfNHcHDT\/edit?usp=drive_link&ouid=114299960211627169695&rtpof=true&sd=true"
+ },
+ {
+  "investigacion_id":130.0,
   "tipo_producto":"Instrumento recolecci\u00f3n",
   "titulo":"Matriz de preguntas de la EBC",
   "incluir_en_ficha":"S\u00ed",
   "url":"https:\/\/drive.google.com\/file\/d\/1DBDvo9ZxCKI-N5iG-XNns-ILD2S1UEMe\/view?usp=share_link"
- },
- {
-  "investigacion_id":130.0,
-  "tipo_producto":null,
-  "titulo":null,
-  "incluir_en_ficha":null,
-  "url":null
  },
  {
   "investigacion_id":130.0,
